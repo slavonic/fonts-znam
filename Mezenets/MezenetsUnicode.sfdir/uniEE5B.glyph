@@ -1,0 +1,24 @@
+StartChar: uniEE5B
+Encoding: 61019 61019 259
+Width: 148
+VWidth: 999
+GlyphClass: 2
+Flags: W
+VStem: 10 128
+LayerCount: 3
+Fore
+SplineSet
+138 161 m 1
+ 120 62 l 1
+ 10 135 l 1
+ 28 234 l 1
+ 138 161 l 1
+138 346 m 1
+ 120 247 l 1
+ 10 320 l 1
+ 28 419 l 1
+ 138 346 l 1
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

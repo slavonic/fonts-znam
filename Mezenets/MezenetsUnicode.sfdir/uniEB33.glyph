@@ -1,0 +1,49 @@
+StartChar: uniEB33
+Encoding: 60211 60211 472
+Width: 792
+VWidth: 999
+Flags: W
+HStem: 0 21G<34.9962 52.779> 460 98<671.698 743.058>
+DStem2: 33 0 62 100 0.100552 0.994932<102.409 500.424 609.978 743.712> 113 605 102 496 0.798492 -0.602005<56.8351 239.201> 233 279 212 181 0.859456 0.511209<-143.168 503.142>
+AnchorPoint: "Podtinka" 49.6329 -10 basechar 0
+AnchorPoint: "Zevok" 878 623 basechar 0
+AnchorPoint: "Udarka" 434 572 basechar 0
+AnchorPoint: "Kupnaya" 449 -115 basechar 0
+AnchorPoint: "Kachka" 435 572 basechar 0
+AnchorPoint: "Lomka" 739 52 basechar 0
+AnchorPoint: "Tikhaya" 66 221.5 basechar 0
+AnchorPoint: "Oblachko" 730 623 basechar 0
+AnchorPoint: "Podchashie" 470 241 basechar 0
+AnchorPoint: "Zaderzhka" 881 491.9 basechar 0
+AnchorPoint: "Tonal" 425 500 basechar 0
+AnchorPoint: "Podvertka" 761 320 basechar 0
+AnchorPoint: "Borzaya" 511 8 basechar 0
+AnchorPoint: "Otsechka" 816 325 basechar 0
+AnchorPoint: "Shaidur" 437 572 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+86 531 m 1
+ 86 531 102 676 109 752 c 1
+ 127 738 l 1
+ 113 605 l 1
+ 304 461 l 1
+ 287 362 l 1
+ 102 496 l 1
+ 62 100 l 1
+ 85 169 174 244 233 279 c 2
+ 618 508 l 1
+ 618 508 705 558 729 558 c 0
+ 748 558 772 522 779 508 c 1
+ 762 410 l 1
+ 755 424 731 460 712 460 c 0
+ 687 460 597 410 597 410 c 1
+ 212 181 l 2
+ 91 109 33 0 33 0 c 1
+ 86 531 l 1
+EndSplineSet
+Validated: 1
+LCarets2: 1 0 
+Ligature2: "'ccmp' Priznak Composition-1" uniEEAE uniEEE0
+Colour: faff80
+EndChar

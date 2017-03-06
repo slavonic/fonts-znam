@@ -1,0 +1,50 @@
+StartChar: uniEB52
+Encoding: 60242 60242 471
+Width: 193
+Flags: W
+HStem: 0 21G<102.863 136.434> 421 98<62.0148 139.52>
+VStem: 26 13<353.076 383.491> 36 142<380.9 491.055> 147 12<287.182 333.8> 150 28<323.802 446.5>
+AnchorPoint: "Podtinka" 30.6329 -32 basechar 0
+AnchorPoint: "Shaidur" -72.5 268.1 basechar 0
+AnchorPoint: "Otsechka" 203.5 40.1 basechar 0
+AnchorPoint: "Borzaya" -78.5 128 basechar 0
+AnchorPoint: "Podvertka" 233.5 -4 basechar 0
+AnchorPoint: "Zaderzhka" 199.5 42.1 basechar 0
+AnchorPoint: "Podchashie" 233.5 -2 basechar 0
+AnchorPoint: "Oblachko" 111.5 582.1 basechar 0
+AnchorPoint: "Tikhaya" 77.5 168.1 basechar 0
+AnchorPoint: "Lomka" 241.5 236.1 basechar 0
+AnchorPoint: "Kachka" 111.5 584.1 basechar 0
+AnchorPoint: "Kupnaya" 29.5 -31.9 basechar 0
+AnchorPoint: "Udarka" 239.5 238.1 basechar 0
+AnchorPoint: "Zevok" 239.5 350.1 basechar 0
+AnchorPoint: "Tonal" 110 583 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+40 172 m 1xc4
+ 150 99 l 1
+ 133 0 l 1
+ 23 73 l 1
+ 40 172 l 1xc4
+40 327 m 1
+ 150 254 l 1
+ 133 155 l 1
+ 23 228 l 1
+ 40 327 l 1
+150 350 m 0
+ 150 392 139 421 94 421 c 0
+ 75 421 51 413 39 363 c 0
+ 36 351 24 347 26 359 c 2xe4
+ 36 432 l 2
+ 44 493 75 519 113 519 c 0
+ 159 519 178 473 178 420 c 0xd0
+ 178 406 177 391 174 377 c 2
+ 159 296 l 2
+ 158 291 155 287 152 287 c 0
+ 149 287 146 291 147 300 c 0xc8
+ 149 318 150 335 150 350 c 0
+EndSplineSet
+Validated: 1
+Colour: ff66ff
+EndChar

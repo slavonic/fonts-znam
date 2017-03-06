@@ -1,0 +1,28 @@
+StartChar: uniEE55
+Encoding: 61013 61013 180
+Width: 0
+VWidth: 999
+GlyphClass: 4
+Flags: W
+HStem: -0 98<-407.503 -324.514>
+VStem: -437 12<158.293 193.783>
+AnchorPoint: "Podchashie" -354 218 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-374 -0 m 0
+ -423 -0 -455 41 -455 89 c 0
+ -455 97 -454 106 -452 114 c 2
+ -437 186 l 2
+ -435 196 -425 199 -425 181 c 1
+ -425 173 l 2
+ -425 133 -405 98 -355 98 c 0
+ -309 98 -275 161 -266 213 c 0
+ -265 220 -260 224 -257 224 c 0
+ -254 224 -252 222 -253 217 c 2
+ -267 131 l 2
+ -278 68 -322 -0 -374 -0 c 0
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

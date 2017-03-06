@@ -1,0 +1,77 @@
+StartChar: uniEB82
+Encoding: 60290 60290 656
+Width: 533
+VWidth: 999
+Flags: W
+HStem: 0 21G<34.9032 43.5 233 255.42>
+VStem: 92 18<602 620> 233 20<0 20> 272 20<348 368> 344 20<-47 -27> 384 20<301 321> 448 20<-107 -87> 488 20<241 261>
+DStem2: 33 0 61 100 0.0947333 0.995503<102.203 622.801> 233 0 253 0 0.105388 0.994431<2.10776 154.15 245.968 370.061> 344 -47 364 -47 0.108059 0.994144<2.16118 154.265 246.116 370.168> 448 -107 468 -107 0.108059 0.994144<2.16118 154.265 246.116 370.168>
+AnchorPoint: "Podtinka" 41 0 basechar 0
+AnchorPoint: "Zevok" 526 645 basechar 0
+AnchorPoint: "Udarka" -71 340 basechar 0
+AnchorPoint: "Kupnaya" 244 -2 basechar 0
+AnchorPoint: "Kachka" 93 726 basechar 0
+AnchorPoint: "Lomka" 183 32 basechar 0
+AnchorPoint: "Tikhaya" 92 255 basechar 0
+AnchorPoint: "Oblachko" 90 724 basechar 0
+AnchorPoint: "Podchashie" 93 720 basechar 0
+AnchorPoint: "Zaderzhka" 87 721.9 basechar 0
+AnchorPoint: "Tonal" 94 721 basechar 0
+AnchorPoint: "Podvertka" 237 -43 basechar 0
+AnchorPoint: "Borzaya" 283 382 basechar 0
+AnchorPoint: "Otsechka" 322 3 basechar 0
+AnchorPoint: "Shaidur" 15 342 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+472 132 m 1
+ 488 261 l 1
+ 508 261 l 1
+ 490 136 l 1
+ 508 144 528 155 528 155 c 1
+ 520 66 l 1
+ 520 66 506 57 488 50 c 1
+ 468 -107 l 1
+ 448 -107 l 1
+ 468 46 l 1
+ 454 40 432 28 424 17 c 1
+ 434 105 l 1
+ 438 119 460 126 472 132 c 1
+368 192 m 1
+ 384 321 l 1
+ 404 321 l 1
+ 386 196 l 1
+ 404 204 424 215 424 215 c 1
+ 416 126 l 1
+ 416 126 402 117 384 110 c 1
+ 364 -47 l 1
+ 344 -47 l 1
+ 364 106 l 1
+ 350 100 328 88 320 77 c 1
+ 330 165 l 1
+ 334 179 356 186 368 192 c 1
+256 239 m 1
+ 272 368 l 1
+ 292 368 l 1
+ 274 243 l 1
+ 292 251 312 262 312 262 c 1
+ 304 173 l 1
+ 304 173 290 164 272 157 c 1
+ 253 0 l 1
+ 233 0 l 1
+ 252 153 l 1
+ 238 147 216 135 208 124 c 1
+ 218 212 l 1
+ 222 226 244 233 256 239 c 1
+61 100 m 1
+ 82 166 187 208 187 208 c 1
+ 173 115 l 1
+ 173 115 54 63 33 0 c 1
+ 92 620 l 1
+ 110 620 l 1
+ 61 100 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE89 uniEE89 uniEE89
+Colour: ffa600
+EndChar

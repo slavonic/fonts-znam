@@ -1,0 +1,82 @@
+StartChar: uniEB99
+Encoding: 60313 60313 679
+Width: 1575
+VWidth: 0
+Flags: W
+HStem: -4 21G<3.06122 14 779.097 795.265 819.6 833.778> 460 98<636.698 708.702 1460.6 1520.55>
+VStem: 720 24<196 438.722>
+DStem2: 198 279 177 181 0.859456 0.511209<-164.673 503.142> 1014 274 992 176 0.85906 0.511875<-149.089 191.05 294.172 502.766> 1156 510 1138 410 0.710799 -0.703395<57.5451 112.706 210.278 270.104> 1214 204 1238 218 0.0995037 0.995037<16.3186 100.698 225.077 321.596>
+AnchorPoint: "Podtinka" 12 0 basechar 0
+AnchorPoint: "Zevok" 1608 418 basechar 0
+AnchorPoint: "Udarka" 375 686 basechar 0
+AnchorPoint: "Kupnaya" 439 -3 basechar 0
+AnchorPoint: "Kachka" 377 686 basechar 0
+AnchorPoint: "Lomka" 1370 647 basechar 0
+AnchorPoint: "Tikhaya" 92 255 basechar 0
+AnchorPoint: "Oblachko" 1144 642 basechar 0
+AnchorPoint: "Podchashie" 375 687 basechar 0
+AnchorPoint: "Zaderzhka" 1608 416.9 basechar 0
+AnchorPoint: "Tonal" 375 475 basechar 0
+AnchorPoint: "Podvertka" 1530 337.443 basechar 0
+AnchorPoint: "Borzaya" 59 466 basechar 0
+AnchorPoint: "Otsechka" 1610 338 basechar 0
+AnchorPoint: "Shaidur" 193 468 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+842 96 m 1
+ 866 164 954 240 1014 274 c 2
+ 1178 372 l 1
+ 1138 410 l 1
+ 1156 510 l 1
+ 1236 428 l 1
+ 1246 524 l 1
+ 1270 538 l 1
+ 1258 420 l 1
+ 1398 504 l 1
+ 1398 504 1486 554 1510 554 c 0
+ 1528 554 1552 518 1560 504 c 1
+ 1542 406 l 1
+ 1536 420 1512 456 1492 456 c 0
+ 1468 456 1378 406 1378 406 c 1
+ 1304 362 l 1
+ 1346 318 l 1
+ 1330 220 l 1
+ 1246 302 l 1
+ 1238 218 l 1
+ 1214 204 l 1
+ 1226 316 l 1
+ 992 176 l 2
+ 872 104 814 -4 814 -4 c 1
+ 842 96 l 1
+275 150 m 1
+ 297 194 380 237 380 237 c 1
+ 367 142 l 1
+ 367 142 285 101 260 52 c 1
+ 275 150 l 1
+428 240 m 1
+ 450 284 533 327 533 327 c 1
+ 520 232 l 1
+ 520 232 438 191 413 142 c 1
+ 428 240 l 1
+744 515 m 1
+ 744 196 l 1
+ 808 94 l 1
+ 792 -4 l 1
+ 712 120 l 1
+ 720 167 l 1
+ 718 425 l 1
+ 709 441 691 460 677 460 c 0
+ 652 460 562 410 562 410 c 1
+ 177 181 l 2
+ 113 143 28 84 0 0 c 1
+ 15 98 l 1
+ 37 167 139 244 198 279 c 2
+ 583 508 l 1
+ 583 508 670 558 694 558 c 0
+ 713 558 737 529 744 515 c 1
+EndSplineSet
+Validated: 1
+Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE84 uni200D uniEED8
+Colour: ffa600
+EndChar

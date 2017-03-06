@@ -1,0 +1,20 @@
+StartChar: uniEE33
+Encoding: 60979 60979 247
+Width: 0
+VWidth: 999
+GlyphClass: 4
+Flags: W
+HStem: 203 24<-38 450>
+AnchorPoint: "Tikhaya" 223 214 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-38 227 m 1
+ 462 227 l 1
+ 450 203 l 1
+ -50 203 l 1
+ -38 227 l 1
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

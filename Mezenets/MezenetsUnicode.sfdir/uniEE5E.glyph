@@ -1,0 +1,29 @@
+StartChar: uniEE5E
+Encoding: 61022 61022 825
+Width: 0
+VWidth: 999
+GlyphClass: 4
+Flags: W
+HStem: 529 69<-196.5 -126>
+VStem: -154 67<491.998 567.036>
+AnchorPoint: "Zaderzhka" -140 600 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-87 547 m 4
+ -87 516 -115 479 -146 447 c 6
+ -207 384 l 6
+ -208 382 -209 381 -211 381 c 4
+ -214 381 -215 389 -210 395 c 4
+ -182 430 -154 467 -154 494 c 4
+ -154 514 -176 529 -189 529 c 4
+ -204 529 -220 516 -234 504 c 4
+ -243 497 -247 499 -247 504 c 4
+ -247 506 -246 508 -244 511 c 6
+ -199 560 l 6
+ -183 577 -160 598 -136 598 c 4
+ -116 598 -87 575 -87 547 c 4
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

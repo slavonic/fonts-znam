@@ -1,0 +1,93 @@
+StartChar: uniEBC9
+Encoding: 60361 60361 727
+Width: 1585
+VWidth: 999
+Flags: W
+HStem: 0 21G<74.2 90.4343 115.6 129.669 832.061 843> 460 98<748.332 819.262 1463.32 1537.95>
+VStem: 836 20<211 429.625> 1168 19<552 571> 1243 19<552 571>
+DStem2: 310 279 288 181 0.860038 0.51023<-149.305 190.539 293.801 502.423> 452 514 434 415 0.708951 -0.705258<57.0594 112.923 209.794 269.405> 510 209 534 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601> 1027 280 1006 182 0.859456 0.511209<-164.673 137.712 161.895 230.495 253.819 503.142> 1225 398 1245 410 0.103488 0.994631<14.0053 173.934>
+AnchorPoint: "Podtinka" 488.633 -116 basechar 0
+AnchorPoint: "Zevok" 1636 614 basechar 0
+AnchorPoint: "Udarka" 12 454 basechar 0
+AnchorPoint: "Kupnaya" 491 -115 basechar 0
+AnchorPoint: "Kachka" 403 556 basechar 0
+AnchorPoint: "Lomka" 1526 46 basechar 0
+AnchorPoint: "Tikhaya" 240 190.5 basechar 0
+AnchorPoint: "Oblachko" 1498 615 basechar 0
+AnchorPoint: "Podchashie" 575 149 basechar 0
+AnchorPoint: "Zaderzhka" 1638 477.9 basechar 0
+AnchorPoint: "Tonal" 399 437 basechar 0
+AnchorPoint: "Podvertka" 1531 344 basechar 0
+AnchorPoint: "Borzaya" -65 210 basechar 0
+AnchorPoint: "Otsechka" 1588 342 basechar 0
+AnchorPoint: "Shaidur" 145 304 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+24 224 m 5
+ 104 99 l 5
+ 87 0 l 5
+ 7 125 l 5
+ 24 224 l 5
+138 100 m 5
+ 162 169 250 244 310 279 c 6
+ 474 376 l 5
+ 434 415 l 5
+ 452 514 l 5
+ 532 432 l 5
+ 542 528 l 5
+ 566 542 l 5
+ 554 424 l 5
+ 694 508 l 5
+ 694 508 782 558 806 558 c 4
+ 824 558 848 522 856 508 c 5
+ 856 507 l 5
+ 856 211 l 5
+ 836 183 l 5
+ 835 416 l 5
+ 826 432 805 460 788 460 c 4
+ 764 460 674 410 674 410 c 5
+ 600 366 l 5
+ 642 323 l 5
+ 626 224 l 5
+ 542 307 l 5
+ 534 223 l 5
+ 510 209 l 5
+ 522 320 l 5
+ 288 181 l 6
+ 168 109 110 0 110 0 c 5
+ 138 100 l 5
+1257 241 m 1
+ 1279 285 1362 328 1362 328 c 1
+ 1349 233 l 1
+ 1349 233 1267 192 1242 143 c 1
+ 1257 241 l 1
+1104 151 m 1
+ 1126 195 1209 238 1209 238 c 1
+ 1196 143 l 1
+ 1196 143 1114 102 1089 53 c 1
+ 1104 151 l 1
+1145 351 m 1
+ 1168 571 l 1
+ 1187 571 l 1
+ 1166 363 l 1
+ 1225 398 l 1
+ 1243 571 l 1
+ 1262 571 l 1
+ 1245 410 l 1
+ 1412 509 l 1
+ 1412 509 1499 559 1523 559 c 0
+ 1542 559 1566 523 1573 509 c 1
+ 1556 411 l 1
+ 1549 425 1525 461 1506 461 c 0
+ 1481 461 1391 411 1391 411 c 1
+ 1006 182 l 2
+ 942 144 857 85 829 1 c 1
+ 844 99 l 1
+ 866 168 968 245 1027 280 c 2
+ 1145 351 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEED8 uni200D uniEECA
+Colour: ffa600
+EndChar

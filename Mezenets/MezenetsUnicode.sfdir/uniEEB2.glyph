@@ -1,0 +1,67 @@
+StartChar: uniEEB2
+Encoding: 61106 61106 849
+Width: 1090
+VWidth: 999
+Flags: W
+HStem: 0 18G<13 15.5 131.5 136.5 338.968 356.779> 120 99<65.2083 116.938> 140 99<224.842 276.938> 460 98<975.698 1047.06>
+VStem: 22 140<58.65 161.503> 131 31<31.3125 101.332> 131 11<-2.64857 33.9771> 182 140<78.65 183.649> 291 31<51.3125 121.332> 291 11<17.3514 53.9771> 398 18<602 620>
+DStem2: 337 0 366 100 0.0979143 0.995195<102.359 622.994> 537 279 516 181 0.859456 0.511209<-143.168 503.142>
+AnchorPoint: "Podtinka" 17 -21 basechar 0
+AnchorPoint: "Zevok" 1121 639 basechar 0
+AnchorPoint: "Udarka" 109 342 basechar 0
+AnchorPoint: "Kupnaya" 631 -115 basechar 0
+AnchorPoint: "Kachka" 563 556 basechar 0
+AnchorPoint: "Lomka" 986 52 basechar 0
+AnchorPoint: "Tikhaya" 402 170.5 basechar 0
+AnchorPoint: "Oblachko" 964 639 basechar 0
+AnchorPoint: "Podchashie" 667 166 basechar 0
+AnchorPoint: "Zaderzhka" 1129 483.9 basechar 0
+AnchorPoint: "Tonal" 603 450 basechar 0
+AnchorPoint: "Podvertka" 1002 341 basechar 0
+AnchorPoint: "Borzaya" -30 197.6 basechar 0
+AnchorPoint: "Otsechka" 1052 349 basechar 0
+AnchorPoint: "Shaidur" 262 368 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+302 26 m 2xb060
+ 301 21 298 17 295 17 c 0
+ 288 17 291 37 291 46 c 0xb060
+ 291 88 280 140 249 140 c 0
+ 216 140 195 79 184 30 c 0
+ 182 23 177 20 174 20 c 0
+ 172 20 170 21 171 26 c 2
+ 182 108 l 2
+ 190 169 220 239 266 239 c 0
+ 305 239 322 202 322 154 c 0xb120
+ 322 139 320 123 317 107 c 2
+ 302 26 l 2xb060
+142 6 m 2xd220
+ 141 1 138 -3 135 -3 c 0
+ 128 -3 131 17 131 26 c 0xd220
+ 131 68 120 120 89 120 c 0
+ 56 120 34 59 24 10 c 0
+ 22 3 17 0 14 0 c 0
+ 12 0 10 1 11 6 c 2
+ 22 88 l 2
+ 30 149 62 219 106 219 c 0
+ 145 219 162 182 162 134 c 0xd820
+ 162 119 160 103 157 87 c 2
+ 142 6 l 2xd220
+537 279 m 2
+ 922 508 l 1
+ 922 508 1009 558 1033 558 c 0
+ 1052 558 1076 522 1083 508 c 1
+ 1066 410 l 1
+ 1059 424 1035 460 1016 460 c 0
+ 991 460 901 410 901 410 c 1
+ 516 181 l 2
+ 395 109 337 0 337 0 c 1
+ 398 620 l 1
+ 416 620 l 1
+ 366 100 l 1
+ 389 169 478 244 537 279 c 2
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

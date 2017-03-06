@@ -1,0 +1,30 @@
+StartChar: uniEE52
+Encoding: 61010 61010 177
+Width: 1
+GlyphClass: 4
+Flags: W
+HStem: 655 20G<-202.138 -180.737>
+AnchorPoint: "Tonal" -379 504 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-435 496 m 5
+ -413 540 -330 583 -330 583 c 5
+ -343 488 l 5
+ -343 488 -425 447 -450 398 c 5
+ -435 496 l 5
+-283 588 m 5
+ -261 632 -178 675 -178 675 c 5
+ -191 580 l 5
+ -191 580 -273 539 -298 490 c 5
+ -283 588 l 5
+-588 406 m 5
+ -566 450 -483 493 -483 493 c 5
+ -496 398 l 5
+ -496 398 -578 357 -603 308 c 5
+ -588 406 l 5
+EndSplineSet
+Validated: 1
+Substitution2: "Priznakify-1" uniEA1E
+Colour: ffb54c
+EndChar

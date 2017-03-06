@@ -1,0 +1,58 @@
+StartChar: uniEAD0
+Encoding: 60112 60112 339
+Width: 780
+Flags: W
+HStem: 0 21G<3.06122 14>
+VStem: 711 16<434 442.824>
+DStem2: 198 279 177 181 0.859456 0.511209<-164.673 503.142> 729 531 771 641 0.187112 0.982339<0 98.842>
+AnchorPoint: "Podtinka" 12.6329 -3.00001 basechar 0
+AnchorPoint: "Shaidur" 193 468 basechar 0
+AnchorPoint: "Otsechka" 775 350 basechar 0
+AnchorPoint: "Borzaya" 59 466 basechar 0
+AnchorPoint: "Podvertka" 753 302 basechar 0
+AnchorPoint: "Zaderzhka" 885 515.9 basechar 0
+AnchorPoint: "Podchashie" 375 687 basechar 0
+AnchorPoint: "Oblachko" 703 651 basechar 0
+AnchorPoint: "Tikhaya" 92 255 basechar 0
+AnchorPoint: "Lomka" 722 126 basechar 0
+AnchorPoint: "Kachka" 377 686 basechar 0
+AnchorPoint: "Kupnaya" 421 -108 basechar 0
+AnchorPoint: "Udarka" 375 686 basechar 0
+AnchorPoint: "Zevok" 883 654 basechar 0
+AnchorPoint: "Tonal" 365 472 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+15 98 m 1
+ 37 167 139 244 198 279 c 2
+ 583 508 l 1
+ 583 508 651 547 683 556 c 1
+ 688 560 693 562 703 555 c 1
+ 713 551 722 541 729 531 c 1
+ 748 628 l 1
+ 771 641 l 1
+ 727 410 l 1
+ 711 434 l 1
+ 711 435 l 1
+ 701 448 682 456 677 460 c 1
+ 652 460 562 410 562 410 c 1
+ 177 181 l 2
+ 113 143 28 84 0 0 c 1
+ 15 98 l 1
+428 240 m 1
+ 450 284 533 327 533 327 c 1
+ 520 232 l 1
+ 520 232 438 191 413 142 c 1
+ 428 240 l 1
+275 150 m 1
+ 297 194 380 237 380 237 c 1
+ 367 142 l 1
+ 367 142 285 101 260 52 c 1
+ 275 150 l 1
+EndSplineSet
+Validated: 1
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+LCarets2: 1 0 
+Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE1
+Colour: faff80
+EndChar

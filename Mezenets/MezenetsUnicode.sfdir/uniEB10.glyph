@@ -1,0 +1,77 @@
+StartChar: uniEB10
+Encoding: 60176 60176 451
+Width: 955
+Flags: W
+HStem: 0 21G<204.061 215 545 569.357> 444 58<478.101 534.82> 460 98<837.698 909.058> 803 17<461.366 521.691>
+VStem: 413 28<729 784.03> 477 59<445.023 500.894> 501 9<538 559.232> 545 22<0 22> 553 50<670.002 787.36>
+DStem2: 399 279 378 181 0.859456 0.511209<-164.673 166.808 194.081 503.142> 545 0 567 0 0.117025 0.993129<2.57454 303.028>
+AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
+AnchorPoint: "Shaidur" 111 437 basechar 0
+AnchorPoint: "Otsechka" 974 349 basechar 0
+AnchorPoint: "Borzaya" -1 146 basechar 0
+AnchorPoint: "Podvertka" 924 341 basechar 0
+AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
+AnchorPoint: "Podchashie" 589 166 basechar 0
+AnchorPoint: "Oblachko" 886 639 basechar 0
+AnchorPoint: "Tikhaya" 324 170.5 basechar 0
+AnchorPoint: "Lomka" 908 52 basechar 0
+AnchorPoint: "Kachka" 329 478 basechar 0
+AnchorPoint: "Kupnaya" 553 -115 basechar 0
+AnchorPoint: "Udarka" 0 342 basechar 0
+AnchorPoint: "Zevok" 1043 639 basechar 0
+AnchorPoint: "Tonal" 511 914 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+502 820 m 0x9a80
+ 556 820 603 788 603 734 c 0
+ 603 693 576 660 546 623 c 0
+ 525 597 516 575 510 538 c 1
+ 501 538 l 1
+ 501 587 514 610 532 651 c 0
+ 546 682 553 712 553 737 c 0
+ 553 774 526 803 493 803 c 0
+ 466 803 441 787 441 769 c 0
+ 441 758 462 746 462 728 c 0
+ 462 715 453 706 440 706 c 0
+ 422 706 413 718 413 740 c 0
+ 413 786 452 820 502 820 c 0x9a80
+506 502 m 0xdc
+ 522 502 536 489 536 472 c 0
+ 536 456 523 444 506 444 c 0
+ 489 444 477 456 477 472 c 0
+ 477 489 490 502 506 502 c 0xdc
+221 368 m 1
+ 242 377 l 1
+ 227 302 203 151 203 151 c 1
+ 170 136 84 97 65 40 c 1
+ 83 140 l 1
+ 98 188 162 223 197 239 c 1
+ 221 368 l 1
+24 -50 m 1
+ 45 16 160 58 160 58 c 1
+ 144 -38 l 1
+ 144 -38 27 -87 6 -150 c 1
+ 24 -50 l 1
+580 301 m 1
+ 378 181 l 2
+ 314 143 229 84 201 0 c 1
+ 216 98 l 1
+ 238 167 340 244 399 279 c 2
+ 784 508 l 1
+ 784 508 871 558 895 558 c 0
+ 914 558 938 522 945 508 c 1
+ 928 410 l 1
+ 921 424 897 460 878 460 c 0
+ 853 460 763 410 763 410 c 1
+ 604 314 l 1
+ 567 0 l 1
+ 545 0 l 1xb9
+ 580 301 l 1
+EndSplineSet
+Validated: 1
+LCarets2: 1 0 
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE0
+Colour: faff80
+EndChar

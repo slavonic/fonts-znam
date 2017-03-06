@@ -1,0 +1,20 @@
+StartChar: uniEE53
+Encoding: 61011 61011 179
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 398 185
+VStem: 22 120
+AnchorPoint: "Zaderzhka" 82 494 mark 0
+LayerCount: 3
+Fore
+SplineSet
+37 496 m 1
+ 59 540 142 583 142 583 c 1
+ 129 488 l 1
+ 129 488 47 447 22 398 c 1
+ 37 496 l 1
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

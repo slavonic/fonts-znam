@@ -1,0 +1,21 @@
+StartChar: uniEA50
+Encoding: 59984 59984 280
+Width: 96
+VWidth: 999
+GlyphClass: 5
+Flags: W
+HStem: 0 21G<10 38>
+VStem: 10 19<0 19> 67 19<563 582>
+DStem2: 10 0 29 0 0.0974718 0.995238<1.85196 584.785>
+LayerCount: 3
+Fore
+SplineSet
+29 0 m 1
+ 10 0 l 1
+ 29 194 48 388 67 582 c 1
+ 86 582 l 1
+ 66 389 47 195 29 0 c 1
+EndSplineSet
+Validated: 1
+Colour: ff9ef7
+EndChar

@@ -1,0 +1,88 @@
+StartChar: uniEBC4
+Encoding: 60356 60356 722
+Width: 1475
+VWidth: 999
+Flags: W
+HStem: 0 21G<74.2 90.4343 115.6 129.669 792 807.846 969 990.74> 234 79<863.333 968.693> 460 98<748.332 819.42>
+VStem: 969 19<0 19> 985 24<66.1562 205.307>
+DStem2: 310 279 288 181 0.860038 0.51023<-149.305 190.539 293.801 502.423> 452 514 434 415 0.708951 -0.705258<57.0594 112.923 209.794 269.405> 510 209 534 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601> 830 424 834 246 0.083675 0.996493<-424.689 -345.707 -177.041 10.8843> 969 0 988 0 0.135719 0.990747<2.57866 145.797>
+AnchorPoint: "Podtinka" 488.633 -116 basechar 0
+AnchorPoint: "Zevok" 1526 702 basechar 0
+AnchorPoint: "Udarka" 12 454 basechar 0
+AnchorPoint: "Kupnaya" 491 -115 basechar 0
+AnchorPoint: "Kachka" 403 556 basechar 0
+AnchorPoint: "Lomka" 1116 168 basechar 0
+AnchorPoint: "Tikhaya" 240 190.5 basechar 0
+AnchorPoint: "Oblachko" 819 679 basechar 0
+AnchorPoint: "Podchashie" 575 149 basechar 0
+AnchorPoint: "Zaderzhka" 1532 531.9 basechar 0
+AnchorPoint: "Tonal" 399 437 basechar 0
+AnchorPoint: "Podvertka" 1259 320.429 basechar 0
+AnchorPoint: "Borzaya" -65 210 basechar 0
+AnchorPoint: "Otsechka" 1058 2.42896 basechar 0
+AnchorPoint: "Shaidur" 145 304 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+1208 437 m 1xe0
+ 1230 481 1313 524 1313 524 c 1
+ 1300 429 l 1
+ 1300 429 1218 388 1193 339 c 1
+ 1208 437 l 1xe0
+1360 529 m 1
+ 1382 573 1465 616 1465 616 c 1
+ 1452 521 l 1
+ 1452 521 1370 480 1345 431 c 1
+ 1360 529 l 1
+1055 347 m 1
+ 1077 391 1160 434 1160 434 c 1
+ 1147 339 l 1
+ 1147 339 1065 298 1040 249 c 1
+ 1055 347 l 1
+792 -0 m 1
+ 801 146 818 282 830 424 c 1
+ 820 440 803 460 788 460 c 0
+ 764 460 674 410 674 410 c 1
+ 600 366 l 1
+ 642 323 l 1
+ 626 224 l 1
+ 542 307 l 1
+ 534 223 l 1
+ 510 209 l 1
+ 522 320 l 1
+ 288 181 l 2
+ 168 109 110 0 110 0 c 1
+ 138 100 l 1
+ 162 169 250 244 310 279 c 2
+ 474 376 l 1
+ 434 415 l 1
+ 452 514 l 1
+ 532 432 l 1
+ 542 528 l 1
+ 566 542 l 1
+ 554 424 l 1
+ 694 508 l 1
+ 694 508 782 558 806 558 c 0
+ 824 558 848 522 856 508 c 1
+ 834 246 l 1
+ 850 288 877 313 929 313 c 0
+ 985 313 1009 276 1009 194 c 0xe8
+ 1009 161 1005 121 998 73 c 2
+ 988 0 l 1
+ 969 0 l 1xf0
+ 979 73 l 2
+ 983 100 985 124 985 146 c 0xe8
+ 985 199 970 234 915 234 c 0
+ 857 234 839 190 819 78 c 1
+ 804 0 l 1
+ 792 -0 l 1
+24 224 m 1
+ 104 99 l 1
+ 87 0 l 1
+ 7 125 l 1
+ 24 224 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEED8 uni200D uniEEC4
+Colour: ffa600
+EndChar

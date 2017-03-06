@@ -1,0 +1,55 @@
+StartChar: uniEE91
+Encoding: 61073 61073 209
+Width: 323
+VWidth: 999
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<8.6 15.5 229.875 249>
+VStem: 5 308
+DStem2: 228 0 249 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
+AnchorPoint: "Podtinka" 11 -16 basechar 0
+AnchorPoint: "Zevok" 228 464 basechar 0
+AnchorPoint: "Udarka" 229 464 basechar 0
+AnchorPoint: "Kupnaya" 193 -108 basechar 0
+AnchorPoint: "Kachka" 228 465 basechar 0
+AnchorPoint: "Lomka" 229 464 basechar 0
+AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Oblachko" 230 464 basechar 0
+AnchorPoint: "Podchashie" 228 464 basechar 0
+AnchorPoint: "Zaderzhka" 228 463.9 basechar 0
+AnchorPoint: "Tonal" 229 500 basechar 0
+AnchorPoint: "Podvertka" 229 464 basechar 0
+AnchorPoint: "Borzaya" 229 464 basechar 0
+AnchorPoint: "Otsechka" 379 93 basechar 0
+AnchorPoint: "Shaidur" 13 187 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+203 141 m 1
+ 211 157 228 173 246 187 c 1
+ 254 264 l 1
+ 275 275 l 1
+ 268 203 l 1
+ 292 218 313 229 313 229 c 1
+ 300 134 l 1
+ 300 134 281 125 259 110 c 1
+ 249 11 l 1
+ 228 0 l 1
+ 237 96 l 1
+ 217 81 198 62 188 43 c 1
+ 203 141 l 1
+23 100 m 1
+ 44 166 159 208 159 208 c 1
+ 143 112 l 1
+ 143 112 26 63 5 0 c 1
+ 23 100 l 1
+83 290 m 1
+ 104 356 219 398 219 398 c 1
+ 203 302 l 1
+ 203 302 86 253 65 190 c 1
+ 83 290 l 1
+EndSplineSet
+Validated: 1
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Colour: ffb54c
+EndChar

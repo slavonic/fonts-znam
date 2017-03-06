@@ -1,0 +1,23 @@
+StartChar: uniEE05
+Encoding: 60933 60933 165
+Width: 0
+VWidth: 999
+GlyphClass: 4
+Flags: W
+HStem: 256 57<-102.134 -50.1074>
+VStem: -103 54<256.797 312.152>
+AnchorPoint: "DoubleShaidur" -77.5 254.2 mark 0
+AnchorPoint: "DoubleShaidur" 103 256 basemark 0
+AnchorPoint: "Shaidur" -27 288.5 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-77 256 m 0
+ -93 256 -103 270 -103 285 c 0
+ -103 301 -91 313 -74 313 c 0
+ -60 313 -49 301 -49 286 c 0
+ -49 270 -61 256 -77 256 c 0
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

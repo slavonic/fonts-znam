@@ -1,0 +1,22 @@
+StartChar: uniEE54
+Encoding: 61012 61012 178
+Width: 0
+VWidth: 999
+GlyphClass: 4
+Flags: W
+HStem: 175 306
+VStem: 39 52
+DStem2: 39 175 62 182 0.096537 0.995329<9.18766 297.417>
+AnchorPoint: "Otsechka" 55 173 mark 0
+LayerCount: 3
+Fore
+SplineSet
+91 481 m 5
+ 62 182 l 5
+ 39 175 l 5
+ 68 471 l 5
+ 91 481 l 5
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar

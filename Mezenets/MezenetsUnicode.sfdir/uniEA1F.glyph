@@ -1,0 +1,32 @@
+StartChar: uniEA1F
+Encoding: 59935 59935 378
+Width: 0
+GlyphClass: 4
+Flags: W
+DStem2: -188 669 -180 586 0.162799 0.986659<-8.43983 107.516>
+AnchorPoint: "Tonal" -390 492 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-435 496 m 1
+ -413 540 -330 583 -330 583 c 1
+ -343 488 l 1
+ -343 488 -425 447 -450 398 c 1
+ -435 496 l 1
+-588 406 m 1
+ -566 450 -483 493 -483 493 c 1
+ -496 398 l 1
+ -496 398 -578 357 -603 308 c 1
+ -588 406 l 1
+-180 586 m 1
+ -180 586 -273 539 -298 490 c 1
+ -283 588 l 1
+ -266 622 -211 656 -188 669 c 1
+ -170 775 l 1
+ -147 786 l 1
+ -180 586 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'ccmp' Priznak Composition-1" uniEE52 uniEEE1
+Colour: faff61
+EndChar

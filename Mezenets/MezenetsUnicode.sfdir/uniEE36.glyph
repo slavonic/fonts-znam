@@ -1,0 +1,28 @@
+StartChar: uniEE36
+Encoding: 60982 60982 250
+Width: 0
+VWidth: 999
+GlyphClass: 4
+Flags: W
+HStem: 199 98<-125.82 -58.9895>
+VStem: -161 29<253 369.75> -142 12<356.733 402.68>
+AnchorPoint: "Podvertka" -76 435 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-100 199 m 0xc0
+ -144 199 -161 232 -161 274 c 0xc0
+ -161 286 -160 300 -157 313 c 2
+ -142 395 l 2
+ -140 405 -129 408 -130 390 c 0xa0
+ -131 377 -132 363 -132 351 c 0
+ -132 324 -125 297 -88 297 c 0
+ -51 297 -30 371 -21 422 c 0
+ -20 429 -15 433 -12 433 c 0
+ -9 433 -7 431 -8 426 c 2
+ -22 330 l 2
+ -32 267 -50 199 -100 199 c 0xc0
+EndSplineSet
+Validated: 1
+Colour: ffb54c
+EndChar
