@@ -1,0 +1,29 @@
+StartChar: uniEA60
+Encoding: 60000 60000 89
+Width: 270
+VWidth: 0
+Flags: W
+HStem: 102 55<104.209 175.126> 214 50<166.539 228.334>
+VStem: 40 63<140.102 195.245> 164 66<217.975 260.295>
+LayerCount: 2
+Fore
+SplineSet
+191 264 m 0
+ 210 264 230 250 230 235 c 0
+ 230 220 216 214 203 214 c 0
+ 183 214 164 231 164 245 c 0
+ 164 254 173 264 191 264 c 0
+103 140 m 9
+ 129 147 142 157 170 157 c 0
+ 181 157 190 154 190 138 c 0
+ 190 124 131 102 92 102 c 0
+ 76 102 63 106 60 115 c 0
+ 52 136 43 161 40 186 c 1
+ 56 196 71 198 79 198 c 0
+ 97 198 94 175 103 140 c 9
+EndSplineSet
+Validated: 1
+LCarets2: 1 0 
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE51
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE5A
+EndChar

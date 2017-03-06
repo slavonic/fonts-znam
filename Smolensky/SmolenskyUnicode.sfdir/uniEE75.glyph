@@ -1,0 +1,21 @@
+StartChar: uniEE75
+Encoding: 61045 61045 7
+Width: 230
+VWidth: 0
+Flags: W
+HStem: 153 56<104.209 175.126>
+VStem: 40 63<192.637 246.813>
+LayerCount: 2
+Fore
+SplineSet
+103 192 m 9
+ 129 198 142 209 170 209 c 0
+ 181 209 190 205 190 189 c 0
+ 190 175 131 153 92 153 c 0
+ 76 153 64 157 60 166 c 0
+ 52 188 43 212 40 237 c 1
+ 56 247 72 250 79 250 c 0
+ 98 250 94 227 103 192 c 9
+EndSplineSet
+Validated: 1
+EndChar

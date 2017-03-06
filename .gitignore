@@ -178,3 +178,10 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
+
+# binaries
+*.otf
+*.ttf
+*.woff
+*.eot
+

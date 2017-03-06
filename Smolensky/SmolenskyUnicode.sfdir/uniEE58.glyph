@@ -1,0 +1,21 @@
+StartChar: uniEE58
+Encoding: 61016 61016 30
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 231 86
+VStem: -198 158
+AnchorPoint: "Tonal" -103.982 242.049 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-103 273 m 0
+ -142 273 -146 231 -167 231 c 0
+ -183 231 -198 251 -198 264 c 1
+ -148 314 -121 314 -86 317 c 1
+ -67 315 -40 320 -40 294 c 0
+ -40 280 -47 267 -62 267 c 0
+ -77 267 -87 273 -103 273 c 0
+EndSplineSet
+Validated: 1
+EndChar

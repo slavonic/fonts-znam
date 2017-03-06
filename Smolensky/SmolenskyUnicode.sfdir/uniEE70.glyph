@@ -1,0 +1,29 @@
+StartChar: uniEE70
+Encoding: 61040 61040 1
+Width: 709
+VWidth: 0
+Flags: W
+HStem: 254 35<569.875 668.919>
+DStem2: 120 134 139 99 0.954201 0.299166<-2.3985 566.667>
+AnchorPoint: "Podchashie" 228 74 basechar 0
+AnchorPoint: "Tonal" 272 228 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+40 167 m 1
+ 51 170 63 172 73 172 c 0
+ 88 172 102 168 110 155 c 0
+ 115 146 120 134 120 134 c 25
+ 608 287 l 18
+ 613 289 629 289 641 289 c 0
+ 645 289 648 289 651 289 c 8
+ 660 289 670 289 669 275 c 1
+ 670 255 662 254 656 254 c 0
+ 652 254 649 254 645 254 c 24
+ 628 254 622 253 601 248 c 1
+ 486 212 343 170 139 99 c 8
+ 130 97 125 93 115 93 c 27
+ 89 93 48 159 40 167 c 1
+EndSplineSet
+Validated: 1
+EndChar
