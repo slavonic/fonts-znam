@@ -3,7 +3,7 @@
 Smolensky Unicode is a font for archaic Znamenny Notation.
 The font is named after the Russian musicologist, choir director and composer
 [Stepan Smolensky](https://en.wikipedia.org/wiki/Stepan_Smolensky).
-The glyphs are based on the 12th century Hirmologion of Grigorovich.
+The glyphs are based on the 13th century Hirmologion of Grigorovich.
 
 ## Author
 
@@ -12,7 +12,7 @@ by Aleksandr Andreev.
 
 ## Disclaimer
 
-This font is alpha-phase software, and is intended for software testing purpuses only.
+This font is alpha-phase software, and is intended for software testing purposes only.
 
 ## Encoding
 

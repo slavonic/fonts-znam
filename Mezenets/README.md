@@ -11,7 +11,7 @@ Aleksandr Andreev.
 
 ## Disclaimer
 
-This font is alpha-phase software, and is intended for software testing purpuses only.
+This font is alpha-phase software, and is intended for software testing purposes only.
 
 ## Encoding
 
