@@ -13,7 +13,7 @@ fontforge.setPrefs ("ClearInstrsBigChanges",False )
 fontforge.setPrefs ( "CopyTTFInstrs",True )
 
 ## open up the font
-font = fontforge.open(base_name + ".sfdir")
+font = fontforge.open(base_name + ".sfd")
 
 ## Evidently, this can break Evince, so it may need to be commented out. Not sure about that, though
 font.head_optimized_for_cleartype = True
