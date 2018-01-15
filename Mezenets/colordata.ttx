@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.21">
+<!-- <ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.21"> -->
+  <COLR>
+    <version value="0"/>
+    <ColorGlyph name="uniEE00">
+      <layer colorID="1" name="uniEE00"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE01">
+      <layer colorID="1" name="uniEE01"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE02">
+      <layer colorID="1" name="uniEE02"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE03">
+      <layer colorID="1" name="uniEE03"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE04">
+      <layer colorID="1" name="uniEE04"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE05">
+      <layer colorID="1" name="uniEE05"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE06">
+      <layer colorID="1" name="uniEE06"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE07">
+      <layer colorID="1" name="uniEE07"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE08">
+      <layer colorID="1" name="uniEE08"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE09">
+      <layer colorID="1" name="uniEE09"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE0A">
+      <layer colorID="1" name="uniEE0A"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE0B">
+      <layer colorID="1" name="uniEE0B"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE0C">
+      <layer colorID="1" name="uniEE0C"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE0D">
+      <layer colorID="1" name="uniEE0D"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE0E">
+      <layer colorID="1" name="uniEE0E"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE10">
+      <layer colorID="1" name="uniEE10"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE11">
+      <layer colorID="1" name="uniEE11"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE12">
+      <layer colorID="1" name="uniEE12"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE13">
+      <layer colorID="1" name="uniEE13"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE14">
+      <layer colorID="1" name="uniEE14"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE15">
+      <layer colorID="1" name="uniEE15"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE16">
+      <layer colorID="1" name="uniEE16"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE17">
+      <layer colorID="1" name="uniEE17"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE1F">
+      <layer colorID="1" name="uniEE1F"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE30">
+      <layer colorID="1" name="uniEE30"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE31">
+      <layer colorID="1" name="uniEE31"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE32">
+      <layer colorID="1" name="uniEE32"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE33">
+      <layer colorID="1" name="uniEE33"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE34">
+      <layer colorID="1" name="uniEE34"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE35">
+      <layer colorID="1" name="uniEE35"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE36">
+      <layer colorID="1" name="uniEE36"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE37">
+      <layer colorID="1" name="uniEE37"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE38">
+      <layer colorID="1" name="uniEE38"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE39">
+      <layer colorID="1" name="uniEE39"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE3A">
+      <layer colorID="1" name="uniEE3A"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE3B">
+      <layer colorID="1" name="uniEE3B"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE3C">
+      <layer colorID="1" name="uniEE3C"/>
+    </ColorGlyph>
+  </COLR>
+
+  <CPAL>
+    <version value="0"/>
+    <numPaletteEntries value="2"/>
+    <palette index="0">
+      <color index="0" value="#000000FF"/>
+      <color index="1" value="#CC0803FF"/>
+    </palette>
+  </CPAL>
+
+</ttFont>
