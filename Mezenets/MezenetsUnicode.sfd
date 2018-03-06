@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1520164643
+ModificationTime: 1520325171
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112,7 +112,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 432 27 10
+WinInfo: 27 27 10
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -19369,7 +19369,7 @@ AnchorPoint: "Tonal" 375 475 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Otsechka" 823 308 basechar 0
-AnchorPoint: "Shaidur" 15 425 basechar 0
+AnchorPoint: "Shaidur" 35 465 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -19391,7 +19391,6 @@ SplineSet
  62 100 l 1
  85 169 174 244 233 279 c 2
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 233 279 m 2,0,-1
@@ -19447,7 +19446,7 @@ AnchorPoint: "Tonal" 375 475 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Otsechka" 823 308 basechar 0
-AnchorPoint: "Shaidur" 15 400 basechar 0
+AnchorPoint: "Shaidur" -2.5 466 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -19472,7 +19471,6 @@ SplineSet
  62 100 l 1
  85 169 174 244 233 279 c 2xc0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 99 620 m 1,0,-1
@@ -19518,7 +19516,7 @@ HStem: 0 21G<34.9737 52.779 374 398.295> 460 98<671.698 743.058>
 VStem: 94 18<602 620> 374 22<0 22>
 DStem2: 33 0 62 100 0.0979143 0.995195<102.359 305.477 396.646 622.994> 233 279 212 181 0.859456 0.511209<-143.168 159.607 183.464 503.142> 374 0 396 0 0.114006 0.99348<2.50813 298.94>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 400 basechar 0
+AnchorPoint: "Shaidur" 13 464 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -19557,7 +19555,6 @@ SplineSet
  374 0 l 1
  408 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 408 297 m 1,0,-1
@@ -19604,7 +19601,7 @@ HStem: 0 21G<34.954 52.779 374 398.295> 451 21G<29.4343 31> 460 98<671.698 743.0
 VStem: 374 22<0 22>
 DStem2: 33 0 62 100 0.0972382 0.995261<102.346 524.485> 233 279 212 181 0.859456 0.511209<-143.168 159.607 183.464 503.142> 374 0 396 0 0.114006 0.99348<2.50813 298.94>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 400 basechar 0
+AnchorPoint: "Shaidur" -0.5 458 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -19646,7 +19643,6 @@ SplineSet
  374 0 l 1
  408 297 l 1xb0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 99 620 m 1,0,-1
@@ -20082,7 +20078,7 @@ HStem: 0 21G<34.9737 52.779> 460 98<671.698 743.058>
 VStem: 94 18<602 620>
 DStem2: 33 0 62 100 0.0979143 0.995195<102.359 305.477 396.646 622.994> 233 279 212 181 0.859456 0.511209<-143.168 190.538 293.718 503.142> 456 432 358 415 0.707107 -0.707107<-57.2757 -2.12132 95.4594 154.856> 434 209 458 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 7 348 basechar 0
+AnchorPoint: "Shaidur" 17 460 basechar 0
 AnchorPoint: "Borzaya" 819 50 basechar 0
 AnchorPoint: "Podvertka" 761 320 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -20092,7 +20088,7 @@ AnchorPoint: "Tikhaya" 62 229.5 basechar 0
 AnchorPoint: "Lomka" 723 54 basechar 0
 AnchorPoint: "Kachka" 479 648 basechar 0
 AnchorPoint: "Kupnaya" 430 -105 basechar 0
-AnchorPoint: "Udarka" -66 346 basechar 0
+AnchorPoint: "Udarka" -14 458 basechar 0
 AnchorPoint: "Zevok" 864 648 basechar 0
 AnchorPoint: "Otsechka" 823 308 basechar 0
 AnchorPoint: "Tonal" 415 675 basechar 0
@@ -20131,7 +20127,6 @@ SplineSet
  456 432 l 1
  466 528 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 466 528 m 1,0,-1
@@ -20186,7 +20181,7 @@ Flags: W
 HStem: 0 21G<34.954 52.779> 451 21G<29.4343 31> 460 98<671.698 743.058>
 DStem2: 33 0 62 100 0.0972382 0.995261<102.346 524.485> 233 279 212 181 0.859456 0.511209<-143.168 190.538 293.718 503.142> 456 432 358 415 0.707107 -0.707107<-57.2757 -2.12132 95.4594 154.856> 434 209 458 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 475 basechar 0
+AnchorPoint: "Shaidur" -4.5 455 basechar 0
 AnchorPoint: "Borzaya" 819 50 basechar 0
 AnchorPoint: "Podvertka" 761 320 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -20196,7 +20191,7 @@ AnchorPoint: "Tikhaya" 62 229.5 basechar 0
 AnchorPoint: "Lomka" 723 54 basechar 0
 AnchorPoint: "Kachka" 479 648 basechar 0
 AnchorPoint: "Kupnaya" 430 -105 basechar 0
-AnchorPoint: "Udarka" -66 346 basechar 0
+AnchorPoint: "Udarka" -12 456 basechar 0
 AnchorPoint: "Zevok" 864 648 basechar 0
 AnchorPoint: "Otsechka" 823 308 basechar 0
 AnchorPoint: "Tonal" 415 675 basechar 0
@@ -20238,7 +20233,6 @@ SplineSet
  456 432 l 1
  466 528 l 1xc0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 99 620 m 1,0,-1
@@ -20368,7 +20362,7 @@ HStem: 0 21G<34.9936 52.779> 460 98<671.698 743.058>
 VStem: 94 18<602 620>
 DStem2: 33 0 62 100 0.0979143 0.995195<102.359 312.541 389.856 622.994> 233 279 212 181 0.859456 0.511209<-143.168 190.538 293.718 503.142> 456 432 358 415 0.707107 -0.707107<-57.2757 -2.12132 95.4594 154.856> 434 209 458 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 350 basechar 0
+AnchorPoint: "Shaidur" 13 462 basechar 0
 AnchorPoint: "Borzaya" 819 50 basechar 0
 AnchorPoint: "Podvertka" 761 320 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -20378,7 +20372,7 @@ AnchorPoint: "Tikhaya" 62 229.5 basechar 0
 AnchorPoint: "Lomka" 723 54 basechar 0
 AnchorPoint: "Kachka" 479 648 basechar 0
 AnchorPoint: "Kupnaya" 430 -105 basechar 0
-AnchorPoint: "Udarka" -66 346 basechar 0
+AnchorPoint: "Udarka" -16 458 basechar 0
 AnchorPoint: "Zevok" 864 648 basechar 0
 AnchorPoint: "Otsechka" 823 308 basechar 0
 AnchorPoint: "Tonal" 415 675 basechar 0
@@ -20417,7 +20411,6 @@ SplineSet
  456 432 l 1
  466 528 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 466 528 m 1,0,-1
@@ -20472,7 +20465,7 @@ Flags: W
 HStem: 0 21G<34.9601 52.779> 460 98<671.698 743.058>
 DStem2: 33 0 62 100 0.0975363 0.995232<102.352 553.64> 233 279 212 181 0.859456 0.511209<-143.168 190.538 293.718 503.142> 456 432 358 415 0.707107 -0.707107<-57.2757 -2.12132 95.4594 154.856> 434 209 458 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 350 basechar 0
+AnchorPoint: "Shaidur" 37 460 basechar 0
 AnchorPoint: "Borzaya" 819 50 basechar 0
 AnchorPoint: "Podvertka" 761 320 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -20482,7 +20475,7 @@ AnchorPoint: "Tikhaya" 62 229.5 basechar 0
 AnchorPoint: "Lomka" 723 54 basechar 0
 AnchorPoint: "Kachka" 479 648 basechar 0
 AnchorPoint: "Kupnaya" 430 -105 basechar 0
-AnchorPoint: "Udarka" -66 346 basechar 0
+AnchorPoint: "Udarka" -44 456 basechar 0
 AnchorPoint: "Zevok" 864 648 basechar 0
 AnchorPoint: "Otsechka" 823 308 basechar 0
 AnchorPoint: "Tonal" 415 675 basechar 0
@@ -20520,7 +20513,6 @@ SplineSet
  87 551 l 1
  36 576 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 36 576 m 1,0,-1
@@ -20829,9 +20821,9 @@ SplineSet
  236 234 l 1,19,20
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEA92 uniEE5A
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEE5A
+LCarets2: 2 0 0 
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Colour: faff80
 EndChar
 
@@ -21243,7 +21235,7 @@ VStem: 242 21<520.546 644>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 158 -88 basechar 0
 AnchorPoint: "Kupnaya" 134 762 basechar 0
-AnchorPoint: "Shaidur" 100 250 basechar 0
+AnchorPoint: "Shaidur" 108 277.4 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -21275,7 +21267,6 @@ SplineSet
  263 198 l 1
  280 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 263 654 m 1,0,1
@@ -21399,7 +21390,7 @@ VStem: 242 21<520.546 644>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 156 -86 basechar 0
 AnchorPoint: "Kupnaya" 134 762 basechar 0
-AnchorPoint: "Shaidur" 100 250 basechar 0
+AnchorPoint: "Shaidur" 98 256 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -21436,7 +21427,6 @@ SplineSet
  286 389 l 1
  396 316 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 263 654 m 1,0,1
@@ -22921,7 +22911,6 @@ SplineSet
  110 620 l 1
  61 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 61 100 m 1,0,1
@@ -25996,7 +25985,7 @@ AnchorPoint: "Tonal" 250 800 basechar 0
 AnchorPoint: "Podvertka" 329 153 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Otsechka" 445 117 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 44 285 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 LayerCount: 3
 Fore
@@ -26034,7 +26023,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 296 527 m 1,0,1
@@ -26117,7 +26105,7 @@ AnchorPoint: "Zaderzhka" 213 463.9 basechar 0
 AnchorPoint: "Podvertka" 212 461 basechar 0
 AnchorPoint: "Borzaya" 213 462 basechar 0
 AnchorPoint: "Otsechka" 262 315 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 37 320 basechar 0
 AnchorPoint: "Tonal" 241 617 basechar 0
 LayerCount: 3
 Fore
@@ -26147,7 +26135,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 451 m 1,0,-1
@@ -26209,7 +26196,7 @@ AnchorPoint: "Zaderzhka" 100 427.9 basechar 0
 AnchorPoint: "Podvertka" 99 425 basechar 0
 AnchorPoint: "Borzaya" 100 426 basechar 0
 AnchorPoint: "Otsechka" 262 315 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 33.0001 276.7 basechar 0
 AnchorPoint: "Tonal" 241 617 basechar 0
 LayerCount: 3
 Fore
@@ -26239,7 +26226,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -26299,7 +26285,7 @@ AnchorPoint: "Zaderzhka" 213 463.9 basechar 0
 AnchorPoint: "Podvertka" 212 461 basechar 0
 AnchorPoint: "Borzaya" 213 462 basechar 0
 AnchorPoint: "Otsechka" 438 153 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 49 312 basechar 0
 AnchorPoint: "Tonal" 241 617 basechar 0
 LayerCount: 3
 Fore
@@ -26333,7 +26319,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 450 m 1,0,-1
@@ -26403,7 +26388,7 @@ AnchorPoint: "Zaderzhka" 115 463.9 basechar 0
 AnchorPoint: "Podvertka" 114 461 basechar 0
 AnchorPoint: "Borzaya" 115 462 basechar 0
 AnchorPoint: "Otsechka" 432 141 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 39 276.7 basechar 0
 AnchorPoint: "Tonal" 241 617 basechar 0
 LayerCount: 3
 Fore
@@ -26438,7 +26423,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 268 415 m 1,0,1
@@ -26496,7 +26480,7 @@ VStem: 216 31<161.086 232.781> 235 12<213.733 259.783>
 DStem2: 382 514 427 652 0.155275 0.987871<-6.57268 131.162>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 115 462.8 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 37 282 basechar 0
 AnchorPoint: "Otsechka" 432 141 basechar 0
 AnchorPoint: "Borzaya" 115 462 basechar 0
 AnchorPoint: "Podvertka" 114 461 basechar 0
@@ -26541,7 +26525,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 406 643 m 1,0,-1
@@ -26600,7 +26583,7 @@ VStem: 178 13<63.0764 93.491> 188 142<90.9 201.191> 299 12<-2.81836 43.8> 302 28
 DStem2: 113 450 110 332 0.181547 0.983382<-116.584 0>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 202.5 458.7 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 33 312 basechar 0
 AnchorPoint: "Otsechka" 288 295 basechar 0
 AnchorPoint: "Borzaya" 205 457 basechar 0
 AnchorPoint: "Podvertka" 204 456 basechar 0
@@ -26616,13 +26599,13 @@ AnchorPoint: "Tonal" 241 617 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-113 450 m 5xe0
- 134 460 l 5
- 110 332 l 5
- 151 373 219 398 219 398 c 5
- 203 302 l 5
- 203 302 86 253 65 190 c 5
- 113 450 l 5xe0
+113 450 m 1xe0
+ 134 460 l 1
+ 110 332 l 1
+ 151 373 219 398 219 398 c 1
+ 203 302 l 1
+ 203 302 86 253 65 190 c 1
+ 113 450 l 1xe0
 302 62 m 0xe2
  302 102 291 131 246 131 c 0
  227 131 203 123 191 73 c 0
@@ -26641,7 +26624,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 450 m 1,0,-1
@@ -26695,7 +26677,7 @@ HStem: -3 21G<8.6 15.5 302.5 305.5> 131 98<214.015 291.888>
 VStem: 178 13<63.0764 93.491> 188 142<90.9 201.191> 299 12<-2.81836 43.8> 302 28<33.6506 157.5>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 114.5 462 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 37 282 basechar 0
 AnchorPoint: "Otsechka" 384 77 basechar 0
 AnchorPoint: "Borzaya" 115 462 basechar 0
 AnchorPoint: "Podvertka" 114 461 basechar 0
@@ -26711,13 +26693,13 @@ AnchorPoint: "Tonal" 241 617 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-221 518 m 5xc0
- 242 527 l 5
- 227 452 203 301 203 301 c 5
- 170 286 84 247 65 190 c 5
- 83 290 l 5
- 98 338 162 373 197 389 c 5
- 221 518 l 5xc0
+221 518 m 1xc0
+ 242 527 l 1
+ 227 452 203 301 203 301 c 1
+ 170 286 84 247 65 190 c 1
+ 83 290 l 1
+ 98 338 162 373 197 389 c 1
+ 221 518 l 1xc0
 302 62 m 0xc4
  302 102 291 131 246 131 c 0
  227 131 203 123 191 73 c 0
@@ -26736,7 +26718,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -26788,7 +26769,7 @@ VStem: 202 14<94.1991 127.913> 213 145<127.273 237.099> 326 12<27.3586 71.75> 32
 DStem2: 113 451 110 332 0.180875 0.983506<-117.58 0>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 99.5 529.7 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 39 316 basechar 0
 AnchorPoint: "Otsechka" 432 141 basechar 0
 AnchorPoint: "Borzaya" 103 528 basechar 0
 AnchorPoint: "Podvertka" 102 527 basechar 0
@@ -26837,7 +26818,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 451 m 1,0,-1
@@ -26899,7 +26879,7 @@ HStem: 0 21G<8.6 15.5> 164 100<239.078 319.633>
 VStem: 202 14<94.1991 127.913> 213 145<127.273 237.099> 326 12<27.3586 71.75> 329 29<63.875 149.867>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 111.5 461.3 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 37 276.7 basechar 0
 AnchorPoint: "Otsechka" 432 141 basechar 0
 AnchorPoint: "Borzaya" 115 462 basechar 0
 AnchorPoint: "Podvertka" 114 461 basechar 0
@@ -26948,7 +26928,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 268 415 m 1,0,1
@@ -30230,7 +30209,7 @@ HStem: 0 21G<34.9936 52.779> 460 98<671.698 743.058>
 VStem: 94 18<602 620>
 DStem2: 33 0 62 100 0.0979143 0.995195<102.359 312.541 389.856 622.994> 233 279 212 181 0.859456 0.511209<-143.168 503.142>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" -56 258 basechar 0
+AnchorPoint: "Shaidur" 3.50003 462 basechar 0
 AnchorPoint: "Borzaya" 768 4 basechar 0
 AnchorPoint: "Podvertka" 704 348 basechar 0
 AnchorPoint: "Zaderzhka" 810 483.9 basechar 0
@@ -30265,7 +30244,6 @@ SplineSet
  62 100 l 1
  85 169 174 244 233 279 c 2
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 233 279 m 2,0,-1
@@ -30306,7 +30284,7 @@ Flags: W
 HStem: 0 21G<34.9601 52.779> 460 98<671.698 743.058>
 DStem2: 33 0 62 100 0.0975363 0.995232<102.352 553.64> 233 279 212 181 0.859456 0.511209<-143.168 503.142>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 9 462 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -30340,7 +30318,6 @@ SplineSet
  87 551 l 1
  36 576 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 36 576 m 1,0,-1
@@ -30381,7 +30358,7 @@ HStem: 0 21G<34.9936 52.779 374 398.295> 460 98<671.698 743.058>
 VStem: 94 18<602 620> 374 22<0 22>
 DStem2: 33 0 62 100 0.0979143 0.995195<102.359 312.541 389.856 622.994> 233 279 212 181 0.859456 0.511209<-143.168 159.607 183.464 503.142> 374 0 396 0 0.114006 0.99348<2.50813 298.94>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 1 460 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -30420,7 +30397,6 @@ SplineSet
  374 0 l 1
  408 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 408 297 m 1,0,-1
@@ -30466,7 +30442,7 @@ HStem: 0 21G<34.9601 52.779 374 398.295> 460 98<671.698 743.058>
 VStem: 374 22<0 22>
 DStem2: 33 0 62 100 0.0975363 0.995232<102.352 553.64> 233 279 212 181 0.859456 0.511209<-143.168 159.607 183.464 503.142> 374 0 396 0 0.114006 0.99348<2.50813 298.94>
 AnchorPoint: "Podtinka" 44.6329 -5.00001 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 11 460 basechar 0
 AnchorPoint: "Borzaya" 827 4 basechar 0
 AnchorPoint: "Podvertka" 763 348 basechar 0
 AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
@@ -30504,7 +30480,6 @@ SplineSet
  374 0 l 1
  408 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 408 297 m 1,0,-1
@@ -30640,9 +30615,8 @@ SplineSet
  99 620 l 1,10,-1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEA93 uniEE5A
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEE5A
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Colour: faff80
 EndChar
 
@@ -30716,9 +30690,8 @@ SplineSet
  61 100 l 1,10,11
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEEE2 uniEE5A
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE0 uniEEE2 uniEE5A
 Colour: faff80
 EndChar
 
@@ -30790,9 +30763,8 @@ SplineSet
  61 100 l 1,10,11
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEEE2 uniEE5A
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE1 uniEEE2 uniEE5A
 Colour: faff80
 EndChar
 
@@ -30896,7 +30868,7 @@ DStem2: 73 309 94 317 0.134364 0.990932<10.7491 129.829>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 155.5 -51.4 basechar 0
 AnchorPoint: "Kupnaya" 133.5 760.6 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 105 254 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -30925,7 +30897,6 @@ SplineSet
  127 597 239 485 239 316 c 0
  239 163 229 134 218 15 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 218 15 m 0,0,1
@@ -30960,7 +30931,7 @@ DStem2: -12 369 9 377 0.126176 0.992008<10.5858 101.381>
 AnchorPoint: "Podtinka" 166.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 166 -86 basechar 0
 AnchorPoint: "Kupnaya" 137.5 758.6 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 113 264 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -30987,7 +30958,6 @@ SplineSet
  127 597 239 485 239 316 c 0
  239 163 229 134 218 15 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 218 15 m 0,0,1
@@ -31022,7 +30992,7 @@ DStem2: 73 309 94 317 0.134364 0.990932<10.7491 129.829>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 154 -83.4 basechar 0
 AnchorPoint: "Kupnaya" 132 758.6 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 113 271.7 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -31056,7 +31026,6 @@ SplineSet
  127 597 239 485 239 316 c 0
  239 163 229 134 218 15 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 280 297 m 1,0,-1
@@ -31096,7 +31065,7 @@ DStem2: -12 369 9 377 0.126176 0.992008<10.5858 101.381>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 170 -63.4 basechar 0
 AnchorPoint: "Kupnaya" 132 754.6 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 105 277.7 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -31128,7 +31097,6 @@ SplineSet
  263 198 l 1
  280 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 218 15 m 0,0,1
@@ -31168,7 +31136,7 @@ DStem2: 29 686 37 596 0.131866 0.991268<-88.1592 0>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 160 -90.5 basechar 0
 AnchorPoint: "Kupnaya" 138 757.5 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 105 277.6 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -31200,7 +31168,6 @@ SplineSet
  263 198 l 1
  280 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 218 15 m 0,0,1
@@ -31240,7 +31207,7 @@ DStem2: 73 309 94 317 0.134364 0.990932<10.7491 129.829>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 160 -115.4 basechar 0
 AnchorPoint: "Kupnaya" 132 762.6 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 113 264 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -31279,7 +31246,6 @@ SplineSet
  127 597 239 485 239 316 c 0
  239 163 229 134 218 15 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 396 131 m 1,0,-1
@@ -31324,7 +31290,7 @@ DStem2: -12 369 9 377 0.126176 0.992008<10.5858 101.381>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 158.5 -103.4 basechar 0
 AnchorPoint: "Kupnaya" 130.5 762.6 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 113 270.7 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -31361,7 +31327,6 @@ SplineSet
  286 389 l 1
  396 316 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 218 15 m 0,0,1
@@ -31406,7 +31371,7 @@ DStem2: 29 686 37 596 0.131866 0.991268<-88.1592 0>
 AnchorPoint: "Podtinka" 156.633 -5.00001 basechar 0
 AnchorPoint: "Podvertka" 162 -110.5 basechar 0
 AnchorPoint: "Kupnaya" 136 755.5 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 105 266 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
@@ -31443,7 +31408,6 @@ SplineSet
  286 389 l 1
  396 316 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 218 15 m 0,0,1
@@ -32292,7 +32256,7 @@ VStem: 5 214
 DStem2: 113 451 110 332 0.180875 0.983506<-117.58 0>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 139 552 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 48 312 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Borzaya" 98 503 basechar 0
 AnchorPoint: "Podvertka" 96 505 basechar 0
@@ -32321,7 +32285,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 451 m 1,0,-1
@@ -32359,7 +32322,7 @@ HStem: 0 21G<8.6 15.5>
 VStem: 5 237
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 112.5 451.3 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 40 279.7 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Borzaya" 118 450 basechar 0
 AnchorPoint: "Podvertka" 116 452 basechar 0
@@ -32388,7 +32351,6 @@ SplineSet
  98 338 162 373 197 389 c 1
  221 518 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 23 100 m 1,0,1
@@ -32423,7 +32385,7 @@ HStem: 0 21G<8.6 15.5> 440 20G<106 130.25>
 DStem2: 65 190 110 332 0.155185 0.987885<147.263 264.201>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 122 524 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 46 325 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Borzaya" 122.167 524.167 basechar 0
 AnchorPoint: "Podvertka" 122.167 524 basechar 0
@@ -32457,7 +32419,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 106 451 m 1,0,-1
@@ -32501,7 +32462,7 @@ Flags: W
 HStem: 0 21G<8.6 15.5>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 120 450 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 40 287 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Borzaya" 118 450 basechar 0
 AnchorPoint: "Podvertka" 116 452 basechar 0
@@ -32535,7 +32496,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -32578,7 +32538,7 @@ Flags: W
 HStem: 0 21G<8.6 15.5>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 117 453 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 36 289 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Borzaya" 118 450 basechar 0
 AnchorPoint: "Podvertka" 116 452 basechar 0
@@ -32612,7 +32572,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 406 643 m 1,0,-1
@@ -32665,7 +32624,7 @@ AnchorPoint: "Podchashie" 107 523 basechar 0
 AnchorPoint: "Zaderzhka" 108 519.9 basechar 0
 AnchorPoint: "Podvertka" 107 524 basechar 0
 AnchorPoint: "Borzaya" 109 522 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 50 311 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Tikhaya" 62 110.5 basechar 0
 AnchorPoint: "Tonal" 241 617 basechar 0
@@ -32695,7 +32654,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 451 m 1,0,-1
@@ -32750,7 +32708,7 @@ AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 108 458 basechar 0
 AnchorPoint: "Tikhaya" 62 110.5 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 34 289 basechar 0
 AnchorPoint: "Borzaya" 109 456 basechar 0
 AnchorPoint: "Podvertka" 107 458 basechar 0
 AnchorPoint: "Zaderzhka" 108 453.9 basechar 0
@@ -32787,7 +32745,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -32848,7 +32805,7 @@ AnchorPoint: "Podchashie" 107 457 basechar 0
 AnchorPoint: "Zaderzhka" 108 453.9 basechar 0
 AnchorPoint: "Podvertka" 107 458 basechar 0
 AnchorPoint: "Borzaya" 109 456 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 40 274.2 basechar 0
 AnchorPoint: "Otsechka" 222 117 basechar 0
 AnchorPoint: "Tikhaya" 62 110.5 basechar 0
 AnchorPoint: "Tonal" 241 617 basechar 0
@@ -32878,7 +32835,6 @@ SplineSet
  328 237 211 188 190 125 c 1
  208 225 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 406 643 m 1,0,-1
@@ -32932,7 +32888,7 @@ VStem: 182 138<456 571> 295 11<498.225 526.719>
 DStem2: 230 735 235 649 0.170686 0.985325<-83.8846 0>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 38 285 basechar 0
 AnchorPoint: "Otsechka" 300 10 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Podvertka" 317 230 basechar 0
@@ -32979,7 +32935,6 @@ SplineSet
  235 649 l 1
  244 657 254 662 266 662 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 268 415 m 1,0,1
@@ -33043,7 +32998,7 @@ VStem: 183 12<451.148 483.469> 295 11<498.33 526.719>
 DStem2: 309 644 350 756 0.176664 0.984271<0 101.607>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 38 283 basechar 0
 AnchorPoint: "Otsechka" 300 10 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Podvertka" 317 230 basechar 0
@@ -33088,7 +33043,6 @@ SplineSet
  287 662 300 655 309 644 c 1
  327 744 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 268 415 m 1,0,1
@@ -33163,7 +33117,7 @@ AnchorPoint: "Tonal" 250 800 basechar 0
 AnchorPoint: "Podvertka" 329 153 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Otsechka" 400 100 basechar 0
-AnchorPoint: "Shaidur" 10 187 basechar 0
+AnchorPoint: "Shaidur" 36 287 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 LayerCount: 3
 Fore
@@ -33202,7 +33156,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 296 527 m 1,0,1
@@ -33273,7 +33226,7 @@ HStem: 0 21G<8.6 15.5> 164 100<239.078 319.633>
 VStem: 202 14<94.1991 127.913> 213 145<127.273 237.099> 326 12<27.3586 71.75> 329 29<63.875 149.867>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 114 463 basechar 0
-AnchorPoint: "Shaidur" 25 242 basechar 0
+AnchorPoint: "Shaidur" 39 282 basechar 0
 AnchorPoint: "Otsechka" 432 141 basechar 0
 AnchorPoint: "Borzaya" 115 462 basechar 0
 AnchorPoint: "Podvertka" 114 461 basechar 0
@@ -33322,7 +33275,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 406 643 m 1,0,-1
@@ -33384,7 +33336,7 @@ VStem: 5 308
 DStem2: 113 450 110 332 0.181547 0.983382<-116.584 0> 228 0 249 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 228 462 basechar 0
-AnchorPoint: "Shaidur" 13 187 basechar 0
+AnchorPoint: "Shaidur" 38 307 basechar 0
 AnchorPoint: "Otsechka" 350 93 basechar 0
 AnchorPoint: "Borzaya" 229 464 basechar 0
 AnchorPoint: "Podvertka" 229 464 basechar 0
@@ -33426,7 +33378,6 @@ SplineSet
  217 81 198 62 188 43 c 1
  203 141 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 450 m 1,0,-1
@@ -33478,7 +33429,7 @@ VStem: 5 308
 DStem2: 228 0 249 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 240 614 basechar 0
-AnchorPoint: "Shaidur" 13 187 basechar 0
+AnchorPoint: "Shaidur" 39 279.7 basechar 0
 AnchorPoint: "Otsechka" 353 93 basechar 0
 AnchorPoint: "Borzaya" 229 464 basechar 0
 AnchorPoint: "Podvertka" 229 464 basechar 0
@@ -33520,7 +33471,6 @@ SplineSet
  217 81 198 62 188 43 c 1
  203 141 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -33568,7 +33518,7 @@ HStem: -3 21G<8.6 15.5 292.5 295.5> 131 98<204.015 281.888> 440 20G<113 130.25>
 VStem: 168 13<63.0764 93.491> 289 12<-2.81836 43.8> 292 28<33.6506 157.5>
 DStem2: 113 450 110 332 0.181547 0.983382<-116.584 0> 371 20 392 31 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
-AnchorPoint: "Shaidur" 11 191 basechar 0
+AnchorPoint: "Shaidur" 46 305 basechar 0
 AnchorPoint: "Otsechka" 470 22 basechar 0
 AnchorPoint: "Borzaya" 193 474 basechar 0
 AnchorPoint: "Podvertka" 193 474 basechar 0
@@ -33604,26 +33554,25 @@ SplineSet
  300 1 297 -3 294 -3 c 0
  291 -3 288 1 289 10 c 0xf8
  291 28 292 46 292 62 c 0xf4
-346 161 m 5
- 354 177 371 193 389 207 c 5
- 397 284 l 5
- 418 295 l 5
- 411 223 l 5
- 435 238 456 249 456 249 c 5
- 443 154 l 5
- 443 154 424 145 402 130 c 5
- 392 31 l 5
- 371 20 l 5
- 380 116 l 5
- 360 101 341 82 331 63 c 5
- 346 161 l 5
+346 161 m 1
+ 354 177 371 193 389 207 c 1
+ 397 284 l 1
+ 418 295 l 1
+ 411 223 l 1
+ 435 238 456 249 456 249 c 1
+ 443 154 l 1
+ 443 154 424 145 402 130 c 1
+ 392 31 l 1
+ 371 20 l 1
+ 380 116 l 1
+ 360 101 341 82 331 63 c 1
+ 346 161 l 1
 23 100 m 1
  44 166 159 208 159 208 c 1
  143 112 l 1
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 450 m 1,0,-1
@@ -33690,7 +33639,7 @@ HStem: -3 21G<8.6 15.5 292.5 295.5> 131 98<204.015 281.888>
 VStem: 168 13<63.0764 93.491> 289 12<-2.81836 43.8> 292 28<33.6506 157.5>
 DStem2: 197 389 242 527 0.159504 0.987197<-6.6139 131.177> 371 20 392 31 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
-AnchorPoint: "Shaidur" 11 191 basechar 0
+AnchorPoint: "Shaidur" 42 279 basechar 0
 AnchorPoint: "Otsechka" 470 22 basechar 0
 AnchorPoint: "Borzaya" 136 474 basechar 0
 AnchorPoint: "Podvertka" 136 474 basechar 0
@@ -33726,26 +33675,25 @@ SplineSet
  300 1 297 -3 294 -3 c 0
  291 -3 288 1 289 10 c 0xf0
  291 28 292 46 292 62 c 0xe8
-346 161 m 5
- 354 177 371 193 389 207 c 5
- 397 284 l 5
- 418 295 l 5
- 411 223 l 5
- 435 238 456 249 456 249 c 5
- 443 154 l 5
- 443 154 424 145 402 130 c 5
- 392 31 l 5
- 371 20 l 5
- 380 116 l 5
- 360 101 341 82 331 63 c 5
- 346 161 l 5
+346 161 m 1
+ 354 177 371 193 389 207 c 1
+ 397 284 l 1
+ 418 295 l 1
+ 411 223 l 1
+ 435 238 456 249 456 249 c 1
+ 443 154 l 1
+ 443 154 424 145 402 130 c 1
+ 392 31 l 1
+ 371 20 l 1
+ 380 116 l 1
+ 360 101 341 82 331 63 c 1
+ 346 161 l 1
 23 100 m 1
  44 166 159 208 159 208 c 1
  143 112 l 1
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -33810,7 +33758,7 @@ VStem: 5 312
 DStem2: 113 450 110 332 0.181547 0.983382<-116.584 0>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 208 454 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 36 300 basechar 0
 AnchorPoint: "Otsechka" 365 48 basechar 0
 AnchorPoint: "Borzaya" 205 449 basechar 0
 AnchorPoint: "Podvertka" 205 449 basechar 0
@@ -33844,7 +33792,6 @@ SplineSet
  220 145 l 1
  237 244 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 450 m 1,0,-1
@@ -33887,7 +33834,7 @@ HStem: 0 21G<8.6 15.5>
 VStem: 5 312
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 113 427 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 39 283 basechar 0
 AnchorPoint: "Otsechka" 365 48 basechar 0
 AnchorPoint: "Borzaya" 112 426 basechar 0
 AnchorPoint: "Podvertka" 112 426 basechar 0
@@ -33921,7 +33868,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -33961,7 +33907,7 @@ HStem: 0 21G<8.6 15.5> 440 20G<113 130.25>
 DStem2: 113 450 110 332 0.181547 0.983382<-116.584 0>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 240 564 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 43 309 basechar 0
 AnchorPoint: "Otsechka" 365 48 basechar 0
 AnchorPoint: "Borzaya" 235 563 basechar 0
 AnchorPoint: "Podvertka" 235 563 basechar 0
@@ -34000,7 +33946,6 @@ SplineSet
  143 112 26 63 5 0 c 1
  23 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 450 m 1,0,-1
@@ -34049,7 +33994,7 @@ Flags: W
 HStem: 0 21G<8.6 15.5>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 239 613 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 31 281.7 basechar 0
 AnchorPoint: "Otsechka" 365 48 basechar 0
 AnchorPoint: "Borzaya" 239 613 basechar 0
 AnchorPoint: "Podvertka" 239 613 basechar 0
@@ -34088,7 +34033,6 @@ SplineSet
  220 145 l 1
  237 244 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -34136,7 +34080,7 @@ Flags: W
 HStem: 0 21G<8.6 15.5>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 228 564 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 39 276.2 basechar 0
 AnchorPoint: "Otsechka" 365 48 basechar 0
 AnchorPoint: "Borzaya" 229 561 basechar 0
 AnchorPoint: "Podvertka" 229 561 basechar 0
@@ -34175,7 +34119,6 @@ SplineSet
  220 145 l 1
  237 244 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 406 643 m 1,0,-1
@@ -34236,7 +34179,7 @@ AnchorPoint: "Podchashie" 246 533 basechar 0
 AnchorPoint: "Zaderzhka" 247 530.9 basechar 0
 AnchorPoint: "Podvertka" 247 531 basechar 0
 AnchorPoint: "Borzaya" 247 531 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 37 307 basechar 0
 AnchorPoint: "Tonal" 249 533 basechar 0
 LayerCount: 3
 Fore
@@ -34279,7 +34222,6 @@ SplineSet
  474 27 473 32 473 40 c 0xe4
  473 56 476 72 476 86 c 0xe2
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 113 451 m 1,0,-1
@@ -34347,7 +34289,7 @@ HStem: 0 21G<8.6 15.5> 164 100<386.078 466.633>
 VStem: 349 14<94.1991 127.913> 360 145<127.273 237.099> 473 12<27.3586 71.75> 476 29<63.875 149.867>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 246 596 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 38 277 basechar 0
 AnchorPoint: "Borzaya" 247 595 basechar 0
 AnchorPoint: "Podvertka" 247 595 basechar 0
 AnchorPoint: "Zaderzhka" 247 594.9 basechar 0
@@ -34401,7 +34343,6 @@ SplineSet
  474 27 473 32 473 40 c 0xc8
  473 56 476 72 476 86 c 0xc4
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 221 518 m 1,0,-1
@@ -34468,7 +34409,7 @@ HStem: 0 21G<8.6 15.5> 164 100<386.078 466.633>
 VStem: 349 14<94.1991 127.913> 360 145<127.273 237.099> 473 12<27.3586 71.75> 476 29<63.875 149.867>
 AnchorPoint: "Podtinka" 19.6329 -1.00001 basechar 0
 AnchorPoint: "Kupnaya" 240 574 basechar 0
-AnchorPoint: "Shaidur" 7 195 basechar 0
+AnchorPoint: "Shaidur" 39 279.2 basechar 0
 AnchorPoint: "Borzaya" 241 575 basechar 0
 AnchorPoint: "Podvertka" 241 575 basechar 0
 AnchorPoint: "Zaderzhka" 241 574.9 basechar 0
@@ -34522,7 +34463,6 @@ SplineSet
  474 27 473 32 473 40 c 0xc8
  473 56 476 72 476 86 c 0xc4
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 406 643 m 1,0,-1
@@ -34585,89 +34525,87 @@ StartChar: uniEB0C
 Encoding: 60172 60172 447
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215> 460 98<837.698 909.058>
-DStem2: 113 301 110 182 0.180875 0.983506<-117.58 0> 399 279 378 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 6.13286 -157 basechar 0
-AnchorPoint: "Shaidur" 143.996 364.625 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 575 98<840.789 913.414>
+DStem2: 117.5 416 114.5 297 0.180875 0.983506<-117.58 0> 403.5 394 382.5 296 0.859456 0.511209<-164.478 405.968>
+AnchorPoint: "Podtinka" 10.6329 -42 basechar 0
+AnchorPoint: "Shaidur" 490.496 671.625 basechar 0
+AnchorPoint: "Otsechka" 978.5 464 basechar 0
+AnchorPoint: "Borzaya" 3.50003 261 basechar 0
+AnchorPoint: "Podvertka" 928.5 456 basechar 0
+AnchorPoint: "Zaderzhka" 1055.5 598.9 basechar 0
+AnchorPoint: "Podchashie" 593.5 281 basechar 0
+AnchorPoint: "Oblachko" 890.5 754 basechar 0
+AnchorPoint: "Tikhaya" 328.5 285.5 basechar 0
+AnchorPoint: "Lomka" 912.5 167 basechar 0
+AnchorPoint: "Kachka" 489.5 671 basechar 0
+AnchorPoint: "Kupnaya" 557.5 0 basechar 0
+AnchorPoint: "Udarka" 4.50003 457 basechar 0
+AnchorPoint: "Zevok" 1047.5 754 basechar 0
+AnchorPoint: "Tonal" 476.5 567 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-113 301 m 1
- 134 310 l 1
- 110 182 l 1
- 151 223 219 248 219 248 c 1
- 203 152 l 1
- 203 152 86 103 65 40 c 1
- 113 301 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 871 558 895 558 c 0
- 914 558 938 522 945 508 c 1
- 928 410 l 1
- 921 424 897 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
+118 416 m 1
+ 138 425 l 1
+ 114 297 l 1
+ 156 338 224 363 224 363 c 1
+ 208 267 l 1
+ 208 267 90 218 70 155 c 1
+ 118 416 l 1
+220 213 m 1
+ 242 282 344 359 404 394 c 2
+ 788 623 l 1
+ 788 623 876 673 900 673 c 0
+ 918 673 942 637 950 623 c 1
+ 932 525 l 1
+ 926 539 902 575 882 575 c 0
+ 858 575 768 525 768 525 c 1
+ 382 296 l 2
+ 318 258 234 199 206 115 c 1
+ 220 213 l 1
+28 65 m 1
+ 50 131 164 173 164 173 c 1
+ 148 77 l 1
+ 148 77 32 28 10 -35 c 1
+ 28 65 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-113 301 m 1,0,-1
- 134 310 l 1,1,-1
- 110 182 l 1,2,3
- 145.286 217.286 145.286 217.286 201 240.5 c 2,4,-1
- 219 248 l 1,5,-1
- 203 152 l 1,6,7
- 190 146 190 146 170 136.5 c 128,-1,8
- 150 127 150 127 112 97.5 c 128,-1,9
- 74 68 74 68 65 40 c 1,10,-1
- 113 301 l 1,0,-1
-216 98 m 1,11,12
- 231 144 231 144 286.5 194.5 c 128,-1,13
- 342 245 342 245 399 279 c 2,14,-1
- 784 508 l 1,15,16
- 871 558 871 558 895 558 c 0,17,18
- 908 558 908 558 922.5 540.5 c 128,-1,19
- 937 523 937 523 945 508 c 1,20,-1
- 928 410 l 1,21,22
- 920 425 920 425 905.5 442.5 c 128,-1,23
- 891 460 891 460 879 460 c 0,24,25
- 855 460 855 460 786 422.5 c 2,26,-1
- 763 410 l 1,27,-1
- 378 181 l 2,28,29
- 233 95 233 95 201 0 c 1,30,-1
- 216 98 l 1,11,12
-24 -50 m 1,31,32
- 33 -21 33 -21 67 6 c 128,-1,33
- 101 33 101 33 130.5 45.5 c 2,34,-1
- 160 58 l 1,35,-1
- 144 -38 l 1,36,37
- 131 -44 131 -44 111 -53.5 c 128,-1,38
- 91 -63 91 -63 53 -92.5 c 128,-1,39
- 15 -122 15 -122 6 -150 c 1,40,-1
- 24 -50 l 1,31,32
+117.5 416 m 1,0,-1
+ 138.5 425 l 1,1,-1
+ 114.5 297 l 1,2,3
+ 149.786 332.286 149.786 332.286 205.5 355.5 c 2,4,-1
+ 223.5 363 l 1,5,-1
+ 207.5 267 l 1,6,7
+ 194.5 261 194.5 261 174.5 251.5 c 128,-1,8
+ 154.5 242 154.5 242 116.5 212.5 c 128,-1,9
+ 78.5 183 78.5 183 69.5 155 c 1,10,-1
+ 117.5 416 l 1,0,-1
+220.5 213 m 1,11,12
+ 235.5 259 235.5 259 291 309.5 c 128,-1,13
+ 346.5 360 346.5 360 403.5 394 c 2,14,-1
+ 788.5 623 l 1,15,16
+ 875.5 673 875.5 673 899.5 673 c 0,17,18
+ 912.5 673 912.5 673 927 655.5 c 128,-1,19
+ 941.5 638 941.5 638 949.5 623 c 1,20,-1
+ 932.5 525 l 1,21,22
+ 924.5 540 924.5 540 910 557.5 c 128,-1,23
+ 895.5 575 895.5 575 883.5 575 c 0,24,25
+ 859.5 575 859.5 575 790.5 537.5 c 2,26,-1
+ 767.5 525 l 1,27,-1
+ 382.5 296 l 2,28,29
+ 237.5 210 237.5 210 205.5 115 c 1,30,-1
+ 220.5 213 l 1,11,12
+28.5 65 m 1,31,32
+ 37.5 94 37.5 94 71.5 121 c 128,-1,33
+ 105.5 148 105.5 148 135 160.5 c 2,34,-1
+ 164.5 173 l 1,35,-1
+ 148.5 77 l 1,36,37
+ 135.5 71 135.5 71 115.5 61.5 c 128,-1,38
+ 95.5 52 95.5 52 57.5 22.5 c 128,-1,39
+ 19.5 -7 19.5 -7 10.5 -35 c 1,40,-1
+ 28.5 65 l 1,31,32
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
@@ -34676,86 +34614,84 @@ StartChar: uniEB0D
 Encoding: 60173 60173 448
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215> 460 98<837.698 909.058>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 77 343 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 576 98<836.289 908.914>
+DStem2: 197 355 203 267 0.170053 0.985435<-5.60526 131.202> 399 395 378 297 0.859456 0.511209<-164.478 504.409>
+AnchorPoint: "Podtinka" 19.6329 -37 basechar 0
+AnchorPoint: "Shaidur" 483 673 basechar 0
+AnchorPoint: "Otsechka" 974 465 basechar 0
+AnchorPoint: "Borzaya" -1 262 basechar 0
+AnchorPoint: "Podvertka" 924 457 basechar 0
+AnchorPoint: "Zaderzhka" 1051 599.9 basechar 0
+AnchorPoint: "Podchashie" 589 282 basechar 0
+AnchorPoint: "Oblachko" 886 755 basechar 0
+AnchorPoint: "Tikhaya" 324 286.5 basechar 0
+AnchorPoint: "Lomka" 908 168 basechar 0
+AnchorPoint: "Kachka" 485 672 basechar 0
+AnchorPoint: "Kupnaya" 553 1 basechar 0
+AnchorPoint: "Udarka" 0 458 basechar 0
+AnchorPoint: "Zevok" 1043 755 basechar 0
+AnchorPoint: "Tonal" 472 568 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-221 368 m 1
- 242 377 l 1
- 227 302 203 151 203 151 c 1
- 170 136 84 97 65 40 c 1
- 83 140 l 1
- 98 188 162 223 197 239 c 1
- 221 368 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 871 558 895 558 c 0
- 914 558 938 522 945 508 c 1
- 928 410 l 1
- 921 424 897 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
+221 484 m 1
+ 242 493 l 1
+ 227 418 203 267 203 267 c 1
+ 170 252 84 213 65 156 c 1
+ 83 256 l 1
+ 98 304 162 339 197 355 c 1
+ 221 484 l 1
+216 214 m 1
+ 238 283 340 360 399 395 c 2
+ 784 624 l 1
+ 784 624 871 674 895 674 c 0
+ 914 674 938 638 945 624 c 1
+ 928 526 l 1
+ 921 540 897 576 878 576 c 0
+ 853 576 763 526 763 526 c 1
+ 378 297 l 2
+ 314 259 229 200 201 116 c 1
+ 216 214 l 1
+24 66 m 1
+ 45 132 160 174 160 174 c 1
+ 144 78 l 1
+ 144 78 27 29 6 -34 c 1
+ 24 66 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-221 368 m 1,0,-1
- 242 377 l 1,1,2
- 203 151 l 1,3,4
- 84 97 84 97 65 40 c 1,5,-1
- 83 140 l 1,6,7
- 100 195 100 195 197 239 c 1,8,-1
- 221 368 l 1,0,-1
-216 98 m 1,9,10
- 231 144 231 144 286.5 194.5 c 128,-1,11
- 342 245 342 245 399 279 c 2,12,-1
- 784 508 l 1,13,14
- 871 558 871 558 895 558 c 0,15,16
- 908 558 908 558 922.5 540.5 c 128,-1,17
- 937 523 937 523 945 508 c 1,18,-1
- 928 410 l 1,19,20
- 920 425 920 425 905.5 442.5 c 128,-1,21
- 891 460 891 460 879 460 c 0,22,23
- 855 460 855 460 786 422.5 c 2,24,-1
- 763 410 l 1,25,-1
- 378 181 l 2,26,27
- 233 95 233 95 201 0 c 1,28,-1
- 216 98 l 1,9,10
-24 -50 m 1,29,30
- 33 -21 33 -21 67 6 c 128,-1,31
- 101 33 101 33 130.5 45.5 c 2,32,-1
- 160 58 l 1,33,-1
- 144 -38 l 1,34,35
- 131 -44 131 -44 111 -53.5 c 128,-1,36
- 91 -63 91 -63 53 -92.5 c 128,-1,37
- 15 -122 15 -122 6 -150 c 1,38,-1
- 24 -50 l 1,29,30
+221 484 m 1,0,-1
+ 242 493 l 1,1,2
+ 203 267 l 1,3,4
+ 84 213 84 213 65 156 c 1,5,-1
+ 83 256 l 1,6,7
+ 100 311 100 311 197 355 c 1,8,-1
+ 221 484 l 1,0,-1
+216 214 m 1,9,10
+ 231 260 231 260 286.5 310.5 c 128,-1,11
+ 342 361 342 361 399 395 c 2,12,-1
+ 784 624 l 1,13,14
+ 871 674 871 674 895 674 c 0,15,16
+ 908 674 908 674 922.5 656.5 c 128,-1,17
+ 937 639 937 639 945 624 c 1,18,-1
+ 928 526 l 1,19,20
+ 920 541 920 541 905.5 558.5 c 128,-1,21
+ 891 576 891 576 879 576 c 0,22,23
+ 855 576 855 576 786 538.5 c 2,24,-1
+ 763 526 l 1,25,-1
+ 378 297 l 2,26,27
+ 233 211 233 211 201 116 c 1,28,-1
+ 216 214 l 1,9,10
+24 66 m 1,29,30
+ 33 95 33 95 67 122 c 128,-1,31
+ 101 149 101 149 130.5 161.5 c 2,32,-1
+ 160 174 l 1,33,-1
+ 144 78 l 1,34,35
+ 131 72 131 72 111 62.5 c 128,-1,36
+ 91 53 91 53 53 23.5 c 128,-1,37
+ 15 -6 15 -6 6 -34 c 1,38,-1
+ 24 66 l 1,29,30
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Substitution2: "Depriznakify-1" uniEE9A
 LCarets2: 1 0 
@@ -34767,96 +34703,94 @@ StartChar: uniEB0E
 Encoding: 60174 60174 449
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215>
-VStem: 912 16<434 442.824>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 503.142> 930 531 972 641 0.187112 0.982339<0 98.842>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 153 343 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 656 20G<878 905.5>
+VStem: 912 16<552 561.445>
+DStem2: 399 397 378 299 0.859456 0.511209<-164.478 405.968> 930 649 972 759 0.187112 0.982339<0 98.842>
+AnchorPoint: "Podtinka" 19.6329 -35 basechar 0
+AnchorPoint: "Shaidur" 483 675 basechar 0
+AnchorPoint: "Otsechka" 974 467 basechar 0
+AnchorPoint: "Borzaya" -1 264 basechar 0
+AnchorPoint: "Podvertka" 924 459 basechar 0
+AnchorPoint: "Zaderzhka" 1051 601.9 basechar 0
+AnchorPoint: "Podchashie" 589 284 basechar 0
+AnchorPoint: "Oblachko" 886 757 basechar 0
+AnchorPoint: "Tikhaya" 324 288.5 basechar 0
+AnchorPoint: "Lomka" 908 170 basechar 0
+AnchorPoint: "Kachka" 485 674 basechar 0
+AnchorPoint: "Kupnaya" 553 3 basechar 0
+AnchorPoint: "Udarka" 0 460 basechar 0
+AnchorPoint: "Zevok" 1043 757 basechar 0
+AnchorPoint: "Tonal" 472 570 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
-84 140 m 1
- 105 206 220 248 220 248 c 1
- 204 152 l 1
- 204 152 87 103 66 40 c 1
- 84 140 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 844 543 878 554 c 1
- 898 558 l 1
- 909 555 921 543 930 531 c 5
- 949 628 l 5
- 972 641 l 5
- 928 410 l 5
- 912 434 l 5
- 912 435 l 5
- 902 448 883 456 878 460 c 1
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
+24 68 m 1
+ 45 134 160 176 160 176 c 1
+ 144 80 l 1
+ 144 80 27 31 6 -32 c 1
+ 24 68 l 1
+84 258 m 1
+ 105 324 220 366 220 366 c 1
+ 204 270 l 1
+ 204 270 87 221 66 158 c 1
+ 84 258 l 1
+216 216 m 1
+ 238 285 340 362 399 397 c 2
+ 784 626 l 1
+ 784 626 844 661 878 672 c 1
+ 898 676 l 1
+ 909 673 921 661 930 649 c 1
+ 949 746 l 1
+ 972 759 l 1
+ 928 528 l 1
+ 912 552 l 1
+ 912 553 l 1
+ 902 566 883 574 878 578 c 1
+ 853 578 763 528 763 528 c 1
+ 378 299 l 2
+ 314 261 229 202 201 118 c 1
+ 216 216 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-24 -50 m 1,0,1
- 33 -21 33 -21 67 6 c 128,-1,2
- 101 33 101 33 130.5 45.5 c 2,3,-1
- 160 58 l 1,4,-1
- 144 -38 l 1,5,6
- 131 -44 131 -44 111 -53.5 c 128,-1,7
- 91 -63 91 -63 53 -92.5 c 128,-1,8
- 15 -122 15 -122 6 -150 c 1,9,-1
- 24 -50 l 1,0,1
-84 140 m 1,10,11
- 93 169 93 169 127 196 c 128,-1,12
- 161 223 161 223 190.5 235.5 c 2,13,-1
- 220 248 l 1,14,-1
- 204 152 l 1,15,16
- 191 146 191 146 171 136.5 c 128,-1,17
- 151 127 151 127 113 97.5 c 128,-1,18
- 75 68 75 68 66 40 c 1,19,-1
- 84 140 l 1,10,11
-216 98 m 1,20,21
- 231 144 231 144 286.5 194.5 c 128,-1,22
- 342 245 342 245 399 279 c 2,23,-1
- 784 508 l 2,24,25
- 844 543 844 543 878 554 c 1,26,-1
- 898 558 l 1,27,28
- 913 554 913 554 930 531 c 1,29,-1
- 949 628 l 1,30,-1
- 972 641 l 1,31,-1
- 928 410 l 1,32,-1
- 912 434 l 1,33,-1
- 912 435 l 1,34,35
- 906.462 443.308 906.462 443.308 892.731 451.154 c 128,-1,36
- 879 459 879 459 878 460 c 1,37,38
- 855 460 855 460 786 422.5 c 2,39,-1
- 763 410 l 1,40,-1
- 378 181 l 2,41,42
- 233 95 233 95 201 0 c 1,43,-1
- 216 98 l 1,20,21
+24 68 m 1,0,1
+ 33 97 33 97 67 124 c 128,-1,2
+ 101 151 101 151 130.5 163.5 c 2,3,-1
+ 160 176 l 1,4,-1
+ 144 80 l 1,5,6
+ 131 74 131 74 111 64.5 c 128,-1,7
+ 91 55 91 55 53 25.5 c 128,-1,8
+ 15 -4 15 -4 6 -32 c 1,9,-1
+ 24 68 l 1,0,1
+84 258 m 1,10,11
+ 93 287 93 287 127 314 c 128,-1,12
+ 161 341 161 341 190.5 353.5 c 2,13,-1
+ 220 366 l 1,14,-1
+ 204 270 l 1,15,16
+ 191 264 191 264 171 254.5 c 128,-1,17
+ 151 245 151 245 113 215.5 c 128,-1,18
+ 75 186 75 186 66 158 c 1,19,-1
+ 84 258 l 1,10,11
+216 216 m 1,20,21
+ 231 262 231 262 286.5 312.5 c 128,-1,22
+ 342 363 342 363 399 397 c 2,23,-1
+ 784 626 l 2,24,25
+ 844 661 844 661 878 672 c 1,26,-1
+ 898 676 l 1,27,28
+ 913 672 913 672 930 649 c 1,29,-1
+ 949 746 l 1,30,-1
+ 972 759 l 1,31,-1
+ 928 528 l 1,32,-1
+ 912 552 l 1,33,-1
+ 912 553 l 1,34,35
+ 906.462 561.308 906.462 561.308 892.731 569.154 c 128,-1,36
+ 879 577 879 577 878 578 c 1,37,38
+ 855 578 855 578 786 540.5 c 2,39,-1
+ 763 528 l 1,40,-1
+ 378 299 l 2,41,42
+ 233 213 233 213 201 118 c 1,43,-1
+ 216 216 l 1,20,21
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0 
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE1
@@ -34871,7 +34805,7 @@ HStem: 0 21G<204.061 215 545 569.357> 444 58<478.101 534.82> 460 98<837.698 909.
 VStem: 413 28<729 784.03> 477 59<445.023 500.894> 501 9<538 559.232> 545 22<0 22> 553 50<670.002 787.36>
 DStem2: 113 301 110 182 0.180875 0.983506<-117.58 0> 399 279 378 181 0.859456 0.511209<-164.673 166.808 194.081 503.142> 545 0 567 0 0.117025 0.993129<2.57454 303.028>
 AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 138 443 basechar 0
+AnchorPoint: "Shaidur" 312 491 basechar 0
 AnchorPoint: "Otsechka" 974 349 basechar 0
 AnchorPoint: "Borzaya" -1 146 basechar 0
 AnchorPoint: "Podvertka" 924 341 basechar 0
@@ -34906,13 +34840,13 @@ SplineSet
  536 456 523 444 506 444 c 0
  489 444 477 456 477 472 c 0
  477 489 490 502 506 502 c 0xdc
-113 301 m 5
- 134 310 l 5
- 110 182 l 5
- 151 223 219 248 219 248 c 5
- 203 152 l 5
- 203 152 86 103 65 40 c 5
- 113 301 l 5
+113 301 m 1
+ 134 310 l 1
+ 110 182 l 1
+ 151 223 219 248 219 248 c 1
+ 203 152 l 1
+ 203 152 86 103 65 40 c 1
+ 113 301 l 1
 24 -50 m 1
  45 16 160 58 160 58 c 1
  144 -38 l 1
@@ -34934,7 +34868,6 @@ SplineSet
  545 0 l 1xb9
  580 301 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 438.5 797 m 128,-1,1
@@ -35019,7 +34952,7 @@ HStem: 0 21G<204.061 215 545 569.357> 444 58<478.101 534.82> 460 98<837.698 909.
 VStem: 413 28<729 784.03> 477 59<445.023 500.894> 501 9<538 559.232> 545 22<0 22> 553 50<670.002 787.36>
 DStem2: 399 279 378 181 0.859456 0.511209<-164.673 166.808 194.081 503.142> 545 0 567 0 0.117025 0.993129<2.57454 303.028>
 AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 111 437 basechar 0
+AnchorPoint: "Shaidur" 327 481 basechar 0
 AnchorPoint: "Otsechka" 974 349 basechar 0
 AnchorPoint: "Borzaya" -1 146 basechar 0
 AnchorPoint: "Podvertka" 924 341 basechar 0
@@ -35082,7 +35015,6 @@ SplineSet
  545 0 l 1xb9
  580 301 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 438.5 797 m 128,-1,1
@@ -35162,103 +35094,101 @@ StartChar: uniEB11
 Encoding: 60177 60177 452
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215 545 569.357> 460 96<834.358 909.575>
-VStem: 545 22<0 22> 912 16<434 444.391>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 166.808 194.081 503.142> 545 0 567 0 0.117025 0.993129<2.57454 303.028> 930 531 972 641 0.187112 0.982339<0 98.842>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 153 368 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 473 562 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 576 98<836.388 904>
+VStem: 545 22<116 138> 912 16<550 560.125>
+DStem2: 399 395 378 297 0.859456 0.511209<-164.478 166.808 194.081 505.242> 545 116 567 116 0.117025 0.993129<2.57454 303.028> 930 647 972 757 0.187112 0.982339<0 98.842>
+AnchorPoint: "Podtinka" 19.6329 -37 basechar 0
+AnchorPoint: "Shaidur" 473 678 basechar 0
+AnchorPoint: "Otsechka" 974 465 basechar 0
+AnchorPoint: "Borzaya" -1 262 basechar 0
+AnchorPoint: "Podvertka" 924 457 basechar 0
+AnchorPoint: "Zaderzhka" 1051 599.9 basechar 0
+AnchorPoint: "Podchashie" 589 282 basechar 0
+AnchorPoint: "Oblachko" 886 755 basechar 0
+AnchorPoint: "Tikhaya" 324 286.5 basechar 0
+AnchorPoint: "Lomka" 908 168 basechar 0
+AnchorPoint: "Kachka" 473 678 basechar 0
+AnchorPoint: "Kupnaya" 553 1 basechar 0
+AnchorPoint: "Udarka" 0 458 basechar 0
+AnchorPoint: "Zevok" 1043 755 basechar 0
+AnchorPoint: "Tonal" 472 568 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-580 301 m 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 852 547 885 556 c 0
- 898 560 898 556 904 556 c 1
- 913 551 923 541 930 531 c 5
- 949 628 l 5
- 972 641 l 5
- 928 410 l 5
- 912 434 l 1
- 912 435 l 1
- 902 448 889 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 604 314 l 1
- 567 0 l 1
- 545 0 l 1
- 580 301 l 1
-84 140 m 1
- 105 206 220 248 220 248 c 1
- 204 152 l 1
- 204 152 87 103 66 40 c 1
- 84 140 l 1
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
+580 417 m 1
+ 378 297 l 2
+ 314 259 229 200 201 116 c 1
+ 216 214 l 1
+ 238 283 340 360 399 395 c 2
+ 784 624 l 1
+ 784 624 852 663 885 672 c 0
+ 898 676 898 672 904 672 c 1
+ 913 667 923 657 930 647 c 1
+ 949 744 l 1
+ 972 757 l 1
+ 928 526 l 1
+ 912 550 l 1
+ 912 551 l 1
+ 902 564 889 576 878 576 c 0
+ 853 576 763 526 763 526 c 1
+ 604 430 l 1
+ 567 116 l 1
+ 545 116 l 1
+ 580 417 l 1
+84 256 m 1
+ 105 322 220 364 220 364 c 1
+ 204 268 l 1
+ 204 268 87 219 66 156 c 1
+ 84 256 l 1
+24 66 m 1
+ 45 132 160 174 160 174 c 1
+ 144 78 l 1
+ 144 78 27 29 6 -34 c 1
+ 24 66 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-894 558 m 1,0,-1
- 904 556 l 1,1,2
- 918 548 918 548 930 531 c 1,3,-1
- 949 628 l 1,4,-1
- 972 641 l 1,5,-1
- 928 410 l 1,6,-1
- 912 434 l 1,7,-1
- 912 435 l 1,8,9
- 893 460 893 460 880 460 c 0,10,11
- 855 460 855 460 786 422.5 c 2,12,-1
- 763 410 l 1,13,-1
- 604 314 l 1,14,-1
- 567 0 l 1,15,-1
- 545 0 l 1,16,-1
- 580 301 l 1,17,-1
- 378 181 l 2,18,19
- 233 95 233 95 201 0 c 1,20,-1
- 216 98 l 1,21,22
- 231 144 231 144 286.5 194.5 c 128,-1,23
- 342 245 342 245 399 279 c 2,24,-1
- 784 508 l 1,25,26
- 871.18 558 871.18 558 894 558 c 1,0,-1
-84 140 m 1,27,28
- 93 169 93 169 127 196 c 128,-1,29
- 161 223 161 223 190.5 235.5 c 2,30,-1
- 220 248 l 1,31,-1
- 204 152 l 1,32,33
- 191 146 191 146 171 136.5 c 128,-1,34
- 151 127 151 127 113 97.5 c 128,-1,35
- 75 68 75 68 66 40 c 1,36,-1
- 84 140 l 1,27,28
-24 -50 m 1,37,38
- 33 -21 33 -21 67 6 c 128,-1,39
- 101 33 101 33 130.5 45.5 c 2,40,-1
- 160 58 l 1,41,-1
- 144 -38 l 1,42,43
- 131 -44 131 -44 111 -53.5 c 128,-1,44
- 91 -63 91 -63 53 -92.5 c 128,-1,45
- 15 -122 15 -122 6 -150 c 1,46,-1
- 24 -50 l 1,37,38
+894 674 m 1,0,-1
+ 904 672 l 1,1,2
+ 918 664 918 664 930 647 c 1,3,-1
+ 949 744 l 1,4,-1
+ 972 757 l 1,5,-1
+ 928 526 l 1,6,-1
+ 912 550 l 1,7,-1
+ 912 551 l 1,8,9
+ 893 576 893 576 880 576 c 0,10,11
+ 855 576 855 576 786 538.5 c 2,12,-1
+ 763 526 l 1,13,-1
+ 604 430 l 1,14,-1
+ 567 116 l 1,15,-1
+ 545 116 l 1,16,-1
+ 580 417 l 1,17,-1
+ 378 297 l 2,18,19
+ 233 211 233 211 201 116 c 1,20,-1
+ 216 214 l 1,21,22
+ 231 260 231 260 286.5 310.5 c 128,-1,23
+ 342 361 342 361 399 395 c 2,24,-1
+ 784 624 l 1,25,26
+ 871.18 674 871.18 674 894 674 c 1,0,-1
+84 256 m 1,27,28
+ 93 285 93 285 127 312 c 128,-1,29
+ 161 339 161 339 190.5 351.5 c 2,30,-1
+ 220 364 l 1,31,-1
+ 204 268 l 1,32,33
+ 191 262 191 262 171 252.5 c 128,-1,34
+ 151 243 151 243 113 213.5 c 128,-1,35
+ 75 184 75 184 66 156 c 1,36,-1
+ 84 256 l 1,27,28
+24 66 m 1,37,38
+ 33 95 33 95 67 122 c 128,-1,39
+ 101 149 101 149 130.5 161.5 c 2,40,-1
+ 160 174 l 1,41,-1
+ 144 78 l 1,42,43
+ 131 72 131 72 111 62.5 c 128,-1,44
+ 91 53 91 53 53 23.5 c 128,-1,45
+ 15 -6 15 -6 6 -34 c 1,46,-1
+ 24 66 l 1,37,38
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE1
@@ -35269,115 +35199,113 @@ StartChar: uniEB13
 Encoding: 60179 60179 453
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215 563.875 583> 460 98<837.698 909.058>
-DStem2: 113 301 110 182 0.180875 0.983506<-117.58 0> 399 279 378 181 0.859456 0.511209<-164.673 503.142> 562 0 583 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 177 431 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 574 98<836.289 908.914>
+DStem2: 113 415 110 296 0.180875 0.983506<-117.58 0> 399 393 378 295 0.859456 0.511209<-164.478 405.968> 562 114 583 125 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
+AnchorPoint: "Podtinka" 19.6329 -39 basechar 0
+AnchorPoint: "Shaidur" 483 673 basechar 0
+AnchorPoint: "Otsechka" 974 463 basechar 0
+AnchorPoint: "Borzaya" -1 260 basechar 0
+AnchorPoint: "Podvertka" 924 455 basechar 0
+AnchorPoint: "Zaderzhka" 1051 597.9 basechar 0
+AnchorPoint: "Podchashie" 589 280 basechar 0
+AnchorPoint: "Oblachko" 886 753 basechar 0
+AnchorPoint: "Tikhaya" 324 284.5 basechar 0
+AnchorPoint: "Lomka" 908 166 basechar 0
+AnchorPoint: "Kachka" 485 670 basechar 0
+AnchorPoint: "Kupnaya" 553 -1 basechar 0
+AnchorPoint: "Udarka" 0 456 basechar 0
+AnchorPoint: "Zevok" 1043 753 basechar 0
+AnchorPoint: "Tonal" 472 566 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-113 301 m 1
- 134 310 l 1
- 110 182 l 1
- 151 223 219 248 219 248 c 1
- 203 152 l 1
- 203 152 86 103 65 40 c 1
- 113 301 l 1
-537 141 m 1
- 545 157 562 173 580 187 c 1
- 588 264 l 1
- 609 275 l 1
- 602 203 l 1
- 626 218 647 229 647 229 c 1
- 634 134 l 1
- 634 134 615 125 593 110 c 1
- 583 11 l 1
- 562 0 l 1
- 571 96 l 1
- 551 81 532 62 522 43 c 1
- 537 141 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 871 558 895 558 c 0
- 914 558 938 522 945 508 c 1
- 928 410 l 1
- 921 424 897 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
+113 415 m 1
+ 134 424 l 1
+ 110 296 l 1
+ 151 337 219 362 219 362 c 1
+ 203 266 l 1
+ 203 266 86 217 65 154 c 1
+ 113 415 l 1
+537 255 m 1
+ 545 271 562 287 580 301 c 1
+ 588 378 l 1
+ 609 389 l 1
+ 602 317 l 1
+ 626 332 647 343 647 343 c 1
+ 634 248 l 1
+ 634 248 615 239 593 224 c 1
+ 583 125 l 1
+ 562 114 l 1
+ 571 210 l 1
+ 551 195 532 176 522 157 c 1
+ 537 255 l 1
+216 212 m 1
+ 238 281 340 358 399 393 c 2
+ 784 622 l 1
+ 784 622 871 672 895 672 c 0
+ 914 672 938 636 945 622 c 1
+ 928 524 l 1
+ 921 538 897 574 878 574 c 0
+ 853 574 763 524 763 524 c 1
+ 378 295 l 2
+ 314 257 229 198 201 114 c 1
+ 216 212 l 1
+24 64 m 1
+ 45 130 160 172 160 172 c 1
+ 144 76 l 1
+ 144 76 27 27 6 -36 c 1
+ 24 64 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-113 301 m 1,0,-1
- 134 310 l 1,1,-1
- 110 182 l 1,2,3
- 145.286 217.286 145.286 217.286 201 240.5 c 2,4,-1
- 219 248 l 1,5,-1
- 203 152 l 1,6,7
- 190 146 190 146 170 136.5 c 128,-1,8
- 150 127 150 127 112 97.5 c 128,-1,9
- 74 68 74 68 65 40 c 1,10,-1
- 113 301 l 1,0,-1
-537 141 m 1,11,12
- 547 162 547 162 580 187 c 1,13,-1
- 588 264 l 1,14,-1
- 609 275 l 1,15,-1
- 602 203 l 1,16,-1
- 647 229 l 1,17,-1
- 634 134 l 1,18,19
- 615 125 615 125 593 110 c 1,20,-1
- 583 11 l 1,21,-1
- 562 0 l 1,22,-1
- 571 96 l 1,23,24
- 536 70 536 70 522 43 c 1,25,-1
- 537 141 l 1,11,12
-216 98 m 1,26,27
- 231 144 231 144 286.5 194.5 c 128,-1,28
- 342 245 342 245 399 279 c 2,29,-1
- 784 508 l 1,30,31
- 871 558 871 558 895 558 c 0,32,33
- 908 558 908 558 922.5 540.5 c 128,-1,34
- 937 523 937 523 945 508 c 1,35,-1
- 928 410 l 1,36,37
- 920 425 920 425 905.5 442.5 c 128,-1,38
- 891 460 891 460 879 460 c 0,39,40
- 855 460 855 460 786 422.5 c 2,41,-1
- 763 410 l 1,42,-1
- 378 181 l 2,43,44
- 233 95 233 95 201 0 c 1,45,-1
- 216 98 l 1,26,27
-24 -50 m 1,46,47
- 33 -21 33 -21 67 6 c 128,-1,48
- 101 33 101 33 130.5 45.5 c 2,49,-1
- 160 58 l 1,50,-1
- 144 -38 l 1,51,52
- 131 -44 131 -44 111 -53.5 c 128,-1,53
- 91 -63 91 -63 53 -92.5 c 128,-1,54
- 15 -122 15 -122 6 -150 c 1,55,-1
- 24 -50 l 1,46,47
+113 415 m 1,0,-1
+ 134 424 l 1,1,-1
+ 110 296 l 1,2,3
+ 145.286 331.286 145.286 331.286 201 354.5 c 2,4,-1
+ 219 362 l 1,5,-1
+ 203 266 l 1,6,7
+ 190 260 190 260 170 250.5 c 128,-1,8
+ 150 241 150 241 112 211.5 c 128,-1,9
+ 74 182 74 182 65 154 c 1,10,-1
+ 113 415 l 1,0,-1
+537 255 m 1,11,12
+ 547 276 547 276 580 301 c 1,13,-1
+ 588 378 l 1,14,-1
+ 609 389 l 1,15,-1
+ 602 317 l 1,16,-1
+ 647 343 l 1,17,-1
+ 634 248 l 1,18,19
+ 615 239 615 239 593 224 c 1,20,-1
+ 583 125 l 1,21,-1
+ 562 114 l 1,22,-1
+ 571 210 l 1,23,24
+ 536 184 536 184 522 157 c 1,25,-1
+ 537 255 l 1,11,12
+216 212 m 1,26,27
+ 231 258 231 258 286.5 308.5 c 128,-1,28
+ 342 359 342 359 399 393 c 2,29,-1
+ 784 622 l 1,30,31
+ 871 672 871 672 895 672 c 0,32,33
+ 908 672 908 672 922.5 654.5 c 128,-1,34
+ 937 637 937 637 945 622 c 1,35,-1
+ 928 524 l 1,36,37
+ 920 539 920 539 905.5 556.5 c 128,-1,38
+ 891 574 891 574 879 574 c 0,39,40
+ 855 574 855 574 786 536.5 c 2,41,-1
+ 763 524 l 1,42,-1
+ 378 295 l 2,43,44
+ 233 209 233 209 201 114 c 1,45,-1
+ 216 212 l 1,26,27
+24 64 m 1,46,47
+ 33 93 33 93 67 120 c 128,-1,48
+ 101 147 101 147 130.5 159.5 c 2,49,-1
+ 160 172 l 1,50,-1
+ 144 76 l 1,51,52
+ 131 70 131 70 111 60.5 c 128,-1,53
+ 91 51 91 51 53 21.5 c 128,-1,54
+ 15 -8 15 -8 6 -36 c 1,55,-1
+ 24 64 l 1,46,47
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
@@ -35386,112 +35314,110 @@ StartChar: uniEB14
 Encoding: 60180 60180 454
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215 563.875 583> 460 98<837.698 909.058>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 503.142> 562 0 583 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 177 431 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 575 98<837.698 909.058>
+DStem2: 399 394 378 296 0.859456 0.511209<-164.673 503.142> 562 115 583 126 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
+AnchorPoint: "Podtinka" 19.6329 -38 basechar 0
+AnchorPoint: "Shaidur" 481 672 basechar 0
+AnchorPoint: "Otsechka" 974 464 basechar 0
+AnchorPoint: "Borzaya" -1 261 basechar 0
+AnchorPoint: "Podvertka" 924 456 basechar 0
+AnchorPoint: "Zaderzhka" 1051 598.9 basechar 0
+AnchorPoint: "Podchashie" 589 281 basechar 0
+AnchorPoint: "Oblachko" 886 754 basechar 0
+AnchorPoint: "Tikhaya" 324 285.5 basechar 0
+AnchorPoint: "Lomka" 908 167 basechar 0
+AnchorPoint: "Kachka" 485 671 basechar 0
+AnchorPoint: "Kupnaya" 553 0 basechar 0
+AnchorPoint: "Udarka" 0 457 basechar 0
+AnchorPoint: "Zevok" 1043 754 basechar 0
+AnchorPoint: "Tonal" 472 567 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-221 368 m 5
- 242 377 l 5
- 227 302 203 151 203 151 c 5
- 170 136 84 97 65 40 c 5
- 83 140 l 5
- 98 188 162 223 197 239 c 5
- 221 368 l 5
-537 141 m 1
- 545 157 562 173 580 187 c 1
- 588 264 l 1
- 609 275 l 1
- 602 203 l 1
- 626 218 647 229 647 229 c 1
- 634 134 l 1
- 634 134 615 125 593 110 c 1
- 583 11 l 1
- 562 0 l 1
- 571 96 l 1
- 551 81 532 62 522 43 c 1
- 537 141 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 871 558 895 558 c 0
- 914 558 938 522 945 508 c 1
- 928 410 l 1
- 921 424 897 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
+221 483 m 1
+ 242 492 l 1
+ 227 417 203 266 203 266 c 1
+ 170 251 84 212 65 155 c 1
+ 83 255 l 1
+ 98 303 162 338 197 354 c 1
+ 221 483 l 1
+537 256 m 1
+ 545 272 562 288 580 302 c 1
+ 588 379 l 1
+ 609 390 l 1
+ 602 318 l 1
+ 626 333 647 344 647 344 c 1
+ 634 249 l 1
+ 634 249 615 240 593 225 c 1
+ 583 126 l 1
+ 562 115 l 1
+ 571 211 l 1
+ 551 196 532 177 522 158 c 1
+ 537 256 l 1
+216 213 m 1
+ 238 282 340 359 399 394 c 2
+ 784 623 l 1
+ 784 623 871 673 895 673 c 0
+ 914 673 938 637 945 623 c 1
+ 928 525 l 1
+ 921 539 897 575 878 575 c 0
+ 853 575 763 525 763 525 c 1
+ 378 296 l 2
+ 314 258 229 199 201 115 c 1
+ 216 213 l 1
+24 65 m 1
+ 45 131 160 173 160 173 c 1
+ 144 77 l 1
+ 144 77 27 28 6 -35 c 1
+ 24 65 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-221 368 m 1,0,-1
- 242 377 l 1,1,2
- 203 151 l 1,3,4
- 84 97 84 97 65 40 c 1,5,-1
- 83 140 l 1,6,7
- 100 195 100 195 197 239 c 1,8,-1
- 221 368 l 1,0,-1
-537 141 m 1,9,10
- 547 162 547 162 580 187 c 1,11,-1
- 588 264 l 1,12,-1
- 609 275 l 1,13,-1
- 602 203 l 1,14,15
- 647 229 l 1,16,-1
- 634 134 l 1,17,18
- 615 125 615 125 593 110 c 1,19,-1
- 583 11 l 1,20,-1
- 562 0 l 1,21,-1
- 571 96 l 1,22,23
- 536 70 536 70 522 43 c 1,24,-1
- 537 141 l 1,9,10
-216 98 m 1,25,26
- 231 144 231 144 286.5 194.5 c 128,-1,27
- 342 245 342 245 399 279 c 2,28,-1
- 784 508 l 1,29,30
- 871 558 871 558 895 558 c 0,31,32
- 908 558 908 558 922.5 540.5 c 128,-1,33
- 937 523 937 523 945 508 c 1,34,-1
- 928 410 l 1,35,36
- 920 425 920 425 905.5 442.5 c 128,-1,37
- 891 460 891 460 879 460 c 0,38,39
- 855 460 855 460 786 422.5 c 2,40,-1
- 763 410 l 1,41,-1
- 378 181 l 2,42,43
- 233 95 233 95 201 0 c 1,44,-1
- 216 98 l 1,25,26
-24 -50 m 1,45,46
- 33 -21 33 -21 67 6 c 128,-1,47
- 101 33 101 33 130.5 45.5 c 2,48,-1
- 160 58 l 1,49,-1
- 144 -38 l 1,50,51
- 131 -44 131 -44 111 -53.5 c 128,-1,52
- 91 -63 91 -63 53 -92.5 c 128,-1,53
- 15 -122 15 -122 6 -150 c 1,54,-1
- 24 -50 l 1,45,46
+221 483 m 1,0,-1
+ 242 492 l 1,1,2
+ 203 266 l 1,3,4
+ 84 212 84 212 65 155 c 1,5,-1
+ 83 255 l 1,6,7
+ 100 310 100 310 197 354 c 1,8,-1
+ 221 483 l 1,0,-1
+537 256 m 1,9,10
+ 547 277 547 277 580 302 c 1,11,-1
+ 588 379 l 1,12,-1
+ 609 390 l 1,13,-1
+ 602 318 l 1,14,15
+ 647 344 l 1,16,-1
+ 634 249 l 1,17,18
+ 615 240 615 240 593 225 c 1,19,-1
+ 583 126 l 1,20,-1
+ 562 115 l 1,21,-1
+ 571 211 l 1,22,23
+ 536 185 536 185 522 158 c 1,24,-1
+ 537 256 l 1,9,10
+216 213 m 1,25,26
+ 231 259 231 259 286.5 309.5 c 128,-1,27
+ 342 360 342 360 399 394 c 2,28,-1
+ 784 623 l 1,29,30
+ 871 673 871 673 895 673 c 0,31,32
+ 908 673 908 673 922.5 655.5 c 128,-1,33
+ 937 638 937 638 945 623 c 1,34,-1
+ 928 525 l 1,35,36
+ 920 540 920 540 905.5 557.5 c 128,-1,37
+ 891 575 891 575 879 575 c 0,38,39
+ 855 575 855 575 786 537.5 c 2,40,-1
+ 763 525 l 1,41,-1
+ 378 296 l 2,42,43
+ 233 210 233 210 201 115 c 1,44,-1
+ 216 213 l 1,25,26
+24 65 m 1,45,46
+ 33 94 33 94 67 121 c 128,-1,47
+ 101 148 101 148 130.5 160.5 c 2,48,-1
+ 160 173 l 1,49,-1
+ 144 77 l 1,50,51
+ 131 71 131 71 111 61.5 c 128,-1,52
+ 91 52 91 52 53 22.5 c 128,-1,53
+ 15 -7 15 -7 6 -35 c 1,54,-1
+ 24 65 l 1,45,46
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE0
@@ -35502,122 +35428,120 @@ StartChar: uniEB15
 Encoding: 60181 60181 455
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215 563.875 583>
-VStem: 912 16<434 442.824>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 503.142> 562 0 583 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277> 930 531 972 641 0.187112 0.982339<0 98.842>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 153 368 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 653 20G<881 908>
+VStem: 912 16<550 559.445>
+DStem2: 399 395 378 297 0.859456 0.511209<-164.478 405.968> 562 116 583 127 0.0980107 0.995185<13.0053 96.4199 205.943 265.277> 930 647 972 757 0.187112 0.982339<0 98.842>
+AnchorPoint: "Podtinka" 19.6329 -37 basechar 0
+AnchorPoint: "Shaidur" 483 672 basechar 0
+AnchorPoint: "Otsechka" 974 465 basechar 0
+AnchorPoint: "Borzaya" -1 262 basechar 0
+AnchorPoint: "Podvertka" 924 457 basechar 0
+AnchorPoint: "Zaderzhka" 1051 599.9 basechar 0
+AnchorPoint: "Podchashie" 589 282 basechar 0
+AnchorPoint: "Oblachko" 886 755 basechar 0
+AnchorPoint: "Tikhaya" 324 286.5 basechar 0
+AnchorPoint: "Lomka" 908 168 basechar 0
+AnchorPoint: "Kachka" 485 672 basechar 0
+AnchorPoint: "Kupnaya" 553 1 basechar 0
+AnchorPoint: "Udarka" 0 458 basechar 0
+AnchorPoint: "Zevok" 1043 755 basechar 0
+AnchorPoint: "Tonal" 472 568 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
-84 140 m 1
- 105 206 220 248 220 248 c 1
- 204 152 l 1
- 204 152 87 103 66 40 c 1
- 84 140 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 848 545 881 555 c 1
- 901 557 l 1
- 911 553 922 542 930 531 c 5
- 949 628 l 5
- 972 641 l 5
- 928 410 l 5
- 912 434 l 5
- 912 435 l 5
- 902 448 883 456 878 460 c 1
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-537 141 m 1
- 545 157 562 173 580 187 c 1
- 588 264 l 1
- 609 275 l 1
- 602 203 l 1
- 626 218 647 229 647 229 c 1
- 634 134 l 1
- 634 134 615 125 593 110 c 1
- 583 11 l 1
- 562 0 l 1
- 571 96 l 1
- 551 81 532 62 522 43 c 1
- 537 141 l 1
+24 66 m 1
+ 45 132 160 174 160 174 c 1
+ 144 78 l 1
+ 144 78 27 29 6 -34 c 1
+ 24 66 l 1
+84 256 m 1
+ 105 322 220 364 220 364 c 1
+ 204 268 l 1
+ 204 268 87 219 66 156 c 1
+ 84 256 l 1
+216 214 m 1
+ 238 283 340 360 399 395 c 2
+ 784 624 l 1
+ 784 624 848 661 881 671 c 1
+ 901 673 l 1
+ 911 669 922 658 930 647 c 1
+ 949 744 l 1
+ 972 757 l 1
+ 928 526 l 1
+ 912 550 l 1
+ 912 551 l 1
+ 902 564 883 572 878 576 c 1
+ 853 576 763 526 763 526 c 1
+ 378 297 l 2
+ 314 259 229 200 201 116 c 1
+ 216 214 l 1
+537 257 m 1
+ 545 273 562 289 580 303 c 1
+ 588 380 l 1
+ 609 391 l 1
+ 602 319 l 1
+ 626 334 647 345 647 345 c 1
+ 634 250 l 1
+ 634 250 615 241 593 226 c 1
+ 583 127 l 1
+ 562 116 l 1
+ 571 212 l 1
+ 551 197 532 178 522 159 c 1
+ 537 257 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-24 -50 m 1,0,1
- 33 -21 33 -21 67 6 c 128,-1,2
- 101 33 101 33 130.5 45.5 c 2,3,-1
- 160 58 l 1,4,-1
- 144 -38 l 1,5,6
- 131 -44 131 -44 111 -53.5 c 128,-1,7
- 91 -63 91 -63 53 -92.5 c 128,-1,8
- 15 -122 15 -122 6 -150 c 1,9,-1
- 24 -50 l 1,0,1
-84 140 m 1,10,11
- 93 169 93 169 127 196 c 128,-1,12
- 161 223 161 223 190.5 235.5 c 2,13,-1
- 220 248 l 1,14,-1
- 204 152 l 1,15,16
- 191 146 191 146 171 136.5 c 128,-1,17
- 151 127 151 127 113 97.5 c 128,-1,18
- 75 68 75 68 66 40 c 1,19,-1
- 84 140 l 1,10,11
-216 98 m 1,20,21
- 231 144 231 144 286.5 194.5 c 128,-1,22
- 342 245 342 245 399 279 c 2,23,-1
- 784 508 l 2,24,25
- 848 545 848 545 881 555 c 1,26,-1
- 901 557 l 1,27,28
- 915 551 915 551 930 531 c 1,29,-1
- 949 628 l 1,30,-1
- 972 641 l 1,31,-1
- 928 410 l 1,32,-1
- 912 434 l 1,33,-1
- 912 435 l 1,34,35
- 906.462 443.308 906.462 443.308 892.731 451.154 c 128,-1,36
- 879 459 879 459 878 460 c 1,37,38
- 855 460 855 460 786 422.5 c 2,39,-1
- 763 410 l 1,40,-1
- 378 181 l 2,41,42
- 233 95 233 95 201 0 c 1,43,-1
- 216 98 l 1,20,21
-537 141 m 1,44,45
- 547 162 547 162 580 187 c 1,46,-1
- 588 264 l 1,47,-1
- 609 275 l 1,48,-1
- 602 203 l 1,49,-1
- 647 229 l 1,50,-1
- 634 134 l 1,51,52
- 615 125 615 125 593 110 c 1,53,-1
- 583 11 l 1,54,-1
- 562 0 l 1,55,-1
- 571 96 l 1,56,57
- 536 70 536 70 522 43 c 1,58,-1
- 537 141 l 1,44,45
+24 66 m 1,0,1
+ 33 95 33 95 67 122 c 128,-1,2
+ 101 149 101 149 130.5 161.5 c 2,3,-1
+ 160 174 l 1,4,-1
+ 144 78 l 1,5,6
+ 131 72 131 72 111 62.5 c 128,-1,7
+ 91 53 91 53 53 23.5 c 128,-1,8
+ 15 -6 15 -6 6 -34 c 1,9,-1
+ 24 66 l 1,0,1
+84 256 m 1,10,11
+ 93 285 93 285 127 312 c 128,-1,12
+ 161 339 161 339 190.5 351.5 c 2,13,-1
+ 220 364 l 1,14,-1
+ 204 268 l 1,15,16
+ 191 262 191 262 171 252.5 c 128,-1,17
+ 151 243 151 243 113 213.5 c 128,-1,18
+ 75 184 75 184 66 156 c 1,19,-1
+ 84 256 l 1,10,11
+216 214 m 1,20,21
+ 231 260 231 260 286.5 310.5 c 128,-1,22
+ 342 361 342 361 399 395 c 2,23,-1
+ 784 624 l 2,24,25
+ 848 661 848 661 881 671 c 1,26,-1
+ 901 673 l 1,27,28
+ 915 667 915 667 930 647 c 1,29,-1
+ 949 744 l 1,30,-1
+ 972 757 l 1,31,-1
+ 928 526 l 1,32,-1
+ 912 550 l 1,33,-1
+ 912 551 l 1,34,35
+ 906.462 559.308 906.462 559.308 892.731 567.154 c 128,-1,36
+ 879 575 879 575 878 576 c 1,37,38
+ 855 576 855 576 786 538.5 c 2,39,-1
+ 763 526 l 1,40,-1
+ 378 297 l 2,41,42
+ 233 211 233 211 201 116 c 1,43,-1
+ 216 214 l 1,20,21
+537 257 m 1,44,45
+ 547 278 547 278 580 303 c 1,46,-1
+ 588 380 l 1,47,-1
+ 609 391 l 1,48,-1
+ 602 319 l 1,49,-1
+ 647 345 l 1,50,-1
+ 634 250 l 1,51,52
+ 615 241 615 241 593 226 c 1,53,-1
+ 583 127 l 1,54,-1
+ 562 116 l 1,55,-1
+ 571 212 l 1,56,57
+ 536 186 536 186 522 159 c 1,58,-1
+ 537 257 l 1,44,45
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE1
@@ -35628,117 +35552,115 @@ StartChar: uniEB17
 Encoding: 60183 60183 456
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215> 460 98<837.698 909.058>
-DStem2: 113 301 110 182 0.180875 0.983506<-117.58 0> 399 279 378 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 171 422 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 575 98<836.289 908.914>
+DStem2: 113 416 110 297 0.180875 0.983506<-117.58 0> 399 394 378 296 0.859456 0.511209<-164.478 405.968> 559.5 340 544.5 244 0.86369 0.504023<-108.05 -34.4926 68.358 143.014>
+AnchorPoint: "Podtinka" 19.6329 -38 basechar 0
+AnchorPoint: "Shaidur" 485 671 basechar 0
+AnchorPoint: "Otsechka" 974 464 basechar 0
+AnchorPoint: "Borzaya" -1 261 basechar 0
+AnchorPoint: "Podvertka" 924 456 basechar 0
+AnchorPoint: "Zaderzhka" 1051 598.9 basechar 0
+AnchorPoint: "Podchashie" 589 281 basechar 0
+AnchorPoint: "Oblachko" 886 754 basechar 0
+AnchorPoint: "Tikhaya" 324 285.5 basechar 0
+AnchorPoint: "Lomka" 908 167 basechar 0
+AnchorPoint: "Kachka" 485 671 basechar 0
+AnchorPoint: "Kupnaya" 553 0 basechar 0
+AnchorPoint: "Udarka" 0 457 basechar 0
+AnchorPoint: "Zevok" 1043 754 basechar 0
+AnchorPoint: "Tonal" 472 567 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-113 301 m 1
- 134 310 l 1
- 110 182 l 1
- 151 223 219 248 219 248 c 1
- 203 152 l 1
- 203 152 86 103 65 40 c 1
- 113 301 l 1
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 871 558 895 558 c 0
- 914 558 938 522 945 508 c 1
- 928 410 l 1
- 921 424 897 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-629 240 m 1
- 651 284 734 327 734 327 c 1
- 721 232 l 1
- 721 232 639 191 614 142 c 1
- 629 240 l 1
-476 150 m 1
- 498 194 581 237 581 237 c 1
- 568 142 l 1
- 568 142 486 101 461 52 c 1
- 476 150 l 1
+113 416 m 1
+ 134 425 l 1
+ 110 297 l 1
+ 151 338 219 363 219 363 c 1
+ 203 267 l 1
+ 203 267 86 218 65 155 c 1
+ 113 416 l 1
+24 65 m 1
+ 45 131 160 173 160 173 c 1
+ 144 77 l 1
+ 144 77 27 28 6 -35 c 1
+ 24 65 l 1
+216 213 m 1
+ 238 282 340 359 399 394 c 2
+ 784 623 l 1
+ 784 623 871 673 895 673 c 0
+ 914 673 938 637 945 623 c 1
+ 928 525 l 1
+ 921 539 897 575 878 575 c 0
+ 853 575 763 525 763 525 c 1
+ 378 296 l 2
+ 314 258 229 199 201 115 c 1
+ 216 213 l 1
+629 355 m 1
+ 651 399 734 442 734 442 c 1
+ 721 347 l 1
+ 721 347 639 306 614 257 c 1
+ 629 355 l 1
+476 265 m 1
+ 498 309 581 352 581 352 c 1
+ 568 257 l 1
+ 568 257 486 216 461 167 c 1
+ 476 265 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-113 301 m 1,0,-1
- 134 310 l 1,1,-1
- 110 182 l 1,2,3
- 145.286 217.286 145.286 217.286 201 240.5 c 2,4,-1
- 219 248 l 1,5,-1
- 203 152 l 1,6,7
- 190 146 190 146 170 136.5 c 128,-1,8
- 150 127 150 127 112 97.5 c 128,-1,9
- 74 68 74 68 65 40 c 1,10,-1
- 113 301 l 1,0,-1
-24 -50 m 1,11,12
- 33 -21 33 -21 67 6 c 128,-1,13
- 101 33 101 33 130.5 45.5 c 2,14,-1
- 160 58 l 1,15,-1
- 144 -38 l 1,16,17
- 131 -44 131 -44 111 -53.5 c 128,-1,18
- 91 -63 91 -63 53 -92.5 c 128,-1,19
- 15 -122 15 -122 6 -150 c 1,20,-1
- 24 -50 l 1,11,12
-216 98 m 1,21,22
- 231 144 231 144 286.5 194.5 c 128,-1,23
- 342 245 342 245 399 279 c 2,24,-1
- 784 508 l 1,25,26
- 871 558 871 558 895 558 c 0,27,28
- 908 558 908 558 922.5 540.5 c 128,-1,29
- 937 523 937 523 945 508 c 1,30,-1
- 928 410 l 1,31,32
- 920 425 920 425 905.5 442.5 c 128,-1,33
- 891 460 891 460 879 460 c 0,34,35
- 855 460 855 460 786 422.5 c 2,36,-1
- 763 410 l 1,37,-1
- 378 181 l 2,38,39
- 233 95 233 95 201 0 c 1,40,-1
- 216 98 l 1,21,22
-629 240 m 1,41,42
- 639 260 639 260 665 281.5 c 128,-1,43
- 691 303 691 303 712.5 315 c 2,44,-1
- 734 327 l 1,45,-1
- 721 232 l 1,46,47
- 712 227 712 227 697.5 219 c 128,-1,48
- 683 211 683 211 654 187.5 c 128,-1,49
- 625 164 625 164 614 142 c 1,50,-1
- 629 240 l 1,41,42
-476 150 m 1,51,52
- 486 170 486 170 512 191.5 c 128,-1,53
- 538 213 538 213 559.5 225 c 2,54,-1
- 581 237 l 1,55,-1
- 568 142 l 1,56,57
- 559 137 559 137 544.5 129 c 128,-1,58
- 530 121 530 121 501 97.5 c 128,-1,59
- 472 74 472 74 461 52 c 1,60,-1
- 476 150 l 1,51,52
+113 416 m 1,0,-1
+ 134 425 l 1,1,-1
+ 110 297 l 1,2,3
+ 145.286 332.286 145.286 332.286 201 355.5 c 2,4,-1
+ 219 363 l 1,5,-1
+ 203 267 l 1,6,7
+ 190 261 190 261 170 251.5 c 128,-1,8
+ 150 242 150 242 112 212.5 c 128,-1,9
+ 74 183 74 183 65 155 c 1,10,-1
+ 113 416 l 1,0,-1
+24 65 m 1,11,12
+ 33 94 33 94 67 121 c 128,-1,13
+ 101 148 101 148 130.5 160.5 c 2,14,-1
+ 160 173 l 1,15,-1
+ 144 77 l 1,16,17
+ 131 71 131 71 111 61.5 c 128,-1,18
+ 91 52 91 52 53 22.5 c 128,-1,19
+ 15 -7 15 -7 6 -35 c 1,20,-1
+ 24 65 l 1,11,12
+216 213 m 1,21,22
+ 231 259 231 259 286.5 309.5 c 128,-1,23
+ 342 360 342 360 399 394 c 2,24,-1
+ 784 623 l 1,25,26
+ 871 673 871 673 895 673 c 0,27,28
+ 908 673 908 673 922.5 655.5 c 128,-1,29
+ 937 638 937 638 945 623 c 1,30,-1
+ 928 525 l 1,31,32
+ 920 540 920 540 905.5 557.5 c 128,-1,33
+ 891 575 891 575 879 575 c 0,34,35
+ 855 575 855 575 786 537.5 c 2,36,-1
+ 763 525 l 1,37,-1
+ 378 296 l 2,38,39
+ 233 210 233 210 201 115 c 1,40,-1
+ 216 213 l 1,21,22
+629 355 m 1,41,42
+ 639 375 639 375 665 396.5 c 128,-1,43
+ 691 418 691 418 712.5 430 c 2,44,-1
+ 734 442 l 1,45,-1
+ 721 347 l 1,46,47
+ 712 342 712 342 697.5 334 c 128,-1,48
+ 683 326 683 326 654 302.5 c 128,-1,49
+ 625 279 625 279 614 257 c 1,50,-1
+ 629 355 l 1,41,42
+476 265 m 1,51,52
+ 486 285 486 285 512 306.5 c 128,-1,53
+ 538 328 538 328 559.5 340 c 2,54,-1
+ 581 352 l 1,55,-1
+ 568 257 l 1,56,57
+ 559 252 559 252 544.5 244 c 128,-1,58
+ 530 236 530 236 501 212.5 c 128,-1,59
+ 472 189 472 189 461 167 c 1,60,-1
+ 476 265 l 1,51,52
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
@@ -35747,114 +35669,112 @@ StartChar: uniEB18
 Encoding: 60184 60184 457
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215> 460 98<837.698 909.058>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 126 392 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 574 98<837.698 909.058>
+DStem2: 399 393 378 295 0.859456 0.511209<-164.673 503.142>
+AnchorPoint: "Podtinka" 19.6329 -39 basechar 0
+AnchorPoint: "Shaidur" 482 670 basechar 0
+AnchorPoint: "Otsechka" 974 463 basechar 0
+AnchorPoint: "Borzaya" -1 260 basechar 0
+AnchorPoint: "Podvertka" 924 455 basechar 0
+AnchorPoint: "Zaderzhka" 1051 597.9 basechar 0
+AnchorPoint: "Podchashie" 589 280 basechar 0
+AnchorPoint: "Oblachko" 886 753 basechar 0
+AnchorPoint: "Tikhaya" 324 284.5 basechar 0
+AnchorPoint: "Lomka" 908 166 basechar 0
+AnchorPoint: "Kachka" 485 670 basechar 0
+AnchorPoint: "Kupnaya" 553 -1 basechar 0
+AnchorPoint: "Udarka" 0 456 basechar 0
+AnchorPoint: "Zevok" 1043 753 basechar 0
+AnchorPoint: "Tonal" 472 566 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-221 368 m 5
- 242 377 l 5
- 227 302 203 151 203 151 c 5
- 170 136 84 97 65 40 c 1
- 83 140 l 1
- 98 188 162 223 197 239 c 5
- 221 368 l 5
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 871 558 895 558 c 0
- 914 558 938 522 945 508 c 1
- 928 410 l 1
- 921 424 897 460 878 460 c 0
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-629 240 m 1
- 651 284 734 327 734 327 c 1
- 721 232 l 1
- 721 232 639 191 614 142 c 1
- 629 240 l 1
-476 150 m 1
- 498 194 581 237 581 237 c 1
- 568 142 l 1
- 568 142 486 101 461 52 c 1
- 476 150 l 1
+221 482 m 1
+ 242 491 l 1
+ 227 416 203 265 203 265 c 1
+ 170 250 84 211 65 154 c 1
+ 83 254 l 1
+ 98 302 162 337 197 353 c 1
+ 221 482 l 1
+24 64 m 1
+ 45 130 160 172 160 172 c 1
+ 144 76 l 1
+ 144 76 27 27 6 -36 c 1
+ 24 64 l 1
+216 212 m 1
+ 238 281 340 358 399 393 c 2
+ 784 622 l 1
+ 784 622 871 672 895 672 c 0
+ 914 672 938 636 945 622 c 1
+ 928 524 l 1
+ 921 538 897 574 878 574 c 0
+ 853 574 763 524 763 524 c 1
+ 378 295 l 2
+ 314 257 229 198 201 114 c 1
+ 216 212 l 1
+629 354 m 1
+ 651 398 734 441 734 441 c 1
+ 721 346 l 1
+ 721 346 639 305 614 256 c 1
+ 629 354 l 1
+476 264 m 1
+ 498 308 581 351 581 351 c 1
+ 568 256 l 1
+ 568 256 486 215 461 166 c 1
+ 476 264 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-221 368 m 1,0,-1
- 242 377 l 1,1,2
- 203 151 l 1,3,4
- 84 97 84 97 65 40 c 1,5,-1
- 83 140 l 1,6,7
- 100 195 100 195 197 239 c 1,8,-1
- 221 368 l 1,0,-1
-24 -50 m 1,9,10
- 33 -21 33 -21 67 6 c 128,-1,11
- 101 33 101 33 130.5 45.5 c 2,12,-1
- 160 58 l 1,13,-1
- 144 -38 l 1,14,15
- 131 -44 131 -44 111 -53.5 c 128,-1,16
- 91 -63 91 -63 53 -92.5 c 128,-1,17
- 15 -122 15 -122 6 -150 c 1,18,-1
- 24 -50 l 1,9,10
-216 98 m 1,19,20
- 231 144 231 144 286.5 194.5 c 128,-1,21
- 342 245 342 245 399 279 c 2,22,-1
- 784 508 l 1,23,24
- 871 558 871 558 895 558 c 0,25,26
- 908 558 908 558 922.5 540.5 c 128,-1,27
- 937 523 937 523 945 508 c 1,28,-1
- 928 410 l 1,29,30
- 920 425 920 425 905.5 442.5 c 128,-1,31
- 891 460 891 460 879 460 c 0,32,33
- 855 460 855 460 786 422.5 c 2,34,-1
- 763 410 l 1,35,-1
- 378 181 l 2,36,37
- 233 95 233 95 201 0 c 1,38,-1
- 216 98 l 1,19,20
-629 240 m 1,39,40
- 639 260 639 260 665 281.5 c 128,-1,41
- 691 303 691 303 712.5 315 c 2,42,-1
- 734 327 l 1,43,-1
- 721 232 l 1,44,45
- 712 227 712 227 697.5 219 c 128,-1,46
- 683 211 683 211 654 187.5 c 128,-1,47
- 625 164 625 164 614 142 c 1,48,-1
- 629 240 l 1,39,40
-476 150 m 1,49,50
- 486 170 486 170 512 191.5 c 128,-1,51
- 538 213 538 213 559.5 225 c 2,52,-1
- 581 237 l 1,53,-1
- 568 142 l 1,54,55
- 559 137 559 137 544.5 129 c 128,-1,56
- 530 121 530 121 501 97.5 c 128,-1,57
- 472 74 472 74 461 52 c 1,58,-1
- 476 150 l 1,49,50
+221 482 m 1,0,-1
+ 242 491 l 1,1,2
+ 203 265 l 1,3,4
+ 84 211 84 211 65 154 c 1,5,-1
+ 83 254 l 1,6,7
+ 100 309 100 309 197 353 c 1,8,-1
+ 221 482 l 1,0,-1
+24 64 m 1,9,10
+ 33 93 33 93 67 120 c 128,-1,11
+ 101 147 101 147 130.5 159.5 c 2,12,-1
+ 160 172 l 1,13,-1
+ 144 76 l 1,14,15
+ 131 70 131 70 111 60.5 c 128,-1,16
+ 91 51 91 51 53 21.5 c 128,-1,17
+ 15 -8 15 -8 6 -36 c 1,18,-1
+ 24 64 l 1,9,10
+216 212 m 1,19,20
+ 231 258 231 258 286.5 308.5 c 128,-1,21
+ 342 359 342 359 399 393 c 2,22,-1
+ 784 622 l 1,23,24
+ 871 672 871 672 895 672 c 0,25,26
+ 908 672 908 672 922.5 654.5 c 128,-1,27
+ 937 637 937 637 945 622 c 1,28,-1
+ 928 524 l 1,29,30
+ 920 539 920 539 905.5 556.5 c 128,-1,31
+ 891 574 891 574 879 574 c 0,32,33
+ 855 574 855 574 786 536.5 c 2,34,-1
+ 763 524 l 1,35,-1
+ 378 295 l 2,36,37
+ 233 209 233 209 201 114 c 1,38,-1
+ 216 212 l 1,19,20
+629 354 m 1,39,40
+ 639 374 639 374 665 395.5 c 128,-1,41
+ 691 417 691 417 712.5 429 c 2,42,-1
+ 734 441 l 1,43,-1
+ 721 346 l 1,44,45
+ 712 341 712 341 697.5 333 c 128,-1,46
+ 683 325 683 325 654 301.5 c 128,-1,47
+ 625 278 625 278 614 256 c 1,48,-1
+ 629 354 l 1,39,40
+476 264 m 1,49,50
+ 486 284 486 284 512 305.5 c 128,-1,51
+ 538 327 538 327 559.5 339 c 2,52,-1
+ 581 351 l 1,53,-1
+ 568 256 l 1,54,55
+ 559 251 559 251 544.5 243 c 128,-1,56
+ 530 235 530 235 501 211.5 c 128,-1,57
+ 472 188 472 188 461 166 c 1,58,-1
+ 476 264 l 1,49,50
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE0
@@ -35865,124 +35785,122 @@ StartChar: uniEB19
 Encoding: 60185 60185 458
 Width: 955
 Flags: W
-HStem: 0 21G<204.061 215>
-VStem: 912 16<434 442.824>
-DStem2: 399 279 378 181 0.859456 0.511209<-164.673 503.142> 930 531 972 641 0.187112 0.982339<0 98.842>
-AnchorPoint: "Podtinka" 19.6329 -153 basechar 0
-AnchorPoint: "Shaidur" 150 404 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Tonal" 472 452 basechar 0
+HStem: 655 20G<882 908>
+VStem: 912 16<552 561.445>
+DStem2: 399 397 378 299 0.859456 0.511209<-164.478 405.968> 559.5 343 544.5 247 0.86369 0.504023<-108.05 -34.4926 68.358 143.014> 930 649 972 759 0.187112 0.982339<0 98.842>
+AnchorPoint: "Podtinka" 19.6329 -35 basechar 0
+AnchorPoint: "Shaidur" 484 670 basechar 0
+AnchorPoint: "Otsechka" 974 467 basechar 0
+AnchorPoint: "Borzaya" -1 264 basechar 0
+AnchorPoint: "Podvertka" 924 459 basechar 0
+AnchorPoint: "Zaderzhka" 1051 601.9 basechar 0
+AnchorPoint: "Podchashie" 589 284 basechar 0
+AnchorPoint: "Oblachko" 886 757 basechar 0
+AnchorPoint: "Tikhaya" 324 288.5 basechar 0
+AnchorPoint: "Lomka" 908 170 basechar 0
+AnchorPoint: "Kachka" 485 673 basechar 0
+AnchorPoint: "Kupnaya" 553 3 basechar 0
+AnchorPoint: "Udarka" 0 460 basechar 0
+AnchorPoint: "Zevok" 1043 757 basechar 0
+AnchorPoint: "Tonal" 472 570 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-24 -50 m 1
- 45 16 160 58 160 58 c 1
- 144 -38 l 1
- 144 -38 27 -87 6 -150 c 1
- 24 -50 l 1
-84 140 m 1
- 105 206 220 248 220 248 c 1
- 204 152 l 1
- 204 152 87 103 66 40 c 1
- 84 140 l 1
-216 98 m 1
- 238 167 340 244 399 279 c 2
- 784 508 l 1
- 784 508 848 545 882 555 c 1
- 901 557 l 1
- 911 553 922 542 930 531 c 1
- 949 628 l 1
- 972 641 l 1
- 928 410 l 1
- 912 434 l 1
- 912 435 l 1
- 902 448 883 456 878 460 c 1
- 853 460 763 410 763 410 c 1
- 378 181 l 2
- 314 143 229 84 201 0 c 1
- 216 98 l 1
-629 240 m 1
- 651 284 734 327 734 327 c 1
- 721 232 l 1
- 721 232 639 191 614 142 c 1
- 629 240 l 1
-476 150 m 1
- 498 194 581 237 581 237 c 1
- 568 142 l 1
- 568 142 486 101 461 52 c 1
- 476 150 l 1
+24 68 m 1
+ 45 134 160 176 160 176 c 1
+ 144 80 l 1
+ 144 80 27 31 6 -32 c 1
+ 24 68 l 1
+84 258 m 1
+ 105 324 220 366 220 366 c 1
+ 204 270 l 1
+ 204 270 87 221 66 158 c 1
+ 84 258 l 1
+216 216 m 1
+ 238 285 340 362 399 397 c 2
+ 784 626 l 1
+ 784 626 848 663 882 673 c 1
+ 901 675 l 1
+ 911 671 922 660 930 649 c 1
+ 949 746 l 1
+ 972 759 l 1
+ 928 528 l 1
+ 912 552 l 1
+ 912 553 l 1
+ 902 566 883 574 878 578 c 1
+ 853 578 763 528 763 528 c 1
+ 378 299 l 2
+ 314 261 229 202 201 118 c 1
+ 216 216 l 1
+629 358 m 1
+ 651 402 734 445 734 445 c 1
+ 721 350 l 1
+ 721 350 639 309 614 260 c 1
+ 629 358 l 1
+476 268 m 1
+ 498 312 581 355 581 355 c 1
+ 568 260 l 1
+ 568 260 486 219 461 170 c 1
+ 476 268 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-24 -50 m 1,0,1
- 33 -21 33 -21 67 6 c 128,-1,2
- 101 33 101 33 130.5 45.5 c 2,3,-1
- 160 58 l 1,4,-1
- 144 -38 l 1,5,6
- 131 -44 131 -44 111 -53.5 c 128,-1,7
- 91 -63 91 -63 53 -92.5 c 128,-1,8
- 15 -122 15 -122 6 -150 c 1,9,-1
- 24 -50 l 1,0,1
-84 140 m 1,10,11
- 93 169 93 169 127 196 c 128,-1,12
- 161 223 161 223 190.5 235.5 c 2,13,-1
- 220 248 l 1,14,-1
- 204 152 l 1,15,16
- 191 146 191 146 171 136.5 c 128,-1,17
- 151 127 151 127 113 97.5 c 128,-1,18
- 75 68 75 68 66 40 c 1,19,-1
- 84 140 l 1,10,11
-216 98 m 1,20,21
- 231 144 231 144 286.5 194.5 c 128,-1,22
- 342 245 342 245 399 279 c 2,23,-1
- 784 508 l 2,24,25
- 848 545 848 545 882 555 c 1,26,-1
- 901 557 l 1,27,28
- 915 551 915 551 930 531 c 1,29,-1
- 949 628 l 1,30,-1
- 972 641 l 1,31,-1
- 928 410 l 1,32,-1
- 912 434 l 1,33,-1
- 912 435 l 1,34,35
- 906.462 443.308 906.462 443.308 892.731 451.154 c 128,-1,36
- 879 459 879 459 878 460 c 1,37,38
- 855 460 855 460 786 422.5 c 2,39,-1
- 763 410 l 1,40,-1
- 378 181 l 2,41,42
- 233 95 233 95 201 0 c 1,43,-1
- 216 98 l 1,20,21
-629 240 m 1,44,45
- 639 260 639 260 665 281.5 c 128,-1,46
- 691 303 691 303 712.5 315 c 2,47,-1
- 734 327 l 1,48,-1
- 721 232 l 1,49,50
- 712 227 712 227 697.5 219 c 128,-1,51
- 683 211 683 211 654 187.5 c 128,-1,52
- 625 164 625 164 614 142 c 1,53,-1
- 629 240 l 1,44,45
-476 150 m 1,54,55
- 486 170 486 170 512 191.5 c 128,-1,56
- 538 213 538 213 559.5 225 c 2,57,-1
- 581 237 l 1,58,-1
- 568 142 l 1,59,60
- 559 137 559 137 544.5 129 c 128,-1,61
- 530 121 530 121 501 97.5 c 128,-1,62
- 472 74 472 74 461 52 c 1,63,-1
- 476 150 l 1,54,55
+24 68 m 1,0,1
+ 33 97 33 97 67 124 c 128,-1,2
+ 101 151 101 151 130.5 163.5 c 2,3,-1
+ 160 176 l 1,4,-1
+ 144 80 l 1,5,6
+ 131 74 131 74 111 64.5 c 128,-1,7
+ 91 55 91 55 53 25.5 c 128,-1,8
+ 15 -4 15 -4 6 -32 c 1,9,-1
+ 24 68 l 1,0,1
+84 258 m 1,10,11
+ 93 287 93 287 127 314 c 128,-1,12
+ 161 341 161 341 190.5 353.5 c 2,13,-1
+ 220 366 l 1,14,-1
+ 204 270 l 1,15,16
+ 191 264 191 264 171 254.5 c 128,-1,17
+ 151 245 151 245 113 215.5 c 128,-1,18
+ 75 186 75 186 66 158 c 1,19,-1
+ 84 258 l 1,10,11
+216 216 m 1,20,21
+ 231 262 231 262 286.5 312.5 c 128,-1,22
+ 342 363 342 363 399 397 c 2,23,-1
+ 784 626 l 2,24,25
+ 848 663 848 663 882 673 c 1,26,-1
+ 901 675 l 1,27,28
+ 915 669 915 669 930 649 c 1,29,-1
+ 949 746 l 1,30,-1
+ 972 759 l 1,31,-1
+ 928 528 l 1,32,-1
+ 912 552 l 1,33,-1
+ 912 553 l 1,34,35
+ 906.462 561.308 906.462 561.308 892.731 569.154 c 128,-1,36
+ 879 577 879 577 878 578 c 1,37,38
+ 855 578 855 578 786 540.5 c 2,39,-1
+ 763 528 l 1,40,-1
+ 378 299 l 2,41,42
+ 233 213 233 213 201 118 c 1,43,-1
+ 216 216 l 1,20,21
+629 358 m 1,44,45
+ 639 378 639 378 665 399.5 c 128,-1,46
+ 691 421 691 421 712.5 433 c 2,47,-1
+ 734 445 l 1,48,-1
+ 721 350 l 1,49,50
+ 712 345 712 345 697.5 337 c 128,-1,51
+ 683 329 683 329 654 305.5 c 128,-1,52
+ 625 282 625 282 614 260 c 1,53,-1
+ 629 358 l 1,44,45
+476 268 m 1,54,55
+ 486 288 486 288 512 309.5 c 128,-1,56
+ 538 331 538 331 559.5 343 c 2,57,-1
+ 581 355 l 1,58,-1
+ 568 260 l 1,59,60
+ 559 255 559 255 544.5 247 c 128,-1,61
+ 530 239 530 239 501 215.5 c 128,-1,62
+ 472 192 472 192 461 170 c 1,63,-1
+ 476 268 l 1,54,55
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE1
@@ -35997,7 +35915,7 @@ HStem: -3 21G<2 4.5 120.5 125.5> 120 99<54.2083 105.938> 140 99<214.286 265.938>
 VStem: 11 140<58.65 161.503> 120 31<31.3125 101.332> 120 11<-2.64857 33.9771> 171 140<78.65 181.503> 280 31<51.3125 121.332> 280 11<17.3514 53.9771> 1011 16<434 442.824>
 DStem2: 498 279 477 181 0.859456 0.511209<-160.623 503.142> 1029 531 1071 641 0.187112 0.982339<0 98.842>
 AnchorPoint: "Podtinka" 22.6329 -7.00003 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 579 556 basechar 0
 AnchorPoint: "Otsechka" 1069 364 basechar 0
 AnchorPoint: "Borzaya" 17 302 basechar 0
 AnchorPoint: "Podvertka" 1027 350 basechar 0
@@ -36055,7 +35973,6 @@ SplineSet
  151 119 149 103 146 87 c 2
  131 6 l 2xc440
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 291 26 m 2,0,1
@@ -36124,7 +36041,7 @@ HStem: -3 21G<2 4.5 120.5 125.5> 120 99<54.2083 105.938> 140 99<214.286 265.938>
 VStem: 11 140<58.65 161.503> 120 31<31.3125 101.332> 120 11<-2.64857 33.9771> 171 140<78.65 181.503> 280 31<51.3125 121.332> 280 11<17.3514 53.9771> 1011 16<434 442.824>
 DStem2: 498 279 477 181 0.859456 0.511209<-160.623 503.142> 1029 531 1071 641 0.187112 0.982339<0 98.842>
 AnchorPoint: "Podtinka" 22.6329 -7.00003 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 579 554 basechar 0
 AnchorPoint: "Otsechka" 1069 364 basechar 0
 AnchorPoint: "Borzaya" 17 302 basechar 0
 AnchorPoint: "Podvertka" 1027 350 basechar 0
@@ -36192,7 +36109,6 @@ SplineSet
  820 232 738 191 713 142 c 1
  728 240 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 291 26 m 2,0,1
@@ -36279,7 +36195,7 @@ HStem: -3 21G<2 4.5 120.5 125.5 303.061 314> 120 99<54.286 105.938>
 VStem: 11 140<58.65 161.503> 120 31<31.3125 101.332> 120 11<-2.64857 33.9771> 1011 16<434 442.824>
 DStem2: 211 20 232 31 0.0980107 0.995185<13.0053 96.4199 205.943 265.277> 498 279 477 181 0.859456 0.511209<-164.673 503.142> 1029 531 1071 641 0.187112 0.982339<0 98.842>
 AnchorPoint: "Podtinka" 22.6329 -7.00003 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 579 558 basechar 0
 AnchorPoint: "Otsechka" 1069 364 basechar 0
 AnchorPoint: "Borzaya" 17 302 basechar 0
 AnchorPoint: "Podvertka" 1027 350 basechar 0
@@ -36296,19 +36212,19 @@ AnchorPoint: "Tonal" 619 458 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-186 161 m 5xc4
- 194 177 211 193 229 207 c 5
- 237 284 l 5
- 258 295 l 5
- 251 223 l 5
- 275 238 296 249 296 249 c 5
- 283 154 l 5
- 283 154 264 145 242 130 c 5
- 232 31 l 5
- 211 20 l 5
- 220 116 l 5
- 200 101 181 82 171 63 c 5
- 186 161 l 5xc4
+186 161 m 1xc4
+ 194 177 211 193 229 207 c 1
+ 237 284 l 1
+ 258 295 l 1
+ 251 223 l 1
+ 275 238 296 249 296 249 c 1
+ 283 154 l 1
+ 283 154 264 145 242 130 c 1
+ 232 31 l 1
+ 211 20 l 1
+ 220 116 l 1
+ 200 101 181 82 171 63 c 1
+ 186 161 l 1xc4
 131 6 m 2xcc
  130 1 127 -3 124 -3 c 0
  117 -3 120 17 120 26 c 0xcc
@@ -36338,7 +36254,6 @@ SplineSet
  413 143 328 84 300 0 c 1
  315 98 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 186 161 m 1,0,1
@@ -36404,7 +36319,7 @@ HStem: 0 18G<2 4.5 120.5 125.5 303.061 314> 120 99<54.286 105.938>
 VStem: 11 140<58.65 161.503> 120 31<31.3125 101.332> 120 11<-2.64857 33.9771> 1011 16<434 442.824>
 DStem2: 211 20 232 31 0.0980107 0.995185<13.0053 96.4199 205.943 265.277> 498 279 477 181 0.859456 0.511209<-164.673 503.142> 1029 531 1071 641 0.187112 0.982339<0 98.842>
 AnchorPoint: "Podtinka" 22.6329 -7.00003 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 579 556 basechar 0
 AnchorPoint: "Otsechka" 1069 364 basechar 0
 AnchorPoint: "Borzaya" 17 302 basechar 0
 AnchorPoint: "Podvertka" 1027 350 basechar 0
@@ -36473,7 +36388,6 @@ SplineSet
  822 232 740 191 715 142 c 1
  730 240 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 186 161 m 1,0,1
@@ -39637,7 +39551,7 @@ AnchorPoint: "Oblachko" 133 761 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 115 254 basechar 0
 AnchorPoint: "Kupnaya" 134 762 basechar 0
 AnchorPoint: "Podvertka" 158 -74 basechar 0
 LayerCount: 3
@@ -39657,7 +39571,6 @@ SplineSet
  263 654 l 1
  248 455 227 136 218 15 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 263 654 m 1,0,1
@@ -39704,7 +39617,7 @@ AnchorPoint: "Oblachko" 133 761 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 107 273.4 basechar 0
 AnchorPoint: "Kupnaya" 134 762 basechar 0
 AnchorPoint: "Podvertka" 158 -74 basechar 0
 LayerCount: 3
@@ -39729,7 +39642,6 @@ SplineSet
  263 198 l 1
  280 297 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 263 654 m 1,0,1
@@ -39788,7 +39700,7 @@ AnchorPoint: "Oblachko" 133 761 basechar 0
 AnchorPoint: "Podchashie" 133 758 basechar 0
 AnchorPoint: "Zaderzhka" 133 757.9 basechar 0
 AnchorPoint: "Borzaya" 16 34 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
+AnchorPoint: "Shaidur" 101 256 basechar 0
 AnchorPoint: "Kupnaya" 134 762 basechar 0
 AnchorPoint: "Podvertka" 158 -74 basechar 0
 LayerCount: 3
@@ -39818,7 +39730,6 @@ SplineSet
  286 389 l 1
  396 316 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 263 654 m 1,0,1
@@ -40241,11 +40152,11 @@ AnchorPoint: "Tonal" 407 437 basechar 0
 AnchorPoint: "Podvertka" 843 350 basechar 0
 AnchorPoint: "Borzaya" -57 210 basechar 0
 AnchorPoint: "Otsechka" 900 348 basechar 0
-AnchorPoint: "Shaidur" 87 331 basechar 0
+AnchorPoint: "Shaidur" 411 557 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-165 151 m 5
+165 151 m 1
  206 203 274 253 318 279 c 2
  703 508 l 1
  703 508 790 558 814 558 c 0
@@ -40254,18 +40165,17 @@ SplineSet
  840 424 816 460 797 460 c 0
  772 460 682 410 682 410 c 1
  297 181 l 2
- 233 143 148 84 120 0 c 5
- 132 71 l 5
- 132 71 160 221 172 296 c 5
- 188 281 l 5
- 165 151 l 5
+ 233 143 148 84 120 0 c 1
+ 132 71 l 1
+ 132 71 160 221 172 296 c 1
+ 188 281 l 1
+ 165 151 l 1
 22 224 m 1
  102 99 l 1
  85 0 l 1
  5 125 l 1
  22 224 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 165 151 m 1,0,1
@@ -40318,14 +40228,14 @@ AnchorPoint: "Tonal" 407 437 basechar 0
 AnchorPoint: "Podvertka" 843 350 basechar 0
 AnchorPoint: "Borzaya" -57 210 basechar 0
 AnchorPoint: "Otsechka" 900 348 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 413 556 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-850 526 m 5
- 869 628 l 5
- 892 641 l 5
- 847 410 l 5
+850 526 m 1
+ 869 628 l 1
+ 892 641 l 1
+ 847 410 l 1
  840 424 816 460 797 460 c 0
  772 460 682 410 682 410 c 1
  297 181 l 2
@@ -40334,14 +40244,13 @@ SplineSet
  157 167 259 244 318 279 c 2
  703 508 l 1
  703 508 790 558 814 558 c 0
- 826 558 840 541 850 526 c 5
+ 826 558 840 541 850 526 c 1
 22 224 m 1
  102 99 l 1
  85 0 l 1
  5 125 l 1
  22 224 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 850 526 m 1,0,-1
@@ -40869,7 +40778,7 @@ AnchorPoint: "Tonal" 475 500 basechar 0
 AnchorPoint: "Podvertka" 820 357 basechar 0
 AnchorPoint: "Borzaya" 7.62939e-06 360 basechar 0
 AnchorPoint: "Otsechka" 864 359 basechar 0
-AnchorPoint: "Shaidur" 251 356 basechar 0
+AnchorPoint: "Shaidur" 419 556 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -40892,7 +40801,6 @@ SplineSet
  110 620 l 1
  61 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 809 529 m 1,0,-1
@@ -40938,139 +40846,138 @@ Encoding: 60201 60201 583
 Width: 1327
 VWidth: 999
 Flags: W
-HStem: 0 21G<553.061 564> 460 98<1186.7 1258.06>
-DStem2: 457 296 454 177 0.180875 0.983506<-117.58 0> 748 279 727 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 706.633 -115 basechar 0
-AnchorPoint: "Zevok" 1410 903 basechar 0
-AnchorPoint: "Udarka" 690 604 basechar 0
-AnchorPoint: "Kupnaya" 710 -115 basechar 0
-AnchorPoint: "Kachka" 691 596 basechar 0
-AnchorPoint: "Lomka" 1255 109 basechar 0
-AnchorPoint: "Tikhaya" 683 440.5 basechar 0
-AnchorPoint: "Oblachko" 1249 899 basechar 0
-AnchorPoint: "Podchashie" 950 433 basechar 0
-AnchorPoint: "Zaderzhka" 1417 727.9 basechar 0
-AnchorPoint: "Tonal" 875 475 basechar 0
-AnchorPoint: "Podvertka" 1277 566 basechar 0
-AnchorPoint: "Borzaya" 962 16 basechar 0
-AnchorPoint: "Otsechka" 1325 350 basechar 0
-AnchorPoint: "Shaidur" 688 600 basechar 0
+HStem: 568 98<1185.29 1257.91>
+VStem: 0 20<168.813 181.5> 351.5 20.5<326.8 335.558>
+DStem2: 457 404 454 285 0.180875 0.983506<-117.58 0> 748 387 727 289 0.859456 0.511209<-164.478 405.968>
+AnchorPoint: "Podtinka" 706.633 -6 basechar 0
+AnchorPoint: "Zevok" 1410 923 basechar 0
+AnchorPoint: "Udarka" 690 713 basechar 0
+AnchorPoint: "Kupnaya" 710 -6 basechar 0
+AnchorPoint: "Kachka" 691 705 basechar 0
+AnchorPoint: "Lomka" 1255 218 basechar 0
+AnchorPoint: "Tikhaya" 683 549.5 basechar 0
+AnchorPoint: "Oblachko" 1249 919 basechar 0
+AnchorPoint: "Podchashie" 950 542 basechar 0
+AnchorPoint: "Zaderzhka" 1417 836.9 basechar 0
+AnchorPoint: "Tonal" 875 584 basechar 0
+AnchorPoint: "Podvertka" 1277 675 basechar 0
+AnchorPoint: "Borzaya" 962 125 basechar 0
+AnchorPoint: "Otsechka" 1325 459 basechar 0
+AnchorPoint: "Shaidur" 25 502 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-457 296 m 1
- 478 305 l 1
- 454 177 l 1
- 495 218 563 243 563 243 c 1
- 547 147 l 1
- 547 147 430 98 409 35 c 1
- 457 296 l 1
-565 98 m 1
- 587 167 689 244 748 279 c 2
- 1133 508 l 1
- 1133 508 1220 558 1244 558 c 0
- 1263 558 1287 522 1294 508 c 1
- 1277 410 l 1
- 1270 424 1246 460 1227 460 c 0
- 1202 460 1112 410 1112 410 c 1
- 727 181 l 2
- 663 143 578 84 550 0 c 1
- 565 98 l 1
-373 -50 m 1
- 394 16 509 58 509 58 c 1
- 493 -38 l 1
- 493 -38 376 -87 355 -150 c 1
- 373 -50 l 1
-58 95 m 1
- 26 84 9 66 0 24 c 1
- 14 123 l 2
- 19 156 28 181 58 192 c 1
- 79 341 183 435 185 435 c 0
- 187 435 292 340 312 193 c 1
- 345 204 363 222 372 265 c 1
- 357 166 l 2
- 352 132 343 108 312 96 c 1
- 293 -52 187 -150 185 -150 c 0
- 183 -150 78 -51 58 95 c 1
-124 122 m 0
- 142 35 227 -72 227 -72 c 1
- 227 -72 253 24 253 109 c 0
- 253 130 252 150 248 168 c 0
- 229 253 142 356 142 356 c 1
- 142 356 119 264 119 182 c 0
- 119 161 120 140 124 122 c 0
+457 405 m 1
+ 478 414 l 1
+ 454 286 l 1
+ 495 327 563 352 563 352 c 1
+ 547 256 l 1
+ 547 256 430 207 409 144 c 1
+ 457 405 l 1
+565 207 m 1
+ 587 276 689 353 748 388 c 2
+ 1133 617 l 1
+ 1133 617 1220 667 1244 667 c 0
+ 1263 667 1287 631 1294 617 c 1
+ 1277 519 l 1
+ 1270 533 1246 569 1227 569 c 0
+ 1202 569 1112 519 1112 519 c 1
+ 727 290 l 2
+ 663 252 578 193 550 109 c 1
+ 565 207 l 1
+373 59 m 1
+ 394 125 509 167 509 167 c 1
+ 493 71 l 1
+ 493 71 376 22 355 -41 c 1
+ 373 59 l 1
+58 204 m 1
+ 26 193 9 175 0 133 c 1
+ 14 232 l 2
+ 19 265 28 290 58 301 c 1
+ 79 450 183 544 185 544 c 0
+ 187 544 292 449 312 302 c 1
+ 345 313 363 331 372 374 c 1
+ 357 275 l 2
+ 352 241 343 217 312 205 c 1
+ 293 57 187 -41 185 -41 c 0
+ 183 -41 78 58 58 204 c 1
+124 231 m 0
+ 142 144 227 37 227 37 c 1
+ 227 37 253 133 253 218 c 0
+ 253 239 252 259 248 277 c 0
+ 229 362 142 465 142 465 c 1
+ 142 465 119 373 119 291 c 0
+ 119 270 120 249 124 231 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-457 296 m 1,0,-1
- 478 305 l 1,1,-1
- 454 177 l 1,2,3
- 489.286 212.286 489.286 212.286 545 235.5 c 2,4,-1
- 563 243 l 1,5,-1
- 547 147 l 1,6,7
- 534 141 534 141 514 131.5 c 128,-1,8
- 494 122 494 122 456 92.5 c 128,-1,9
- 418 63 418 63 409 35 c 1,10,-1
- 457 296 l 1,0,-1
-565 98 m 1,11,12
- 580 144 580 144 635.5 194.5 c 128,-1,13
- 691 245 691 245 748 279 c 2,14,-1
- 1133 508 l 1,15,16
- 1220 558 1220 558 1244 558 c 0,17,18
- 1257 558 1257 558 1271.5 540.5 c 128,-1,19
- 1286 523 1286 523 1294 508 c 1,20,-1
- 1277 410 l 1,21,22
- 1269 425 1269 425 1254.5 442.5 c 128,-1,23
- 1240 460 1240 460 1228 460 c 0,24,25
- 1204 460 1204 460 1135 422.5 c 2,26,-1
- 1112 410 l 1,27,-1
- 727 181 l 2,28,29
- 582 95 582 95 550 0 c 1,30,-1
- 565 98 l 1,11,12
-373 -50 m 1,31,32
- 382 -21 382 -21 416 6 c 128,-1,33
- 450 33 450 33 479.5 45.5 c 2,34,-1
- 509 58 l 1,35,-1
- 493 -38 l 1,36,37
- 480 -44 480 -44 460 -53.5 c 128,-1,38
- 440 -63 440 -63 402 -92.5 c 128,-1,39
- 364 -122 364 -122 355 -150 c 1,40,-1
- 373 -50 l 1,31,32
-58 95 m 1,41,42
- 33 87 33 87 20 71 c 128,-1,43
- 7 55 7 55 0 24 c 1,44,-1
- 14 123 l 2,45,46
- 22 179 22 179 58 192 c 1,47,48
- 73.3196 299.237 73.3196 299.237 145 392 c 0,49,50
- 162 414 162 414 173 424.5 c 128,-1,51
- 184 435 184 435 185 435 c 0,52,53
- 189 435 189 435 214 407 c 128,-1,54
- 239 379 239 379 271 318.5 c 128,-1,55
- 303 258 303 258 312 193 c 1,56,57
- 338 202 338 202 351.5 218 c 128,-1,58
- 365 234 365 234 372 265 c 1,59,-1
- 357 166 l 2,60,61
- 349 110 349 110 312 96 c 1,62,63
- 301.848 12.7575 301.848 12.7575 262.758 -49.7879 c 128,-1,64
- 223.667 -112.333 223.667 -112.333 204.833 -131.167 c 128,-1,65
- 186 -150 186 -150 185 -150 c 0,66,67
- 181 -150 181 -150 156 -121 c 128,-1,68
- 131 -92 131 -92 99 -31 c 128,-1,69
- 67 30 67 30 58 95 c 1,41,42
-142 356 m 1,70,71
- 119 264 119 264 119 204 c 128,-1,72
- 119 144 119 144 125.5 113.5 c 128,-1,73
- 132 83 132 83 158 34.5 c 128,-1,74
- 184 -14 184 -14 205.5 -43 c 2,75,-1
- 227 -72 l 1,76,77
- 253 24 253 24 253 109 c 0,78,79
- 253 146 253 146 246.5 176 c 128,-1,80
- 240 206 240 206 213.5 253 c 128,-1,81
- 187 300 187 300 164.5 328 c 2,82,-1
- 142 356 l 1,70,71
+457 404 m 1,0,-1
+ 478 413 l 1,1,-1
+ 454 285 l 1,2,3
+ 489.286 320.286 489.286 320.286 545 343.5 c 2,4,-1
+ 563 351 l 1,5,-1
+ 547 255 l 1,6,7
+ 534 249 534 249 514 239.5 c 128,-1,8
+ 494 230 494 230 456 200.5 c 128,-1,9
+ 418 171 418 171 409 143 c 1,10,-1
+ 457 404 l 1,0,-1
+565 206 m 1,11,12
+ 580 252 580 252 635.5 302.5 c 128,-1,13
+ 691 353 691 353 748 387 c 2,14,-1
+ 1133 616 l 1,15,16
+ 1220 666 1220 666 1244 666 c 0,17,18
+ 1257 666 1257 666 1271.5 648.5 c 128,-1,19
+ 1286 631 1286 631 1294 616 c 1,20,-1
+ 1277 518 l 1,21,22
+ 1269 533 1269 533 1254.5 550.5 c 128,-1,23
+ 1240 568 1240 568 1228 568 c 0,24,25
+ 1204 568 1204 568 1135 530.5 c 2,26,-1
+ 1112 518 l 1,27,-1
+ 727 289 l 2,28,29
+ 582 203 582 203 550 108 c 1,30,-1
+ 565 206 l 1,11,12
+373 58 m 1,31,32
+ 382 87 382 87 416 114 c 128,-1,33
+ 450 141 450 141 479.5 153.5 c 2,34,-1
+ 509 166 l 1,35,-1
+ 493 70 l 1,36,37
+ 480 64 480 64 460 54.5 c 128,-1,38
+ 440 45 440 45 402 15.5 c 128,-1,39
+ 364 -14 364 -14 355 -42 c 1,40,-1
+ 373 58 l 1,31,32
+58 203 m 1,41,42
+ 33 195 33 195 20 179 c 128,-1,43
+ 7 163 7 163 0 132 c 1,44,-1
+ 14 231 l 2,45,46
+ 22 287 22 287 58 300 c 1,47,48
+ 73.3193 407.237 73.3193 407.237 145 500 c 0,49,50
+ 162 522 162 522 173 532.5 c 128,-1,51
+ 184 543 184 543 185 543 c 0,52,53
+ 189 543 189 543 214 515 c 128,-1,54
+ 239 487 239 487 271 426.5 c 128,-1,55
+ 303 366 303 366 312 301 c 1,56,57
+ 338 310 338 310 351.5 326 c 128,-1,58
+ 365 342 365 342 372 373 c 1,59,-1
+ 357 274 l 2,60,61
+ 349 218 349 218 312 204 c 1,62,63
+ 301.848 120.758 301.848 120.758 262.758 58.2119 c 128,-1,64
+ 223.667 -4.33301 223.667 -4.33301 204.833 -23.167 c 128,-1,65
+ 186 -42 186 -42 185 -42 c 0,66,67
+ 181 -42 181 -42 156 -13 c 128,-1,68
+ 131 16 131 16 99 77 c 128,-1,69
+ 67 138 67 138 58 203 c 1,41,42
+142 464 m 1,70,71
+ 119 372 119 372 119 312 c 128,-1,72
+ 119 252 119 252 125.5 221.5 c 128,-1,73
+ 132 191 132 191 158 142.5 c 128,-1,74
+ 184 94 184 94 205.5 65 c 2,75,-1
+ 227 36 l 1,76,77
+ 253 132 253 132 253 217 c 0,78,79
+ 253 254 253 254 246.5 284 c 128,-1,80
+ 240 314 240 314 213.5 361 c 128,-1,81
+ 187 408 187 408 164.5 436 c 2,82,-1
+ 142 464 l 1,70,71
 EndSplineSet
-Validated: 1
 Colour: faff80
 EndChar
 
@@ -41079,136 +40986,135 @@ Encoding: 60202 60202 584
 Width: 1327
 VWidth: 999
 Flags: W
-HStem: 0 21G<553.061 564> 460 98<1186.7 1258.06>
-DStem2: 748 279 727 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 706.633 -115 basechar 0
-AnchorPoint: "Zevok" 1410 903 basechar 0
-AnchorPoint: "Udarka" 690 604 basechar 0
-AnchorPoint: "Kupnaya" 710 -115 basechar 0
-AnchorPoint: "Kachka" 691 596 basechar 0
-AnchorPoint: "Lomka" 1255 109 basechar 0
-AnchorPoint: "Tikhaya" 683 440.5 basechar 0
-AnchorPoint: "Oblachko" 1249 899 basechar 0
-AnchorPoint: "Podchashie" 950 433 basechar 0
-AnchorPoint: "Zaderzhka" 1417 727.9 basechar 0
-AnchorPoint: "Tonal" 875 475 basechar 0
-AnchorPoint: "Podvertka" 1277 566 basechar 0
-AnchorPoint: "Borzaya" 962 16 basechar 0
-AnchorPoint: "Otsechka" 1325 350 basechar 0
-AnchorPoint: "Shaidur" 688 600 basechar 0
+HStem: 574 98<1185.29 1257.91>
+VStem: 0 20<174.813 187.5> 351.5 20.5<332.8 341.558>
+DStem2: 547 353 553 265 0.170053 0.985435<-5.60526 131.202> 748 393 727 295 0.859456 0.511209<-164.478 504.409>
+AnchorPoint: "Podtinka" 706.633 -1 basechar 0
+AnchorPoint: "Zevok" 1413 918 basechar 0
+AnchorPoint: "Udarka" 690 718 basechar 0
+AnchorPoint: "Kupnaya" 710 -1 basechar 0
+AnchorPoint: "Kachka" 691 710 basechar 0
+AnchorPoint: "Lomka" 1255 223 basechar 0
+AnchorPoint: "Tikhaya" 683 554.5 basechar 0
+AnchorPoint: "Oblachko" 1252 914 basechar 0
+AnchorPoint: "Podchashie" 950 547 basechar 0
+AnchorPoint: "Zaderzhka" 1417 841.9 basechar 0
+AnchorPoint: "Tonal" 875 589 basechar 0
+AnchorPoint: "Podvertka" 1277 680 basechar 0
+AnchorPoint: "Borzaya" 962 130 basechar 0
+AnchorPoint: "Otsechka" 1325 464 basechar 0
+AnchorPoint: "Shaidur" 31 519 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-571 368 m 1
- 592 377 l 1
- 577 302 553 151 553 151 c 1
- 520 136 434 97 415 40 c 1
- 433 140 l 1
- 448 188 512 223 547 239 c 1
- 571 368 l 1
-565 98 m 1
- 587 167 689 244 748 279 c 2
- 1133 508 l 1
- 1133 508 1220 558 1244 558 c 0
- 1263 558 1287 522 1294 508 c 1
- 1277 410 l 1
- 1270 424 1246 460 1227 460 c 0
- 1202 460 1112 410 1112 410 c 1
- 727 181 l 2
- 663 143 578 84 550 0 c 1
- 565 98 l 1
-373 -50 m 1
- 394 16 509 58 509 58 c 1
- 493 -38 l 1
- 493 -38 376 -87 355 -150 c 1
- 373 -50 l 1
-58 95 m 1
- 26 84 9 66 0 24 c 1
- 14 123 l 2
- 19 156 28 181 58 192 c 1
- 79 341 183 435 185 435 c 0
- 187 435 292 340 312 193 c 1
- 345 204 363 222 372 265 c 1
- 357 166 l 2
- 352 132 343 108 312 96 c 1
- 293 -52 187 -150 185 -150 c 0
- 183 -150 78 -51 58 95 c 1
-124 122 m 0
- 142 35 227 -72 227 -72 c 1
- 227 -72 253 24 253 109 c 0
- 253 130 252 150 248 168 c 0
- 229 253 142 356 142 356 c 1
- 142 356 119 264 119 182 c 0
- 119 161 120 140 124 122 c 0
+571 482 m 1
+ 592 491 l 1
+ 577 416 553 265 553 265 c 1
+ 520 250 434 211 415 154 c 1
+ 433 254 l 1
+ 448 302 512 337 547 353 c 1
+ 571 482 l 1
+565 212 m 1
+ 587 281 689 358 748 393 c 2
+ 1133 622 l 1
+ 1133 622 1220 672 1244 672 c 0
+ 1263 672 1287 636 1294 622 c 1
+ 1277 524 l 1
+ 1270 538 1246 574 1227 574 c 0
+ 1202 574 1112 524 1112 524 c 1
+ 727 295 l 2
+ 663 257 578 198 550 114 c 1
+ 565 212 l 1
+373 64 m 1
+ 394 130 509 172 509 172 c 1
+ 493 76 l 1
+ 493 76 376 27 355 -36 c 1
+ 373 64 l 1
+58 209 m 1
+ 26 198 9 180 0 138 c 1
+ 14 237 l 2
+ 19 270 28 295 58 306 c 1
+ 79 455 183 549 185 549 c 0
+ 187 549 292 454 312 307 c 1
+ 345 318 363 336 372 379 c 1
+ 357 280 l 2
+ 352 246 343 222 312 210 c 1
+ 293 62 187 -36 185 -36 c 0
+ 183 -36 78 63 58 209 c 1
+124 236 m 0
+ 142 149 227 42 227 42 c 1
+ 227 42 253 138 253 223 c 0
+ 253 244 252 264 248 282 c 0
+ 229 367 142 470 142 470 c 1
+ 142 470 119 378 119 296 c 0
+ 119 275 120 254 124 236 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-571 368 m 1,0,-1
- 592 377 l 1,1,2
- 553 151 l 1,3,4
- 434 97 434 97 415 40 c 1,5,-1
- 433 140 l 1,6,7
- 450 195 450 195 547 239 c 1,8,-1
- 571 368 l 1,0,-1
-565 98 m 1,9,10
- 580 144 580 144 635.5 194.5 c 128,-1,11
- 691 245 691 245 748 279 c 2,12,-1
- 1133 508 l 1,13,14
- 1220 558 1220 558 1244 558 c 0,15,16
- 1257 558 1257 558 1271.5 540.5 c 128,-1,17
- 1286 523 1286 523 1294 508 c 1,18,-1
- 1277 410 l 1,19,20
- 1269 425 1269 425 1254.5 442.5 c 128,-1,21
- 1240 460 1240 460 1228 460 c 0,22,23
- 1204 460 1204 460 1135 422.5 c 2,24,-1
- 1112 410 l 1,25,-1
- 727 181 l 2,26,27
- 582 95 582 95 550 0 c 1,28,-1
- 565 98 l 1,9,10
-373 -50 m 1,29,30
- 382 -21 382 -21 416 6 c 128,-1,31
- 450 33 450 33 479.5 45.5 c 2,32,-1
- 509 58 l 1,33,-1
- 493 -38 l 1,34,35
- 480 -44 480 -44 460 -53.5 c 128,-1,36
- 440 -63 440 -63 402 -92.5 c 128,-1,37
- 364 -122 364 -122 355 -150 c 1,38,-1
- 373 -50 l 1,29,30
-58 95 m 1,39,40
- 33 87 33 87 20 71 c 128,-1,41
- 7 55 7 55 0 24 c 1,42,-1
- 14 123 l 2,43,44
- 22 179 22 179 58 192 c 1,45,46
- 73.3196 299.237 73.3196 299.237 145 392 c 0,47,48
- 162 414 162 414 173 424.5 c 128,-1,49
- 184 435 184 435 185 435 c 0,50,51
- 189 435 189 435 214 407 c 128,-1,52
- 239 379 239 379 271 318.5 c 128,-1,53
- 303 258 303 258 312 193 c 1,54,55
- 338 202 338 202 351.5 218 c 128,-1,56
- 365 234 365 234 372 265 c 1,57,-1
- 357 166 l 2,58,59
- 349 110 349 110 312 96 c 1,60,61
- 301.848 12.7575 301.848 12.7575 262.758 -49.7879 c 128,-1,62
- 223.667 -112.333 223.667 -112.333 204.833 -131.167 c 128,-1,63
- 186 -150 186 -150 185 -150 c 0,64,65
- 181 -150 181 -150 156 -121 c 128,-1,66
- 131 -92 131 -92 99 -31 c 128,-1,67
- 67 30 67 30 58 95 c 1,39,40
-142 356 m 1,68,69
- 119 264 119 264 119 204 c 128,-1,70
- 119 144 119 144 125.5 113.5 c 128,-1,71
- 132 83 132 83 158 34.5 c 128,-1,72
- 184 -14 184 -14 205.5 -43 c 2,73,-1
- 227 -72 l 1,74,75
- 253 24 253 24 253 109 c 0,76,77
- 253 146 253 146 246.5 176 c 128,-1,78
- 240 206 240 206 213.5 253 c 128,-1,79
- 187 300 187 300 164.5 328 c 2,80,-1
- 142 356 l 1,68,69
+571 482 m 1,0,-1
+ 592 491 l 1,1,2
+ 553 265 l 1,3,4
+ 434 211 434 211 415 154 c 1,5,-1
+ 433 254 l 1,6,7
+ 450 309 450 309 547 353 c 1,8,-1
+ 571 482 l 1,0,-1
+565 212 m 1,9,10
+ 580 258 580 258 635.5 308.5 c 128,-1,11
+ 691 359 691 359 748 393 c 2,12,-1
+ 1133 622 l 1,13,14
+ 1220 672 1220 672 1244 672 c 0,15,16
+ 1257 672 1257 672 1271.5 654.5 c 128,-1,17
+ 1286 637 1286 637 1294 622 c 1,18,-1
+ 1277 524 l 1,19,20
+ 1269 539 1269 539 1254.5 556.5 c 128,-1,21
+ 1240 574 1240 574 1228 574 c 0,22,23
+ 1204 574 1204 574 1135 536.5 c 2,24,-1
+ 1112 524 l 1,25,-1
+ 727 295 l 2,26,27
+ 582 209 582 209 550 114 c 1,28,-1
+ 565 212 l 1,9,10
+373 64 m 1,29,30
+ 382 93 382 93 416 120 c 128,-1,31
+ 450 147 450 147 479.5 159.5 c 2,32,-1
+ 509 172 l 1,33,-1
+ 493 76 l 1,34,35
+ 480 70 480 70 460 60.5 c 128,-1,36
+ 440 51 440 51 402 21.5 c 128,-1,37
+ 364 -8 364 -8 355 -36 c 1,38,-1
+ 373 64 l 1,29,30
+58 209 m 1,39,40
+ 33 201 33 201 20 185 c 128,-1,41
+ 7 169 7 169 0 138 c 1,42,-1
+ 14 237 l 2,43,44
+ 22 293 22 293 58 306 c 1,45,46
+ 73.3193 413.237 73.3193 413.237 145 506 c 0,47,48
+ 162 528 162 528 173 538.5 c 128,-1,49
+ 184 549 184 549 185 549 c 0,50,51
+ 189 549 189 549 214 521 c 128,-1,52
+ 239 493 239 493 271 432.5 c 128,-1,53
+ 303 372 303 372 312 307 c 1,54,55
+ 338 316 338 316 351.5 332 c 128,-1,56
+ 365 348 365 348 372 379 c 1,57,-1
+ 357 280 l 2,58,59
+ 349 224 349 224 312 210 c 1,60,61
+ 301.848 126.758 301.848 126.758 262.758 64.2119 c 128,-1,62
+ 223.667 1.66699 223.667 1.66699 204.833 -17.167 c 128,-1,63
+ 186 -36 186 -36 185 -36 c 0,64,65
+ 181 -36 181 -36 156 -7 c 128,-1,66
+ 131 22 131 22 99 83 c 128,-1,67
+ 67 144 67 144 58 209 c 1,39,40
+142 470 m 1,68,69
+ 119 378 119 378 119 318 c 128,-1,70
+ 119 258 119 258 125.5 227.5 c 128,-1,71
+ 132 197 132 197 158 148.5 c 128,-1,72
+ 184 100 184 100 205.5 71 c 2,73,-1
+ 227 42 l 1,74,75
+ 253 138 253 138 253 223 c 0,76,77
+ 253 260 253 260 246.5 290 c 128,-1,78
+ 240 320 240 320 213.5 367 c 128,-1,79
+ 187 414 187 414 164.5 442 c 2,80,-1
+ 142 470 l 1,68,69
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAB uniEEE0
 Colour: faff80
@@ -41219,139 +41125,138 @@ Encoding: 60203 60203 585
 Width: 1355
 VWidth: 999
 Flags: W
-HStem: 0 21G<553.061 564> 460 98<1186.7 1258.28>
-DStem2: 748 279 727 181 0.859456 0.511209<-164.673 503.142> 1280 531 1277 410 0.187112 0.982339<0 98.6549>
-AnchorPoint: "Podtinka" 706.633 -115 basechar 0
-AnchorPoint: "Zevok" 1410 903 basechar 0
-AnchorPoint: "Udarka" 690 604 basechar 0
-AnchorPoint: "Kupnaya" 710 -115 basechar 0
-AnchorPoint: "Kachka" 691 596 basechar 0
-AnchorPoint: "Lomka" 1255 109 basechar 0
-AnchorPoint: "Tikhaya" 683 440.5 basechar 0
-AnchorPoint: "Oblachko" 1249 899 basechar 0
-AnchorPoint: "Podchashie" 950 433 basechar 0
-AnchorPoint: "Zaderzhka" 1417 727.9 basechar 0
-AnchorPoint: "Tonal" 875 475 basechar 0
-AnchorPoint: "Podvertka" 1277 566 basechar 0
-AnchorPoint: "Borzaya" 962 16 basechar 0
-AnchorPoint: "Otsechka" 1325 350 basechar 0
-AnchorPoint: "Shaidur" 688 600 basechar 0
+HStem: 575 98<1185.29 1257.93>
+VStem: 0 20<175.813 188.5> 351.5 20.5<333.8 342.558>
+DStem2: 748 394 727 296 0.859456 0.511209<-164.478 504.409> 1280 646 1277 525 0.187112 0.982339<0 98.6549>
+AnchorPoint: "Podtinka" 706.633 0 basechar 0
+AnchorPoint: "Zevok" 1410 896 basechar 0
+AnchorPoint: "Udarka" 690 719 basechar 0
+AnchorPoint: "Kupnaya" 710 0 basechar 0
+AnchorPoint: "Kachka" 691 711 basechar 0
+AnchorPoint: "Lomka" 1255 224 basechar 0
+AnchorPoint: "Tikhaya" 683 555.5 basechar 0
+AnchorPoint: "Oblachko" 1249 892 basechar 0
+AnchorPoint: "Podchashie" 950 548 basechar 0
+AnchorPoint: "Zaderzhka" 1417 842.9 basechar 0
+AnchorPoint: "Tonal" 875 590 basechar 0
+AnchorPoint: "Podvertka" 1277 681 basechar 0
+AnchorPoint: "Borzaya" 962 131 basechar 0
+AnchorPoint: "Otsechka" 1325 465 basechar 0
+AnchorPoint: "Shaidur" 43 502 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-1277 410 m 1
- 1270 424 1246 460 1227 460 c 0
- 1202 460 1112 410 1112 410 c 1
- 727 181 l 2
- 663 143 578 84 550 0 c 1
- 565 98 l 1
- 587 167 689 244 748 279 c 2
- 1133 508 l 1
- 1133 508 1220 558 1244 558 c 0
- 1256 558 1269 544 1280 531 c 1
- 1298 628 l 1
- 1321 641 l 1
- 1277 410 l 1
-433 140 m 1
- 454 206 569 248 569 248 c 1
- 553 152 l 1
- 553 152 436 103 415 40 c 1
- 433 140 l 1
-373 -50 m 1
- 394 16 509 58 509 58 c 1
- 493 -38 l 1
- 493 -38 376 -87 355 -150 c 1
- 373 -50 l 1
-58 95 m 1
- 26 84 9 66 0 24 c 1
- 14 123 l 2
- 19 156 28 181 58 192 c 1
- 79 341 183 435 185 435 c 0
- 187 435 292 340 312 193 c 1
- 345 204 363 222 372 265 c 1
- 357 166 l 2
- 352 132 343 108 312 96 c 1
- 293 -52 187 -150 185 -150 c 0
- 183 -150 78 -51 58 95 c 1
-124 122 m 0
- 142 35 227 -72 227 -72 c 1
- 227 -72 253 24 253 109 c 0
- 253 130 252 150 248 168 c 0
- 229 253 142 356 142 356 c 1
- 142 356 119 264 119 182 c 0
- 119 161 120 140 124 122 c 0
+1277 525 m 1
+ 1270 539 1246 575 1227 575 c 0
+ 1202 575 1112 525 1112 525 c 1
+ 727 296 l 2
+ 663 258 578 199 550 115 c 1
+ 565 213 l 1
+ 587 282 689 359 748 394 c 2
+ 1133 623 l 1
+ 1133 623 1220 673 1244 673 c 0
+ 1256 673 1269 659 1280 646 c 1
+ 1298 743 l 1
+ 1321 756 l 1
+ 1277 525 l 1
+433 255 m 1
+ 454 321 569 363 569 363 c 1
+ 553 267 l 1
+ 553 267 436 218 415 155 c 1
+ 433 255 l 1
+373 65 m 1
+ 394 131 509 173 509 173 c 1
+ 493 77 l 1
+ 493 77 376 28 355 -35 c 1
+ 373 65 l 1
+58 210 m 1
+ 26 199 9 181 0 139 c 1
+ 14 238 l 2
+ 19 271 28 296 58 307 c 1
+ 79 456 183 550 185 550 c 0
+ 187 550 292 455 312 308 c 1
+ 345 319 363 337 372 380 c 1
+ 357 281 l 2
+ 352 247 343 223 312 211 c 1
+ 293 63 187 -35 185 -35 c 0
+ 183 -35 78 64 58 210 c 1
+124 237 m 0
+ 142 150 227 43 227 43 c 1
+ 227 43 253 139 253 224 c 0
+ 253 245 252 265 248 283 c 0
+ 229 368 142 471 142 471 c 1
+ 142 471 119 379 119 297 c 0
+ 119 276 120 255 124 237 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-1277 410 m 1,0,1
- 1269 425 1269 425 1254.5 442.5 c 128,-1,2
- 1240 460 1240 460 1228 460 c 0,3,4
- 1204 460 1204 460 1135 422.5 c 2,5,-1
- 1112 410 l 1,6,-1
- 727 181 l 2,7,8
- 582 95 582 95 550 0 c 1,9,-1
- 565 98 l 1,10,11
- 580 144 580 144 635.5 194.5 c 128,-1,12
- 691 245 691 245 748 279 c 2,13,-1
- 1133 508 l 1,14,15
- 1220 558 1220 558 1244 558 c 0,16,17
- 1257 558 1257 558 1280 531 c 1,18,-1
- 1298 628 l 1,19,-1
- 1321 641 l 1,20,-1
- 1277 410 l 1,0,1
-433 140 m 1,21,22
- 442 169 442 169 476 196 c 128,-1,23
- 510 223 510 223 539.5 235.5 c 2,24,-1
- 569 248 l 1,25,-1
- 553 152 l 1,26,27
- 540 146 540 146 520 136.5 c 128,-1,28
- 500 127 500 127 462 97.5 c 128,-1,29
- 424 68 424 68 415 40 c 1,30,-1
- 433 140 l 1,21,22
-373 -50 m 1,31,32
- 382 -21 382 -21 416 6 c 128,-1,33
- 450 33 450 33 479.5 45.5 c 2,34,-1
- 509 58 l 1,35,-1
- 493 -38 l 1,36,37
- 480 -44 480 -44 460 -53.5 c 128,-1,38
- 440 -63 440 -63 402 -92.5 c 128,-1,39
- 364 -122 364 -122 355 -150 c 1,40,-1
- 373 -50 l 1,31,32
-58 95 m 1,41,42
- 33 87 33 87 20 71 c 128,-1,43
- 7 55 7 55 0 24 c 1,44,-1
- 14 123 l 2,45,46
- 22 179 22 179 58 192 c 1,47,48
- 73.3196 299.237 73.3196 299.237 145 392 c 0,49,50
- 162 414 162 414 173 424.5 c 128,-1,51
- 184 435 184 435 185 435 c 0,52,53
- 189 435 189 435 214 407 c 128,-1,54
- 239 379 239 379 271 318.5 c 128,-1,55
- 303 258 303 258 312 193 c 1,56,57
- 338 202 338 202 351.5 218 c 128,-1,58
- 365 234 365 234 372 265 c 1,59,-1
- 357 166 l 2,60,61
- 349 110 349 110 312 96 c 1,62,63
- 301.848 12.7575 301.848 12.7575 262.758 -49.7879 c 128,-1,64
- 223.667 -112.333 223.667 -112.333 204.833 -131.167 c 128,-1,65
- 186 -150 186 -150 185 -150 c 0,66,67
- 181 -150 181 -150 156 -121 c 128,-1,68
- 131 -92 131 -92 99 -31 c 128,-1,69
- 67 30 67 30 58 95 c 1,41,42
-142 356 m 1,70,71
- 119 264 119 264 119 204 c 128,-1,72
- 119 144 119 144 125.5 113.5 c 128,-1,73
- 132 83 132 83 158 34.5 c 128,-1,74
- 184 -14 184 -14 205.5 -43 c 2,75,-1
- 227 -72 l 1,76,77
- 253 24 253 24 253 109 c 0,78,79
- 253 146 253 146 246.5 176 c 128,-1,80
- 240 206 240 206 213.5 253 c 128,-1,81
- 187 300 187 300 164.5 328 c 2,82,-1
- 142 356 l 1,70,71
+1277 525 m 1,0,1
+ 1269 540 1269 540 1254.5 557.5 c 128,-1,2
+ 1240 575 1240 575 1228 575 c 0,3,4
+ 1204 575 1204 575 1135 537.5 c 2,5,-1
+ 1112 525 l 1,6,-1
+ 727 296 l 2,7,8
+ 582 210 582 210 550 115 c 1,9,-1
+ 565 213 l 1,10,11
+ 580 259 580 259 635.5 309.5 c 128,-1,12
+ 691 360 691 360 748 394 c 2,13,-1
+ 1133 623 l 1,14,15
+ 1220 673 1220 673 1244 673 c 0,16,17
+ 1257 673 1257 673 1280 646 c 1,18,-1
+ 1298 743 l 1,19,-1
+ 1321 756 l 1,20,-1
+ 1277 525 l 1,0,1
+433 255 m 1,21,22
+ 442 284 442 284 476 311 c 128,-1,23
+ 510 338 510 338 539.5 350.5 c 2,24,-1
+ 569 363 l 1,25,-1
+ 553 267 l 1,26,27
+ 540 261 540 261 520 251.5 c 128,-1,28
+ 500 242 500 242 462 212.5 c 128,-1,29
+ 424 183 424 183 415 155 c 1,30,-1
+ 433 255 l 1,21,22
+373 65 m 1,31,32
+ 382 94 382 94 416 121 c 128,-1,33
+ 450 148 450 148 479.5 160.5 c 2,34,-1
+ 509 173 l 1,35,-1
+ 493 77 l 1,36,37
+ 480 71 480 71 460 61.5 c 128,-1,38
+ 440 52 440 52 402 22.5 c 128,-1,39
+ 364 -7 364 -7 355 -35 c 1,40,-1
+ 373 65 l 1,31,32
+58 210 m 1,41,42
+ 33 202 33 202 20 186 c 128,-1,43
+ 7 170 7 170 0 139 c 1,44,-1
+ 14 238 l 2,45,46
+ 22 294 22 294 58 307 c 1,47,48
+ 73.3193 414.237 73.3193 414.237 145 507 c 0,49,50
+ 162 529 162 529 173 539.5 c 128,-1,51
+ 184 550 184 550 185 550 c 0,52,53
+ 189 550 189 550 214 522 c 128,-1,54
+ 239 494 239 494 271 433.5 c 128,-1,55
+ 303 373 303 373 312 308 c 1,56,57
+ 338 317 338 317 351.5 333 c 128,-1,58
+ 365 349 365 349 372 380 c 1,59,-1
+ 357 281 l 2,60,61
+ 349 225 349 225 312 211 c 1,62,63
+ 301.848 127.758 301.848 127.758 262.758 65.2119 c 128,-1,64
+ 223.667 2.66699 223.667 2.66699 204.833 -16.167 c 128,-1,65
+ 186 -35 186 -35 185 -35 c 0,66,67
+ 181 -35 181 -35 156 -6 c 128,-1,68
+ 131 23 131 23 99 84 c 128,-1,69
+ 67 145 67 145 58 210 c 1,41,42
+142 471 m 1,70,71
+ 119 379 119 379 119 319 c 128,-1,72
+ 119 259 119 259 125.5 228.5 c 128,-1,73
+ 132 198 132 198 158 149.5 c 128,-1,74
+ 184 101 184 101 205.5 72 c 2,75,-1
+ 227 43 l 1,76,77
+ 253 139 253 139 253 224 c 0,78,79
+ 253 261 253 261 246.5 291 c 128,-1,80
+ 240 321 240 321 213.5 368 c 128,-1,81
+ 187 415 187 415 164.5 443 c 2,82,-1
+ 142 471 l 1,70,71
 EndSplineSet
-Validated: 1
 LCarets2: 1 0 
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAB uniEEE1
 Colour: faff80
@@ -41556,7 +41461,7 @@ AnchorPoint: "Tonal" 556 436 basechar 0
 AnchorPoint: "Podvertka" 981 350 basechar 0
 AnchorPoint: "Borzaya" -57 210 basechar 0
 AnchorPoint: "Otsechka" 1050 351 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 559 554 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -41585,7 +41490,6 @@ SplineSet
  40 125 l 1
  57 224 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 988 408 m 1,0,-1
@@ -41642,7 +41546,7 @@ AnchorPoint: "Tonal" 556 436 basechar 0
 AnchorPoint: "Podvertka" 981 350 basechar 0
 AnchorPoint: "Borzaya" -57 210 basechar 0
 AnchorPoint: "Otsechka" 1050 351 basechar 0
-AnchorPoint: "Shaidur" 153 304 basechar 0
+AnchorPoint: "Shaidur" 561 555 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -41680,7 +41584,6 @@ SplineSet
  966 558 980 543 991 529 c 1
  1009 628 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 162 224 m 1,0,-1
@@ -41755,11 +41658,11 @@ AnchorPoint: "Tonal" 550 450 basechar 0
 AnchorPoint: "Podvertka" 980 350 basechar 0
 AnchorPoint: "Borzaya" -87 210 basechar 0
 AnchorPoint: "Otsechka" 1020 355 basechar 0
-AnchorPoint: "Shaidur" 123 304 basechar 0
+AnchorPoint: "Shaidur" 529 558 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-962 408 m 5
+962 408 m 1
  954 422 926 460 907 460 c 0
  882 460 792 410 792 410 c 1
  407 181 l 2
@@ -41768,10 +41671,10 @@ SplineSet
  267 167 369 244 428 279 c 2
  813 508 l 1
  813 508 900 558 924 558 c 0
- 936 558 950 543 960 530 c 5
- 979 628 l 5
- 1002 641 l 5
- 962 408 l 5
+ 936 558 950 543 960 530 c 1
+ 979 628 l 1
+ 1002 641 l 1
+ 962 408 l 1
 27 224 m 1
  107 99 l 1
  90 0 l 1
@@ -41796,7 +41699,6 @@ SplineSet
  575 81 556 62 546 43 c 1
  561 141 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 962 408 m 1,0,1
@@ -41977,7 +41879,7 @@ AnchorPoint: "Tonal" 475 500 basechar 0
 AnchorPoint: "Podvertka" 820 357 basechar 0
 AnchorPoint: "Borzaya" 7.62939e-06 360 basechar 0
 AnchorPoint: "Otsechka" 864 359 basechar 0
-AnchorPoint: "Shaidur" 251 356 basechar 0
+AnchorPoint: "Shaidur" 419 556 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -42002,7 +41904,6 @@ SplineSet
  110 620 l 1
  61 100 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 422 365 m 1,0,-1
@@ -64565,93 +64466,93 @@ Encoding: 61136 61136 879
 Width: 957
 VWidth: 999
 Flags: W
-HStem: 0 21G<207.061 218> 460 98<840.698 912.058>
-AnchorPoint: "Podtinka" 17.5 -175 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Kachka" 395 403 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Tonal" 395 406 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Shaidur" 234 404 basechar 0
+HStem: 577 98<839.289 911.914> 647 20G<504.928 526>
+VStem: 507 19<648 667>
+DStem2: 402 396 381 298 0.859456 0.511209<-164.478 95.5247 122.449 504.409> 484 445 507 459 0.103052 0.994676<16.2957 223.188>
+AnchorPoint: "Podtinka" 17.5 -58 basechar 0
+AnchorPoint: "Zevok" 1043 756 basechar 0
+AnchorPoint: "Udarka" 0 459 basechar 0
+AnchorPoint: "Kupnaya" 553 2 basechar 0
+AnchorPoint: "Kachka" 395 520 basechar 0
+AnchorPoint: "Lomka" 908 169 basechar 0
+AnchorPoint: "Tikhaya" 324 287.5 basechar 0
+AnchorPoint: "Oblachko" 886 756 basechar 0
+AnchorPoint: "Podchashie" 589 283 basechar 0
+AnchorPoint: "Zaderzhka" 1051 600.9 basechar 0
+AnchorPoint: "Tonal" 395 523 basechar 0
+AnchorPoint: "Podvertka" 924 458 basechar 0
+AnchorPoint: "Borzaya" -1 263 basechar 0
+AnchorPoint: "Otsechka" 974 466 basechar 0
+AnchorPoint: "Shaidur" 396 523 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-787 508 m 1
- 787 508 874 558 898 558 c 0
- 917 558 941 522 948 508 c 1
- 931 410 l 1
- 924 424 900 460 881 460 c 0
- 856 460 766 410 766 410 c 1
- 381 181 l 2
- 317 143 232 84 204 0 c 1
- 219 98 l 1
- 241 167 343 244 402 279 c 2
- 484 328 l 1
- 507 550 l 1
- 526 550 l 1
- 507 342 l 1
- 667.761 434.642 570.008 379.094 787 508 c 1
-27 -50 m 1
- 48 16 163 58 163 58 c 1
- 147 -38 l 1
- 147 -38 30 -87 9 -150 c 1
- 27 -50 l 1
-87 140 m 1
- 108 206 223 248 223 248 c 1
- 207 152 l 1
- 207 152 90 103 69 40 c 1
- 87 140 l 1
+787 625 m 1x60
+ 787 625 874 675 898 675 c 0
+ 917 675 941 639 948 625 c 1
+ 931 527 l 1
+ 924 541 900 577 881 577 c 0xa0
+ 856 577 766 527 766 527 c 1
+ 381 298 l 2
+ 317 260 232 201 204 117 c 1
+ 219 215 l 1
+ 241 284 343 361 402 396 c 2
+ 484 445 l 1
+ 507 667 l 1
+ 526 667 l 1
+ 507 459 l 1
+ 667.761 551.642 570.008 496.094 787 625 c 1x60
+27 67 m 1
+ 48 133 163 175 163 175 c 1
+ 147 79 l 1
+ 147 79 30 30 9 -33 c 1
+ 27 67 l 1
+87 257 m 1
+ 108 323 223 365 223 365 c 1
+ 207 269 l 1
+ 207 269 90 220 69 157 c 1
+ 87 257 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-787 508 m 1,0,1
- 874 558 874 558 898 558 c 0,2,3
- 911 558 911 558 925.5 540.5 c 128,-1,4
- 940 523 940 523 948 508 c 1,5,-1
- 931 410 l 1,6,7
- 923 425 923 425 908.5 442.5 c 128,-1,8
- 894 460 894 460 882 460 c 0,9,10
- 858 460 858 460 789 422.5 c 2,11,-1
- 766 410 l 1,12,-1
- 381 181 l 2,13,14
- 236 95 236 95 204 0 c 1,15,-1
- 219 98 l 1,16,17
- 234 144 234 144 289.5 194.5 c 128,-1,18
- 345 245 345 245 402 279 c 2,19,-1
- 484 328 l 1,20,-1
- 507 550 l 1,21,-1
- 526 550 l 1,22,-1
- 507 342 l 1,23,24
- 526 353 526 353 787 508 c 1,0,1
-27 -50 m 1,25,26
- 36 -21 36 -21 70 6 c 128,-1,27
- 104 33 104 33 133.5 45.5 c 2,28,-1
- 163 58 l 1,29,-1
- 147 -38 l 1,30,31
- 134 -44 134 -44 114 -53.5 c 128,-1,32
- 94 -63 94 -63 56 -92.5 c 128,-1,33
- 18 -122 18 -122 9 -150 c 1,34,-1
- 27 -50 l 1,25,26
-87 140 m 1,35,36
- 96 169 96 169 130 196 c 128,-1,37
- 164 223 164 223 193.5 235.5 c 2,38,-1
- 223 248 l 1,39,-1
- 207 152 l 1,40,41
- 194 146 194 146 174 136.5 c 128,-1,42
- 154 127 154 127 116 97.5 c 128,-1,43
- 78 68 78 68 69 40 c 1,44,-1
- 87 140 l 1,35,36
+787 625 m 1,0,1
+ 874 675 874 675 898 675 c 0,2,3
+ 911 675 911 675 925.5 657.5 c 128,-1,4
+ 940 640 940 640 948 625 c 1,5,-1
+ 931 527 l 1,6,7
+ 923 542 923 542 908.5 559.5 c 128,-1,8
+ 894 577 894 577 882 577 c 0,9,10
+ 858 577 858 577 789 539.5 c 2,11,-1
+ 766 527 l 1,12,-1
+ 381 298 l 2,13,14
+ 236 212 236 212 204 117 c 1,15,-1
+ 219 215 l 1,16,17
+ 234 261 234 261 289.5 311.5 c 128,-1,18
+ 345 362 345 362 402 396 c 2,19,-1
+ 484 445 l 1,20,-1
+ 507 667 l 1,21,-1
+ 526 667 l 1,22,-1
+ 507 459 l 1,23,24
+ 526 470 526 470 787 625 c 1,0,1
+27 67 m 1,25,26
+ 36 96 36 96 70 123 c 128,-1,27
+ 104 150 104 150 133.5 162.5 c 2,28,-1
+ 163 175 l 1,29,-1
+ 147 79 l 1,30,31
+ 134 73 134 73 114 63.5 c 128,-1,32
+ 94 54 94 54 56 24.5 c 128,-1,33
+ 18 -5 18 -5 9 -33 c 1,34,-1
+ 27 67 l 1,25,26
+87 257 m 1,35,36
+ 96 286 96 286 130 313 c 128,-1,37
+ 164 340 164 340 193.5 352.5 c 2,38,-1
+ 223 365 l 1,39,-1
+ 207 269 l 1,40,41
+ 194 263 194 263 174 253.5 c 128,-1,42
+ 154 244 154 244 116 214.5 c 128,-1,43
+ 78 185 78 185 69 157 c 1,44,-1
+ 87 257 l 1,35,36
 EndSplineSet
-Validated: 1
 Colour: ffb54c
 EndChar
 
@@ -64660,103 +64561,101 @@ Encoding: 61137 61137 880
 Width: 957
 VWidth: 999
 Flags: W
-HStem: 0 21G<207.061 218> 460 98<840.698 912.058>
-VStem: 507 19<531 550> 582 19<531 550>
-DStem2: 402 279 381 181 0.859456 0.511209<-164.673 95.5247 122.449 190.538 213.002 503.142> 484 328 507 342 0.103052 0.994676<16.2957 223.188> 566 376 585 388 0.0915677 0.995799<13.6894 174.734>
-AnchorPoint: "Podtinka" 17.5 -175 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Kachka" 239 565 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Podchashie" 589 166 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Tonal" 242 558 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Shaidur" 234 404 basechar 0
+HStem: 576 98<839.289 911.914> 646 20G<504.928 526 580.161 601>
+VStem: 507 19<647 666> 582 19<647 666>
+DStem2: 402 395 381 297 0.859456 0.511209<-164.478 95.5247 122.449 190.538 213.002 504.409> 484 444 507 458 0.103052 0.994676<16.2957 223.188> 566 492 585 504 0.0915677 0.995799<13.6894 174.734>
+AnchorPoint: "Podtinka" 17.5 -59 basechar 0
+AnchorPoint: "Zevok" 1043 755 basechar 0
+AnchorPoint: "Udarka" 0 458 basechar 0
+AnchorPoint: "Kupnaya" 553 1 basechar 0
+AnchorPoint: "Kachka" 353 673 basechar 0
+AnchorPoint: "Lomka" 908 168 basechar 0
+AnchorPoint: "Tikhaya" 324 286.5 basechar 0
+AnchorPoint: "Oblachko" 886 755 basechar 0
+AnchorPoint: "Podchashie" 589 282 basechar 0
+AnchorPoint: "Zaderzhka" 1051 599.9 basechar 0
+AnchorPoint: "Tonal" 356 666 basechar 0
+AnchorPoint: "Podvertka" 924 457 basechar 0
+AnchorPoint: "Borzaya" -1 262 basechar 0
+AnchorPoint: "Otsechka" 974 465 basechar 0
+AnchorPoint: "Shaidur" 354 672 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-566 376 m 5
- 582 550 l 5
- 601 550 l 5
- 585 388 l 5
- 787 508 l 5
- 787 508 874 558 898 558 c 4
- 917 558 941 522 948 508 c 5
- 931 410 l 5
- 924 424 900 460 881 460 c 4
- 856 460 766 410 766 410 c 5
- 381 181 l 6
- 317 143 232 84 204 0 c 5
- 219 98 l 5
- 241 167 343 244 402 279 c 6
- 484 328 l 5
- 507 550 l 5
- 526 550 l 5
- 507 342 l 5
- 566 376 l 5
-27 -50 m 1
- 48 16 163 58 163 58 c 1
- 147 -38 l 1
- 147 -38 30 -87 9 -150 c 1
- 27 -50 l 1
-87 140 m 1
- 108 206 223 248 223 248 c 1
- 207 152 l 1
- 207 152 90 103 69 40 c 1
- 87 140 l 1
+566 492 m 1x70
+ 582 666 l 1
+ 601 666 l 1x70
+ 585 504 l 1
+ 787 624 l 1
+ 787 624 874 674 898 674 c 0
+ 917 674 941 638 948 624 c 1
+ 931 526 l 1
+ 924 540 900 576 881 576 c 0xb0
+ 856 576 766 526 766 526 c 1
+ 381 297 l 2
+ 317 259 232 200 204 116 c 1
+ 219 214 l 1
+ 241 283 343 360 402 395 c 2
+ 484 444 l 1
+ 507 666 l 1
+ 526 666 l 1
+ 507 458 l 1
+ 566 492 l 1x70
+27 66 m 1
+ 48 132 163 174 163 174 c 1
+ 147 78 l 1
+ 147 78 30 29 9 -34 c 1
+ 27 66 l 1
+87 256 m 1
+ 108 322 223 364 223 364 c 1
+ 207 268 l 1
+ 207 268 90 219 69 156 c 1
+ 87 256 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-566 376 m 1,0,-1
- 582 550 l 1,1,-1
- 601 550 l 1,2,-1
- 585 388 l 1,3,-1
- 787 508 l 1,4,5
- 874 558 874 558 898 558 c 0,6,7
- 911 558 911 558 925.5 540.5 c 128,-1,8
- 940 523 940 523 948 508 c 1,9,-1
- 931 410 l 1,10,11
- 923 425 923 425 908.5 442.5 c 128,-1,12
- 894 460 894 460 882 460 c 0,13,14
- 858 460 858 460 789 422.5 c 2,15,-1
- 766 410 l 1,16,-1
- 381 181 l 2,17,18
- 236 95 236 95 204 0 c 1,19,-1
- 219 98 l 1,20,21
- 234 144 234 144 289.5 194.5 c 128,-1,22
- 345 245 345 245 402 279 c 2,23,-1
- 484 328 l 1,24,-1
- 507 550 l 1,25,-1
- 526 550 l 1,26,-1
- 507 342 l 1,27,-1
- 566 376 l 1,0,-1
-27 -50 m 1,28,29
- 36 -21 36 -21 70 6 c 128,-1,30
- 104 33 104 33 133.5 45.5 c 2,31,-1
- 163 58 l 1,32,-1
- 147 -38 l 1,33,34
- 134 -44 134 -44 114 -53.5 c 128,-1,35
- 94 -63 94 -63 56 -92.5 c 128,-1,36
- 18 -122 18 -122 9 -150 c 1,37,-1
- 27 -50 l 1,28,29
-87 140 m 1,38,39
- 96 169 96 169 130 196 c 128,-1,40
- 164 223 164 223 193.5 235.5 c 2,41,-1
- 223 248 l 1,42,-1
- 207 152 l 1,43,44
- 194 146 194 146 174 136.5 c 128,-1,45
- 154 127 154 127 116 97.5 c 128,-1,46
- 78 68 78 68 69 40 c 1,47,-1
- 87 140 l 1,38,39
+566 492 m 1,0,-1
+ 582 666 l 1,1,-1
+ 601 666 l 1,2,-1
+ 585 504 l 1,3,-1
+ 787 624 l 1,4,5
+ 874 674 874 674 898 674 c 0,6,7
+ 911 674 911 674 925.5 656.5 c 128,-1,8
+ 940 639 940 639 948 624 c 1,9,-1
+ 931 526 l 1,10,11
+ 923 541 923 541 908.5 558.5 c 128,-1,12
+ 894 576 894 576 882 576 c 0,13,14
+ 858 576 858 576 789 538.5 c 2,15,-1
+ 766 526 l 1,16,-1
+ 381 297 l 2,17,18
+ 236 211 236 211 204 116 c 1,19,-1
+ 219 214 l 1,20,21
+ 234 260 234 260 289.5 310.5 c 128,-1,22
+ 345 361 345 361 402 395 c 2,23,-1
+ 484 444 l 1,24,-1
+ 507 666 l 1,25,-1
+ 526 666 l 1,26,-1
+ 507 458 l 1,27,-1
+ 566 492 l 1,0,-1
+27 66 m 1,28,29
+ 36 95 36 95 70 122 c 128,-1,30
+ 104 149 104 149 133.5 161.5 c 2,31,-1
+ 163 174 l 1,32,-1
+ 147 78 l 1,33,34
+ 134 72 134 72 114 62.5 c 128,-1,35
+ 94 53 94 53 56 23.5 c 128,-1,36
+ 18 -6 18 -6 9 -34 c 1,37,-1
+ 27 66 l 1,28,29
+87 256 m 1,38,39
+ 96 285 96 285 130 312 c 128,-1,40
+ 164 339 164 339 193.5 351.5 c 2,41,-1
+ 223 364 l 1,42,-1
+ 207 268 l 1,43,44
+ 194 262 194 262 174 252.5 c 128,-1,45
+ 154 243 154 243 116 213.5 c 128,-1,46
+ 78 184 78 184 69 156 c 1,47,-1
+ 87 256 l 1,38,39
 EndSplineSet
-Validated: 1
 Colour: ffb54c
 EndChar
 
@@ -64765,100 +64664,98 @@ Encoding: 61138 61138 881
 Width: 957
 VWidth: 0
 Flags: W
-HStem: 0 21G<207.061 218> 460 98<840.698 912.058>
-DStem2: 402 279 381 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 17.5 -175 basechar 0
-AnchorPoint: "Zevok" 1048 659 basechar 0
-AnchorPoint: "Udarka" -12 454 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Kachka" 496 556 basechar 0
-AnchorPoint: "Lomka" 939 52 basechar 0
-AnchorPoint: "Tikhaya" 342 194.5 basechar 0
-AnchorPoint: "Oblachko" 902 667 basechar 0
-AnchorPoint: "Podchashie" 518 599 basechar 0
-AnchorPoint: "Zaderzhka" 1052 483.9 basechar 0
-AnchorPoint: "Tonal" 525 475 basechar 0
-AnchorPoint: "Podvertka" 953 350 basechar 0
-AnchorPoint: "Borzaya" -27 156 basechar 0
-AnchorPoint: "Otsechka" 995 375 basechar 0
-AnchorPoint: "Shaidur" 207 322 basechar 0
+HStem: 575 98<839.289 911.914>
+DStem2: 402 394 381 296 0.859456 0.511209<-164.478 405.968>
+AnchorPoint: "Podtinka" 17.5 -59 basechar 0
+AnchorPoint: "Zevok" 1048 775 basechar 0
+AnchorPoint: "Udarka" -12 570 basechar 0
+AnchorPoint: "Kupnaya" 553 1 basechar 0
+AnchorPoint: "Kachka" 496 672 basechar 0
+AnchorPoint: "Lomka" 939 168 basechar 0
+AnchorPoint: "Tikhaya" 342 310.5 basechar 0
+AnchorPoint: "Oblachko" 902 783 basechar 0
+AnchorPoint: "Podchashie" 498 677 basechar 0
+AnchorPoint: "Zaderzhka" 1052 599.9 basechar 0
+AnchorPoint: "Tonal" 525 591 basechar 0
+AnchorPoint: "Podvertka" 953 466 basechar 0
+AnchorPoint: "Borzaya" -27 272 basechar 0
+AnchorPoint: "Otsechka" 995 491 basechar 0
+AnchorPoint: "Shaidur" 499 672 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-27 -50 m 1
- 48 16 163 58 163 58 c 1
- 147 -38 l 1
- 147 -38 30 -87 9 -150 c 1
- 27 -50 l 1
-87 140 m 1
- 108 206 223 248 223 248 c 1
- 207 152 l 1
- 207 152 90 103 69 40 c 1
- 87 140 l 1
-219 98 m 1
- 241 167 343 244 402 279 c 2
- 787 508 l 1
- 787 508 874 558 898 558 c 0
- 917 558 941 522 948 508 c 1
- 931 410 l 1
- 924 424 900 460 881 460 c 0
- 856 460 766 410 766 410 c 1
- 381 181 l 2
- 317 143 232 84 204 0 c 1
- 219 98 l 1
-548 208 m 1
- 570 252 654 295 654 295 c 1
- 640 200 l 1
- 640 200 558 159 534 110 c 1
- 548 208 l 1
+27 66 m 1
+ 48 132 163 174 163 174 c 1
+ 147 78 l 1
+ 147 78 30 29 9 -34 c 1
+ 27 66 l 1
+87 256 m 1
+ 108 322 223 364 223 364 c 1
+ 207 268 l 1
+ 207 268 90 219 69 156 c 1
+ 87 256 l 1
+219 214 m 1
+ 241 283 343 360 402 395 c 2
+ 787 624 l 1
+ 787 624 874 674 898 674 c 0
+ 917 674 941 638 948 624 c 1
+ 931 526 l 1
+ 924 540 900 576 881 576 c 0
+ 856 576 766 526 766 526 c 1
+ 381 297 l 2
+ 317 259 232 200 204 116 c 1
+ 219 214 l 1
+548 324 m 1
+ 570 368 654 411 654 411 c 1
+ 640 316 l 1
+ 640 316 558 275 534 226 c 1
+ 548 324 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-27 -50 m 1,0,1
- 36 -21 36 -21 70 6 c 128,-1,2
- 104 33 104 33 133.5 45.5 c 2,3,-1
- 163 58 l 1,4,-1
- 147 -38 l 1,5,6
- 134 -44 134 -44 114 -53.5 c 128,-1,7
- 94 -63 94 -63 56 -92.5 c 128,-1,8
- 18 -122 18 -122 9 -150 c 1,9,-1
- 27 -50 l 1,0,1
-87 140 m 1,10,11
- 96 169 96 169 130 196 c 128,-1,12
- 164 223 164 223 193.5 235.5 c 2,13,-1
- 223 248 l 1,14,-1
- 207 152 l 1,15,16
- 194 146 194 146 174 136.5 c 128,-1,17
- 154 127 154 127 116 97.5 c 128,-1,18
- 78 68 78 68 69 40 c 1,19,-1
- 87 140 l 1,10,11
-219 98 m 1,20,21
- 234 144 234 144 289.5 194.5 c 128,-1,22
- 345 245 345 245 402 279 c 2,23,-1
- 787 508 l 1,24,25
- 874 558 874 558 898 558 c 0,26,27
- 911 558 911 558 925.5 540.5 c 128,-1,28
- 940 523 940 523 948 508 c 1,29,-1
- 931 410 l 1,30,31
- 923 425 923 425 908.5 442.5 c 128,-1,32
- 894 460 894 460 882 460 c 0,33,34
- 858 460 858 460 789 422.5 c 2,35,-1
- 766 410 l 1,36,-1
- 381 181 l 2,37,38
- 236 95 236 95 204 0 c 1,39,-1
- 219 98 l 1,20,21
-548 208 m 1,40,41
- 558 228 558 228 584.5 249.5 c 128,-1,42
- 611 271 611 271 632.5 283 c 2,43,-1
- 654 295 l 1,44,-1
- 640 200 l 1,45,46
- 631 195 631 195 616.5 187 c 128,-1,47
- 602 179 602 179 573.5 155.5 c 128,-1,48
- 545 132 545 132 534 110 c 1,49,-1
- 548 208 l 1,40,41
+27 65 m 1,0,1
+ 36 94 36 94 70 121 c 128,-1,2
+ 104 148 104 148 133.5 160.5 c 2,3,-1
+ 163 173 l 1,4,-1
+ 147 77 l 1,5,6
+ 134 71 134 71 114 61.5 c 128,-1,7
+ 94 52 94 52 56 22.5 c 128,-1,8
+ 18 -7 18 -7 9 -35 c 1,9,-1
+ 27 65 l 1,0,1
+87 255 m 1,10,11
+ 96 284 96 284 130 311 c 128,-1,12
+ 164 338 164 338 193.5 350.5 c 2,13,-1
+ 223 363 l 1,14,-1
+ 207 267 l 1,15,16
+ 194 261 194 261 174 251.5 c 128,-1,17
+ 154 242 154 242 116 212.5 c 128,-1,18
+ 78 183 78 183 69 155 c 1,19,-1
+ 87 255 l 1,10,11
+219 213 m 1,20,21
+ 234 259 234 259 289.5 309.5 c 128,-1,22
+ 345 360 345 360 402 394 c 2,23,-1
+ 787 623 l 1,24,25
+ 874 673 874 673 898 673 c 0,26,27
+ 911 673 911 673 925.5 655.5 c 128,-1,28
+ 940 638 940 638 948 623 c 1,29,-1
+ 931 525 l 1,30,31
+ 923 540 923 540 908.5 557.5 c 128,-1,32
+ 894 575 894 575 882 575 c 0,33,34
+ 858 575 858 575 789 537.5 c 2,35,-1
+ 766 525 l 1,36,-1
+ 381 296 l 2,37,38
+ 236 210 236 210 204 115 c 1,39,-1
+ 219 213 l 1,20,21
+548 323 m 1,40,41
+ 558 343 558 343 584.5 364.5 c 128,-1,42
+ 611 386 611 386 632.5 398 c 2,43,-1
+ 654 410 l 1,44,-1
+ 640 315 l 1,45,46
+ 631 310 631 310 616.5 302 c 128,-1,47
+ 602 294 602 294 573.5 270.5 c 128,-1,48
+ 545 247 545 247 534 225 c 1,49,-1
+ 548 323 l 1,40,41
 EndSplineSet
-Validated: 1
 Colour: ffb54c
 EndChar
 
@@ -64867,128 +64764,126 @@ Encoding: 61139 61139 882
 Width: 957
 VWidth: 999
 Flags: W
-HStem: 0 11G<207.061 218 370.857 380> 460 98<840.698 912.058>
-DStem2: 402 279 381 181 0.859456 0.511209<-164.673 503.142>
-AnchorPoint: "Podtinka" 17.5 -175 basechar 0
-AnchorPoint: "Zevok" 1043 639 basechar 0
-AnchorPoint: "Udarka" 0 342 basechar 0
-AnchorPoint: "Kupnaya" 553 -115 basechar 0
-AnchorPoint: "Kachka" 485 556 basechar 0
-AnchorPoint: "Lomka" 908 52 basechar 0
-AnchorPoint: "Tikhaya" 324 170.5 basechar 0
-AnchorPoint: "Oblachko" 886 639 basechar 0
-AnchorPoint: "Podchashie" 629 90 basechar 0
-AnchorPoint: "Zaderzhka" 1051 483.9 basechar 0
-AnchorPoint: "Tonal" 525 450 basechar 0
-AnchorPoint: "Podvertka" 924 341 basechar 0
-AnchorPoint: "Borzaya" -1 146 basechar 0
-AnchorPoint: "Otsechka" 974 349 basechar 0
-AnchorPoint: "Shaidur" 234 404 basechar 0
+HStem: 574 98<839.289 911.914>
+DStem2: 402 393 381 295 0.859456 0.511209<-164.478 405.968> 466.5 277 474 194 0.860588 0.509301<-110.326 -35.8176 68.9713 142.55 245.706 320.215>
+AnchorPoint: "Podtinka" 17.5 -61 basechar 0
+AnchorPoint: "Zevok" 1043 753 basechar 0
+AnchorPoint: "Udarka" 0 456 basechar 0
+AnchorPoint: "Kupnaya" 553 -1 basechar 0
+AnchorPoint: "Kachka" 485 670 basechar 0
+AnchorPoint: "Lomka" 908 166 basechar 0
+AnchorPoint: "Tikhaya" 324 284.5 basechar 0
+AnchorPoint: "Oblachko" 886 753 basechar 0
+AnchorPoint: "Podchashie" 629 204 basechar 0
+AnchorPoint: "Zaderzhka" 1051 597.9 basechar 0
+AnchorPoint: "Tonal" 525 564 basechar 0
+AnchorPoint: "Podvertka" 924 455 basechar 0
+AnchorPoint: "Borzaya" -1 260 basechar 0
+AnchorPoint: "Otsechka" 974 463 basechar 0
+AnchorPoint: "Shaidur" 484 670 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-536 178 m 1
- 558 222 640 265 640 265 c 1
- 628 170 l 1
- 628 170 546 129 520 80 c 1
- 536 178 l 1
-688 270 m 1
- 710 314 792 357 792 357 c 1
- 780 262 l 1
- 780 262 698 221 672 172 c 1
- 688 270 l 1
-382 88 m 1
- 404 132 488 175 488 175 c 1
- 474 80 l 1
- 474 80 392 39 368 -10 c 1
- 382 88 l 1
-27 -50 m 1
- 48 16 163 58 163 58 c 1
- 147 -38 l 1
- 147 -38 30 -87 9 -150 c 1
- 27 -50 l 1
-87 140 m 1
- 108 206 223 248 223 248 c 1
- 207 152 l 1
- 207 152 90 103 69 40 c 1
- 87 140 l 1
-219 98 m 1
- 241 167 343 244 402 279 c 2
- 787 508 l 1
- 787 508 874 558 898 558 c 0
- 917 558 941 522 948 508 c 1
- 931 410 l 1
- 924 424 900 460 881 460 c 0
- 856 460 766 410 766 410 c 1
- 381 181 l 2
- 317 143 232 84 204 0 c 1
- 219 98 l 1
+536 292 m 1
+ 558 336 640 379 640 379 c 1
+ 628 284 l 1
+ 628 284 546 243 520 194 c 1
+ 536 292 l 1
+688 384 m 1
+ 710 428 792 471 792 471 c 1
+ 780 376 l 1
+ 780 376 698 335 672 286 c 1
+ 688 384 l 1
+382 202 m 1
+ 404 246 488 289 488 289 c 1
+ 474 194 l 1
+ 474 194 392 153 368 104 c 1
+ 382 202 l 1
+27 64 m 1
+ 48 130 163 172 163 172 c 1
+ 147 76 l 1
+ 147 76 30 27 9 -36 c 1
+ 27 64 l 1
+87 254 m 1
+ 108 320 223 362 223 362 c 1
+ 207 266 l 1
+ 207 266 90 217 69 154 c 1
+ 87 254 l 1
+219 212 m 1
+ 241 281 343 358 402 393 c 2
+ 787 622 l 1
+ 787 622 874 672 898 672 c 0
+ 917 672 941 636 948 622 c 1
+ 931 524 l 1
+ 924 538 900 574 881 574 c 0
+ 856 574 766 524 766 524 c 1
+ 381 295 l 2
+ 317 257 232 198 204 114 c 1
+ 219 212 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-536 178 m 1,0,1
- 546 198 546 198 572 219.5 c 128,-1,2
- 598 241 598 241 619 253 c 2,3,-1
- 640 265 l 1,4,-1
- 628 170 l 1,5,6
- 619 165 619 165 604.5 157 c 128,-1,7
- 590 149 590 149 561 125.5 c 128,-1,8
- 532 102 532 102 520 80 c 1,9,-1
- 536 178 l 1,0,1
-688 270 m 1,10,11
- 698 290 698 290 724 311.5 c 128,-1,12
- 750 333 750 333 771 345 c 2,13,-1
- 792 357 l 1,14,-1
- 780 262 l 1,15,16
- 771 257 771 257 756.5 249 c 128,-1,17
- 742 241 742 241 713 217.5 c 128,-1,18
- 684 194 684 194 672 172 c 1,19,-1
- 688 270 l 1,10,11
-382 88 m 1,20,21
- 392 108 392 108 418.5 129.5 c 128,-1,22
- 445 151 445 151 466.5 163 c 2,23,-1
- 488 175 l 1,24,-1
- 474 80 l 1,25,26
- 465 75 465 75 450.5 67 c 128,-1,27
- 436 59 436 59 407.5 35.5 c 128,-1,28
- 379 12 379 12 368 -10 c 1,29,-1
- 382 88 l 1,20,21
-27 -50 m 1,30,31
- 36 -21 36 -21 70 6 c 128,-1,32
- 104 33 104 33 133.5 45.5 c 2,33,-1
- 163 58 l 1,34,-1
- 147 -38 l 1,35,36
- 134 -44 134 -44 114 -53.5 c 128,-1,37
- 94 -63 94 -63 56 -92.5 c 128,-1,38
- 18 -122 18 -122 9 -150 c 1,39,-1
- 27 -50 l 1,30,31
-87 140 m 1,40,41
- 96 169 96 169 130 196 c 128,-1,42
- 164 223 164 223 193.5 235.5 c 2,43,-1
- 223 248 l 1,44,-1
- 207 152 l 1,45,46
- 194 146 194 146 174 136.5 c 128,-1,47
- 154 127 154 127 116 97.5 c 128,-1,48
- 78 68 78 68 69 40 c 1,49,-1
- 87 140 l 1,40,41
-219 98 m 1,50,51
- 234 144 234 144 289.5 194.5 c 128,-1,52
- 345 245 345 245 402 279 c 2,53,-1
- 787 508 l 1,54,55
- 874 558 874 558 898 558 c 0,56,57
- 911 558 911 558 925.5 540.5 c 128,-1,58
- 940 523 940 523 948 508 c 1,59,-1
- 931 410 l 1,60,61
- 923 425 923 425 908.5 442.5 c 128,-1,62
- 894 460 894 460 882 460 c 0,63,64
- 858 460 858 460 789 422.5 c 2,65,-1
- 766 410 l 1,66,-1
- 381 181 l 2,67,68
- 236 95 236 95 204 0 c 1,69,-1
- 219 98 l 1,50,51
+536 292 m 1,0,1
+ 546 312 546 312 572 333.5 c 128,-1,2
+ 598 355 598 355 619 367 c 2,3,-1
+ 640 379 l 1,4,-1
+ 628 284 l 1,5,6
+ 619 279 619 279 604.5 271 c 128,-1,7
+ 590 263 590 263 561 239.5 c 128,-1,8
+ 532 216 532 216 520 194 c 1,9,-1
+ 536 292 l 1,0,1
+688 384 m 1,10,11
+ 698 404 698 404 724 425.5 c 128,-1,12
+ 750 447 750 447 771 459 c 2,13,-1
+ 792 471 l 1,14,-1
+ 780 376 l 1,15,16
+ 771 371 771 371 756.5 363 c 128,-1,17
+ 742 355 742 355 713 331.5 c 128,-1,18
+ 684 308 684 308 672 286 c 1,19,-1
+ 688 384 l 1,10,11
+382 202 m 1,20,21
+ 392 222 392 222 418.5 243.5 c 128,-1,22
+ 445 265 445 265 466.5 277 c 2,23,-1
+ 488 289 l 1,24,-1
+ 474 194 l 1,25,26
+ 465 189 465 189 450.5 181 c 128,-1,27
+ 436 173 436 173 407.5 149.5 c 128,-1,28
+ 379 126 379 126 368 104 c 1,29,-1
+ 382 202 l 1,20,21
+27 64 m 1,30,31
+ 36 93 36 93 70 120 c 128,-1,32
+ 104 147 104 147 133.5 159.5 c 2,33,-1
+ 163 172 l 1,34,-1
+ 147 76 l 1,35,36
+ 134 70 134 70 114 60.5 c 128,-1,37
+ 94 51 94 51 56 21.5 c 128,-1,38
+ 18 -8 18 -8 9 -36 c 1,39,-1
+ 27 64 l 1,30,31
+87 254 m 1,40,41
+ 96 283 96 283 130 310 c 128,-1,42
+ 164 337 164 337 193.5 349.5 c 2,43,-1
+ 223 362 l 1,44,-1
+ 207 266 l 1,45,46
+ 194 260 194 260 174 250.5 c 128,-1,47
+ 154 241 154 241 116 211.5 c 128,-1,48
+ 78 182 78 182 69 154 c 1,49,-1
+ 87 254 l 1,40,41
+219 212 m 1,50,51
+ 234 258 234 258 289.5 308.5 c 128,-1,52
+ 345 359 345 359 402 393 c 2,53,-1
+ 787 622 l 1,54,55
+ 874 672 874 672 898 672 c 0,56,57
+ 911 672 911 672 925.5 654.5 c 128,-1,58
+ 940 637 940 637 948 622 c 1,59,-1
+ 931 524 l 1,60,61
+ 923 539 923 539 908.5 556.5 c 128,-1,62
+ 894 574 894 574 882 574 c 0,63,64
+ 858 574 858 574 789 536.5 c 2,65,-1
+ 766 524 l 1,66,-1
+ 381 295 l 2,67,68
+ 236 209 236 209 204 114 c 1,69,-1
+ 219 212 l 1,50,51
 EndSplineSet
-Validated: 1
 Colour: ffb54c
 EndChar
 
