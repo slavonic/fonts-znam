@@ -1,0 +1,24 @@
+# Shaidurov Unicode
+
+Shaidurov Unicode is a font for 17th century Znamenny Notation
+(Type B Notation according to the classification of I. Gardner).
+The font is named after the medieval theoretician of Znamenny chant
+[Ivan Shaidur](https://bigenc.ru/music/text/1998353).
+
+## Author
+
+The glyphs were created by Nikita Simmons and reencoded for Unicode by
+Aleksandr Andreev.
+
+## Disclaimer
+
+This font is alpha-phase software, and is intended for software testing purposes only.
+
+## Encoding
+
+Znamenny and related notation systems are not yet available in Unicode.
+As an encoding model is developed, the notation symbols are temporarily
+encoded in the Private Use Area portion of Unicode for testing purposes.
+See the [Ponomar Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf)
+for information and codepoints.
+
