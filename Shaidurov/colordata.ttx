@@ -38,8 +38,26 @@
     <ColorGlyph name="uniEE0B">
       <layer colorID="1" name="uniEE0B"/>
     </ColorGlyph>
+    <ColorGlyph name="uniEE10">
+      <layer colorID="1" name="uniEE10"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE11">
+      <layer colorID="1" name="uniEE11"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE12">
+      <layer colorID="1" name="uniEE12"/>
+    </ColorGlyph>
     <ColorGlyph name="uniEE13">
       <layer colorID="1" name="uniEE13"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE14">
+      <layer colorID="1" name="uniEE14"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE15">
+      <layer colorID="1" name="uniEE15"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEE16">
+      <layer colorID="1" name="uniEE16"/>
     </ColorGlyph>
     <ColorGlyph name="uniEE17">
       <layer colorID="1" name="uniEE17"/>

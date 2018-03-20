@@ -1,9 +1,12 @@
 all: fonts
 
-FONTS = Smolensky Mezenets
+FONTS = Shaidurov Mezenets
 
 fonts:
 	$(foreach font, $(FONTS), cd $(font)/ && $(MAKE); cd ..;)
+
+web:
+	$(foreach font, $(FONTS), cd $(font)/ && $(MAKE) web; cd ..;)
 
 clean:
 	$(foreach font, $(FONTS), cd $(font)/ && $(MAKE) clean; cd ..;)

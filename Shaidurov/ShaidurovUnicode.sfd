@@ -20,7 +20,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1357765429
-ModificationTime: 1521382268
+ModificationTime: 1521570788
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -973,13 +973,13 @@ EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Aleksandr Andreev and Nikita Simmons" "" "" "" "Copyright (c) 2013-2018, Aleksandr Andreev and Nikita Simmons (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAA------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -72
+DisplayLayer: 2
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 648 18 7
+WinInfo: 60894 18 7
 BeginPrivate: 6
 BlueValues 23 [-14 0 433 449 600 615]
 OtherBlues 11 [-214 -199]
@@ -990,7 +990,7 @@ ExpansionFactor 4 0.06
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 451936 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Borzaya"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Lomka"  "'mark' Znamenny Cinnabar Mark Positioning-1" "RightRed"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Tikhaya"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Shaidur"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Magpie"  "'mark' Znamenny Black Mark Positioning-1" "Above"  "'mark' Znamenny Black Mark Positioning-1" "Below"  "'mark' Znamenny Black Mark Positioning-1" "Right"  "'mark' Znamenny Black Mark Positioning-1" "Pitch"  "'mark' Znamenny Black Mark Positioning-1" "Anchor-0"  "'mark' Mark Positioning lookup 3 subtable" "Anchor-1"  "'mark' Mark Positioning lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning lookup 5 subtable" "Anchor-6"  "'mkmk' Mark to Mark lookup 6 subtable" 
-BeginChars: 1114113 760
+BeginChars: 1114113 766
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -156090,7 +156090,7 @@ SplineSet
  -624 754 -624 754 -635 753 c 2,141,-1
  -645 752 l 2,99,100
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -648 544 m 0xc480
@@ -156271,7 +156271,7 @@ SplineSet
  -645 752 l 2,95,96
  -657 751 -657 751 -666 751 c 0,53,54
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 89 791 m 0x5a
@@ -156349,55 +156349,55 @@ Encoding: 59908 59908 531
 Width: 0
 GlyphClass: 4
 Flags: W
-HStem: 561 25<-121.768 -56.9476> 712 28.037<-129.496 -60.3844>
-VStem: -198 53<599.468 703.853> -48 38<687.276 703.815>
+HStem: 560 30<-136.387 -60.0271> 739 33<-143.875 -59.6536>
+VStem: -226 63<609.046 724.269> -48 44<709.448 731.266>
 AnchorPoint: "Shaidur" 70 744 mark 0
 LayerCount: 3
 Fore
 SplineSet
--10 597 m 0,0,1
- -44 561 -44 561 -93 561 c 128,-1,2
- -142 561 -142 561 -170 585 c 128,-1,3
- -198 609 -198 609 -198 649 c 128,-1,4
- -198 689 -198 689 -164 715 c 0,5,6
- -131 740 -131 740 -87 740 c 0,7,8
- -85 740 -85 740 -84 740 c 0,9,10
- -38 740 -38 740 -13 712 c 1,11,12
- -10 707 -10 707 -10 703.5 c 128,-1,13
- -10 700 -10 700 -23 691 c 128,-1,14
- -36 682 -36 682 -42 682 c 128,-1,15
- -48 682 -48 682 -48 683 c 0,16,17
- -64 712 -64 712 -96 712 c 0,18,19
- -145 712 -145 712 -145 643 c 0,20,21
- -145 623 -145 623 -128.5 604.5 c 128,-1,22
- -112 586 -112 586 -85.5 586 c 128,-1,23
- -59 586 -59 586 -48 613 c 0,24,25
- -47 617 -47 617 -37 617 c 128,-1,26
- -27 617 -27 617 -17.5 612.5 c 128,-1,27
- -8 608 -8 608 -8 602 c 0,28,29
- -8 600 -8 600 -10 597 c 0,0,1
+-103 739 m 0,0,1
+ -163 739 -163 739 -163 657 c 0,2,3
+ -163 633 -163 633 -143.5 611.5 c 128,-1,4
+ -124 590 -124 590 -94 590 c 128,-1,5
+ -64 590 -64 590 -48 622 c 0,6,7
+ -47 625 -47 625 -36 626 c 0,8,9
+ -24 627 -24 627 -12 621 c 128,-1,10
+ 0 615 0 615 0 611 c 0,11,12
+ 0 606 0 606 -4 603 c 0,13,14
+ -61 560 -61 560 -102 560 c 0,15,16
+ -161 560 -161 560 -193.5 588.5 c 128,-1,17
+ -226 617 -226 617 -226 664 c 128,-1,18
+ -226 711 -226 711 -186.5 741.5 c 128,-1,19
+ -147 772 -147 772 -95 772 c 2,20,-1
+ -91 772 l 2,21,22
+ -37 772 -37 772 -7 739 c 1,23,24
+ -4 733 -4 733 -4 729 c 128,-1,25
+ -4 725 -4 725 -19 714 c 128,-1,26
+ -34 703 -34 703 -41 703 c 128,-1,27
+ -48 703 -48 703 -48 704 c 0,28,29
+ -61 739 -61 739 -103 739 c 0,0,1
 EndSplineSet
 Validated: 1
 Layer: 2
 SplineSet
--37 617 m 0
- -27 617 -8 611 -8 602 c 0
- -8 601 -9 599 -10 597 c 0
- -33 573 -63 561 -100 561 c 0
- -155 561 -198 595 -198 650 c 0
- -198 705 -140 741 -83 741 c 0
- -52 741 -29 732 -13 714 c 0
- -11 711 -10 709 -10 708 c 0
- -10 698 -34 682 -44 682 c 0
- -47 682 -48 682 -48 683 c 0
- -59 702 -75 712 -96 712 c 0
- -129 712 -145 689 -145 643 c 0
- -145 630 -139 616 -126 601 c 0
- -117 591 -104 586 -87 586 c 0
- -69 586 -56 595 -49 613 c 0
- -48 616 -44 617 -37 617 c 0
+-4 729 m 128
+ -4 722.666 -34.34 703 -41 703 c 128
+ -45.6667 703 -48 703.333 -48 704 c 0
+ -56.6667 727.333 -75 739 -103 739 c 0
+ -143 739 -163 711.667 -163 657 c 0
+ -163 622.263 -130.558 590 -94 590 c 128
+ -74 590 -58.6667 600.667 -48 622 c 0
+ -46.7749 625.675 -42.7279 627.119 -37.468 627.119 c 0
+ -23.198 627.119 0 616.495 0 611 c 0
+ 0 607.667 -1.33333 605 -4 603 c 0
+ -42 574.333 -74.6667 560 -102 560 c 0
+ -173.823 560 -226 595.712 -226 664 c 128
+ -226 728.687 -160.683 772 -95 772 c 2
+ -91 772 l 2
+ -55 772 -27 761 -7 739 c 1
+ -5 735 -4 731.667 -4 729 c 128
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: uniEA0F
@@ -156676,7 +156676,7 @@ SplineSet
  -174 676 l 1,46,47
  -182 634 -182 634 -183 599 c 1,12,13
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -82 520 m 0xca
@@ -156872,7 +156872,7 @@ SplineSet
  -422 403 -422 403 -425 407 c 128,-1,87
  -428 411 -428 411 -428 439 c 2,56,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -109 749 m 0
@@ -156990,7 +156990,7 @@ SplineSet
  -354 353 -354 353 -357 357 c 128,-1,79
  -360 361 -360 361 -360 389 c 2,48,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -115 679 m 0
@@ -159749,7 +159749,7 @@ SplineSet
  27 292 27 292 59 343 c 1,57,58
  102 409 102 409 163 409 c 0,30,31
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 413 449 m 0x70
@@ -160334,7 +160334,7 @@ SplineSet
  731 798 l 2,101,102
  735 803 735 803 739 803 c 0,80,81
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 615 211 m 0x30
@@ -160707,7 +160707,7 @@ SplineSet
  128 359 128 359 156.5 314 c 128,-1,83
  185 269 185 269 185 248 c 0,68,69
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 386 47 m 0
@@ -162893,7 +162893,7 @@ SplineSet
  388 124 388 124 418 80 c 1,97,98
  425 110 425 110 441 240 c 1,92,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 835 687 m 0x30
@@ -163061,7 +163061,7 @@ SplineSet
  190 389 190 389 237 389 c 0,127,128
  293 389 293 389 293 476 c 0,113,114
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 392 266 m 0x603740
@@ -163247,7 +163247,7 @@ SplineSet
  39 152 39 152 59 116 c 0,112,113
  104 36 104 36 146 36 c 0,102,103
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 7 137 m 0x5ef2
@@ -163342,7 +163342,7 @@ SplineSet
  12 24 l 1,7,-1
  216 24 l 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 216 24 m 1x40
@@ -163507,7 +163507,7 @@ SplineSet
  123 359 123 359 151 315 c 0,70,71
  180 269 180 269 180 248 c 0,51,52
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 608 432 m 0
@@ -164393,7 +164393,7 @@ SplineSet
  91 778 l 1,230,-1
  91 739 l 1,225,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 582 469 m 0x0010000010
@@ -164756,7 +164756,7 @@ SplineSet
  95 777 l 1,150,-1
  95 738 l 1,145,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 444 493 m 1x0a8720
@@ -165099,7 +165099,7 @@ SplineSet
  92 778 l 1,171,-1
  92 739 l 1,166,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 685 684 m 1x0a8048
@@ -165435,7 +165435,7 @@ SplineSet
  586 511 l 1,144,-1
  642 511 l 1,133,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 41 563 m 5x2620
@@ -165798,7 +165798,7 @@ SplineSet
  539 556 l 1,204,-1
  536 672 l 1,192,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 42 563 m 1x001080
@@ -166161,7 +166161,7 @@ SplineSet
  547 496 547 496 500 496 c 2,133,-1
  476 496 l 1,128,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 43 563 m 1x2488
@@ -166482,7 +166482,7 @@ SplineSet
  243 280 243 280 249 275 c 0,164,165
  281 252 281 252 281 215 c 0,137,138
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 66 563 m 1x0144
@@ -166845,7 +166845,7 @@ SplineSet
  439 548 l 1,182,-1
  436 664 l 1,170,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 44 563 m 1x0021
@@ -167113,7 +167113,7 @@ SplineSet
  -200 445 -200 445 -186 443 c 128,-1,51
  -172 441 -172 441 -170 439 c 128,-1,52
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -246 736 m 2xa0
@@ -167253,7 +167253,7 @@ SplineSet
  -250 542 -250 542 -257 536 c 128,-1,84
  -264 530 -264 530 -337 457 c 1,55,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 121 782 m 0xb8
@@ -167367,7 +167367,7 @@ SplineSet
  -14 524 -14 524 0 538 c 128,-1,56
  14 552 14 552 13 560 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -416 781 m 0x38
@@ -167453,7 +167453,7 @@ SplineSet
  -135 739 -135 739 -163 739 c 2,51,-1
  -252 736 l 1,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -246 736 m 2xa0
@@ -167543,7 +167543,7 @@ SplineSet
  69 777 69 777 77.5 780 c 128,-1,55
  86 783 86 783 92 783 c 2,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 115 782 m 0x70
@@ -167666,7 +167666,7 @@ SplineSet
  208 770 208 770 224 750 c 0,41,42
  262 703 262 703 293 698 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -356 595 m 0x58
@@ -167740,7 +167740,7 @@ SplineSet
  -227 738 l 1,44,45
  -229 747 -229 747 -284 747 c 2,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -284 747 m 0x98
@@ -167838,7 +167838,7 @@ SplineSet
  -76 629 -76 629 -76 637 c 2,73,-1
  -81 685 l 1,51,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -407 740 m 0
@@ -167898,7 +167898,7 @@ Encoding: 60937 60937 614
 Width: 0
 GlyphClass: 4
 Flags: W
-HStem: 652 46<255.991 292.063> 674.25 44.75<-118.029 -40.6216> 760 40<46.3153 129.819> 770 25<-297.777 -215.75> 782 78<-102.714 -21.9634>
+HStem: 652 46<255.991 292.063> 674 45<-117.765 -40.3503> 760 40<46.3153 129.819> 770 25<-297.777 -215.75> 782 78<-102.714 -21.9634>
 VStem: -464 94<590.015 677.163> -112 93<787.037 849.171>
 AnchorPoint: "Shaidur" 312 778 mark 0
 LayerCount: 3
@@ -167945,7 +167945,7 @@ SplineSet
  213 769 213 769 228 750 c 0,51,52
  265 703 265 703 296 698 c 0,8,9
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -112 823 m 0x0e
@@ -167989,8 +167989,8 @@ Encoding: 60938 60938 615
 Width: 0
 GlyphClass: 4
 Flags: W
-HStem: 545 153.5<-235.716 -151.264> 557 141<74.0547 161.196> 678 20<-386.438 -241.075 -144.716 61.4292> 752 78<-80.7109 -8.22095>
-VStem: -245 99<553.253 660> -90 90<757.166 819.686> 74 94<562.137 667.904>
+HStem: 545 153<-235.716 -151.264> 557 142<74.0547 160.75> 678 20<-386.411 -241.075 -144.716 61.4292> 752 78<-80.7109 -2.45215>
+VStem: -245 99<553.253 660> -90 90<757.037 819.686> 74 94<559.692 667.904>
 AnchorPoint: "Shaidur" 174 778 mark 0
 LayerCount: 3
 Fore
@@ -168028,7 +168028,7 @@ SplineSet
  -332 676 l 1,45,46
  -387 676 -387 676 -387 686 c 0,8,9
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -42 830 m 0x1e
@@ -168071,8 +168071,8 @@ Encoding: 60939 60939 616
 Width: 0
 GlyphClass: 4
 Flags: W
-HStem: 519 29<-549.996 -381.224> 526 28<4.34863 175.865> 527 19<-258.473 -103.857> 680 18<-252 -132.516 -3.29297 181.901> 752 78<-217.711 -145.282>
-VStem: -373 100<552.254 665.965> -227 92<757.166 819.686> -100 88<567.569 664.841>
+HStem: 519 29<-549.963 -380.74> 526 26<4.34863 175.865> 527 19<-258.473 -103.857> 673 28<-540.593 -459> 673 25<-513 -383.412 -273.979 -132.516 -5.80933 178.856> 752 78<-217.711 -144.798>
+VStem: -373 100<552.739 665.965> -227 92<757.166 819.686> -100 88<556.132 664.841>
 AnchorPoint: "Shaidur" 202 778 mark 0
 LayerCount: 3
 Fore
@@ -168138,7 +168138,7 @@ SplineSet
  -100 558 -100 558 -100 567 c 2,83,-1
  -105 615 l 1,63,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -179 830 m 0
@@ -168261,7 +168261,7 @@ SplineSet
  -53 409 -53 409 -92 422 c 1,69,-1
  -107 426 l 1,39,40
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 186 730 m 1x9c
@@ -168406,7 +168406,7 @@ SplineSet
  -645 752 l 2,116,117
  -657 751 -657 751 -666 751 c 0,70,71
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -141 760 m 0xbc
@@ -168847,7 +168847,7 @@ SplineSet
  -5 273 -5 273 -27 253 c 128,-1,52
  -49 233 -49 233 -49 211 c 0,42,43
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 126 420 m 0
@@ -169168,7 +169168,7 @@ SplineSet
  -389 797 -389 797 -376 786 c 128,-1,36
  -363 775 -363 775 -363 752 c 2,25,26
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -207 753 m 0
@@ -169234,7 +169234,7 @@ SplineSet
  76 506 76 506 76 568 c 0,46,47
  76 594 76 594 60 594 c 2,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 74 613 m 0xd0
@@ -169448,7 +169448,7 @@ SplineSet
  -95 248 -95 248 -68 275.5 c 128,-1,113
  -41 303 -41 303 -41 314 c 0,102,103
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 58 160 m 0xfa
@@ -169838,7 +169838,7 @@ SplineSet
  -395 91 -395 91 -431.5 45.5 c 128,-1,30
  -468 0 -468 0 -504 -0 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 -501 179 m 0x40
@@ -170407,7 +170407,7 @@ SplineSet
  27 292 27 292 59 343 c 1,57,58
  102 409 102 409 163 409 c 0,30,31
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 413 449 m 0x70
@@ -170669,7 +170669,7 @@ SplineSet
  359 265 359 265 217 168 c 0,32,33
  45 51 45 51 9 4 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 928 565 m 0
@@ -170741,7 +170741,7 @@ SplineSet
  711 570 711 570 880 606 c 0,36,37
  894 609 894 609 900 609 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 928 565 m 0
@@ -172454,7 +172454,7 @@ SplineSet
  29 292 29 292 61 343 c 1,78,79
  104 409 104 409 165 409 c 0,51,52
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 615 211 m 0x30
@@ -172595,7 +172595,7 @@ SplineSet
  25 292 25 292 57 343 c 1,99,100
  100 409 100 409 161 409 c 0,72,73
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 852 643 m 0x38
@@ -172878,7 +172878,7 @@ SplineSet
  616 258 616 258 625 272 c 128,-1,64
  634 286 634 286 644 304 c 0,32,33
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 790 618 m 0x20
@@ -173338,7 +173338,7 @@ SplineSet
  359 265 359 265 220 170.5 c 128,-1,62
  81 76 81 76 9 4 c 0,30,31
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 737 382 m 0
@@ -173909,7 +173909,7 @@ SplineSet
  759 445 759 445 792 454 c 128,-1,66
  825 463 825 463 867 463 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 762 68 m 1xd8
@@ -174016,7 +174016,7 @@ SplineSet
  146 259 146 259 174 215 c 0,60,61
  203 169 203 169 203 148 c 0,41,42
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 266 721 m 0
@@ -174149,7 +174149,7 @@ SplineSet
  161 248 161 248 194.5 259.5 c 128,-1,95
  228 271 228 271 232 271 c 0,78,79
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 481 721 m 0x80
@@ -176001,7 +176001,7 @@ SplineSet
  115 409 115 409 176 409 c 0,76,77
  232 409 232 409 232 344 c 2,51,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 1242 574 m 0x38
@@ -176161,7 +176161,7 @@ SplineSet
  208 223 208 223 200 200 c 0,104,105
  193 179 193 179 122 22 c 0,80,81
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 1089 392 m 0x38
@@ -177476,7 +177476,7 @@ SplineSet
  721 125 721 125 721 127 c 128,-1,110
  721 129 721 129 721 138 c 0,79,80
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 162 -142 m 0xb8
@@ -177762,7 +177762,7 @@ SplineSet
  187 450 187 450 164 478 c 2,106,-1
  142 506 l 1,94,95
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 1355 618 m 0
@@ -177928,7 +177928,7 @@ SplineSet
  189 157 189 157 202 138 c 128,-1,108
  215 119 215 119 244 78 c 1,96,97
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 774 547 m 1
@@ -178485,7 +178485,7 @@ SplineSet
  831 404 831 404 834 405 c 2,68,-1
  896 429 l 1,47,48
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 69 0 m 0xdc
@@ -178574,7 +178574,7 @@ SplineSet
  518 333 518 333 439 333 c 2,32,-1
  360 333 l 2,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 219 18 m 0x78
@@ -192400,7 +192400,7 @@ SplineSet
  -489 454 -489 454 -496 458 c 128,-1,97
  -503 462 -503 462 -503 464 c 0,59,60
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 70 621 m 5
@@ -192515,7 +192515,7 @@ SplineSet
  178 625 178 625 170 618 c 128,-1,58
  162 611 162 611 151 611 c 2,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 70 621 m 1
@@ -192738,7 +192738,7 @@ SplineSet
  106 38 l 1,162,-1
  106 0 l 1,157,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 486 363 m 1x1e8030
@@ -193091,7 +193091,7 @@ SplineSet
  106 38 l 1,160,-1
  106 0 l 1,155,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Layer: 2
 SplineSet
 500 388 m 1x1a0014
@@ -193256,6 +193256,369 @@ SplineSet
  106 0 l 1x4808
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uniEE10
+Encoding: 60944 60944 760
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 357 34.5<-508.353 -421.096> 402 31.5<-672.896 -591.308> 439 21<-38 10> 580 27<-352.845 -161.022 -33.9021 9.58984> 580 194<-157.747 -49.3892> 580 201<-470.683 -354.051>
+VStem: -705 287 -479 132<608.825 672.5 688.375 774.672> -161 121<615.749 762.62>
+DStem2: -560 418 -590 387 0.964404 -0.264433<-99.9843 -20.7347> -494 480 -510 405 0.71109 0.703101<-64.11 47.8065>
+AnchorPoint: "Shaidur" 154 778 mark 0
+LayerCount: 3
+Fore
+Refer: 619 60959 N 1 0 0 1 -346 268 2
+Refer: 607 60930 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+Refer: 619 60959 N 1 0 0 1 -346 268 2
+Refer: 607 60930 N 1 0 0 1 0 0 2
+Validated: 98305
+EndChar
+
+StartChar: uniEE11
+Encoding: 60945 60945 761
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 337 34.5<-433.353 -346.096> 382 31.5<-597.896 -516.308> 652 46<252.619 289.063> 674.25 44.75<-120.572 -45.2891> 760 40<41.8767 127.471> 770 25<-301.137 -218.75>
+VStem: -630 287 -467 94<590.015 676.952>
+DStem2: -485 398 -515 367 0.964404 -0.264433<-99.9843 -20.7347> -419 460 -435 385 0.71109 0.703101<-64.11 47.8065>
+AnchorPoint: "Shaidur" 312 778 mark 0
+LayerCount: 3
+Fore
+Refer: 619 60959 N 1 0 0 1 -271 248 2
+Refer: 611 60934 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+Refer: 619 60959 N 1 0 0 1 -271 248 2
+Refer: 611 60934 N 1 0 0 1 0 0 2
+Validated: 98305
+EndChar
+
+StartChar: uniEE12
+Encoding: 60946 60946 762
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 580 32<-628.963 -549.894> 652 44<254 289.288> 676 43<-119.817 -46.5309> 760 35<-641.68 -555.494 47.9543 126.124> 770 25<-301.028 -220.668>
+VStem: -720 63<631.971 741.281> -537 49<620.549 656.173> -467 94<590.291 676.553>
+AnchorPoint: "Shaidur" 312 778 mark 0
+LayerCount: 3
+Fore
+SplineSet
+293 698 m 0,0,1
+ 299 697 299 697 299 692 c 128,-1,2
+ 299 687 299 687 295 681 c 0,3,4
+ 276 652 276 652 227 652 c 0,5,6
+ 206 652 206 652 186 669 c 128,-1,7
+ 166 686 166 686 153 706 c 0,8,9
+ 118 760 118 760 99 760 c 128,-1,10
+ 80 760 80 760 50 744.5 c 128,-1,11
+ 20 729 20 729 12 725.5 c 128,-1,12
+ 4 722 4 722 -41 698 c 128,-1,13
+ -86 674 -86 674 -115 674 c 128,-1,14
+ -144 674 -144 674 -179 698 c 128,-1,15
+ -214 722 -214 722 -238 746 c 128,-1,16
+ -262 770 -262 770 -272 770 c 0,17,18
+ -303 770 -303 770 -338 713 c 128,-1,19
+ -373 656 -373 656 -373 623 c 0,20,21
+ -373 611 -373 611 -364.5 605.5 c 128,-1,22
+ -356 600 -356 600 -356 594.5 c 128,-1,23
+ -356 589 -356 589 -379 585.5 c 128,-1,24
+ -402 582 -402 582 -414 582 c 0,25,26
+ -467 582 -467 582 -467 608 c 128,-1,27
+ -467 634 -467 634 -448.5 670.5 c 128,-1,28
+ -430 707 -430 707 -410.5 733.5 c 128,-1,29
+ -391 760 -391 760 -336 777.5 c 128,-1,30
+ -281 795 -281 795 -239.5 795 c 128,-1,31
+ -198 795 -198 795 -172 783 c 128,-1,32
+ -146 771 -146 771 -134 756 c 0,33,34
+ -105 719 -105 719 -80.5 719 c 128,-1,35
+ -56 719 -56 719 -28 740 c 0,36,37
+ 53 800 53 800 118.5 800 c 128,-1,38
+ 184 800 184 800 223 751.5 c 128,-1,39
+ 262 703 262 703 293 698 c 0,0,1
+-490 638 m 0,40,41
+ -548 580 -548 580 -609 580 c 0,42,43
+ -648 580 -648 580 -684 603 c 128,-1,44
+ -720 626 -720 626 -720 683 c 0,45,46
+ -720 721 -720 721 -683 758 c 128,-1,47
+ -646 795 -646 795 -579 795 c 0,48,49
+ -539 795 -539 795 -512 772 c 1,50,51
+ -507 764 -507 764 -507 762 c 0,52,53
+ -507 758 -507 758 -521 745 c 0,54,55
+ -534 733 -534 733 -541 732 c 128,-1,56
+ -548 731 -548 731 -549 732 c 0,57,58
+ -563 759 -563 759 -599 759 c 0,59,60
+ -610 759 -610 759 -610 759 c 0,61,62
+ -658 754 -658 754 -658 694 c 0,63,64
+ -658 684 -658 684 -655 665 c 0,65,66
+ -652 647 -652 647 -632 629 c 0,67,68
+ -613 612 -613 612 -588 612 c 0,69,70
+ -545 612 -545 612 -537 650 c 0,71,72
+ -536 656 -536 656 -525 657 c 0,73,74
+ -516 658 -516 658 -501 654 c 0,75,76
+ -489 651 -489 651 -489 643 c 0,77,78
+ -489 639 -489 639 -490 638 c 0,40,41
+EndSplineSet
+Layer: 2
+SplineSet
+-356 595 m 0xaf
+ -356 586 -405 582 -414 582 c 0
+ -449 582 -467 591 -467 608 c 0
+ -467 647 -430 706 -413 730 c 0
+ -398 750 -373 766 -336 778 c 0
+ -299 789 -266 795 -235 795 c 0
+ -191 795 -152 779 -134 756 c 0
+ -122 741 -102 719 -76 719 c 0xaf
+ -63 719 -47 726 -28 740 c 0
+ 7 766 59 800 120 800 c 0
+ 165 800 205 775 224 750 c 0
+ 239 731 266 699 293 696 c 0
+ 297 696 299 694 299 691 c 0
+ 299 688 297 685 295 681 c 0
+ 283 662 260 653 227 652 c 0
+ 195 652 167 685 153 706 c 0
+ 142 722 120 760 98 760 c 0xd7
+ 86 760 70 755 50 744 c 0
+ 0 719 18 732 -41 700 c 0
+ -71 684 -93 676 -108 676 c 0
+ -159 676 -211 720 -238 746 c 0
+ -254 762 -265 770 -272 770 c 0
+ -293 770 -315 750 -339 712 c 0
+ -362 675 -373 645 -373 623 c 0
+ -373 614 -370 609 -364 605 c 0
+ -359 602 -356 598 -356 595 c 0xaf
+-720 681 m 0
+ -720 746 -653 795 -579 795 c 0
+ -553 795 -530 787 -512 772 c 1
+ -510 768 -508 765 -508 762 c 0
+ -508 756 -535 733 -541 732 c 0
+ -546 731 -548 731 -548 732 c 0
+ -558 751 -574 760 -596 760 c 0x97
+ -637 760 -657 736 -657 693 c 0
+ -657 686 -657 678 -656 670 c 0
+ -651 638 -620 612 -587 612 c 0
+ -561 612 -545 626 -537 651 c 0
+ -536 656 -531 658 -524 658 c 0
+ -508 658 -488 650 -488 645 c 0
+ -488 642 -489 640 -491 638 c 0
+ -525 604 -555 586 -582 582 c 0
+ -591 581 -600 580 -609 580 c 0
+ -669 580 -720 613 -720 681 c 0
+EndSplineSet
+Validated: 8388609
+EndChar
+
+StartChar: uniEE14
+Encoding: 60948 60948 763
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 614.749 23.4902<-104.564 -45.8412> 616 150<-638.716 -552.175> 627 143<-326.942 -241.565> 746 24<-787.696 -642.06 -550.453 -333.871> 754.906 25.8389<-110.949 -45.5488>
+VStem: -645 101<624.246 729.323> -327 94<632.118 742> -175.798 49.3291<650.079 748.233> -36.4238 34.4521<732.227 748.85>
+AnchorPoint: "Shaidur" 70 744 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-661 767 m 1,0,-1
+ -520 770 l 1,1,-1
+ -343 770 l 2,2,3
+ -317 770 -317 770 -262 769 c 1,4,5
+ -233 767 -233 767 -233 690 c 0,6,7
+ -233 636 -233 636 -245.5 631.5 c 128,-1,8
+ -258 627 -258 627 -313 627 c 0,9,10
+ -327 627 -327 627 -327 652 c 0,11,12
+ -327 711 -327 711 -330 723 c 128,-1,13
+ -333 735 -333 735 -339 738 c 0,14,15
+ -357 748 -357 748 -409 748 c 2,16,-1
+ -474 748 l 2,17,18
+ -550 748 -550 748 -552 730 c 1,19,-1
+ -545 663 l 1,20,21
+ -545 652 -545 652 -547 644 c 0,22,23
+ -554 615 -554 615 -607 615 c 0,24,25
+ -628 615 -628 615 -637 623 c 128,-1,26
+ -646 631 -646 631 -646 651.5 c 128,-1,27
+ -646 672 -646 672 -645 684 c 1,28,-1
+ -645 701 l 1,29,-1
+ -642 738 l 1,30,31
+ -644 747 -644 747 -699 747 c 2,32,-1
+ -733 747 l 2,33,34
+ -788 747 -788 747 -788 756 c 0,35,36
+ -788 770 -788 770 -752 770 c 1,37,-1
+ -661 767 l 1,0,-1
+-79 755 m 0,38,39
+ -126 755 -126 755 -126 689 c 0,40,41
+ -126 672 -126 672 -111 655 c 128,-1,42
+ -96 638 -96 638 -70 638 c 128,-1,43
+ -44 638 -44 638 -36 663 c 0,44,45
+ -35 665 -35 665 -25 666 c 128,-1,46
+ -15 667 -15 667 -7.5 662.5 c 128,-1,47
+ 0 658 0 658 1 654.5 c 128,-1,48
+ 2 651 2 651 0 648 c 0,49,50
+ -22 615 -22 615 -82.5 615 c 0,51,52
+ -124 615 -124 615 -150 637 c 128,-1,53
+ -176 659 -176 659 -176 696 c 128,-1,54
+ -176 733 -176 733 -145 757 c 128,-1,55
+ -114 781 -114 781 -73 781 c 2,56,-1
+ -70 781 l 2,57,58
+ -28 781 -28 781 -4 755 c 1,59,60
+ -2 750 -2 750 -2 747 c 128,-1,61
+ -2 744 -2 744 -12.5 736.5 c 128,-1,62
+ -23 729 -23 729 -30 728 c 0,63,64
+ -35 726 -35 726 -36 728 c 0,65,66
+ -50 755 -50 755 -79 755 c 0,38,39
+EndSplineSet
+Layer: 2
+SplineSet
+-699 747 m 0x4780
+ -709 747 -722 746 -733 746 c 0
+ -770 746 -788 749 -788 756 c 0
+ -788 767 -771 770 -753 770 c 0x1780
+ -741 770 -729 769 -720 768 c 0
+ -688 766 -652 766 -613 766 c 0x4780
+ -584 766 -553 766 -520 767 c 0
+ -503 767 -360 770 -343 770 c 0x1780
+ -326 770 -299 770 -262 769 c 0
+ -240 768 -233 724 -233 691 c 0
+ -233 670 -238 634 -244 632 c 0
+ -255 629 -278 627 -313 627 c 0x2780
+ -322 627 -327 635 -327 652 c 0
+ -327 691 -329 717 -332 730 c 0
+ -335 747 -379 748 -399 748 c 2
+ -474 748 l 2
+ -525 748 -551 742 -552 730 c 1
+ -552 716 -544 674 -544 660 c 0
+ -544 635 -554 621 -584 618 c 0
+ -593 617 -601 616 -608 616 c 0
+ -623 616 -633 619 -639 624 c 0
+ -644 629 -645 650 -645 667 c 0
+ -645 678.333 -645 689.667 -645 701 c 2
+ -642 738 l 1
+ -643 744 -662 747 -699 747 c 0x4780
+-1.97168 747.076 m 0
+ -1.97168 742.117 -25.7285 726.718 -30.9434 726.718 c 0
+ -34.5967 726.718 -36.4238 726.979 -36.4238 727.501 c 0
+ -43.21 745.771 -57.5654 754.906 -79.4893 754.906 c 0
+ -110.809 754.906 -126.469 733.504 -126.469 690.7 c 0
+ -126.469 663.501 -101.066 638.239 -72.4424 638.239 c 0
+ -56.7822 638.239 -44.7764 646.591 -36.4238 663.295 c 0
+ -35.4648 666.173 -32.2959 667.303 -28.1777 667.303 c 0
+ -17.0039 667.303 1.16016 658.985 1.16016 654.682 c 0
+ 1.16016 652.072 0.116211 649.984 -1.97168 648.418 c 0
+ -31.7256 625.972 -57.3037 614.749 -78.7061 614.749 c 0
+ -134.943 614.749 -175.798 642.712 -175.798 696.181 c 0
+ -175.798 746.831 -124.654 780.745 -73.2246 780.745 c 2
+ -70.0928 780.745 l 2
+ -41.9053 780.745 -19.9814 772.132 -4.32129 754.906 c 0x8f80
+ -2.75488 751.774 -1.97168 749.164 -1.97168 747.076 c 0
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: uniEE15
+Encoding: 60949 60949 764
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 377 34.5<-512.353 -425.096> 422 31.5<-676.896 -595.308> 589 29<-523.041 -357.255 -242.359 -129.893> 596 20<-235.127 -78.5098> 596 28<21.0073 199.865> 744 20<-455 -359.442 -248.625 -108.516 18.1292 204.932>
+VStem: -709 287 -349 101<622.254 735.919> -76 88<627.064 734.841>
+DStem2: -564 438 -594 407 0.964404 -0.264433<-99.9843 -20.7347> -498 500 -514 425 0.71109 0.703101<-64.11 47.8065>
+AnchorPoint: "Shaidur" 228 778 mark 0
+LayerCount: 3
+Fore
+Refer: 619 60959 N 1 0 0 1 -350 288 2
+Refer: 613 60936 N 1 0 0 1 0 0 2
+Validated: 32769
+Layer: 2
+Refer: 619 60959 N 1 0 0 1 -350 288 2
+Refer: 613 60936 N 1 0 0 1 0 0 2
+Validated: 98305
+EndChar
+
+StartChar: uniEE16
+Encoding: 60950 60950 765
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+HStem: 572 27<-65.8809 3.8291> 598 46<-212.633 -176.937> 620 45<-586.572 -511.171> 706 40<-423.889 -339.106> 716 25<-768.943 -716.393> 724 29<-74.9183 -1.85486>
+VStem: -933 94<536.015 623.178> -144 55<613.215 709.358>
+AnchorPoint: "Shaidur" 70 744 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-173 644 m 0,0,1
+ -167 643 -167 643 -167 638 c 128,-1,2
+ -167 633 -167 633 -171 627 c 0,3,4
+ -190 598 -190 598 -239 598 c 0,5,6
+ -260 598 -260 598 -280 615 c 128,-1,7
+ -300 632 -300 632 -313 652 c 0,8,9
+ -348 706 -348 706 -367 706 c 128,-1,10
+ -386 706 -386 706 -416 690.5 c 128,-1,11
+ -446 675 -446 675 -454 671.5 c 128,-1,12
+ -462 668 -462 668 -507 644 c 128,-1,13
+ -552 620 -552 620 -581 620 c 128,-1,14
+ -610 620 -610 620 -645 644 c 128,-1,15
+ -680 668 -680 668 -704 692 c 128,-1,16
+ -728 716 -728 716 -738 716 c 2,17,18
+ -739 716 l 2,19,20
+ -743 717 -743 717 -745 717 c 0,21,22
+ -771 714 -771 714 -804 659 c 0,23,24
+ -839 603 -839 603 -839 569 c 0,25,26
+ -839 557 -839 557 -830.5 551.5 c 128,-1,27
+ -822 546 -822 546 -822 540.5 c 128,-1,28
+ -822 535 -822 535 -845 531.5 c 128,-1,29
+ -868 528 -868 528 -880 528 c 0,30,31
+ -933 528 -933 528 -933 554 c 128,-1,32
+ -933 580 -933 580 -914.5 616.5 c 128,-1,33
+ -896 653 -896 653 -876.5 679.5 c 128,-1,34
+ -857 706 -857 706 -802 723.5 c 128,-1,35
+ -747 741 -747 741 -705.5 741 c 128,-1,36
+ -664 741 -664 741 -638 729 c 128,-1,37
+ -612 717 -612 717 -600 702 c 0,38,39
+ -571 665 -571 665 -546.5 665 c 128,-1,40
+ -522 665 -522 665 -494 686 c 0,41,42
+ -413 746 -413 746 -347.5 746 c 128,-1,43
+ -282 746 -282 746 -243 697.5 c 128,-1,44
+ -204 649 -204 649 -173 644 c 0,0,1
+-37 599 m 2,45,-1
+ -20 600 l 1,46,47
+ 4 600 4 600 15 632 c 0,48,49
+ 16 635 16 635 27.5 637 c 128,-1,50
+ 39 639 39 639 49 635.5 c 128,-1,51
+ 59 632 59 632 59 628.5 c 128,-1,52
+ 59 625 59 625 56 622 c 0,53,54
+ 14 580 14 580 -24 574 c 0,55,56
+ -37 572 -37 572 -59.5 572 c 128,-1,57
+ -82 572 -82 572 -113 591 c 128,-1,58
+ -144 610 -144 610 -144 650 c 128,-1,59
+ -144 690 -144 690 -111.5 721.5 c 128,-1,60
+ -79 753 -79 753 -20 753 c 0,61,62
+ 14 753 14 753 37 735 c 1,63,64
+ 41 728 41 728 41 726 c 128,-1,65
+ 41 724 41 724 29 712 c 128,-1,66
+ 17 700 17 700 12 700 c 2,67,-1
+ 6 700 l 1,68,69
+ -7 721 -7 721 -35 724 c 0,70,71
+ -39 724 -39 724 -46 723 c 0,72,73
+ -89 717 -89 717 -89 667 c 0,74,75
+ -89 659 -89 659 -87 643 c 128,-1,76
+ -85 627 -85 627 -67 613 c 128,-1,77
+ -49 599 -49 599 -37 599 c 2,45,-1
+EndSplineSet
+Layer: 2
+Refer: 531 59908 N 0.861256 0.123037 -0.118794 0.831558 130.712 120.908 2
+Refer: 611 60934 N 1 0 0 1 -466 -54 2
+Validated: 98305
 EndChar
 EndChars
 EndSplineFont
