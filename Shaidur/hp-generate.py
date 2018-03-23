@@ -1,12 +1,12 @@
 import fontforge;
 
 ##
-## THIS FILE IS A FONTFORGE SCRIPT THAT GENERATES THE SHAIDUROV UNICODE FONT FAMILY
+## THIS FILE IS A FONTFORGE SCRIPT THAT GENERATES THE SHAIDUR UNICODE FONT FAMILY
 ##
 ##
 
-base_name = "ShaidurovUnicode"
-full_name  = "Shaidurov Unicode"
+base_name = "ShaidurUnicode"
+full_name  = "Shaidur Unicode"
 
 fontforge.setPrefs ("AutoHint", False)
 fontforge.setPrefs ("ClearInstrsBigChanges",False )

@@ -5,8 +5,8 @@ import fontforge;
 ##
 ##
 
-base_name = "ShaidurovUnicode"
-full_name  = "Shaidurov Unicode"
+base_name = "ShaidurUnicode"
+full_name  = "Shaidur Unicode"
 
 
 fontforge.setPrefs ("AutoHint", False)

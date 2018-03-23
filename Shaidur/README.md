@@ -1,6 +1,6 @@
-# Shaidurov Unicode
+# Shaidur Unicode
 
-Shaidurov Unicode is a font for 17th century Znamenny Notation
+Shaidur Unicode is a font for 17th century Znamenny Notation
 (Type B Notation according to the classification of I. Gardner).
 The font is named after the medieval theoretician of Znamenny chant
 [Ivan Shaidur](https://bigenc.ru/music/text/1998353).

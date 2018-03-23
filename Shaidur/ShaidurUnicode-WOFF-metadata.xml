@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-    <uniqueid id="net.ponomar.ShaidurovUnicode-05" />
+    <uniqueid id="net.ponomar.ShaidurUnicode-05" />
     <vendor name="Ponomar Technologies, Inc." url="http://www.ponomar.net/" />
     <credits>
           <credit
@@ -10,7 +10,7 @@
     </credits>
     <description>
         <text lang="en">
-            Shaidurov Unicode is a font for Znamenny neumatic notation.
+            Shaidur Unicode is a font for Znamenny neumatic notation.
         </text>
     </description>
     <license url="http://scripts.sil.org/ofl" id="org.sil.ofl.11">
@@ -112,7 +112,7 @@
     </license>
     <license id="gnu.gpl.3" url="https://gnu.org/licenses/gpl.html">
 	<text lang="en">
-	    The Shaidurov Unicode font is part of the Ponomar Project (http://www.ponomar.net/)
+	    The Shaidur Unicode font is part of the Ponomar Project (http://www.ponomar.net/)
 
 	    Ponomar is free software: you can redistribute it and/or modify
 	    it under the terms of the GNU General Public License as published by

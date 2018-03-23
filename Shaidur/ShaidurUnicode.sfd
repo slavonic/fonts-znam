@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: ShaidurovUnicode
-FullName: Shaidurov Unicode
-FamilyName: Shaidurov Unicode
+FontName: ShaidurUnicode
+FullName: Shaidur Unicode
+FamilyName: Shaidur Unicode
 Weight: Medium
 Copyright: Copyright 2013-2018 Nikita Simmons and Aleksandr Andreev.\n\nThis font is part of the Ponomar Project Slavonic Computing Initiative. See http://www.ponomar.net/ for more information.\n\nOriginal glyph design by Nikita Simmons. OpenType features and reencoding by Aleksandr Andreev.
 Version: 0.5
@@ -20,7 +20,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1357765429
-ModificationTime: 1521570788
+ModificationTime: 1521800465
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -156397,7 +156397,7 @@ SplineSet
  -55 772 -27 761 -7 739 c 1
  -5 735 -4 731.667 -4 729 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniEA0F
@@ -193276,7 +193276,7 @@ Validated: 32769
 Layer: 2
 Refer: 619 60959 N 1 0 0 1 -346 268 2
 Refer: 607 60930 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniEE11
@@ -193297,7 +193297,7 @@ Validated: 32769
 Layer: 2
 Refer: 619 60959 N 1 0 0 1 -271 248 2
 Refer: 611 60934 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniEE12
@@ -193413,7 +193413,7 @@ SplineSet
  -591 581 -600 580 -609 580 c 0
  -669 580 -720 613 -720 681 c 0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uniEE14
@@ -193520,7 +193520,7 @@ SplineSet
  -41.9053 780.745 -19.9814 772.132 -4.32129 754.906 c 0x8f80
  -2.75488 751.774 -1.97168 749.164 -1.97168 747.076 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniEE15
@@ -193541,7 +193541,7 @@ Validated: 32769
 Layer: 2
 Refer: 619 60959 N 1 0 0 1 -350 288 2
 Refer: 613 60936 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniEE16
@@ -193618,7 +193618,7 @@ EndSplineSet
 Layer: 2
 Refer: 531 59908 N 0.861256 0.123037 -0.118794 0.831558 130.712 120.908 2
 Refer: 611 60934 N 1 0 0 1 -466 -54 2
-Validated: 98305
+Validated: 32769
 EndChar
 EndChars
 EndSplineFont
