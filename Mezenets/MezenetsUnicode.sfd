@@ -23,24 +23,24 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1521800076
+ModificationTime: 1522047849
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
 LineGap: 50
 VLineGap: 0
-OS2TypoAscent: -138
+OS2TypoAscent: 0
 OS2TypoAOffset: 1
-OS2TypoDescent: 197
+OS2TypoDescent: 0
 OS2TypoDOffset: 1
 OS2TypoLinegap: 50
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: -144
+HheadAscent: 0
 HheadAOffset: 1
-HheadDescent: 215
+HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "'ccmp' Precomposed Neumes"  {"'ccmp' Precomposed Neumes-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -973,10 +973,9 @@ Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
-DisplayLayer: 2
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60858 27 10
+WinInfo: 59913 27 10
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -85644,6 +85643,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -470.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -85692,7 +85692,6 @@ SplineSet
  -566 651 -544 660 -517 671 c 0
  -514 672 -514 670 -514 668 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -470 704 m 1,0,1
@@ -85748,7 +85747,7 @@ EndChar
 StartChar: uniEA31
 Encoding: 59953 59953 381
 Width: 0
-Flags: W
+Flags: HW
 HStem: 651 20G<-501.5 -496.5> 661 21G<-378 -371> 668 74<-288.624 -265.176>
 DStem2: -613 560 -572 647 0.320142 0.94737<100.106 304.211> -486 589 -472 587 0.279599 0.960117<-6.90983 128.824> -374 566 -354 563 0.347314 0.937749<-12.4729 104.055 192.69 298.88>
 TtInstrs:
@@ -86059,6 +86058,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -470.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -86104,7 +86104,6 @@ SplineSet
  -520 805 -542 740 -572 647 c 0
  -573 644 -572 642 -571 642 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -452 704 m 1,0,1
@@ -86159,7 +86158,7 @@ EndChar
 StartChar: uniEA32
 Encoding: 59954 59954 382
 Width: 0
-Flags: W
+Flags: HW
 HStem: 553 300
 VStem: -560 102<557 661>
 TtInstrs:
@@ -86294,6 +86293,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -458.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -86320,7 +86320,6 @@ SplineSet
  -455 853 -452 850 -452 845 c 0
  -452 844 -452 843 -453 842 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -368 636 m 0,0,1
@@ -86358,7 +86357,7 @@ EndChar
 StartChar: uniEA33
 Encoding: 59955 59955 383
 Width: 0
-Flags: W
+Flags: HW
 HStem: 463 300
 DStem2: -291 470 -250 557 0.320142 0.947369<100.106 304.211> -164 499 -150 497 0.279599 0.960117<-6.90983 125.989>
 TtInstrs:
@@ -86532,6 +86531,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -207.008 354.756 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -86559,7 +86559,6 @@ SplineSet
  -226 561 -204 570 -177 581 c 0
  -174 582 -174 580 -174 578 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -115 616 m 1,0,1
@@ -86593,7 +86592,7 @@ EndChar
 StartChar: uniEA34
 Encoding: 59956 59956 384
 Width: 0
-Flags: W
+Flags: HW
 HStem: 553 300
 DStem2: -633 560 -592 647 0.320142 0.94737<100.106 304.211> -506 589 -492 587 0.279599 0.960117<-6.90983 128.824> -408 560 -367 647 0.320142 0.94737<100.106 304.211> -281 589 -267 587 0.279599 0.960117<-6.90983 125.989>
 TtInstrs:
@@ -86922,6 +86921,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -458.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -86971,7 +86971,6 @@ SplineSet
  -343 651 -321 660 -294 671 c 0
  -292 672 -291 670 -291 668 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -472 704 m 1,0,1
@@ -87029,7 +87028,7 @@ EndChar
 StartChar: uniEA35
 Encoding: 59957 59957 385
 Width: 0
-Flags: W
+Flags: HW
 HStem: 616 72<-253.192 -228.613 -221 -195.526> 643 20G<-495.5 -494.5> 762 97<-155.56 -83.3888> 778 81<-165.824 -105.394>
 DStem2: -810 560 -769 647 0.320142 0.94737<100.106 304.211> -683 589 -669 587 0.279599 0.960117<-6.90983 128.824> -265 609 -266 560 0.350149 0.936694<-0.11419 0 87.266 143.155>
 TtInstrs:
@@ -87584,6 +87583,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -680.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -87676,7 +87676,6 @@ SplineSet
  -542 648 -527 653 -499 662 c 0
  -497 663 -496 663 -495 663 c 0x40
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -649 704 m 1,0,1
@@ -87778,7 +87777,7 @@ EndChar
 StartChar: uniEA36
 Encoding: 59958 59958 386
 Width: 0
-Flags: W
+Flags: HW
 HStem: 553 300 653 20G<-423.5 -418.5 -205.5 -204.5>
 DStem2: -750 560 -709 647 0.320142 0.94737<100.106 304.211> -623 589 -609 587 0.279599 0.960117<-6.90983 125.989> -535 560 -494 647 0.320142 0.94737<100.106 304.211> -408 589 -394 587 0.279599 0.960117<-6.90983 128.824>
 TtInstrs:
@@ -88177,6 +88176,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -612.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -88248,7 +88248,6 @@ SplineSet
  -685 651 -663 660 -636 671 c 0
  -633 672 -633 670 -633 668 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -374 704 m 1,0,1
@@ -88329,7 +88328,7 @@ EndChar
 StartChar: uniEA37
 Encoding: 59959 59959 387
 Width: 0
-Flags: W
+Flags: HW
 HStem: 607 76<-211.656 -153.881>
 VStem: -226 34<683.2 703.233>
 DStem2: -164 831 -194 758 0.931457 0.363852<-112.871 -21.7554 59.0272 147.953>
@@ -88494,6 +88493,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -228.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -88540,7 +88540,6 @@ SplineSet
  -262 692 -262 691 -262 689 c 0
  -262 688 -262 686 -263 683 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 0 884 m 1,0,-1
@@ -88595,7 +88594,7 @@ EndChar
 StartChar: uniEA38
 Encoding: 59960 59960 388
 Width: 0
-Flags: W
+Flags: HW
 HStem: 599 71<-556.663 -511.014> 752 96<-462.398 -390.094>
 VStem: -569 25<628 690>
 DStem2: -350 630 -309 717 0.303335 0.952884<89.9411 346.951> -302 713 -346 624 0.919145 0.393919<-6.25934 24.2487 44.6442 54.2296 92.7037 127.304 170.83 171.749 218.012 252.612>
@@ -88875,6 +88874,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -568.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -88934,7 +88934,6 @@ SplineSet
  -352 809 -387 756 -390 754 c 0
  -392 753 -395 752 -398 752 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -45 758 m 0,0,1
@@ -89007,7 +89006,7 @@ EndChar
 StartChar: uniEA39
 Encoding: 59961 59961 389
 Width: 0
-Flags: W
+Flags: HW
 HStem: 579 71<-121.758 -76.1019> 781 73<-4.43956 73.3931>
 VStem: -134 24<598.5 671>
 TtInstrs:
@@ -89096,6 +89095,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -128.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -89129,7 +89129,6 @@ SplineSet
  66 854 69 854 71 854 c 0
  82 854 88 847 88 832 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -25 706 m 1,0,1
@@ -89172,7 +89171,7 @@ EndChar
 StartChar: uniEA3A
 Encoding: 59962 59962 390
 Width: 0
-Flags: W
+Flags: HW
 HStem: 599 71<-556.663 -511.014> 662 21G<-344.5 -341.5> 752 96<-462.398 -390.094> 889 97<32.3946 90.8601>
 VStem: -569 25<628 690> -91 112<742 863>
 TtInstrs:
@@ -89342,6 +89341,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -558.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -89411,7 +89411,6 @@ SplineSet
  128 948 93 894 91 892 c 0
  88 890 86 889 83 889 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -460 726 m 0,0,1
@@ -89492,7 +89491,7 @@ EndChar
 StartChar: uniEA3B
 Encoding: 59963 59963 391
 Width: 0
-Flags: W
+Flags: HW
 HStem: 755 109<-575.5 -482.664>
 VStem: -514 57<692 827.5>
 DStem2: -396 650 -355 737 0.303336 0.952884<89.6517 346.648> -349 733 -393 644 0.919665 0.392704<-6.25933 25.1818 45.651 55.1497 92.7562 128.306 170.913 172.672 218.896 253.569>
@@ -89751,6 +89750,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -470.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -89797,7 +89797,6 @@ SplineSet
  -564 568 -556 583 -549 600 c 0
  -526 651 -514 684 -514 700 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -69 846 m 0,0,1
@@ -89855,7 +89854,7 @@ EndChar
 StartChar: uniEA3C
 Encoding: 59964 59964 392
 Width: 0
-Flags: W
+Flags: HW
 HStem: 449 21G<-830 -828> 509 71<-596.663 -551.014> 662 96<-502.398 -430.094> 669 21G<-360 -358> 729 71<-126.663 -81.0139> 882 96<-32.3982 39.9055>
 VStem: -609 25<538 600> -139 25<758 820>
 TtInstrs:
@@ -90072,6 +90071,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Tonal" -584.004 455.854 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -90132,7 +90132,6 @@ SplineSet
  -392 719 -427 666 -430 664 c 0
  -432 663 -435 662 -438 662 c 0xe7
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -30 856 m 0,0,1
@@ -90417,6 +90416,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" -224 454 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -90509,7 +90509,6 @@ SplineSet
  477 268 480 268 482 268 c 0x9e
  493 268 498 261 498 246 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 8 152 m 1,0,1
@@ -90612,7 +90611,7 @@ EndChar
 StartChar: uniEA3E
 Encoding: 59966 59966 394
 Width: 0
-Flags: W
+Flags: HW
 HStem: 152 97<-42.56 29.6112> 168 81<-52.8237 7.60615>
 VStem: -225 112<184 305> -91 112<253 374>
 DStem2: 256 222 226 148 0.94437 0.328885<-103.049 -22.5298 60.1853 140.984>
@@ -90719,6 +90718,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" -224 454 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -90818,7 +90818,6 @@ SplineSet
  108 68 123 73 151 82 c 0
  153 83 154 83 155 83 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 8 152 m 1,0,1
@@ -90925,7 +90924,7 @@ EndChar
 StartChar: uniEA3F
 Encoding: 59967 59967 395
 Width: 0
-Flags: W
+Flags: HW
 HStem: 151 85<292.131 358.414> 152 97<-42.56 29.6112> 168 81<-52.8237 7.60615>
 VStem: -225 112<184 305> -91 112<253 374> 58 87<14.9768 76.619> 333 45<104.316 207.5>
 TtInstrs:
@@ -91086,6 +91085,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" -224 454 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -91186,7 +91186,6 @@ SplineSet
  105 109 107 110 109 110 c 0
  118 110 128 92 132 86 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 8 152 m 1,0,1
@@ -91296,7 +91295,7 @@ EndChar
 StartChar: uniEA40
 Encoding: 59968 59968 396
 Width: 0
-Flags: W
+Flags: HW
 HStem: -1 21G<-408.5 -407> 30 70<-174.971 -132.084> 100 33<-169 -142.5> 212 97<-67.6054 -9.1399> 228 81<-77.8241 -17.3946>
 TtInstrs:
 SVTCA[y-axis]
@@ -91379,6 +91378,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" -224 356 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -91408,7 +91408,6 @@ SplineSet
  -79 160 -79 158 -80 156 c 0
  -87 122 -129 30 -165 30 c 0xc0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -17 212 m 2,0,1
@@ -224243,7 +224242,7 @@ SplineSet
  78 185 78 185 69 157 c 1,44,-1
  87 257 l 1,35,36
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Colour: ffb54c
 EndChar
 
@@ -224474,7 +224473,7 @@ SplineSet
  78 184 78 184 69 156 c 1,47,-1
  87 256 l 1,38,39
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Colour: ffb54c
 EndChar
 
@@ -235291,7 +235290,7 @@ SplineSet
  586 512 l 1,141,-1
  642 512 l 1,130,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uniEC49
@@ -236555,7 +236554,7 @@ SplineSet
  539 556 l 1,204,-1
  536 672 l 1,192,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uniEC4A
@@ -237393,7 +237392,7 @@ SplineSet
  547 496 547 496 500 496 c 2,133,-1
  476 496 l 1,128,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uniEC4B
@@ -238351,7 +238350,7 @@ SplineSet
  243 280 243 280 249 275 c 0,163,164
  281 252 281 252 281 215 c 0,136,137
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uniEC4C
@@ -239463,7 +239462,7 @@ SplineSet
  439 548 l 1,182,-1
  436 664 l 1,170,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 EndChars
 EndSplineFont

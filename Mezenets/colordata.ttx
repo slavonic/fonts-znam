@@ -113,6 +113,58 @@
     <ColorGlyph name="uniEE3C">
       <layer colorID="1" name="uniEE3C"/>
     </ColorGlyph>
+    <!-- Explanatory Marks in the PUA -->
+    <ColorGlyph name="uniEA30">
+      <layer colorID="1" name="uniEA30"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA31">
+      <layer colorID="1" name="uniEA31"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA32">
+      <layer colorID="1" name="uniEA32"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA33">
+      <layer colorID="1" name="uniEA33"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA34">
+      <layer colorID="1" name="uniEA34"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA35">
+      <layer colorID="1" name="uniEA35"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA36">
+      <layer colorID="1" name="uniEA36"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA37">
+      <layer colorID="1" name="uniEA37"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA38">
+      <layer colorID="1" name="uniEA38"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA39">
+      <layer colorID="1" name="uniEA39"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA3A">
+      <layer colorID="1" name="uniEA3A"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA3B">
+      <layer colorID="1" name="uniEA3B"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA3C">
+      <layer colorID="1" name="uniEA3C"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA3D">
+      <layer colorID="1" name="uniEA3D"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA3E">
+      <layer colorID="1" name="uniEA3E"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA3F">
+      <layer colorID="1" name="uniEA3F"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA40">
+      <layer colorID="1" name="uniEA40"/>
+    </ColorGlyph>
   </COLR>
 
   <CPAL>
