@@ -5,8 +5,8 @@ import fontforge;
 ##
 ##
 
-base_name = "SmolenskyUnicode"
-full_name  = "Smolensky Unicode"
+base_name = "Smolensky-Regular"
+full_name  = "Smolensky"
 
 
 fontforge.setPrefs ("AutoHint", False)

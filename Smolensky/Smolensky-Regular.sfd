@@ -1,48 +1,49 @@
 SplineFontDB: 3.0
-FontName: SmolenskyUnicode
-FullName: Smolensky Unicode
-FamilyName: Smolensky Unicode
-Weight: Medium
-Copyright: Smolensky Unicode is a font for archaic Znamenny Notation.\n\nCopyright 2017-2018 Aleksandr Andreev. Slavonic Computing Initiative.\nhttp://sci.ponomar.net/
-UComments: "2017-2-1: Created." 
-Version: 0.9
+FontName: Smolensky-Regular
+FullName: Smolensky Regular
+FamilyName: Smolensky
+Weight: Regular
+Copyright: Copyright 2017-2018 Aleksandr Andreev. Slavonic Computing Initiative. See http://sci.ponomar.net/ for details.
+UComments: "2017-2-1: Created."
+Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
+InvalidEm: 0
 LayerCount: 3
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
-Layer: 2 1 "TTF"  0
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 1 "TTF" 0
 XUID: [1021 187 1807321670 11892138]
-FSType: 8
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485932044
-ModificationTime: 1523864890
+ModificationTime: 1524038221
 PfmFamily: 17
-TTFWeight: 500
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
 OS2TypoLinegap: 90
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: 0
+HheadAscent: 17
 HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
-OS2Vendor: 'PfEd'
-Lookup: 4 0 0 "'ccmp' Znamenny Ligatures"  {"'ccmp' Znamenny Ligatures 0-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning"  {"'mark' Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+HheadDescent: -200
+HheadDOffset: 0
+OS2Vendor: 'SCIN'
+Lookup: 4 0 0 "'ccmp' Znamenny Ligatures" { "'ccmp' Znamenny Ligatures 0-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning" { "'mark' Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -758,16 +759,16 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2017, Aleksandr Andreev, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "" "" "+7nAA +7nUA +7pAA" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "http://scripts.sil.org/OFL"
+GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -72
-DisplayLayer: 2
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 18 7
+WinInfo: 108 18 7
 BeginPrivate: 6
 BlueValues 23 [20 28 216 226 370 380]
 OtherBlues 11 [-148 -140]
@@ -778,12 +779,13 @@ ExpansionFactor 4 0.06
 EndPrivate
 Grid
 -3.5 22 m 24
- 323.905 22 508.595 22 836 22 c 24
+ 323.905 22 508.595 22 836 22 c 1048
 0 376.056 m 24
- 326.04 376.056 509.96 376.056 836 376.056 c 24
+ 326.04 376.056 509.96 376.056 836 376.056 c 1048
 EndSplineSet
-AnchorClass2: "Right"  "'mark' Mark Positioning-1" "Podchashie"  "'mark' Mark Positioning-1" "Tonal"  "'mark' Mark Positioning-1" 
-BeginChars: 1114112 238
+TeXData: 1 0 0 349175 174587 116391 471859 1048576 116391 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "Right" "'mark' Mark Positioning-1" "Podchashie" "'mark' Mark Positioning-1" "Tonal" "'mark' Mark Positioning-1"
+BeginChars: 1114112 239
 
 StartChar: uniEE73
 Encoding: 61043 61043 0
@@ -7647,7 +7649,7 @@ SplineSet
  126 106 126 106 131 89 c 9,16,17
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE51
 EndChar
 
@@ -7883,7 +7885,7 @@ SplineSet
  20 386 20 386 20 403 c 128,-1,17
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE78 uniEE5B
 EndChar
 
@@ -14338,6 +14340,8 @@ Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni0001
@@ -16551,6 +16555,8 @@ Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni0009
@@ -16559,6 +16565,8 @@ Width: 500
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni000A
@@ -16567,270 +16575,14 @@ Width: 500
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni000B
 Encoding: 11 11 64
 Width: 500
 Flags: W
-HStem: 0 19<66 435> 748 22<66 435>
-VStem: 37 22<34 733> 442 22<34 733>
-DStem2: 66 748 59 733 0.465951 -0.884811<10.0105 395.419 421.078 806.952> 59 34 66 19 0.465951 0.884811<0 385.408 411.068 796.942>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 12
- 1
- 0
-CALL
-PUSHB_1
- 10
-SHP[rp1]
-PUSHB_1
- 3
-MDRP[min,rnd,black]
-PUSHB_1
- 4
-MDAP[rnd]
-PUSHB_1
- 6
-SHP[rp1]
-PUSHB_1
- 0
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 16
-MDAP[rnd]
-PUSHB_1
- 3
-MDRP[rp0,rnd,white]
-PUSHB_1
- 14
-MDRP[min,rnd,black]
-PUSHB_1
- 13
-SHP[rp2]
-PUSHB_1
- 14
-SRP0
-PUSHB_2
- 8
- 1
-CALL
-PUSHB_1
- 9
-SHP[rp2]
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_2
- 17
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 14497
- -7634
- 21
-CALL
-SPVFS
-SFVTCA[y-axis]
-PUSHB_1
- 14
-MDAP[no-rnd]
-SFVTCA[x-axis]
-PUSHB_1
- 6
-MDRP[grey]
-PUSHB_2
- 12
- 4
-MIRP[rp0,min,black]
-SFVTCA[y-axis]
-PUSHB_1
- 9
-MDRP[grey]
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 10
-MDAP[no-rnd]
-SFVTCA[y-axis]
-PUSHB_1
- 13
-MDRP[grey]
-PUSHB_2
- 8
- 4
-MIRP[rp0,min,black]
-SFVTCA[x-axis]
-PUSHB_1
- 4
-MDRP[grey]
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 4
-SRP0
-PUSHB_4
- 5
- 4
- 8
- 19
-CALL
-PUSHB_2
- 4
- 8
-SFVTL[parallel]
-PUSHB_1
- 14
-SRP0
-PUSHB_4
- 5
- 14
- 6
- 19
-CALL
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 4
-SRP0
-PUSHB_4
- 7
- 4
- 8
- 19
-CALL
-PUSHB_2
- 4
- 8
-SFVTL[parallel]
-PUSHB_1
- 12
-SRP0
-PUSHB_4
- 7
- 12
- 9
- 19
-CALL
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 13
-SRP0
-PUSHB_4
- 11
- 13
- 10
- 19
-CALL
-PUSHB_2
- 13
- 10
-SFVTL[parallel]
-PUSHB_1
- 12
-SRP0
-PUSHB_4
- 11
- 12
- 9
- 19
-CALL
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 13
-SRP0
-PUSHB_4
- 15
- 13
- 10
- 19
-CALL
-PUSHB_2
- 13
- 10
-SFVTL[parallel]
-PUSHB_1
- 14
-SRP0
-PUSHB_4
- 15
- 14
- 6
- 19
-CALL
-SVTCA[y-axis]
-PUSHB_8
- 5
- 7
- 8
- 9
- 11
- 13
- 14
- 15
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-PUSHB_8
- 4
- 5
- 6
- 7
- 10
- 11
- 12
- 15
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 3
 Fore
 SplineSet
@@ -16855,31 +16607,6 @@ SplineSet
  59 34 l 1
  243 383 l 1
  59 733 l 1
-EndSplineSet
-Validated: 1
-Layer: 2
-SplineSet
-37 770 m 5,0,-1
- 464 770 l 1,1,-1
- 464 0 l 1,2,-1
- 37 0 l 1,3,-1
- 37 770 l 5,0,-1
-66 748 m 5,4,-1
- 250 398 l 1,5,-1
- 435 748 l 1,6,-1
- 66 748 l 5,4,-1
-258 383 m 5,7,-1
- 442 34 l 1,8,-1
- 442 733 l 1,9,-1
- 258 383 l 5,7,-1
-435 19 m 5,10,-1
- 250 369 l 1,11,-1
- 66 19 l 1,12,-1
- 435 19 l 5,10,-1
-59 733 m 5,13,-1
- 59 34 l 1,14,-1
- 243 383 l 1,15,-1
- 59 733 l 5,13,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -16888,264 +16615,6 @@ StartChar: uni000C
 Encoding: 12 12 65
 Width: 500
 Flags: W
-HStem: 0 19<66 435> 748 22<66 435>
-VStem: 37 22<34 733> 442 22<34 733>
-DStem2: 66 748 59 733 0.465951 -0.884811<10.0105 395.419 421.078 806.952> 59 34 66 19 0.465951 0.884811<0 385.408 411.068 796.942>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 12
- 1
- 0
-CALL
-PUSHB_1
- 10
-SHP[rp1]
-PUSHB_1
- 3
-MDRP[min,rnd,black]
-PUSHB_1
- 4
-MDAP[rnd]
-PUSHB_1
- 6
-SHP[rp1]
-PUSHB_1
- 0
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 16
-MDAP[rnd]
-PUSHB_1
- 3
-MDRP[rp0,rnd,white]
-PUSHB_1
- 14
-MDRP[min,rnd,black]
-PUSHB_1
- 13
-SHP[rp2]
-PUSHB_1
- 14
-SRP0
-PUSHB_2
- 8
- 1
-CALL
-PUSHB_1
- 9
-SHP[rp2]
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_2
- 17
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 14497
- -7634
- 21
-CALL
-SPVFS
-SFVTCA[y-axis]
-PUSHB_1
- 14
-MDAP[no-rnd]
-SFVTCA[x-axis]
-PUSHB_1
- 6
-MDRP[grey]
-PUSHB_2
- 12
- 4
-MIRP[rp0,min,black]
-SFVTCA[y-axis]
-PUSHB_1
- 9
-MDRP[grey]
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 10
-MDAP[no-rnd]
-SFVTCA[y-axis]
-PUSHB_1
- 13
-MDRP[grey]
-PUSHB_2
- 8
- 4
-MIRP[rp0,min,black]
-SFVTCA[x-axis]
-PUSHB_1
- 4
-MDRP[grey]
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 4
-SRP0
-PUSHB_4
- 5
- 4
- 8
- 19
-CALL
-PUSHB_2
- 4
- 8
-SFVTL[parallel]
-PUSHB_1
- 14
-SRP0
-PUSHB_4
- 5
- 14
- 6
- 19
-CALL
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 4
-SRP0
-PUSHB_4
- 7
- 4
- 8
- 19
-CALL
-PUSHB_2
- 4
- 8
-SFVTL[parallel]
-PUSHB_1
- 12
-SRP0
-PUSHB_4
- 7
- 12
- 9
- 19
-CALL
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 13
-SRP0
-PUSHB_4
- 11
- 13
- 10
- 19
-CALL
-PUSHB_2
- 13
- 10
-SFVTL[parallel]
-PUSHB_1
- 12
-SRP0
-PUSHB_4
- 11
- 12
- 9
- 19
-CALL
-PUSHW_3
- -14497
- -7634
- 21
-CALL
-SFVFS
-PUSHB_1
- 13
-SRP0
-PUSHB_4
- 15
- 13
- 10
- 19
-CALL
-PUSHB_2
- 13
- 10
-SFVTL[parallel]
-PUSHB_1
- 14
-SRP0
-PUSHB_4
- 15
- 14
- 6
- 19
-CALL
-SVTCA[y-axis]
-PUSHB_8
- 5
- 7
- 8
- 9
- 11
- 13
- 14
- 15
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-PUSHB_8
- 4
- 5
- 6
- 7
- 10
- 11
- 12
- 15
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 3
 Fore
 SplineSet
@@ -17170,31 +16639,6 @@ SplineSet
  59 34 l 1
  243 383 l 1
  59 733 l 1
-EndSplineSet
-Validated: 1
-Layer: 2
-SplineSet
-37 770 m 5,0,-1
- 464 770 l 1,1,-1
- 464 0 l 1,2,-1
- 37 0 l 1,3,-1
- 37 770 l 5,0,-1
-66 748 m 5,4,-1
- 250 398 l 1,5,-1
- 435 748 l 1,6,-1
- 66 748 l 5,4,-1
-258 383 m 5,7,-1
- 442 34 l 1,8,-1
- 442 733 l 1,9,-1
- 258 383 l 5,7,-1
-435 19 m 5,10,-1
- 250 369 l 1,11,-1
- 66 19 l 1,12,-1
- 435 19 l 5,10,-1
-59 733 m 5,13,-1
- 59 34 l 1,14,-1
- 243 383 l 1,15,-1
- 59 733 l 5,13,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -17205,6 +16649,8 @@ Width: 500
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni000E
@@ -21938,6 +21384,8 @@ Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni001E
@@ -22572,7 +22020,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 85
-Width: 333
+Width: 500
 VWidth: 0
 Flags: W
 LayerCount: 3
@@ -22583,130 +22031,8 @@ Encoding: 42 42 86
 Width: 443
 VWidth: 1760
 Flags: W
-HStem: 351 73<73.6494 147.346 350.91 422.201> 522 69<79.3137 145.296 355.039 420.686>
-VStem: 214 74<269.085 385.5 555.381 665.171> 226 47.5<487.778 640.04 640.952 643.102 643.89 675.874> 241 19<371.627 456 486 569.717>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_1
- 8
-MDAP[rnd]
-PUSHB_1
- 48
-SHP[rp1]
-PUSHB_1
- 12
-MDRP[min,rnd,black]
-PUSHB_1
- 45
-SHP[rp2]
-PUSHB_1
- 37
-MDAP[rnd]
-PUSHB_1
- 19
-SHP[rp1]
-SVTCA[x-axis]
-PUSHB_1
- 57
-MDAP[rnd]
-PUSHB_1
- 2
-MDRP[rp0,rnd,white]
-PUSHB_1
- 26
-SHP[rp2]
-PUSHB_1
- 55
-MDRP[min,rnd,black]
-PUSHB_1
- 30
-SHP[rp2]
-PUSHB_4
- 4
- 55
- 2
- 8
-CALL
-PUSHB_1
- 24
-SHP[rp1]
-PUSHB_1
- 52
-MDRP[min,rnd,black]
-PUSHB_1
- 33
-SHP[rp2]
-PUSHB_3
- 4
- 52
- 10
-CALL
-PUSHB_4
- 64
- 4
- 10
- 9
-CALL
-PUSHB_1
- 17
-SHP[rp2]
-PUSHB_2
- 58
- 1
-CALL
-PUSHB_2
- 4
- 2
-SRP1
-SRP2
-PUSHB_3
- 0
- 14
- 28
-IP
-IP
-IP
-PUSHB_2
- 55
- 52
-SRP1
-SRP2
-PUSHB_3
- 29
- 42
- 56
-IP
-IP
-IP
-SVTCA[y-axis]
-PUSHB_2
- 12
- 8
-SRP1
-SRP2
-PUSHB_2
- 6
- 47
-IP
-IP
-PUSHB_1
- 37
-SRP1
-PUSHB_8
- 4
- 24
- 33
- 35
- 38
- 42
- 51
- 52
-DEPTH
-SLOOP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: 440 123<150.167 179.718 266.16 295.875>
+VStem: 150 30<475.344 522.45> 266 30<473.768 524.027>
 LayerCount: 3
 Fore
 SplineSet
@@ -22744,57 +22070,62 @@ EndSplineSet
 Validated: 1
 Layer: 2
 SplineSet
-224.5 276 m 128,-1,1
- 214 287 214 287 214 299.5 c 128,-1,2
- 214 312 214 312 227.5 355.5 c 128,-1,3
- 241 399 241 399 241 456 c 1,4,5
- 202 432 202 432 177 404 c 128,-1,6
- 152 376 152 376 139.5 363.5 c 128,-1,7
- 127 351 127 351 105 351 c 0,8,9
- 69 351 69 351 69 386 c 0,10,11
- 69 415 69 415 114 424 c 0,12,13
- 173 435 173 435 234 471 c 1,14,15
- 195 491 195 491 149.5 502 c 128,-1,16
- 104 513 104 513 86.5 522 c 128,-1,17
- 69 531 69 531 69 550.5 c 128,-1,18
- 69 570 69 570 79 580.5 c 128,-1,19
- 89 591 89 591 104 591 c 128,-1,20
- 119 591 119 591 131.5 582 c 128,-1,21
- 144 573 144 573 153 560 c 128,-1,22
- 162 547 162 547 185.5 526 c 128,-1,23
- 209 505 209 505 241 486 c 1,24,25
- 241 543 241 543 228.5 587 c 128,-1,26
- 216 631 216 631 216 643.5 c 128,-1,27
- 216 656 216 656 226 666 c 128,-1,28
- 236 676 236 676 251 676 c 128,-1,29
- 266 676 266 676 276.5 665.5 c 128,-1,30
- 287 655 287 655 287 640.5 c 128,-1,31
- 287 626 287 626 273.5 584.5 c 128,-1,32
- 260 543 260 543 260 484 c 1,33,34
- 295 506 295 506 321.5 534.5 c 128,-1,35
- 348 563 348 563 362.5 578 c 128,-1,36
- 377 593 377 593 394 593 c 128,-1,37
- 411 593 411 593 421 582 c 128,-1,38
- 431 571 431 571 431 552 c 128,-1,39
- 431 533 431 533 411 524 c 128,-1,40
- 391 515 391 515 347 502.5 c 128,-1,41
- 303 490 303 490 268 470 c 1,42,43
- 298 451 298 451 332 439.5 c 128,-1,44
- 366 428 366 428 385.5 425 c 128,-1,45
- 405 422 405 422 418.5 413 c 128,-1,46
- 432 404 432 404 432 387 c 128,-1,47
- 432 370 432 370 422.5 360 c 128,-1,48
- 413 350 413 350 394.5 350 c 128,-1,49
- 376 350 376 350 362 362.5 c 128,-1,50
- 348 375 348 375 321.5 403.5 c 128,-1,51
- 295 432 295 432 260 456 c 1,52,53
- 260 399 260 399 274 354.5 c 128,-1,54
- 288 310 288 310 288 299.5 c 128,-1,55
- 288 289 288 289 276.5 277 c 128,-1,56
- 265 265 265 265 250 265 c 128,-1,0
- 235 265 235 265 224.5 276 c 128,-1,1
+89 435.5 m 128,-1,1
+ 102 446 102 446 107 450 c 0,2,3
+ 112 455 112 455 131 470 c 0,4,5
+ 150 486 150 486 150 495 c 0,6,7
+ 150 516 150 516 111 542 c 128,-1,8
+ 72 568 72 568 72 583 c 2,9,-1
+ 72 586 l 1,10,11
+ 75 591 75 591 90 591 c 0,12,13
+ 106 591 106 591 131 577 c 128,-1,14
+ 156 563 156 563 170 563 c 0,15,16
+ 181 563 181 563 188 567 c 0,17,18
+ 193 570 193 570 196 577 c 0,19,20
+ 199 585 199 585 200 591 c 0,21,22
+ 203 597 203 597 203 607 c 128,-1,23
+ 203 617 203 617 206 620 c 0,24,25
+ 206 622 206 622 207 624 c 0,26,27
+ 217 665 217 665 229 665 c 0,28,29
+ 243 665 243 665 250 616.5 c 128,-1,30
+ 257 568 257 568 262 566 c 0,31,32
+ 268 563 268 563 279 563 c 0,33,34
+ 291 563 291 563 303 569 c 0,35,36
+ 317 576 317 576 330 582 c 0,37,38
+ 342 588 342 588 355 588 c 128,-1,39
+ 368 588 368 588 368 575 c 0,40,41
+ 368 560 368 560 336 542 c 0,42,43
+ 296 519 296 519 296 498 c 128,-1,44
+ 296 477 296 477 332 458 c 0,45,46
+ 338 455 338 455 338 454 c 0,47,48
+ 338 455 338 455 346 450 c 0,49,50
+ 373 431 373 431 373 422.5 c 0,51,52
+ 373 416 373 416 369 410 c 0,53,54
+ 367 407 367 407 353 407 c 0,55,56
+ 343 407 343 407 312 421 c 128,-1,57
+ 281 435 281 435 268 435 c 0,58,59
+ 258 435 258 435 252 413 c 0,60,61
+ 240 369 240 369 240 369 c 0,62,63
+ 233 347 233 347 223 347 c 0,64,65
+ 205 347 205 347 197 393.5 c 128,-1,66
+ 189 440 189 440 176 440 c 0,67,68
+ 168 440 168 440 152 431 c 0,69,70
+ 132 420 132 420 131 420 c 0,71,72
+ 128 420 128 420 127 419 c 0,73,74
+ 125 417 125 417 113 412 c 128,-1,75
+ 101 407 101 407 88 407 c 0,76,77
+ 76 407 76 407 76 416 c 128,-1,0
+ 76 425 76 425 89 435.5 c 128,-1,1
+185 523 m 0,78,79
+ 180 513 180 513 180 499 c 0,80,81
+ 180 486 180 486 192 475 c 0,82,83
+ 203 465 203 465 221 465 c 128,-1,84
+ 239 465 239 465 252 474 c 0,85,86
+ 266 484 266 484 266 497 c 0,87,88
+ 266 509 266 509 260 521 c 0,89,90
+ 247 546 247 546 222 546 c 0,91,92
+ 196 546 196 546 185 523 c 0,78,79
 EndSplineSet
-Validated: 8388609
 EndChar
 
 StartChar: parenleft
@@ -22803,26 +22134,6 @@ Width: 323
 VWidth: 1760
 Flags: W
 VStem: 48 86<110.211 397.788>
-TtInstrs:
-SVTCA[y-axis]
-SVTCA[x-axis]
-PUSHB_1
- 22
-MDAP[rnd]
-PUSHB_1
- 5
-MDRP[rp0,rnd,white]
-PUSHB_1
- 16
-MDRP[min,rnd,black]
-PUSHB_2
- 23
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 3
 Fore
 SplineSet
@@ -22850,13 +22161,12 @@ SplineSet
  304 660 l 1,11,12
  260 624 260 624 233 595 c 128,-1,13
  206 566 206 566 181 520 c 0,14,15
- 134 432 134 432 134 255 c 0,16,17
- 134 70 134 70 181 -20 c 0,18,19
- 206 -67 206 -67 233 -97 c 128,-1,20
- 260 -127 260 -127 304 -161 c 1,21,-1
+ 134 432 134 432 134 251 c 128,-1,16
+ 134 70 134 70 181 -20 c 0,17,18
+ 206 -67 206 -67 233 -97 c 128,-1,19
+ 260 -127 260 -127 304 -161 c 1,20,-1
  292 -177 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: parenright
@@ -22879,7 +22189,6 @@ EndSplineSet
 Validated: 1
 Layer: 2
 Refer: 87 40 N -1 0 0 -1 333 499 2
-Validated: 1
 EndChar
 
 StartChar: uniEA60
@@ -23005,7 +22314,7 @@ SplineSet
  131 88 131 88 131 88 c 9,12,13
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE5A
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE50
 EndChar
@@ -23120,7 +22429,7 @@ SplineSet
  173 191 173 191 41 361 c 0,8,9
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE78 uniEE5A
 EndChar
 
@@ -23457,7 +22766,7 @@ SplineSet
  287 245 287 245 271 238 c 0,32,33
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE8F uniEE51
 EndChar
 
@@ -23748,7 +23057,7 @@ SplineSet
  286 245 286 245 270 238 c 0,25,26
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE8F uniEE50
 EndChar
 
@@ -24070,7 +23379,7 @@ SplineSet
  242 213 242 213 176 194.5 c 128,-1,45
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE93 uniEE50
 EndChar
 
@@ -24823,7 +24132,7 @@ SplineSet
  202 -70 202 -70 207 -74 c 128,-1,44
  212 -78 212 -78 213 -90 c 1,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -24993,7 +24302,7 @@ SplineSet
  56 -107 l 1,38,39
  32 -105 32 -105 32 -92 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: less
@@ -25362,7 +24671,7 @@ SplineSet
  184 21 184 21 184 44 c 128,-1,31
  184 67 184 67 199 83 c 128,-1,32
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uni00A0
@@ -25371,6 +24680,8 @@ Width: 500
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni202F
@@ -25379,6 +24690,8 @@ Width: 225
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni200D
@@ -25387,6 +24700,8 @@ Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uni200C
@@ -25395,6 +24710,8 @@ Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 3
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: uniEE55
@@ -27793,7 +27110,7 @@ SplineSet
  378 192 378 192 356 220.5 c 128,-1,51
  334 249 334 249 264 293 c 1,46,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -28122,7 +27439,7 @@ SplineSet
  313 609 313 609 303 618 c 0,60,61
  287 632 287 632 282 632 c 0,47,48
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -28373,7 +27690,7 @@ SplineSet
  322 39 322 39 404 104 c 1,60,61
  330 195 330 195 252 343 c 1,54,55
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -35138,7 +34455,7 @@ SplineSet
  43 17 43 17 43 43 c 0,40,0
  43 59 43 59 53.5 68.5 c 128,-1,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: four
@@ -35633,7 +34950,6 @@ SplineSet
  378 103 378 103 378 191 c 128,-1,20
  378 279 378 279 342.5 330.5 c 128,-1,21
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: seven
@@ -35879,7 +35195,7 @@ SplineSet
  136 507 136 507 165 470 c 128,-1,46
  194 433 194 433 261 389 c 1,33,34
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -36342,7 +35658,7 @@ SplineSet
  470 187 470 187 506 262 c 128,-1,58
  542 337 542 337 542 406 c 0,47,48
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -37615,7 +36931,7 @@ SplineSet
  333 146 333 146 353.5 166 c 128,-1,67
  374 186 374 186 374 212 c 0,57,58
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: logicalnot
@@ -38971,7 +38287,7 @@ SplineSet
  213 625 213 625 213 595 c 2,51,-1
  213 366 l 1,42,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: C
@@ -39127,7 +38443,7 @@ SplineSet
  452 -14 452 -14 367 -14 c 0,28,0
  219 -14 219 -14 127 79 c 128,-1,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: D
@@ -39262,7 +38578,7 @@ SplineSet
  227 37 227 37 257 37 c 0,34,35
  575 37 575 37 575 327 c 0,22,23
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: E
@@ -39484,7 +38800,7 @@ SplineSet
  204 327 l 1,41,-1
  204 80 l 2,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: F
@@ -39697,7 +39013,7 @@ SplineSet
  482 463 l 1,36,-1
  482 231 l 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: G
@@ -39920,7 +39236,7 @@ SplineSet
  578 543 578 543 530 589.5 c 128,-1,44
  482 636 482 636 395 636 c 0,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: H
@@ -40814,7 +40130,7 @@ SplineSet
  235 39 235 39 290 39 c 2,30,-1
  357 39 l 2,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: M
@@ -41298,7 +40614,7 @@ SplineSet
  710 662 l 1,31,-1
  710 643 l 1,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: O
@@ -41591,7 +40907,7 @@ SplineSet
  215 625 215 625 208 618 c 128,-1,37
  201 611 201 611 201 591 c 2,27,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: Q
@@ -41963,7 +41279,7 @@ SplineSet
  202 610 202 610 202 589 c 2,41,-1
  202 343 l 1,33,34
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: S
@@ -42157,7 +41473,7 @@ SplineSet
  30 199 l 1,40,-1
  53 199 l 1,0,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: T
@@ -43956,7 +43272,7 @@ SplineSet
  265 80 265 80 270 90 c 128,-1,49
  275 100 275 100 275 123 c 2,40,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: b
@@ -45008,7 +44324,7 @@ SplineSet
  316 223 316 223 316 264.5 c 128,-1,63
  316 306 316 306 302 348 c 0,53,54
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: h
@@ -45382,7 +44698,7 @@ SplineSet
  78 611 78 611 78 632 c 128,-1,19
  78 653 78 653 93 668 c 128,-1,20
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: j
@@ -45542,7 +44858,7 @@ SplineSet
  162 611 162 611 162 632 c 128,-1,24
  162 653 162 653 177 668 c 128,-1,25
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: k
@@ -46297,7 +45613,7 @@ SplineSet
  65 402 65 402 47.5 402 c 128,-1,60
  30 402 30 402 13 398 c 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: n
@@ -46519,7 +45835,7 @@ SplineSet
  58 402 58 402 38 402 c 128,-1,41
  18 402 18 402 10 398 c 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: o
@@ -46836,7 +46152,7 @@ SplineSet
  231 400 231 400 197.5 378 c 128,-1,40
  164 356 164 356 164 334 c 2,29,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: q
@@ -47434,7 +46750,7 @@ SplineSet
  112 459 112 459 171 459 c 0,42,0
  205 459 205 459 233.5 449.5 c 128,-1,1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: t
@@ -47777,7 +47093,7 @@ SplineSet
  440 50 440 50 475 50 c 2,38,-1
  480 50 l 1,0,-1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: v
@@ -53664,6 +52980,90 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 238
+Width: 465
+Flags: W
+HStem: -11 35<233.76 349.871> 232 36<21 60 148 325> 322 36<36 60 148 362> 576 35<229.752 343.19>
+VStem: 60 86<141.321 232 268 322 358 439.648> 412 34<108.383 150.872 436.802 486.479>
+LayerCount: 3
+Fore
+SplineSet
+16 322 m 1
+ 16 332 l 1
+ 36 358 l 1
+ 63 358 l 1
+ 82 515 169 611 288 611 c 0
+ 343 611 387 595 422 595 c 1
+ 433 547 443 496 443 441 c 1
+ 434 437 427 436 418 436 c 0
+ 416 436 413 436 411 436 c 1
+ 394 506 363 576 286 576 c 0
+ 204 576 148 478 148 358 c 1
+ 381 358 l 1
+ 362 322 l 1
+ 146 322 l 1
+ 146 304 146 286 146 268 c 1
+ 344 268 l 1
+ 325 232 l 1
+ 148 232 l 1
+ 160 94 216 24 294 24 c 0
+ 368 24 390 85 412 156 c 1
+ 424 155 436 153 446 148 c 1
+ 437 96 426 48 410 7 c 1
+ 380 5 338 -11 284 -11 c 0
+ 158 -11 78 80 62 232 c 1
+ 0 232 l 1
+ 0 242 l 1
+ 21 268 l 1
+ 60 268 l 1
+ 59 275 59 284 59 291 c 0
+ 59 302 59 311 60 322 c 1
+ 16 322 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+16 322 m 1,0,-1
+ 16 332 l 1,1,-1
+ 36 358 l 1,2,-1
+ 63 358 l 1,3,4
+ 77 475 77 475 137.5 543 c 128,-1,5
+ 198 611 198 611 288 611 c 0,6,7
+ 318 611 318 611 362.5 603 c 128,-1,8
+ 407 595 407 595 422 595 c 1,9,10
+ 443 503 443 503 443 441 c 1,11,12
+ 432 436 432 436 418 436 c 2,13,-1
+ 411 436 l 1,14,15
+ 377 576 377 576 286 576 c 0,16,17
+ 226 576 226 576 187 513 c 128,-1,18
+ 148 450 148 450 148 358 c 1,19,-1
+ 381 358 l 1,20,-1
+ 362 322 l 1,21,-1
+ 146 322 l 1,22,-1
+ 146 268 l 1,23,-1
+ 344 268 l 1,24,-1
+ 325 232 l 1,25,-1
+ 148 232 l 1,26,27
+ 157 131 157 131 195.5 77.5 c 128,-1,28
+ 234 24 234 24 291.034883721 24 c 128,-1,29
+ 348.069767442 24 348.069767442 24 371.195404328 60.8297180043 c 128,-1,30
+ 394.321041215 97.6594360087 394.321041215 97.6594360087 412 156 c 1,31,32
+ 434 154 434 154 446 148 c 1,33,34
+ 431 60 431 60 410 7 c 1,35,36
+ 401 6 401 6 358 -2.5 c 128,-1,37
+ 315 -11 315 -11 284 -11 c 0,38,39
+ 190 -11 190 -11 132 53 c 128,-1,40
+ 74 117 74 117 62 232 c 1,41,-1
+ 0 232 l 1,42,-1
+ 0 242 l 1,43,-1
+ 21 268 l 1,44,-1
+ 60 268 l 1,45,46
+ 59 275 59 275 59 293 c 128,-1,47
+ 59 311 59 311 60 322 c 1,48,-1
+ 16 322 l 1,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
