@@ -10,17 +10,18 @@ UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
+InvalidEm: 0
 LayerCount: 3
-Layer: 0 1 "Back"  1
-Layer: 1 1 "TTF"  0
-Layer: 2 0 "OTF"  0
+Layer: 0 1 "Back" 1
+Layer: 1 1 "TTF" 0
+Layer: 2 0 "OTF" 0
 XUID: [1021 187 1807321670 9536001]
 FSType: 8
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1357765429
-ModificationTime: 1522059971
+ModificationTime: 1524675020
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -53,35 +54,35 @@ OS2StrikeYPos: 258
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000004.00000000
 OS2UnicodeRanges: 84000263.1200e04e.0c000001.00000000
-Lookup: 4 0 0 "'ccpm' Znamenny Ligatures"  {"'ccpm' Znamenny Ligatures-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' More Znamenny Ligatures"  {"'ccmp' More Znamenny Ligatures-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Canonical Equivalence for cyrl and latn"  {"'ccmp' Glyph Composition/Decomposition lookup 0 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Precomposed Slavonic diacritics"  {"'ccmp' Glyph Composition/Decomposition lookup 1 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Precomposed Slavonic Combining Letters"  {"'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Precomposed Slavonic accented forms"  {"'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Church Slavonic ligatures"  {"'ccmp' Glyph Composition/Decomposition lookup 4 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 6 1 0 "'ccmp' Contextual Substitution of Truncated Forms"  {"'ccmp' Glyph Composition/Decomposition lookup 5 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp' Contextual Substitution for Precomposed Forms"  {"'ccmp' Glyph Composition/Decomposition lookup 6 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 7"  {"Single Substitution lookup 7 subtable"  } ['    ' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 8"  {"Single Substitution lookup 8 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 9"  {"Single Substitution lookup 9 subtable"  } []
-Lookup: 3 0 0 "'salt' Church Slavonic Stylistic Alternatives"  {"'salt' Stylistic Alternatives lookup 10 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Znamenny Stylisitic Alternatives"  {"'salt' Znamenny Stylisitic Alternatives-1"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Style Set 1 with Accents on Right"  {"'ss01' Style Set 1 lookup 11 subtable"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' Style Set 2 with Accents on Left"  {"'ss02' Style Set 2 lookup 12 subtable"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Kerning of Latin letters"  {"'kern' Horizontal Kerning lookup 0 subtable" [150,0,0] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 257 0 0 "'ss10' Vertical shift of capital Cyrillic letters"  {"'ss10' Style Set 10 lookup 1 subtable"  } ['ss10' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 264 0 0 "'kern' Horizontal kerning of Cyrillic numerals"  {"'kern' Horizontal Kerning lookup 2 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Cyrillic combining marks"  {"'mark' Mark Positioning lookup 3 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Cyrillic numeral marks"  {"'mark' Mark Positioning lookup 4 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Cyrillic combining marks on left and right"  {"'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Znamenny Black Mark Positioning"  {"'mark' Znamenny Black Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Znamenny Cinnabar Mark Positioning"  {"'mark' Znamenny Cinnabar Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Vertical stacking of Cyrillic marks"  {"'mkmk' Mark to Mark lookup 6 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 257 0 0 "Single Positioning lookup 7"  {"Single Positioning lookup 7 subtable"  } []
+Lookup: 4 0 0 "'ccpm' Znamenny Ligatures" { "'ccpm' Znamenny Ligatures-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' More Znamenny Ligatures" { "'ccmp' More Znamenny Ligatures-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Canonical Equivalence for cyrl and latn" { "'ccmp' Glyph Composition/Decomposition lookup 0 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Precomposed Slavonic diacritics" { "'ccmp' Glyph Composition/Decomposition lookup 1 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Precomposed Slavonic Combining Letters" { "'ccmp' Glyph Composition/Decomposition lookup 2 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Precomposed Slavonic accented forms" { "'ccmp' Glyph Composition/Decomposition lookup 3 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Church Slavonic ligatures" { "'ccmp' Glyph Composition/Decomposition lookup 4 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 1 0 "'ccmp' Contextual Substitution of Truncated Forms" { "'ccmp' Glyph Composition/Decomposition lookup 5 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Contextual Substitution for Precomposed Forms" { "'ccmp' Glyph Composition/Decomposition lookup 6 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 7" { "Single Substitution lookup 7 subtable"  } ['    ' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 9" { "Single Substitution lookup 9 subtable"  } []
+Lookup: 3 0 0 "'salt' Church Slavonic Stylistic Alternatives" { "'salt' Stylistic Alternatives lookup 10 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Znamenny Stylisitic Alternatives" { "'salt' Znamenny Stylisitic Alternatives-1"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Style Set 1 with Accents on Right" { "'ss01' Style Set 1 lookup 11 subtable"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set 2 with Accents on Left" { "'ss02' Style Set 2 lookup 12 subtable"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Kerning of Latin letters" { "'kern' Horizontal Kerning lookup 0 subtable" [150,0,0] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 257 0 0 "'ss10' Vertical shift of capital Cyrillic letters" { "'ss10' Style Set 10 lookup 1 subtable"  } ['ss10' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 264 0 0 "'kern' Horizontal kerning of Cyrillic numerals" { "'kern' Horizontal Kerning lookup 2 subtable"  } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Cyrillic combining marks" { "'mark' Mark Positioning lookup 3 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Cyrillic numeral marks" { "'mark' Mark Positioning lookup 4 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Cyrillic combining marks on left and right" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Znamenny Black Mark Positioning" { "'mark' Znamenny Black Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Znamenny Cinnabar Mark Positioning" { "'mark' Znamenny Cinnabar Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Vertical stacking of Cyrillic marks" { "'mkmk' Mark to Mark lookup 6 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'geor' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 257 0 0 "Single Positioning lookup 7" { "Single Positioning lookup 7 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 43 30 "'kern' Horizontal Kerning lookup 0 subtable" 
+KernClass2: 43 30 "'kern' Horizontal Kerning lookup 0 subtable"
  7 uni0041
  7 uni0042
  7 uni0043
@@ -154,7 +155,7 @@ KernClass2: 43 30 "'kern' Horizontal Kerning lookup 0 subtable"
  7 uni0078
  7 uni007A
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -98 {} -149 {} 0 {} 0 {} -189 {} -121 {} -211 {} -197 {} 0 {} -187 {} 0 {} 0 {} -54 {} -54 {} 0 {} -42 {} 0 {} 0 {} -97 {} 0 {} -41 {} 0 {} -77 {} -74 {} -137 {} 0 {} 0 {} 0 {} -43 {} -8 {} 0 {} -54 {} -7 {} 0 {} -16 {} 0 {} -68 {} -58 {} -47 {} -85 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -24 {} 0 {} 0 {} -84 {} -16 {} -10 {} -89 {} -36 {} 0 {} 0 {} -9 {} -18 {} -15 {} -28 {} -27 {} 0 {} 0 {} -6 {} 0 {} -22 {} -9 {} -16 {} -39 {} -84 {} -45 {} -42 {} 0 {} -14 {} -42 {} -202 {} -83 {} -38 {} 0 {} -78 {} -7 {} 0 {} -52 {} -14 {} 0 {} -33 {} 0 {} -60 {} -49 {} -83 {} -92 {} -54 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -63 {} 0 {} 0 {} 0 {} -7 {} -33 {} -30 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} -3 {} 0 {} -71 {} 0 {} 0 {} 0 {} -164 {} 0 {} 0 {} -44 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} -25 {} 0 {} -38 {} 0 {} -9 {} -44 {} -31 {} -18 {} -21 {} 0 {} -22 {} -21 {} -30 {} -29 {} 0 {} -64 {} -20 {} 0 {} -74 {} -25 {} 0 {} -6 {} -13 {} -64 {} -57 {} -49 {} -77 {} -26 {} 0 {} -1 {} 0 {} -13 {} 0 {} -10 {} -20 {} -45 {} -9 {} 0 {} 0 {} -7 {} -1 {} -68 {} -56 {} -16 {} 0 {} 0 {} 0 {} -19 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} -13 {} 0 {} 0 {} -24 {} 0 {} -2 {} 0 {} -24 {} -21 {} -42 {} 0 {} 0 {} 0 {} -79 {} 0 {} -22 {} -39 {} -12 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -9 {} -5 {} -18 {} -24 {} -39 {} 0 {} -24 {} -41 {} -28 {} -30 {} -17 {} -35 {} -29 {} -48 {} -37 {} -32 {} 0 {} 0 {} 0 {} -112 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} -70 {} 0 {} -37 {} 0 {} 0 {} -66 {} 0 {} -38 {} 0 {} -76 {} -84 {} -167 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -115 {} 0 {} 0 {} -181 {} -53 {} -202 {} -184 {} 0 {} -172 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -49 {} 0 {} 0 {} 0 {} -5 {} 0 {} -121 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} -70 {} 0 {} 0 {} -24 {} -1 {} -3 {} -3 {} 0 {} -2 {} 0 {} 0 {} -17 {} -19 {} 0 {} -23 {} 0 {} 0 {} -45 {} 0 {} -15 {} 0 {} -39 {} -34 {} -63 {} 0 {} 0 {} 0 {} -179 {} -12 {} 0 {} -72 {} -46 {} 0 {} 0 {} 0 {} -10 {} -3 {} -52 {} -27 {} 0 {} -7 {} 0 {} -51 {} 0 {} -43 {} -2 {} 0 {} -30 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -91 {} -17 {} 0 {} 0 {} -26 {} 0 {} -35 {} 0 {} -66 {} -55 {} -89 {} -95 {} -63 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -59 {} -102 {} 0 {} 0 {} -61 {} -71 {} -112 {} -103 {} 0 {} -109 {} 0 {} 0 {} -30 {} -52 {} 0 {} -30 {} 0 {} 0 {} -62 {} 0 {} -17 {} 0 {} -42 {} -45 {} -70 {} 0 {} 0 {} 0 {} -37 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} -11 {} -8 {} -10 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} -37 {} -7 {} 0 {} -175 {} 0 {} -52 {} -63 {} -29 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -151 {} 0 {} -167 {} -38 {} -174 {} 0 {} -37 {} -92 {} -145 {} -162 {} -150 {} -34 {} -176 {} -212 {} -155 {} -156 {} 0 {} -127 {} 0 {} -11 {} -41 {} -15 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -18 {} -1 {} -14 {} -27 {} -38 {} 0 {} -26 {} -37 {} -36 {} -23 {} -25 {} -30 {} -24 {} -33 {} -49 {} -40 {} 0 {} -239 {} 0 {} -101 {} -76 {} -36 {} -71 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -27 {} -144 {} -28 {} -150 {} -90 {} -162 {} 0 {} -70 {} -99 {} -149 {} -134 {} -145 {} -109 {} -133 {} -140 {} -158 {} -151 {} 0 {} -171 {} 0 {} -107 {} -64 {} -20 {} -61 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} -129 {} -18 {} -150 {} -77 {} -153 {} 0 {} -54 {} -88 {} -121 {} -130 {} -129 {} -111 {} -140 {} -160 {} -126 {} -128 {} 0 {} 0 {} 0 {} -4 {} -42 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -29 {} 0 {} 0 {} 0 {} -11 {} -5 {} -98 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} -77 {} 0 {} 0 {} -174 {} -44 {} -150 {} -132 {} 0 {} -149 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} 0 {} -4 {} 0 {} -16 {} -20 {} -64 {} 0 {} 0 {} 0 {} -61 {} -15 {} 0 {} -72 {} -14 {} 0 {} -177 {} 0 {} -119 {} -102 {} -91 {} -157 {} -59 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -17 {} 0 {} 0 {} -28 {} -14 {} 0 {} -86 {} -12 {} 0 {} -201 {} -22 {} -121 {} -103 {} -34 {} -154 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} -1 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} 0 {} 0 {} -65 {} 0 {} 0 {} -181 {} 0 {} -104 {} -87 {} -24 {} -142 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -176 {} 0 {} -115 {} -75 {} -28 {} -71 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -13 {} -120 {} 0 {} -143 {} -73 {} -146 {} 0 {} -46 {} -75 {} -100 {} -100 {} -120 {} -118 {} -114 {} -122 {} -97 {} -116 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -115 {} 0 {} -22 {} -6 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -7 {} -100 {} 0 {} 0 {} -180 {} -57 {} -165 {} -148 {} 0 {} -159 {} 0 {} 0 {} -18 {} 0 {} 0 {} -4 {} 0 {} 0 {} -45 {} 0 {} 0 {} 0 {} -25 {} -18 {} -49 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} -62 {} 0 {} 0 {} -23 {} -19 {} -44 {} -41 {} 0 {} -46 {} 0 {} 0 {} -2 {} 0 {} 0 {} -7 {} 0 {} 0 {} -29 {} 0 {} 0 {} 0 {} -14 {} -11 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -17 {} -128 {} 0 {} 0 {} -190 {} -85 {} -176 {} -159 {} 0 {} -163 {} 0 {} 0 {} -28 {} -47 {} 0 {} -20 {} 0 {} 0 {} -49 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -75 {} 0 {} 0 {} -163 {} -42 {} -144 {} -127 {} 0 {} -138 {} 0 {} 0 {} -4 {} 0 {} 0 {} -7 {} 0 {} 0 {} -33 {} 0 {} -3 {} 0 {} -20 {} -23 {} -54 {} 0 {} 0 {} 0 {} -33 {} 0 {} 0 {} -52 {} 0 {} 0 {} -164 {} 0 {} -99 {} -82 {} -57 {} -135 {} -31 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} -17 {} 0 {} 0 {} -28 {} -15 {} 0 {} 0 {} -15 {} 0 {} -183 {} -33 {} -129 {} -112 {} -30 {} -149 {} -41 {} 0 {} -13 {} 0 {} 0 {} 0 {} -7 {} -9 {} 0 {} -4 {} 0 {} 0 {} -10 {} -7 {} -14 {} -10 {} -8 {} 0 {} -89 {} -36 {} 0 {} -113 {} -48 {} -3 {} -225 {} -33 {} -122 {} -105 {} -86 {} -165 {} -120 {} 0 {} -17 {} -27 {} 0 {} -19 {} -21 {} 0 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} -48 {} 0 {} 0 {} -162 {} 0 {} -98 {} -81 {} -11 {} -126 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -9 {} -11 {} 0 {} -99 {} -7 {} 0 {} -107 {} -48 {} -118 {} -105 {} -10 {} -137 {} 0 {} 0 {} -14 {} -15 {} 0 {} -4 {} -2 {} 0 {} -19 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} -174 {} -27 {} -127 {} -110 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} -142 {} -54 {} 0 {} -112 {} -69 {} 0 {} -234 {} -35 {} -117 {} -100 {} -155 {} -168 {} -167 {} -22 {} -21 {} -41 {} 0 {} -50 {} -34 {} 0 {} -25 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} 0 {} 0 {} -174 {} -49 {} -137 {} -119 {} 0 {} -135 {} 0 {} 0 {} -6 {} -40 {} 0 {} -21 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -65 {} 0 {} 0 {} -165 {} -21 {} -121 {} -104 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 6 subtable"  3 3 3 1
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 6 subtable" 3 3 3 1
   Class: 35 uniA64B0301 uniA64B0300 uniA64B0311
   Class: 1243 uni0300 uni0301 uni0306 uni0308 uni030B uni030F uni0311 uni033E uni034F uni0400 uni0403 uni0407 uni040C uni040D uni040E uni0419 uni0439 uni0450 uni0453 uni0457 uni045C uni045D uni045E uni0477 uni0483 uni0484 uni0485 uni0486 uni0487 uni2DE0 uni2DE1 uni2DE2 uni2DE3 uni2DE4 uni2DE5 uni2DE6 uni2DE7 uni2DE8 uni2DE9 uni2DEA uni2DEB uni2DEC uni2DED uni2DEE uni2DEF uni2DF0 uni2DF1 uni2DF2 uni2DF3 uni2DF4 uni2DF5 uni2DF6 uni2DF7 uni2DF9 uni2DFA uni2DFB uni2DFC uni2DFD uniA64B uniA66F uniA673 uniA674 uniA675 uniA676 uniA677 uniA678 uniA679 uniA67A uniA67B uniA67C uniA67D uniA69E uniA69F uni04860301 uni04860300 uni04860311 uniA64B.short2 uniA64B.short uni0491.alt uniA64B0486 uniA64B0311.alt1 uniA64B04860301 uniA64B0301.alt2 uniA64B0300.alt1 uniA64B0311.alt2 uniA64B0486.alt1 uniA64B0301.alt1 uniA64B0300.alt2 uniA64B04860301.alt1 uni04630486.alt1 uni04630301.alt2 uni04630301.alt1 uni04630300.alt2 uni04630311.alt2 uni04630311.alt1 uni046304860301.alt1 uni04630486 uni04630301 uni04630300 uni046304860301 uni2DE00487 uni2DE10487 uni2DE20487 uni2DE60487 uni2DE70487 uni2DE90487 uni2DEA0487 uni2DEB0487 uni2DEC0487 uni2DED0487 uni2DF00487 uni2DF10487 uni2DF20487 uni2DF30487 uni2DFD0487 uniFE26 uniFE2E uniFE2F uni2DE3A675 uni2DE42DF7 uni2DEEA675
   BClass: 35 uniA64B0301 uniA64B0300 uniA64B0311
@@ -166,12 +167,12 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 6 subtable"  3 3
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "Single Substitution lookup 8" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Substitution lookup 8"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0" "1" "2"
 EndFPST
-ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 5 subtable"  4 4 4 2
+ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 5 subtable" 4 4 4 2
   Class: 7 uniA64B
   Class: 583 uni0483 uni0487 uni2DE0 uni2DE1 uni2DE2 uni2DE3 uni2DE4 uni2DE5 uni2DE6 uni2DE7 uni2DE8 uni2DE9 uni2DEA uni2DEB uni2DEC uni2DED uni2DEE uni2DEF uni2DF0 uni2DF1 uni2DF2 uni2DF3 uni2DF4 uni2DF5 uni2DF6 uni2DF7 uni2DF9 uni2DFA uni2DFB uni2DFC uni2DFD uniA66F uniA674 uniA675 uniA676 uniA677 uniA678 uniA679 uniA67A uniA67B uniA67C uniA69E uniA69F uni2DE00487 uni2DE10487 uni2DE20487 uni2DE60487 uni2DE70487 uni2DE90487 uni2DEA0487 uni2DEB0487 uni2DEC0487 uni2DED0487 uni2DF00487 uni2DF10487 uni2DF20487 uni2DF30487 uni2DFD0487 uniFE26 uniFE2E uniFE2F uni2DE3A675 uni2DE42DF7 uni2DEEA675
   Class: 7 uni0463
@@ -186,18 +187,18 @@ ChainSub2: class "'ccmp' Glyph Composition/Decomposition lookup 5 subtable"  4 4
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 "Single Substitution lookup 7" 
+  SeqLookup: 0 "Single Substitution lookup 7"
  1 0 1
   ClsList: 3
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 "Single Substitution lookup 9" 
-  ClassNames: "0"  "1"  "2"  "3"  
-  BClassNames: "0"  "1"  "2"  "3"  
-  FClassNames: "0"  "1"  "2"  "3"  
+  SeqLookup: 0 "Single Substitution lookup 9"
+  ClassNames: "0" "1" "2" "3"
+  BClassNames: "0" "1" "2" "3"
+  FClassNames: "0" "1" "2" "3"
 EndFPST
-ChainPos2: class "'kern' Horizontal Kerning lookup 2 subtable"  3 3 3 1
+ChainPos2: class "'kern' Horizontal Kerning lookup 2 subtable" 3 3 3 1
   Class: 223 uni0430 uni0432 uni0433 uni0434 uni0435 uni0437 uni0438 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0446 uni0447 uni044B uni0455 uni0456 uni0461 uni046F uni0471 uni0473
   Class: 47 uni0488 uni0489 uni20DD uniA670 uniA671 uniA672
   BClass: 223 uni0430 uni0432 uni0433 uni0434 uni0435 uni0437 uni0438 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0446 uni0447 uni044B uni0455 uni0456 uni0461 uni046F uni0471 uni0473
@@ -209,10 +210,10 @@ ChainPos2: class "'kern' Horizontal Kerning lookup 2 subtable"  3 3 3 1
   BClsList:
   FClsList: 2
  1
-  SeqLookup: 0 "Single Positioning lookup 7" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  "1"  "2"  
+  SeqLookup: 0 "Single Positioning lookup 7"
+  ClassNames: "0" "1" "2"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0" "1" "2"
 EndFPST
 TtTable: prep
 PUSHW_1
@@ -970,7 +971,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Aleksandr Andreev and Nikita Simmons" "" "" "" "Copyright (c) 2013-2018, Aleksandr Andreev and Nikita Simmons (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAA------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Aleksandr Andreev and Nikita Simmons" "" "" "" "Copyright (c) 2013-2018, Aleksandr Andreev and Nikita Simmons (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAA------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -988,7 +989,7 @@ BlueShift 1 7
 ExpansionFactor 4 0.06
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 451936 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Borzaya"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Lomka"  "'mark' Znamenny Cinnabar Mark Positioning-1" "RightRed"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Tikhaya"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Shaidur"  "'mark' Znamenny Cinnabar Mark Positioning-1" "Magpie"  "'mark' Znamenny Black Mark Positioning-1" "Above"  "'mark' Znamenny Black Mark Positioning-1" "Below"  "'mark' Znamenny Black Mark Positioning-1" "Right"  "'mark' Znamenny Black Mark Positioning-1" "Pitch"  "'mark' Znamenny Black Mark Positioning-1" "Anchor-0"  "'mark' Mark Positioning lookup 3 subtable" "Anchor-1"  "'mark' Mark Positioning lookup 3 subtable" "Anchor-2"  "'mark' Mark Positioning lookup 3 subtable" "Anchor-3"  "'mark' Mark Positioning lookup 4 subtable" "Anchor-4"  "'mark' Mark Positioning lookup 5 subtable" "Anchor-5"  "'mark' Mark Positioning lookup 5 subtable" "Anchor-6"  "'mkmk' Mark to Mark lookup 6 subtable" 
+AnchorClass2: "Borzaya" "'mark' Znamenny Cinnabar Mark Positioning-1" "Lomka" "'mark' Znamenny Cinnabar Mark Positioning-1" "RightRed" "'mark' Znamenny Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Znamenny Cinnabar Mark Positioning-1" "Shaidur" "'mark' Znamenny Cinnabar Mark Positioning-1" "Magpie" "'mark' Znamenny Black Mark Positioning-1" "Above" "'mark' Znamenny Black Mark Positioning-1" "Below" "'mark' Znamenny Black Mark Positioning-1" "Right" "'mark' Znamenny Black Mark Positioning-1" "Pitch" "'mark' Znamenny Black Mark Positioning-1" "Anchor-0" "'mark' Mark Positioning lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning lookup 5 subtable" "Anchor-6" "'mkmk' Mark to Mark lookup 6 subtable"
 BeginChars: 1114113 766
 
 StartChar: .notdef
@@ -30659,7 +30660,7 @@ SplineSet
  227 792 252 807 284 818 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0041 uni0300
 EndChar
 
@@ -30997,7 +30998,7 @@ SplineSet
  84 93 37 184 37 310 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0043 uni0327
 EndChar
 
@@ -31358,7 +31359,7 @@ SplineSet
  376 726 381 719 381 714 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0045 uni0300
 EndChar
 
@@ -31715,7 +31716,7 @@ SplineSet
  350 820 l 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0045 uni0301
 EndChar
 
@@ -32081,7 +32082,7 @@ SplineSet
  300 814 307 812 315 808 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0045 uni0302
 EndChar
 
@@ -32535,7 +32536,7 @@ SplineSet
  140 733 135 744 135 757 c 128
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0045 uni0308
 EndChar
 
@@ -32795,7 +32796,7 @@ SplineSet
  11 733 6 744 6 757 c 128
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0049 uni0308
 EndChar
 
@@ -33185,7 +33186,7 @@ SplineSet
  228 765 255 798 293 798 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni004E uni0303
 EndChar
 
@@ -33347,7 +33348,7 @@ SplineSet
  351 814 358 812 366 808 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni004F uni0302
 EndChar
 
@@ -33614,7 +33615,7 @@ SplineSet
  511 681 506 693 506 706 c 128
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni004F uni0308
 EndChar
 
@@ -33987,7 +33988,7 @@ SplineSet
  186 673 191 672 196 671 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0061 uni0300
 EndChar
 
@@ -34315,7 +34316,7 @@ SplineSet
  261 -108 250 -96 228 -96 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0063 uni0327
 EndChar
 
@@ -34521,7 +34522,7 @@ SplineSet
  200 673 205 672 210 671 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0065 uni0300
 EndChar
 
@@ -34733,7 +34734,7 @@ SplineSet
  270 671 l 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0065 uni0301
 EndChar
 
@@ -34963,7 +34964,7 @@ SplineSet
  237 662 242 661 249 660 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0065 uni0302
 EndChar
 
@@ -35265,7 +35266,7 @@ SplineSet
  302 528 291 533 282 542 c 128
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0065 uni0308
 EndChar
 
@@ -35523,7 +35524,7 @@ SplineSet
  182 122 l 2
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0069 uni0308
 EndChar
 
@@ -35880,7 +35881,7 @@ SplineSet
  157 593 184 626 222 626 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni006E uni0303
 EndChar
 
@@ -36060,7 +36061,7 @@ SplineSet
  256 662 261 661 268 660 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni006F uni0302
 EndChar
 
@@ -36309,7 +36310,7 @@ SplineSet
  324 528 313 533 304 542 c 128
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni006F uni0308
 EndChar
 
@@ -73147,7 +73148,7 @@ SplineSet
  230 491 207 486 187 486 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0443 uni0306
 EndChar
 
@@ -88047,7 +88048,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uniA64D uni0486 uni0311
-LCarets2: 2 525 978 
+LCarets2: 2 525 978
 EndChar
 
 StartChar: uni047E
@@ -157117,7 +157118,7 @@ SplineSet
  -126.856 680 -127.856 677 -128.856 673 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE53 uniEE58
 EndChar
 
@@ -157193,7 +157194,7 @@ SplineSet
  -293 772 -294 769 -294 766 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE50 uniEE58
 EndChar
 
@@ -157299,7 +157300,7 @@ SplineSet
  -158 1050 -133 1040 -117 1019 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE51 uniEE58
 EndChar
 
@@ -157421,7 +157422,7 @@ SplineSet
  -158 1050 -133 1040 -117 1019 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE52 uniEE58
 EndChar
 
@@ -160084,7 +160085,7 @@ SplineSet
  204 601 211 607 218 607 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE75 uniEE5A
 EndChar
 
@@ -160165,7 +160166,7 @@ SplineSet
  313 182 229 72 220 61 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE78 uniEE36
 EndChar
 
@@ -160245,7 +160246,7 @@ SplineSet
  313 182 229 72 220 61 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE78 uniEE5A
 EndChar
 
@@ -160398,7 +160399,7 @@ SplineSet
  787 733 795 714 808 679 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE7E uniEE5A
 EndChar
 
@@ -160504,7 +160505,7 @@ SplineSet
  145 338 171 295 183 259 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE87 uniEE53
 EndChar
 
@@ -160621,7 +160622,7 @@ SplineSet
  143 338 169 295 181 259 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE87 uniEE55
 EndChar
 
@@ -160767,7 +160768,7 @@ SplineSet
  145 338 171 295 183 259 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE88 uniEE55
 EndChar
 
@@ -160928,7 +160929,7 @@ SplineSet
  146 338 172 295 184 259 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE88 uniEE89
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE87 uniEE7B
 EndChar
@@ -161089,7 +161090,7 @@ SplineSet
  596 208 622 165 634 129 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE87 uniEE8D
 EndChar
 
@@ -161189,7 +161190,7 @@ SplineSet
  271 234 270 231 268 227 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE8F uniEE50
 EndChar
 
@@ -161311,7 +161312,7 @@ SplineSet
  271 233 270 230 268 226 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE8F uniEE51
 EndChar
 
@@ -161438,7 +161439,7 @@ SplineSet
  270 234 269 231 267 227 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' More Znamenny Ligatures-1" uniEA6B uniEE58
 EndChar
 
@@ -161586,7 +161587,7 @@ SplineSet
  20 18 16 16 14 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' More Znamenny Ligatures-1" uniEA6C uniEE58
 EndChar
 
@@ -161713,7 +161714,7 @@ SplineSet
  19 18 15 16 13 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE90 uniEE50
 EndChar
 
@@ -161830,7 +161831,7 @@ SplineSet
  20 18 16 16 14 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE93 uniEE50
 EndChar
 
@@ -161981,7 +161982,7 @@ SplineSet
  20 16 17 14 15 14 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE94 uniEE50
 EndChar
 
@@ -162127,7 +162128,7 @@ SplineSet
  19 18 15 16 13 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' More Znamenny Ligatures-1" uniEA71 uniEE55
 EndChar
 
@@ -162270,7 +162271,7 @@ SplineSet
  20 18 17 16 15 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE91 uniEE50
 EndChar
 
@@ -162415,7 +162416,7 @@ SplineSet
  20 18 16 16 14 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE98 uniEE50
 EndChar
 
@@ -162526,7 +162527,7 @@ SplineSet
  161 271 183 236 203 188 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE87 uni200D uniEE89
 EndChar
 
@@ -162640,7 +162641,7 @@ SplineSet
  299 317 305 314 305 307 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE89 uni200D uniEE87
 EndChar
 
@@ -162814,7 +162815,7 @@ SplineSet
  274 224 296 189 317 141 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0 
+LCarets2: 3 0 0 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE87 uni200D uniEE8F uniEE51
 EndChar
 
@@ -163145,7 +163146,7 @@ SplineSet
  276 389 295 418 295 476 c 0x0a6e40
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" uni0420 uni043E uni2DE5
 EndChar
 
@@ -163318,7 +163319,7 @@ SplineSet
  73 91 111 36 146 36 c 0x5ef2
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" uni0440 uni043E uni2DE5
 EndChar
 
@@ -163799,7 +163800,7 @@ SplineSet
  6 18 3 16 1 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' More Znamenny Ligatures-1" uniEA6B uniEE59
 EndChar
 
@@ -163967,7 +163968,7 @@ SplineSet
  19 18 15 16 13 16 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' More Znamenny Ligatures-1" uniEA70 uniEE59
 EndChar
 
@@ -164137,7 +164138,7 @@ SplineSet
  271 234 270 231 268 227 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' More Znamenny Ligatures-1" uniEA6C uniEE59
 EndChar
 
@@ -169522,7 +169523,7 @@ SplineSet
  -48 296 -41 307 -41 316 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccpm' Znamenny Ligatures-1" uniEE34 uniEE37
 EndChar
 
@@ -170642,7 +170643,7 @@ AnchorPoint: "Above" 595 598 basechar 0
 AnchorPoint: "Magpie" 916 662 basechar 0
 AnchorPoint: "Below" 522 254 basechar 0
 AnchorPoint: "Right" 978 492 basechar 0
-AnchorPoint: "Pitch" 448 492 basechar 0
+AnchorPoint: "Pitch" 528 567 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -170668,7 +170669,6 @@ SplineSet
  359 265 359 265 217 168 c 0,32,33
  45 51 45 51 9 4 c 0,0,1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 928 565 m 0
@@ -170710,7 +170710,7 @@ AnchorPoint: "Magpie" 916 662 basechar 0
 AnchorPoint: "Above" 595 598 basechar 0
 AnchorPoint: "Below" 616 296 basechar 0
 AnchorPoint: "Right" 978 492 basechar 0
-AnchorPoint: "Pitch" 448 492 basechar 0
+AnchorPoint: "Pitch" 448 513 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -170740,7 +170740,6 @@ SplineSet
  711 570 711 570 880 606 c 0,36,37
  894 609 894 609 900 609 c 0,0,1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 928 565 m 0
@@ -171667,7 +171666,7 @@ StartChar: uniEE78
 Encoding: 61048 61048 659
 Width: 354
 GlyphClass: 2
-Flags: W
+Flags: WO
 VStem: 45 268
 TtInstrs:
 SVTCA[y-axis]
@@ -171699,7 +171698,7 @@ IUP[x]
 EndTTInstrs
 AnchorPoint: "RightRed" 218.917 0 basechar 0
 AnchorPoint: "Borzaya" 313 448.5 basechar 0
-AnchorPoint: "Lomka" 46 124 basechar 0
+AnchorPoint: "Lomka" -34 132 basechar 0
 AnchorPoint: "Tikhaya" 44 230 basechar 0
 AnchorPoint: "Shaidur" 44 316 basechar 0
 AnchorPoint: "Magpie" 146 686 basechar 0
@@ -171725,7 +171724,6 @@ SplineSet
  152 581 152 581 165 555 c 1,23,24
  226 457 226 457 291 277 c 0,0,1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 220 61 m 0
@@ -172828,12 +172826,12 @@ AnchorPoint: "RightRed" 792.5 341 basechar 0
 AnchorPoint: "Borzaya" 55 302.5 basechar 0
 AnchorPoint: "Lomka" 834 200 basechar 0
 AnchorPoint: "Tikhaya" 60 220 basechar 0
-AnchorPoint: "Shaidur" 158 503 basechar 0
+AnchorPoint: "Shaidur" 298 555 basechar 0
 AnchorPoint: "Magpie" 874 676 basechar 0
 AnchorPoint: "Above" 377 622 basechar 0
 AnchorPoint: "Below" 549.5 4 basechar 0
 AnchorPoint: "Right" 918 436 basechar 0
-AnchorPoint: "Pitch" 380 546 basechar 0
+AnchorPoint: "Pitch" 452 603 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -172877,7 +172875,6 @@ SplineSet
  616 258 616 258 625 272 c 128,-1,64
  634 286 634 286 644 304 c 0,32,33
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 790 618 m 0x20
@@ -172930,7 +172927,7 @@ AnchorPoint: "Magpie" 1040 690 basechar 0
 AnchorPoint: "Above" 463 606 basechar 0
 AnchorPoint: "Below" 627.5 85 basechar 0
 AnchorPoint: "Right" 1064 452 basechar 0
-AnchorPoint: "Pitch" 462 514 basechar 0
+AnchorPoint: "Pitch" 462 541 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -172974,7 +172971,6 @@ SplineSet
  658 356 658 356 679 365 c 128,-1,53
  700 374 700 374 712 374 c 0,33,34
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 720 354 m 0
@@ -173284,7 +173280,7 @@ AnchorPoint: "Magpie" 956.002 654 basechar 0
 AnchorPoint: "Above" 475 600 basechar 0
 AnchorPoint: "Below" 507.5 53 basechar 0
 AnchorPoint: "Right" 958.002 452 basechar 0
-AnchorPoint: "Pitch" 474 528 basechar 0
+AnchorPoint: "Pitch" 474 562 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -173337,7 +173333,6 @@ SplineSet
  359 265 359 265 220 170.5 c 128,-1,62
  81 76 81 76 9 4 c 0,30,31
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 737 382 m 0
@@ -175395,11 +175390,11 @@ AnchorPoint: "Borzaya" 67 354.5 basechar 0
 AnchorPoint: "Lomka" 1044 200 basechar 0
 AnchorPoint: "Tikhaya" 60 220 basechar 0
 AnchorPoint: "Shaidur" 767 731 basechar 0
-AnchorPoint: "Above" 773 623 basechar 0
+AnchorPoint: "Above" 773 649 basechar 0
 AnchorPoint: "Magpie" 1150 671 basechar 0
 AnchorPoint: "Below" 765.5 235 basechar 0
 AnchorPoint: "Right" 1170 438 basechar 0
-AnchorPoint: "Pitch" 775 624 basechar 0
+AnchorPoint: "Pitch" 775 650 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -175448,7 +175443,6 @@ SplineSet
  136 182 136 182 193 203 c 0,72,73
  252 224 252 224 266 224 c 0,49,50
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 1049 618 m 0
@@ -175770,7 +175764,7 @@ GlyphClass: 2
 Flags: W
 HStem: -1 21G<261.5 267> 455 163<920.5 1075.33>
 AnchorPoint: "RightRed" 1050.5 351.929 basechar 0
-AnchorPoint: "Borzaya" 67 354.5 basechar 0
+AnchorPoint: "Borzaya" 11 284.5 basechar 0
 AnchorPoint: "Lomka" 1044 200 basechar 0
 AnchorPoint: "Tikhaya" 60 220 basechar 0
 AnchorPoint: "Shaidur" 767 731 basechar 0
@@ -175853,7 +175847,6 @@ SplineSet
  136 182 136 182 193 203 c 0,119,120
  252 224 252 224 266 224 c 0,96,97
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 950 392 m 0
@@ -175930,15 +175923,15 @@ HStem: 272 137<75.5 198.773> 312 137<325.5 448.773> 442 21G<1155 1165.5> 469 147
 VStem: 162 70.0667<183 340.958> 412 70.0667<223 380.958>
 DStem2: 96 34 195 186 0.43921 0.898384<-23.5651 171.976> 346 74 445 226 0.43921 0.898384<-23.5651 171.976>
 AnchorPoint: "RightRed" 1164.52 362 basechar 0
-AnchorPoint: "Borzaya" 265 522.5 basechar 0
+AnchorPoint: "Borzaya" 7 520.5 basechar 0
 AnchorPoint: "Lomka" 1158 200 basechar 0
 AnchorPoint: "Tikhaya" -2.01727 346 basechar 0
 AnchorPoint: "Shaidur" 839 731 basechar 0
-AnchorPoint: "Above" 839 616 basechar 0
+AnchorPoint: "Above" 839 649 basechar 0
 AnchorPoint: "Magpie" 1258.98 658 basechar 0
 AnchorPoint: "Below" 1059.5 271 basechar 0
 AnchorPoint: "Right" 1259.98 459 basechar 0
-AnchorPoint: "Pitch" 839 616 basechar 0
+AnchorPoint: "Pitch" 839 649 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -176000,7 +175993,6 @@ SplineSet
  115 409 115 409 176 409 c 0,76,77
  232 409 232 409 232 344 c 2,51,-1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 1242 574 m 0x38
@@ -176592,7 +176584,7 @@ Flags: W
 HStem: 442 21G<1118 1128.5> 469 147<1013.5 1153.15>
 VStem: 15 174<205.467 266.783> 245 174<205.467 266.783>
 AnchorPoint: "RightRed" 1133.02 362 basechar 0
-AnchorPoint: "Borzaya" 226 393.5 basechar 0
+AnchorPoint: "Borzaya" 0 401.5 basechar 0
 AnchorPoint: "Lomka" 1125 200 basechar 0
 AnchorPoint: "Tikhaya" 1.48281 379 basechar 0
 AnchorPoint: "Shaidur" 745 731 basechar 0
@@ -176649,7 +176641,6 @@ SplineSet
  131 359 131 359 160 314.5 c 128,-1,59
  189 270 189 270 189 248 c 0,43,44
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 430 89 m 0
@@ -183103,7 +183094,7 @@ SplineSet
  25 829 21 833 14 833 c 128
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2 subtable" uni2DEC uni0487
 EndChar
 
