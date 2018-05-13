@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1526046454
+ModificationTime: 1526236137
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -52,6 +52,7 @@ Lookup: 4 0 0 "'ccmp' Priznak-based Compositions" { "'ccmp' Priznak-based Compos
 Lookup: 6 0 0 "'ccmp'  Contextual Prizakification" { "'ccmp'  Contextual Prizakification-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "Depriznakify" { "Depriznakify-1"  } []
 Lookup: 1 0 0 "Priznakify" { "Priznakify-1"  } []
+Lookup: 258 8 0 "'ss01' Style Set 1 Demestvenny Ligatures" { "'ss01' Style Set 1 Demestvenny Ligatures-1" [150,15,3] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 263 0 0 "'kern' Horizontal Kerning with Shaidur Marks" { "'kern' Horizontal Kerning with Shaidur Marks-1"  } []
 Lookup: 260 0 0 "'mark' Black Marking Positions" { "'mark' Black Marking Positions-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Cinnabar Pitch Marking Positioning" { "'mark' Cinnabar Pitch Marking Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -976,7 +977,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 59886 27 9
+WinInfo: 60156 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -997,7 +998,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Podtinka" "'mark' Black Marking Positions-1" "DoubleShaidur" "'mkmk' Double Shaidur Attachment-1" "Zevok" "'mark' Cinnabar Indicatory Mark Positioning-1" "Udarka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kupnaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kachka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Lomka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Oblachko" "'mark' Black Marking Positions-1" "Podchashie" "'mark' Black Marking Positions-1" "Zaderzhka" "'mark' Black Marking Positions-1" "Tonal" "'mark' Black Marking Positions-1" "Podvertka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Borzaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Otsechka" "'mark' Black Marking Positions-1" "Shaidur" "'mark' Cinnabar Pitch Marking Positioning-1"
-BeginChars: 1114112 932
+BeginChars: 1114112 929
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -12965,10 +12966,10 @@ VWidth: 2048
 Flags: HMW
 LayerCount: 3
 Fore
-Refer: 893 60486 N 1 0 0 1 0 0 2
+Refer: 889 60486 N 1 0 0 1 0 0 2
 Validated: 1
 Layer: 2
-Refer: 893 60486 N 1 0 0 1 0 0 2
+Refer: 889 60486 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -33493,6 +33494,7 @@ SplineSet
  220.535646926 343.529234251 220.535646926 343.529234251 409.5 498.5 c 4,18,0
  504 576 504 576 523 576 c 132,-1,1
 EndSplineSet
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffb54c
 EndChar
@@ -34310,6 +34312,7 @@ SplineSet
  224.535646926 343.529234251 224.535646926 343.529234251 413.5 498.5 c 4,34,0
  508 576 508 576 527 576 c 132,-1,1
 EndSplineSet
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffb54c
 EndChar
@@ -48572,65 +48575,8 @@ Width: 398
 VWidth: 999
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<197.5 207> 468 129<17 88.2813>
-VStem: 199 40<68.4404 347.464>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 2
- 1
- 0
-CALL
-PUSHB_1
- 10
-MDAP[rnd]
-PUSHB_5
- 11
- 10
- 0
- 16
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 20
-MDAP[rnd]
-PUSHB_1
- 6
-MDRP[rp0,rnd,white]
-PUSHB_2
- 14
- 11
-MIRP[min,black]
-PUSHB_1
- 3
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_2
- 0
- 13
-MIRP[min,black]
-PUSHB_2
- 21
- 1
-CALL
-SVTCA[y-axis]
-PUSHB_2
- 10
- 2
-SRP1
-SRP2
-PUSHB_3
- 13
- 16
- 18
-IP
-IP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: -6 21G<178.5 185.5> 100 184 371 125<35 110.225>
+VStem: 182 35<48.6146 286.634> 255 129
 AnchorPoint: "Podtinka" 156.633 -7.00001 basechar 0
 AnchorPoint: "Zevok" 153 687 basechar 0
 AnchorPoint: "Udarka" 154 686 basechar 0
@@ -48648,44 +48594,11 @@ AnchorPoint: "Otsechka" 154 683 basechar 0
 AnchorPoint: "Shaidur" 100 250 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-218 15 m 0
- 217 6 211 0 203 0 c 0
- 192 0 189 10 189 15 c 0
- 190 34 199 110 199 190 c 0
- 199 266 191 345 161 384 c 0
- 119 438 71 468 -0 468 c 1
- 17 597 l 1
- 127 597 239 485 239 316 c 0
- 239 163 229 134 218 15 c 0
-280 297 m 1
- 390 224 l 1
- 373 125 l 1
- 263 198 l 1
- 280 297 l 1
-EndSplineSet
-Validated: 1
+Refer: 258 61018 N 1 0 0 1 398 -103 2
+Refer: 229 61048 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-218 15 m 0,0,1
- 216 0 216 0 202.5 0 c 128,-1,2
- 189 0 189 0 189 15 c 0,3,4
- 189 18 189 18 194 68 c 128,-1,5
- 199 118 199 118 199 190 c 0,6,7
- 199 335 199 335 161 384 c 0,8,9
- 96 468 96 468 0 468 c 1,10,-1
- 17 597 l 1,11,12
- 104 597 104 597 171.5 517.5 c 128,-1,13
- 239 438 239 438 239 323.385 c 128,-1,14
- 239 208.769 239 208.769 230 126.385 c 128,-1,15
- 221 44 221 44 218 15 c 0,0,1
-280 297 m 1,16,-1
- 390 224 l 1,17,-1
- 373 125 l 1,18,-1
- 263 198 l 1,19,-1
- 280 297 l 1,16,-1
-EndSplineSet
-Validated: 1
+Refer: 258 61018 N 1 0 0 1 398 -103 2
+Refer: 229 61048 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE78 uniEE5A
@@ -50129,11 +50042,11 @@ EndChar
 
 StartChar: uniEE7AEE53
 Encoding: 60004 60004 310
-Width: 392
+Width: 360
 GlyphClass: 3
 Flags: W
-HStem: 344 110<104.74 196.281>
-VStem: 1 27<-65.8857 137.922> 220 39<112.929 373.5>
+HStem: 9 196 255 104<91.4019 174.778>
+VStem: 16 22<-56.7908 135.562> 191 31<84.3058 288.5> 242 96
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -50210,76 +50123,25 @@ EndTTInstrs
 AnchorPoint: "Podtinka" 20.6329 -8.00001 basechar 0
 AnchorPoint: "Shaidur" 15 250 basechar 0
 AnchorPoint: "Borzaya" -70 138.9 basechar 0
-AnchorPoint: "Podvertka" 192 550.9 basechar 0
-AnchorPoint: "Zaderzhka" 470 66.9 basechar 0
-AnchorPoint: "Podchashie" 192 548.9 basechar 0
-AnchorPoint: "Oblachko" 190 554.9 basechar 0
+AnchorPoint: "Podvertka" 156 438.9 basechar 0
+AnchorPoint: "Zaderzhka" 358 38.9 basechar 0
+AnchorPoint: "Podchashie" 156 436.9 basechar 0
+AnchorPoint: "Oblachko" 154 442.9 basechar 0
 AnchorPoint: "Tikhaya" 86 100.9 basechar 0
-AnchorPoint: "Lomka" 384 341.9 basechar 0
-AnchorPoint: "Kachka" 190 550.9 basechar 0
-AnchorPoint: "Kupnaya" 188 552.9 basechar 0
-AnchorPoint: "Udarka" 384 344.9 basechar 0
-AnchorPoint: "Zevok" 190 550 basechar 0
-AnchorPoint: "Tonal" 188 548 basechar 0
-AnchorPoint: "Otsechka" 191 552 basechar 0
+AnchorPoint: "Lomka" 302 354.52 basechar 0
+AnchorPoint: "Kachka" 154 438.9 basechar 0
+AnchorPoint: "Kupnaya" 152 440.9 basechar 0
+AnchorPoint: "Udarka" 302 357.52 basechar 0
+AnchorPoint: "Zevok" 154 438 basechar 0
+AnchorPoint: "Tonal" 152 436 basechar 0
+AnchorPoint: "Otsechka" 155 440 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-163 454 m 0
- 216 454 259 426 259 321 c 0
- 259 311 259 301 258 290 c 0
- 255 239 250 180 239 106 c 2
- 227 18 l 1
- 227 18 219 5 211 6 c 0
- 205 6 202 20 202 20 c 1
- 210 88 220 159 220 216 c 0
- 220 287 205 344 151 344 c 0
- 130 344 52 322 36 129 c 1
- 36 129 31 37 28 -48 c 0
- 28 -56 22 -66 13 -66 c 0
- 5 -66 1 -51 1 -51 c 0
- 1 -40 1 -29 1 -18 c 0
- 1 154 19 454 163 454 c 0
-277 124 m 1
- 288 148 316 170 338 184 c 0
- 352 193 367 202 382 211 c 1
- 369 116 l 1
- 329 93 284 67 262 26 c 1
- 277 124 l 1
-EndSplineSet
-Validated: 1
+Refer: 179 61011 N 1 0 0 1 205 -380 2
+Refer: 226 61050 N 1 0 0 1 -6 -4 2
 Layer: 2
-SplineSet
-23.5 -60 m 128,-1,1
- 19 -66 19 -66 12.1429 -66 c 128,-1,2
- 5.28571 -66 5.28571 -66 1 -51 c 1,3,-1
- 1 -18 l 2,4,5
- 1 213.576 1 213.576 43.5 338.5 c 0,6,7
- 60 387 60 387 91 420.5 c 128,-1,8
- 122 454 122 454 163 454 c 0,9,10
- 259 454 259 454 259 321 c 0,11,12
- 259 236 259 236 239 106 c 1,13,-1
- 227 18 l 2,14,15
- 226 17 226 17 222.7 11.5 c 128,-1,16
- 219.4 5.99999 219.4 5.99999 212.7 6 c 128,-1,17
- 206 6 206 6 202 20 c 1,18,19
- 220 173 220 173 220 216 c 0,20,21
- 220 344 220 344 151 344 c 0,22,23
- 130.296 344 130.296 344 110.148 327 c 128,-1,24
- 90 310 90 310 77 288.5 c 0,25,26
- 45.8107 236.918 45.8107 236.918 36 129 c 1,27,28
- 31 37 31 37 28 -48 c 0,29,0
- 28 -54 28 -54 23.5 -60 c 128,-1,1
-277 124 m 1,30,31
- 291 154 291 154 338 184 c 0,32,33
- 352 193 352 193 382 211 c 1,34,-1
- 369 116 l 1,35,36
- 342 100 342 100 327 90.5 c 128,-1,37
- 312 81 312 81 292 63 c 128,-1,38
- 272 45 272 45 262 26 c 1,39,-1
- 277 124 l 1,30,31
-EndSplineSet
-Validated: 1
+Refer: 179 61011 N 1 0 0 1 205 -380 2
+Refer: 226 61050 N 1 0 0 1 -6 -4 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7A uniEE53
@@ -52221,8 +52083,8 @@ Width: 561
 VWidth: 999
 GlyphClass: 3
 Flags: W
-HStem: -3 24G<131.5 135.5 357.5 367> 120 99<63.833 116.403> 140 99<233.833 286.403> 468 129<177 248.281>
-VStem: 10 13<0.780029 33.3362> 129 32<28.7812 103.969> 129 12<-2.53125 43.8> 180 13<20.78 53.3362> 299 32<48.7812 123.969> 299 12<17.4688 63.8> 359 40<68.4404 347.464>
+HStem: 0 15G<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 91 184 108 94<208.664 269.37> 371 125<200 275.483>
+VStem: 112 9<2.02298 16.4071> 113 31<19.5513 135> 272 9<26.023 40.4071> 273 31<43.5513 159> 348 34<46.8179 282.938> 416 129
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -52468,132 +52330,27 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "Podtinka" 17.6329 -10 basechar 0
-AnchorPoint: "Zevok" 296 739 basechar 0
-AnchorPoint: "Udarka" 294 740 basechar 0
+AnchorPoint: "Zevok" 294 615 basechar 0
+AnchorPoint: "Udarka" 292 616 basechar 0
 AnchorPoint: "Kupnaya" 233 -115 basechar 0
-AnchorPoint: "Kachka" 291 738 basechar 0
-AnchorPoint: "Lomka" 295 740 basechar 0
-AnchorPoint: "Tikhaya" 294 734.5 basechar 0
-AnchorPoint: "Oblachko" 292 737 basechar 0
-AnchorPoint: "Podchashie" 294 737 basechar 0
-AnchorPoint: "Zaderzhka" 297 737.9 basechar 0
-AnchorPoint: "Tonal" 294 740 basechar 0
-AnchorPoint: "Podvertka" 295 740 basechar 0
-AnchorPoint: "Borzaya" 103 285 basechar 0
-AnchorPoint: "Otsechka" 160 567 basechar 0
-AnchorPoint: "Shaidur" 200 375 basechar 0
+AnchorPoint: "Kachka" 289 614 basechar 0
+AnchorPoint: "Lomka" 293 616 basechar 0
+AnchorPoint: "Tikhaya" 292 610.5 basechar 0
+AnchorPoint: "Oblachko" 290 613 basechar 0
+AnchorPoint: "Podchashie" 292 613 basechar 0
+AnchorPoint: "Zaderzhka" 295 613.9 basechar 0
+AnchorPoint: "Tonal" 292 616 basechar 0
+AnchorPoint: "Podvertka" 293 616 basechar 0
+AnchorPoint: "Borzaya" 96 276 basechar 0
+AnchorPoint: "Otsechka" 472 309 basechar 0
+AnchorPoint: "Shaidur" 100 375 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-378 15 m 0x9920
- 377 6 371 0 363 0 c 0
- 352 0 349 10 349 15 c 0
- 350 34 359 110 359 190 c 0
- 359 266 351 345 321 384 c 0
- 279 438 231 468 160 468 c 1
- 177 597 l 1
- 287 597 399 485 399 316 c 0
- 399 163 389 134 378 15 c 0x9920
-551 224 m 1
- 534 125 l 1
- 424 198 l 1
- 441 297 l 1
- 551 224 l 1
-105 219 m 0xdd20
- 147 219 161 180 161 137 c 0xdd20
- 161 121 159 104 156 87 c 2
- 141 6 l 2
- 140 1 137 -2 134 -3 c 1
- 133 -3 l 2
- 130 -3 129 2 129 10 c 0xdb20
- 129 17 130 25 130 33 c 0
- 130 37 130 41 129 46 c 1
- 129 74 117 120 88 120 c 0
- 68 120 54 98 47 83 c 0
- 38 62 29 34 23 10 c 0
- 22 4 19 1 14 0 c 0
- 10 -1 9 0 10 5 c 2
- 22 88 l 2
- 26 120 35 154 50 176 c 1
- 59 196 79 219 105 219 c 0xdd20
-275 239 m 0xb9a0
- 317 239 331 200 331 157 c 0xb9a0
- 331 141 329 124 326 107 c 2
- 311 26 l 2
- 310 21 307 18 304 17 c 1
- 303 17 l 2
- 300 17 299 22 299 30 c 0xb960
- 299 37 300 45 300 53 c 0
- 300 57 300 61 299 66 c 1
- 299 94 287 140 258 140 c 0
- 238 140 224 118 217 103 c 0
- 208 82 199 54 193 30 c 0
- 192 24 189 21 184 20 c 0
- 180 19 179 20 180 25 c 2
- 191 108 l 2
- 195 139 205 174 220 196 c 1
- 229 216 249 239 275 239 c 0xb9a0
-EndSplineSet
-Validated: 1
+Refer: 258 61018 N 1 0 0 1 559 -112 2
+Refer: 216 61054 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-378 15 m 0,0,1
- 376 0 376 0 362.5 0 c 128,-1,2
- 349 0 349 0 349 15 c 0,3,4
- 349 18 349 18 354 68 c 128,-1,5
- 359 118 359 118 359 190 c 0,6,7
- 359 335 359 335 321 384 c 0,8,9
- 256 468 256 468 160 468 c 1,10,-1
- 177 597 l 1,11,12
- 264 597 264 597 331.5 517.5 c 128,-1,13
- 399 438 399 438 399 323.385 c 128,-1,14
- 399 208.769 399 208.769 390 126.385 c 128,-1,15
- 381 44 381 44 378 15 c 0,0,1
-551 224 m 1,16,-1
- 534 125 l 1,17,-1
- 424 198 l 1,18,-1
- 441 297 l 1,19,-1
- 551 224 l 1,16,-1
-129 10 m 2,20,-1
- 130 33 l 2,21,22
- 130 41 130 41 129 46 c 1,23,24
- 129 72 129 72 118.5 96 c 128,-1,25
- 108 120 108 120 86 120 c 0,26,27
- 49.8293 120 49.8293 120 23 10 c 0,28,29
- 22 2 22 2 15.75 0.25 c 128,-1,30
- 9.5 -1.5 9.5 -1.5 9.5 0.75 c 128,-1,31
- 9.5 3 9.5 3 10 5 c 2,32,-1
- 22 88 l 1,33,34
- 29 145 29 145 50 176 c 1,35,36
- 58 193 58 193 72.5 206 c 128,-1,37
- 87 219 87 219 105 219 c 0,38,39
- 161 219 161 219 161 137 c 0,40,41
- 161 115 161 115 156 87 c 2,42,-1
- 141 6 l 2,43,44
- 140 -1 140 -1 134 -3 c 1,45,-1
- 133 -3 l 2,46,47
- 129 -3 129 -3 129 10 c 2,20,-1
-299 30 m 2,48,-1
- 300 53 l 2,49,50
- 300 61 300 61 299 66 c 1,51,52
- 299 92 299 92 288.5 116 c 128,-1,53
- 278 140 278 140 256 140 c 0,54,55
- 219.829 140 219.829 140 193 30 c 0,56,57
- 192 22 192 22 185.75 20.25 c 128,-1,58
- 179.5 18.5 179.5 18.5 179.5 20.75 c 128,-1,59
- 179.5 23 179.5 23 180 25 c 2,60,-1
- 191 108 l 2,61,62
- 198 164 198 164 220 196 c 1,63,64
- 228 213 228 213 242.5 226 c 128,-1,65
- 257 239 257 239 275 239 c 0,66,67
- 331 239 331 239 331 157 c 0,68,69
- 331 135 331 135 326 107 c 2,70,-1
- 311 26 l 2,71,72
- 310 19 310 19 304 17 c 1,73,-1
- 303 17 l 2,74,75
- 299 17 299 17 299 30 c 2,48,-1
-EndSplineSet
-Validated: 1
+Refer: 258 61018 N 1 0 0 1 559 -112 2
+Refer: 216 61054 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7E uniEE5A
@@ -52605,7 +52362,8 @@ Encoding: 60006 60006 320
 Width: 370
 GlyphClass: 3
 Flags: W
-HStem: 0 224
+HStem: -1 196 1 247
+VStem: 18 221 257 96
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -52664,47 +52422,11 @@ AnchorPoint: "Tonal" 215.996 368.624 basechar 0
 AnchorPoint: "Otsechka" 415 16 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-115 99 m 1
- 98 0 l 1
- 18 125 l 1
- 35 224 l 1
- 115 99 l 1
-220 99 m 1
- 203 0 l 1
- 123 125 l 1
- 140 224 l 1
- 220 99 l 1
-263 98 m 5
- 274 122 302 144 324 158 c 4
- 338 167 353 176 368 185 c 5
- 355 90 l 5
- 315 67 270 41 248 0 c 5
- 263 98 l 5
-EndSplineSet
-Validated: 1
+Refer: 179 61011 N 1 0 0 1 220 -390 2
+Refer: 195 61063 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-115 99 m 1,0,-1
- 98 0 l 1,1,-1
- 18 125 l 1,2,-1
- 35 224 l 1,3,-1
- 115 99 l 1,0,-1
-220 99 m 1,4,-1
- 203 0 l 1,5,-1
- 123 125 l 1,6,-1
- 140 224 l 1,7,-1
- 220 99 l 1,4,-1
-263 98 m 1,8,9
- 277 128 277 128 324 158 c 0,10,11
- 338 167 338 167 368 185 c 1,12,-1
- 355 90 l 1,13,14
- 328 74 328 74 313 64.5 c 128,-1,15
- 298 55 298 55 278 37 c 128,-1,16
- 258 19 258 19 248 0 c 1,17,-1
- 263 98 l 1,8,9
-EndSplineSet
-Validated: 1
+Refer: 179 61011 S 1 0 0 1 220 -390 2
+Refer: 195 61063 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uniEE53
@@ -55037,40 +54759,20 @@ EndChar
 
 StartChar: uniEE8FEE50
 Encoding: 60011 60011 331
-Width: 416
+Width: 410
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 9
- 1
- 0
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 30
-MDAP[rnd]
-PUSHB_2
- 31
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 11.6329 -5.00001 basechar 0
+AnchorPoint: "Podtinka" 12 -5 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 AnchorPoint: "Shaidur" 10 187 basechar 0
 AnchorPoint: "Otsechka" 300 0 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Podvertka" 317 230 basechar 0
 AnchorPoint: "Tonal" 457 650 basechar 0
-AnchorPoint: "Zaderzhka" 111 448.9 basechar 0
+AnchorPoint: "Zaderzhka" 111 449 basechar 0
 AnchorPoint: "Podchashie" 317 229 basechar 0
 AnchorPoint: "Oblachko" 109 450 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Lomka" 109 450 basechar 0
 AnchorPoint: "Kachka" 111 448 basechar 0
 AnchorPoint: "Udarka" 109 449 basechar 0
@@ -55078,54 +54780,58 @@ AnchorPoint: "Zevok" 111 449 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-23 100 m 5
- 44 166 159 208 159 208 c 5
- 143 112 l 5
- 143 112 26 63 5 0 c 5
- 23 100 l 5
-83 290 m 5
- 104 356 219 398 219 398 c 5
- 203 302 l 5
- 203 302 86 253 65 190 c 5
- 83 290 l 5
-268 415 m 5
- 289 481 404 523 404 523 c 5
- 388 427 l 5
- 388 427 271 378 250 315 c 5
- 268 415 l 5
+265 436 m 1
+ 271 454 284 470 302 483 c 0
+ 320 496 336 505 351 509 c 2
+ 374 516 l 1
+ 364 392 l 1
+ 342 385 325 380 300 364 c 0
+ 280 351 264 333 253 310 c 1
+ 265 436 l 1
+86 343 m 1
+ 92 361 104 377 122 390 c 0
+ 140 403 157 412 172 416 c 2
+ 195 423 l 1
+ 185 299 l 1
+ 163 292 147 286 122 270 c 0
+ 102 257 85 240 74 217 c 1
+ 86 343 l 1
+22 87 m 1
+ 28 105 40 121 58 134 c 0
+ 76 147 93 156 108 160 c 2
+ 131 167 l 1
+ 121 43 l 1
+ 99 36 83 30 58 14 c 0
+ 38 1 21 -16 10 -39 c 1
+ 22 87 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-23 100 m 1,0,1
- 32 129 32 129 66 156 c 128,-1,2
- 100 183 100 183 129.5 195.5 c 2,3,-1
- 159 208 l 1,4,-1
- 143 112 l 1,5,6
- 130 106 130 106 110 96.5 c 128,-1,7
- 90 87 90 87 52 57.5 c 128,-1,8
- 14 28 14 28 5 0 c 1,9,-1
- 23 100 l 1,0,1
-83 290 m 1,10,11
- 92 319 92 319 126 346 c 128,-1,12
- 160 373 160 373 189.5 385.5 c 2,13,-1
- 219 398 l 1,14,-1
- 203 302 l 1,15,16
- 190 296 190 296 170 286.5 c 128,-1,17
- 150 277 150 277 112 247.5 c 128,-1,18
- 74 218 74 218 65 190 c 1,19,-1
- 83 290 l 1,10,11
-268 415 m 1,20,21
- 277 444 277 444 311 471 c 128,-1,22
- 345 498 345 498 374.5 510.5 c 2,23,-1
- 404 523 l 1,24,-1
- 388 427 l 1,25,26
- 375 421 375 421 355 411.5 c 128,-1,27
- 335 402 335 402 297 372.5 c 128,-1,28
- 259 343 259 343 250 315 c 1,29,-1
- 268 415 l 1,20,21
+265 436 m 5,0,1
+ 274 463 274 463 301.5 483 c 132,-1,2
+ 329 503 329 503 351 509 c 6,3,-1
+ 374 516 l 5,4,-1
+ 364 392 l 5,5,6
+ 324 379 324 379 297 361.5 c 132,-1,7
+ 270 344 270 344 253 310 c 5,8,-1
+ 265 436 l 5,0,1
+86 343 m 5,9,10
+ 95 370 95 370 122.5 390 c 132,-1,11
+ 150 410 150 410 172 416 c 6,12,-1
+ 195 423 l 5,13,-1
+ 185 299 l 5,14,15
+ 145 286 145 286 118 268.5 c 132,-1,16
+ 91 251 91 251 74 217 c 5,17,-1
+ 86 343 l 5,9,10
+22 87 m 5,18,19
+ 31 114 31 114 58.5 134 c 132,-1,20
+ 86 154 86 154 108 160 c 6,21,-1
+ 131 167 l 5,22,-1
+ 121 43 l 5,23,24
+ 81 30 81 30 54 12.5 c 132,-1,25
+ 27 -5 27 -5 10 -39 c 5,26,-1
+ 22 87 l 5,18,19
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 234
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE50
@@ -55992,35 +55698,15 @@ Width: 414
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 39
- 1
- 0
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 40
-MDAP[rnd]
-PUSHB_2
- 41
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 11.6329 -5.00001 basechar 0
+AnchorPoint: "Podtinka" 12 -5 basechar 0
 AnchorPoint: "Zevok" 111 449 basechar 0
 AnchorPoint: "Udarka" 109 449 basechar 0
 AnchorPoint: "Kachka" 111 448 basechar 0
 AnchorPoint: "Lomka" 109 450 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Oblachko" 109 450 basechar 0
 AnchorPoint: "Podchashie" 329 152 basechar 0
-AnchorPoint: "Zaderzhka" 111 448.9 basechar 0
+AnchorPoint: "Zaderzhka" 111 449 basechar 0
 AnchorPoint: "Tonal" 457 650 basechar 0
 AnchorPoint: "Podvertka" 329 153 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
@@ -56030,68 +55716,70 @@ AnchorPoint: "Kupnaya" 111 450 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-268 415 m 5
- 289 481 404 523 404 523 c 5
- 388 427 l 5
- 388 427 271 378 250 315 c 5
- 268 415 l 5
-208 225 m 5
- 229 291 344 333 344 333 c 5
- 328 237 l 5
- 328 237 211 188 190 125 c 5
- 208 225 l 5
-83 290 m 5
- 104 356 219 398 219 398 c 5
- 203 302 l 5
- 203 302 86 253 65 190 c 5
- 83 290 l 5
-23 100 m 5
- 44 166 159 208 159 208 c 5
- 143 112 l 5
- 143 112 26 63 5 0 c 5
- 23 100 l 5
+211 200 m 1
+ 217 218 230 234 248 247 c 0
+ 266 260 282 269 297 273 c 2
+ 320 280 l 1
+ 310 156 l 1
+ 257 139 222 120 199 74 c 1
+ 211 200 l 1
+265 436 m 1
+ 271 454 284 470 302 483 c 0
+ 320 496 336 505 351 509 c 2
+ 374 516 l 1
+ 364 392 l 1
+ 311 375 276 356 253 310 c 1
+ 265 436 l 1
+86 343 m 1
+ 92 361 104 377 122 390 c 0
+ 140 403 157 412 172 416 c 2
+ 195 423 l 1
+ 185 299 l 1
+ 132 282 97 263 74 217 c 1
+ 86 343 l 1
+22 87 m 1
+ 28 105 40 121 58 134 c 0
+ 76 147 93 156 108 160 c 2
+ 131 167 l 1
+ 121 43 l 1
+ 68 26 33 7 10 -39 c 1
+ 22 87 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-268 415 m 1,0,1
- 277 444 277 444 311 471 c 128,-1,2
- 345 498 345 498 374.5 510.5 c 2,3,-1
- 404 523 l 1,4,-1
- 388 427 l 1,5,6
- 375 421 375 421 355 411.5 c 128,-1,7
- 335 402 335 402 297 372.5 c 128,-1,8
- 259 343 259 343 250 315 c 1,9,-1
- 268 415 l 1,0,1
-208 225 m 1,10,11
- 217 254 217 254 251 281 c 128,-1,12
- 285 308 285 308 314.5 320.5 c 2,13,-1
- 344 333 l 1,14,-1
- 328 237 l 1,15,16
- 315 231 315 231 295 221.5 c 128,-1,17
- 275 212 275 212 237 182.5 c 128,-1,18
- 199 153 199 153 190 125 c 1,19,-1
- 208 225 l 1,10,11
-83 290 m 1,20,21
- 92 319 92 319 126 346 c 128,-1,22
- 160 373 160 373 189.5 385.5 c 2,23,-1
- 219 398 l 1,24,-1
- 203 302 l 1,25,26
- 190 296 190 296 170 286.5 c 128,-1,27
- 150 277 150 277 112 247.5 c 128,-1,28
- 74 218 74 218 65 190 c 1,29,-1
- 83 290 l 1,20,21
-23 100 m 1,30,31
- 32 129 32 129 66 156 c 128,-1,32
- 100 183 100 183 129.5 195.5 c 2,33,-1
- 159 208 l 1,34,-1
- 143 112 l 1,35,36
- 130 106 130 106 110 96.5 c 128,-1,37
- 90 87 90 87 52 57.5 c 128,-1,38
- 14 28 14 28 5 0 c 1,39,-1
- 23 100 l 1,30,31
+211 200 m 1,0,1
+ 220 227 220 227 247.5 247 c 128,-1,2
+ 275 267 275 267 297 273 c 2,3,-1
+ 320 280 l 1,4,-1
+ 310 156 l 1,5,6
+ 270 143 270 143 243 125.5 c 128,-1,7
+ 216 108 216 108 199 74 c 1,8,-1
+ 211 200 l 1,0,1
+265 436 m 1,9,10
+ 274 463 274 463 301.5 483 c 128,-1,11
+ 329 503 329 503 351 509 c 2,12,-1
+ 374 516 l 1,13,-1
+ 364 392 l 1,14,15
+ 324 379 324 379 297 361.5 c 128,-1,16
+ 270 344 270 344 253 310 c 1,17,-1
+ 265 436 l 1,9,10
+86 343 m 1,18,19
+ 95 370 95 370 122.5 390 c 128,-1,20
+ 150 410 150 410 172 416 c 2,21,-1
+ 195 423 l 1,22,-1
+ 185 299 l 1,23,24
+ 145 286 145 286 118 268.5 c 128,-1,25
+ 91 251 91 251 74 217 c 1,26,-1
+ 86 343 l 1,18,19
+22 87 m 1,27,28
+ 31 114 31 114 58.5 134 c 128,-1,29
+ 86 154 86 154 108 160 c 2,30,-1
+ 131 167 l 1,31,-1
+ 121 43 l 1,32,33
+ 81 30 81 30 54 12.5 c 128,-1,34
+ 27 -5 27 -5 10 -39 c 1,35,-1
+ 22 87 l 1,27,28
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 231
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE51
@@ -60927,101 +60615,23 @@ EndChar
 
 StartChar: uniEE98EE50
 Encoding: 60022 60022 349
-Width: 415
+Width: 400
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5> 56 98<251.18 318.01>
-VStem: 216 31<161.086 232.781>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 9
- 1
- 0
-CALL
-PUSHB_1
- 41
-MDAP[rnd]
-PUSHB_5
- 33
- 10
- 0
- 21
- 4
-CALL
-PUSHB_3
- 33
- 41
- 10
-CALL
-PUSHB_4
- 64
- 33
- 36
- 9
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 50
-MDAP[rnd]
-PUSHB_1
- 43
-MDRP[rp0,rnd,white]
-PUSHB_2
- 30
- 13
-MIRP[min,black]
-PUSHB_1
- 30
-SRP0
-PUSHB_5
- 46
- 12
- 0
- 80
- 4
-CALL
-PUSHB_1
- 46
-MDAP[rnd]
-PUSHB_2
- 51
- 1
-CALL
-PUSHB_2
- 46
- 43
-SRP1
-SRP2
-PUSHB_1
- 14
-IP
-SVTCA[y-axis]
-PUSHB_2
- 33
- 41
-SRP1
-SRP2
-PUSHB_2
- 5
- 43
-IP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 11.6329 -5.00001 basechar 0
+HStem: -3 94<222.398 284.271>
+VStem: 188 32<95.1321 150.912>
+AnchorPoint: "Podtinka" 12 -5 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 AnchorPoint: "Shaidur" 10 187 basechar 0
 AnchorPoint: "Otsechka" 445 117 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Podvertka" 209 582 basechar 0
 AnchorPoint: "Tonal" 457 650 basechar 0
-AnchorPoint: "Zaderzhka" 111 448.9 basechar 0
+AnchorPoint: "Zaderzhka" 111 449 basechar 0
 AnchorPoint: "Podchashie" 207 583 basechar 0
 AnchorPoint: "Oblachko" 109 450 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Lomka" 109 450 basechar 0
 AnchorPoint: "Kachka" 111 448 basechar 0
 AnchorPoint: "Udarka" 109 449 basechar 0
@@ -61029,79 +60639,79 @@ AnchorPoint: "Zevok" 111 449 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-23 100 m 1
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
-268 415 m 1
- 289 481 404 523 404 523 c 1
- 388 427 l 1
- 388 427 271 378 250 315 c 1
- 268 415 l 1
-277 56 m 0
- 233 56 216 89 216 131 c 0
- 216 143 217 157 220 170 c 2
- 235 252 l 2
- 237 262 247 265 247 247 c 0
- 247 234 245 220 245 208 c 0
- 245 181 252 154 289 154 c 0
- 326 154 347 228 356 279 c 0
- 357 286 362 290 365 290 c 0
- 368 290 370 288 369 283 c 2
- 355 187 l 2
- 345 124 327 56 277 56 c 0
+259 440 m 1
+ 270 472 313 504 345 513 c 1
+ 368 520 l 1
+ 358 396 l 1
+ 305 379 270 360 247 314 c 1
+ 259 440 l 1
+245 -3 m 0
+ 210 -3 188 23 188 57 c 0
+ 188 96 196 133 211 170 c 0
+ 214 175 216 177 217 177 c 0
+ 220 177 220 170 220 161 c 0
+ 220 151 219 139 219 134 c 0
+ 219 105 231 91 254 91 c 0
+ 279 91 297 124 308 191 c 0
+ 309 197 312 200 315 200 c 0
+ 317 200 318 188 318 165 c 0
+ 318 142 315 114 308 81 c 0
+ 297 25 276 -3 245 -3 c 0
+86 343 m 1
+ 92 361 104 377 122 390 c 0
+ 140 403 157 412 172 416 c 2
+ 195 423 l 1
+ 185 299 l 1
+ 132 282 97 263 74 217 c 1
+ 86 343 l 1
+22 87 m 1
+ 28 105 40 121 58 134 c 0
+ 76 147 93 156 108 160 c 2
+ 131 167 l 1
+ 121 43 l 1
+ 68 26 33 7 10 -39 c 1
+ 22 87 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-23 100 m 1,0,1
- 32 129 32 129 66 156 c 128,-1,2
- 100 183 100 183 129.5 195.5 c 2,3,-1
- 159 208 l 1,4,-1
- 143 112 l 1,5,6
- 130 106 130 106 110 96.5 c 128,-1,7
- 90 87 90 87 52 57.5 c 128,-1,8
- 14 28 14 28 5 0 c 1,9,-1
- 23 100 l 1,0,1
-83 290 m 1,10,11
- 92 319 92 319 126 346 c 128,-1,12
- 160 373 160 373 189.5 385.5 c 2,13,-1
- 219 398 l 1,14,-1
- 203 302 l 1,15,16
- 190 296 190 296 170 286.5 c 128,-1,17
- 150 277 150 277 112 247.5 c 128,-1,18
- 74 218 74 218 65 190 c 1,19,-1
- 83 290 l 1,10,11
-268 415 m 1,20,21
- 277 444 277 444 311 471 c 128,-1,22
- 345 498 345 498 374.5 510.5 c 2,23,-1
- 404 523 l 1,24,-1
- 388 427 l 1,25,26
- 375 421 375 421 355 411.5 c 128,-1,27
- 335 402 335 402 297 372.5 c 128,-1,28
- 259 343 259 343 250 315 c 1,29,-1
- 268 415 l 1,20,21
-247 247 m 2,30,-1
- 245 208 l 1,31,32
- 245 154 245 154 289.5 154 c 128,-1,33
- 334 154 334 154 356 279 c 0,34,35
- 358 290 358 290 365 290 c 0,36,37
- 370 290 370 290 369 283 c 2,38,-1
- 355 187 l 1,39,40
- 334 56 334 56 277 56 c 0,41,42
- 216 56 216 56 216 131 c 0,43,44
- 216 153 216 153 220 170 c 2,45,-1
- 235 252 l 2,46,47
- 237.18 262.902 237.18 262.902 243.094 259.575 c 0,48,49
- 247 257.377 247 257.377 247 247 c 2,30,-1
+259 440 m 1,0,1
+ 268 467 268 467 295.5 487 c 128,-1,2
+ 323 507 323 507 345 513 c 2,3,-1
+ 368 520 l 1,4,-1
+ 358 396 l 1,5,6
+ 318 383 318 383 291 365.5 c 128,-1,7
+ 264 348 264 348 247 314 c 1,8,-1
+ 259 440 l 1,0,1
+245 -3 m 0,9,10
+ 219 -3 219 -3 203.5 14 c 128,-1,11
+ 188 31 188 31 188 57 c 0,12,13
+ 188 115 188 115 211 170 c 0,14,15
+ 216 180 216 180 218.5 176.5 c 128,-1,16
+ 221 173 221 173 220 159.5 c 128,-1,17
+ 219 146 219 146 219 134 c 0,18,19
+ 219 91 219 91 254 91 c 0,20,21
+ 291 91 291 91 308 191 c 0,22,23
+ 310 200 310 200 315 200 c 0,24,25
+ 318 200 318 200 318 165 c 128,-1,26
+ 318 130 318 130 308 81 c 0,27,28
+ 291 -3 291 -3 245 -3 c 0,9,10
+86 343 m 1,29,30
+ 95 370 95 370 122.5 390 c 128,-1,31
+ 150 410 150 410 172 416 c 2,32,-1
+ 195 423 l 1,33,-1
+ 185 299 l 1,34,35
+ 145 286 145 286 118 268.5 c 128,-1,36
+ 91 251 91 251 74 217 c 1,37,-1
+ 86 343 l 1,29,30
+22 87 m 1,38,39
+ 31 114 31 114 58.5 134 c 128,-1,40
+ 86 154 86 154 108 160 c 2,41,-1
+ 131 167 l 1,42,-1
+ 121 43 l 1,43,44
+ 81 30 81 30 54 12.5 c 128,-1,45
+ 27 -5 27 -5 10 -39 c 1,46,-1
+ 22 87 l 1,38,39
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 239
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE98 uniEE50
@@ -62093,41 +61703,21 @@ EndChar
 
 StartChar: uniEE93EE50
 Encoding: 60016 60016 353
-Width: 415
+Width: 410
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 14.5>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 10
- 1
- 0
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 35
-MDAP[rnd]
-PUSHB_2
- 36
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 11.6329 -5.00001 basechar 0
+AnchorPoint: "Podtinka" 12 -5 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 AnchorPoint: "Shaidur" 10 187 basechar 0
 AnchorPoint: "Otsechka" 445 100 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Podvertka" 110 450 basechar 0
 AnchorPoint: "Tonal" 457 650 basechar 0
-AnchorPoint: "Zaderzhka" 111 448.9 basechar 0
+AnchorPoint: "Zaderzhka" 111 449 basechar 0
 AnchorPoint: "Podchashie" 110 449 basechar 0
 AnchorPoint: "Oblachko" 109 450 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Lomka" 109 450 basechar 0
 AnchorPoint: "Kachka" 111 448 basechar 0
 AnchorPoint: "Udarka" 109 449 basechar 0
@@ -62135,65 +61725,65 @@ AnchorPoint: "Zevok" 111 449 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-23 100 m 5
- 44 166 159 208 159 208 c 5
- 143 112 l 5
- 126 100 24 62 5 0 c 5
- 23 100 l 5
-83 290 m 5
- 104 356 219 398 219 398 c 5
- 203 302 l 5
- 203 302 86 253 65 190 c 5
- 83 290 l 5
-268 415 m 5
- 289 481 404 523 404 523 c 5
- 388 427 l 5
- 388 427 271 378 250 315 c 5
- 268 415 l 5
-237 244 m 5
- 317 119 l 5
- 300 20 l 5
- 220 145 l 5
- 237 244 l 5
+269 442 m 1
+ 275 460 288 476 306 489 c 0
+ 324 502 340 511 355 515 c 2
+ 378 522 l 1
+ 368 398 l 1
+ 315 381 280 362 257 316 c 1
+ 269 442 l 1
+228 218 m 1
+ 309 99 l 1
+ 297 -28 l 1
+ 216 91 l 1
+ 228 218 l 1
+106 343 m 1
+ 112 361 124 377 142 390 c 0
+ 160 403 177 412 192 416 c 2
+ 215 423 l 1
+ 205 299 l 1
+ 152 282 117 263 94 217 c 1
+ 106 343 l 1
+42 87 m 1
+ 48 105 60 121 78 134 c 0
+ 96 147 113 156 128 160 c 2
+ 151 167 l 1
+ 141 43 l 1
+ 88 26 53 7 30 -39 c 1
+ 42 87 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-23 100 m 1,0,1
- 32 129 32 129 66 156 c 128,-1,2
- 100 183 100 183 129.5 195.5 c 2,3,-1
- 159 208 l 1,4,-1
- 143 112 l 1,5,6
- 140 110 140 110 117.5 98.5 c 128,-1,7
- 95 87 95 87 74.5 75 c 128,-1,8
- 54 63 54 63 33 42 c 128,-1,9
- 12 21 12 21 5 0 c 1,10,-1
- 23 100 l 1,0,1
-83 290 m 1,11,12
- 92 319 92 319 126 346 c 128,-1,13
- 160 373 160 373 189.5 385.5 c 2,14,-1
- 219 398 l 1,15,-1
- 203 302 l 1,16,17
- 190 296 190 296 170 286.5 c 128,-1,18
- 150 277 150 277 112 247.5 c 128,-1,19
- 74 218 74 218 65 190 c 1,20,-1
- 83 290 l 1,11,12
-268 415 m 1,21,22
- 277 444 277 444 311 471 c 128,-1,23
- 345 498 345 498 374.5 510.5 c 2,24,-1
- 404 523 l 1,25,-1
- 388 427 l 1,26,27
- 375 421 375 421 355 411.5 c 128,-1,28
- 335 402 335 402 297 372.5 c 128,-1,29
- 259 343 259 343 250 315 c 1,30,-1
- 268 415 l 1,21,22
-237 244 m 1,31,-1
- 317 119 l 1,32,-1
- 300 20 l 1,33,-1
- 220 145 l 1,34,-1
- 237 244 l 1,31,-1
+269 442 m 1,0,1
+ 278 469 278 469 305.5 489 c 128,-1,2
+ 333 509 333 509 355 515 c 2,3,-1
+ 378 522 l 1,4,-1
+ 368 398 l 1,5,6
+ 328 385 328 385 301 367.5 c 128,-1,7
+ 274 350 274 350 257 316 c 1,8,-1
+ 269 442 l 1,0,1
+228 218 m 1,9,-1
+ 309 99 l 1,10,-1
+ 297 -28 l 1,11,-1
+ 216 91 l 1,12,-1
+ 228 218 l 1,9,-1
+106 343 m 1,13,14
+ 115 370 115 370 142.5 390 c 128,-1,15
+ 170 410 170 410 192 416 c 2,16,-1
+ 215 423 l 1,17,-1
+ 205 299 l 1,18,19
+ 165 286 165 286 138 268.5 c 128,-1,20
+ 111 251 111 251 94 217 c 1,21,-1
+ 106 343 l 1,13,14
+42 87 m 1,22,23
+ 51 114 51 114 78.5 134 c 128,-1,24
+ 106 154 106 154 128 160 c 2,25,-1
+ 151 167 l 1,26,-1
+ 141 43 l 1,27,28
+ 101 30 101 30 74 12.5 c 128,-1,29
+ 47 -5 47 -5 30 -39 c 1,30,-1
+ 42 87 l 1,22,23
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE93 uniEE50
@@ -73943,202 +73533,15 @@ StartChar: uniEA61
 Encoding: 60001 60001 395
 Width: 250
 Flags: W
-HStem: -4 98<48.6626 109.315> 468 129<17 88.2813>
-VStem: 14 29<51 166.75> 33 12<153.733 199.559> 199 40<68.4404 347.464>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 18
- 1
- 0
-CALL
-PUSHB_5
- 28
- 10
- 0
- 21
- 4
-CALL
-PUSHB_3
- 28
- 18
- 10
-CALL
-PUSHB_4
- 64
- 28
- 31
- 9
-CALL
-PUSHB_3
- 2
- 1
- 0
-CALL
-PUSHB_1
- 10
-MDAP[rnd]
-PUSHB_5
- 11
- 10
- 0
- 16
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 35
-MDAP[rnd]
-PUSHB_1
- 20
-MDRP[rp0,rnd,white]
-PUSHB_2
- 26
- 13
-MIRP[min,black]
-PUSHB_1
- 26
-SRP0
-PUSHB_5
- 22
- 12
- 0
- 80
- 4
-CALL
-PUSHB_1
- 22
-MDAP[rnd]
-PUSHB_1
- 26
-SRP0
-PUSHB_2
- 6
- 1
-CALL
-PUSHB_2
- 14
- 11
-MIRP[min,black]
-PUSHB_1
- 3
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_2
- 0
- 13
-MIRP[min,black]
-PUSHB_2
- 36
- 1
-CALL
-PUSHB_2
- 22
- 20
-SRP1
-SRP2
-PUSHB_1
- 11
-IP
-PUSHB_1
- 26
-SRP1
-PUSHB_1
- 18
-IP
-PUSHB_1
- 3
-SRP2
-PUSHB_2
- 17
- 32
-IP
-IP
-SVTCA[y-axis]
-PUSHB_2
- 28
- 18
-SRP1
-SRP2
-PUSHB_3
- 15
- 3
- 20
-IP
-IP
-IP
-PUSHB_1
- 10
-SRP1
-PUSHB_4
- 6
- 13
- 14
- 23
-DEPTH
-SLOOP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: -6 21G<178.5 185.5> -4 94<42.335 114.663> 371 125<35 110.225>
+VStem: 7 31<44 147.966> 151 10<174.868 198.647> 182 35<48.6146 286.634>
 LayerCount: 3
 Fore
-SplineSet
-218 15 m 0xc8
- 217 6 211 0 203 0 c 0
- 192 0 189 10 189 15 c 0
- 190 34 199 110 199 190 c 0
- 199 266 191 345 161 384 c 0
- 119 438 71 468 -0 468 c 1
- 17 597 l 1
- 127 597 239 485 239 316 c 0
- 239 163 229 134 218 15 c 0xc8
-65 -4 m 0
- 22 -4 14 30 14 72 c 0xe8
- 14 84 16 97 18 110 c 2
- 33 192 l 2
- 35 202 47 205 45 187 c 0xd8
- 44 174 43 160 43 148 c 0xe8
- 43 121 50 94 87 94 c 0
- 124 94 145 168 154 219 c 0
- 155 226 160 230 163 230 c 0
- 166 230 168 228 167 223 c 2
- 153 127 l 2
- 144 64 116 -4 65 -4 c 0
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 448 0 2
+Refer: 229 61048 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-218 15 m 0,0,1
- 216 0 216 0 202.5 0 c 128,-1,2
- 189 0 189 0 189 15 c 0,3,4
- 189 18 189 18 194 68 c 128,-1,5
- 199 118 199 118 199 190 c 0,6,7
- 199 335 199 335 161 384 c 0,8,9
- 96 468 96 468 0 468 c 1,10,-1
- 17 597 l 1,11,12
- 104 597 104 597 171.5 517.5 c 128,-1,13
- 239 438 239 438 239 323.385 c 128,-1,14
- 239 208.769 239 208.769 230 126.385 c 128,-1,15
- 221 44 221 44 218 15 c 0,0,1
-122.5 34.5 m 128,-1,17
- 100 -4 100 -4 67.5 -4 c 128,-1,18
- 35 -4 35 -4 24.5 16 c 128,-1,19
- 14 36 14 36 14 60 c 128,-1,20
- 14 84 14 84 18 110 c 2,21,-1
- 33 192 l 2,22,23
- 34.6967 200.484 34.6967 200.484 40.5 200 c 128,-1,24
- 46.3899 199.509 46.3899 199.509 44.695 180.255 c 128,-1,25
- 43 161 43 161 43 148 c 0,26,27
- 43 94 43 94 87.5 94 c 128,-1,28
- 132 94 132 94 154 219 c 0,29,30
- 156 230 156 230 163 230 c 0,31,32
- 168 230 168 230 167 223 c 2,33,-1
- 153 127 l 2,34,16
- 145 73 145 73 122.5 34.5 c 128,-1,17
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 448 0 2
+Refer: 229 61048 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: 4cff40
 EndChar
@@ -74148,8 +73551,8 @@ Encoding: 60003 60003 396
 Width: 406
 GlyphClass: 3
 Flags: W
-HStem: -4 98<48.6299 116.996> 468 129<17 88.2813>
-VStem: 14 31<101.086 172.781> 33 12<153.733 199.783> 199 40<68.4404 347.464>
+HStem: -6 21G<178.5 185.5> -4 94<42.335 114.663> 1 21G<344.75 376.569> 371 125<35 110.225>
+VStem: 7 31<44 147.966> 151 10<174.868 198.647> 182 35<48.6146 286.634> 254 143
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -74294,80 +73697,11 @@ IUP[x]
 EndTTInstrs
 LayerCount: 3
 Fore
-SplineSet
-396 131 m 1xc8
- 378 32 l 1
- 268 105 l 1
- 286 204 l 1
- 396 131 l 1xc8
-396 316 m 1
- 378 217 l 1
- 268 290 l 1
- 286 389 l 1
- 396 316 l 1
-218 15 m 0
- 217 6 211 0 203 0 c 0
- 192 0 189 10 189 15 c 0
- 190 34 199 110 199 190 c 0
- 199 266 191 345 161 384 c 0
- 119 438 71 468 -0 468 c 1
- 17 597 l 1
- 127 597 239 485 239 316 c 0
- 239 163 229 134 218 15 c 0
-75 -4 m 0
- 32 -4 14 30 14 72 c 0xe8
- 14 84 16 97 18 110 c 2
- 33 192 l 2
- 35 202 45 205 45 187 c 0xd8
- 45 174 43 160 43 148 c 0
- 43 121 50 94 87 94 c 0
- 124 94 145 168 154 219 c 0
- 155 226 160 230 163 230 c 0
- 166 230 168 228 167 223 c 2
- 153 127 l 2
- 144 64 126 -4 75 -4 c 0
-EndSplineSet
-Validated: 1
+Refer: 259 61019 N 1 0 0 1 407 1 2
+Refer: 395 60001 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-396 131 m 1,0,-1
- 378 32 l 1,1,-1
- 268 105 l 1,2,-1
- 286 204 l 1,3,-1
- 396 131 l 1,0,-1
-396 316 m 1,4,-1
- 378 217 l 1,5,-1
- 268 290 l 1,6,-1
- 286 389 l 1,7,-1
- 396 316 l 1,4,-1
-218 15 m 0,8,9
- 216 0 216 0 202.5 0 c 128,-1,10
- 189 0 189 0 189 15 c 0,11,12
- 189 18 189 18 194 68 c 128,-1,13
- 199 118 199 118 199 190 c 0,14,15
- 199 335 199 335 161 384 c 0,16,17
- 96 468 96 468 0 468 c 1,18,-1
- 17 597 l 1,19,20
- 104 597 104 597 171.5 517.5 c 128,-1,21
- 239 438 239 438 239 323.385 c 128,-1,22
- 239 208.769 239 208.769 230 126.385 c 128,-1,23
- 221 44 221 44 218 15 c 0,8,9
-45 187 m 2,24,-1
- 43 148 l 1,25,26
- 43 94 43 94 87.5 94 c 128,-1,27
- 132 94 132 94 154 219 c 0,28,29
- 156 230 156 230 163 230 c 0,30,31
- 168 230 168 230 167 223 c 2,32,-1
- 153 127 l 2,33,34
- 134 -4 134 -4 75 -4 c 0,35,36
- 44 -4 44 -4 29 17 c 128,-1,37
- 14 38 14 38 14 61 c 128,-1,38
- 14 84 14 84 18 110 c 2,39,-1
- 33 192 l 2,40,41
- 35.1805 202.902 35.1805 202.902 41.0938 199.575 c 0,42,43
- 45 197.377 45 197.377 45 187 c 2,24,-1
-EndSplineSet
-Validated: 1
+Refer: 259 61019 N 1 0 0 1 407 1 2
+Refer: 395 60001 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: 4cff40
 EndChar
@@ -92703,8 +92037,8 @@ Encoding: 60008 60008 472
 Width: 360
 GlyphClass: 3
 Flags: W
-HStem: -200 98<228.63 296.996> 0 21G<80.2 96.4343 185.2 201.434> 299 93<139.463 237.894>
-VStem: 94 17<237.564 263.571> 194 29<-145 -29.25> 213 12<-42.2667 3.55859> 261 28<84.1094 263.997>
+HStem: -142 94<273.335 345.663> 1 21G<80.5 95.875 208.5 223.875> 329 126<159.921 246.035>
+VStem: 114 18<269.004 304.991> 238 31<-94 9.966> 276 18<78.0371 125.626> 276 40<93.6047 293.01> 382 10<36.868 60.647>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -92915,217 +92249,34 @@ AnchorPoint: "Podvertka" 200.5 477.5 basechar 0
 AnchorPoint: "Shaidur" 26 318 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-289 251 m 0xf2
- 289 184 279 94 266 35 c 0
- 264 28 262 21 255 21 c 0
- 249 21 247 27 248 35 c 2
- 255 91 l 2
- 259 120 261 149 261 174 c 0
- 261 247 251 299 183 299 c 0
- 135 299 125 280 111 248 c 0
- 108 241 104 237 100 237 c 0
- 97 237 93 241 94 248 c 0
- 98 300 116 392 195 392 c 0
- 277 392 289 321 289 251 c 0xf2
-255 -200 m 0
- 212 -200 194 -166 194 -124 c 0xfa
- 194 -112 196 -99 198 -86 c 2
- 213 -4 l 2
- 215 6 227 9 225 -9 c 0xf6
- 224 -22 223 -36 223 -48 c 0xfa
- 223 -75 230 -102 267 -102 c 0
- 304 -102 325 -28 334 23 c 0
- 335 30 340 34 343 34 c 0
- 346 34 348 32 347 27 c 2
- 333 -69 l 2
- 324 -132 306 -200 255 -200 c 0
-30 224 m 1
- 110 99 l 1
- 93 0 l 1
- 13 125 l 1
- 30 224 l 1
-135 224 m 1
- 215 99 l 1
- 198 0 l 1
- 118 125 l 1
- 135 224 l 1
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 679 -138 2
+Refer: 240 61064 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-289 251 m 0,0,1
- 289 139 289 139 266 35 c 0,2,3
- 262 21 262 21 255 21 c 0,4,5
- 246 21 246 21 248 35 c 2,6,-1
- 255 91 l 2,7,8
- 261 135 261 135 261 186 c 128,-1,9
- 261 237 261 237 245.5 268 c 128,-1,10
- 230 299 230 299 190 299 c 128,-1,11
- 150 299 150 299 136.5 287.5 c 128,-1,12
- 123 276 123 276 114.5 256.5 c 128,-1,13
- 106 237 106 237 100 237 c 128,-1,14
- 94.1703 237 94.1703 237 94.1703 250.566 c 128,-1,15
- 94.1703 264.132 94.1703 264.132 101 293.5 c 0,16,17
- 115.423 355.519 115.423 355.519 146.5 377.5 c 0,18,19
- 167 392 167 392 200.5 392 c 128,-1,20
- 234 392 234 392 255.5 370 c 128,-1,21
- 277 348 277 348 283 320 c 128,-1,22
- 289 292 289 292 289 251 c 0,0,1
-255 -200 m 0,23,24
- 224 -200 224 -200 209 -179 c 128,-1,25
- 194 -158 194 -158 194 -135 c 128,-1,26
- 194 -112 194 -112 198 -86 c 2,27,-1
- 213 -4 l 2,28,29
- 214.697 4.48361 214.697 4.48361 220.5 4 c 128,-1,30
- 226.39 3.50917 226.39 3.50917 224.695 -15.7454 c 128,-1,31
- 223 -35 223 -35 223 -48 c 0,32,33
- 223 -102 223 -102 267.5 -102 c 128,-1,34
- 312 -102 312 -102 334 23 c 0,35,36
- 336 34 336 34 343 34 c 0,37,38
- 348 34 348 34 347 27 c 2,39,-1
- 333 -69 l 2,40,41
- 314 -200 314 -200 255 -200 c 0,23,24
-30 224 m 1,42,-1
- 110 99 l 1,43,-1
- 93 0 l 1,44,-1
- 13 125 l 1,45,-1
- 30 224 l 1,42,-1
-135 224 m 1,46,-1
- 215 99 l 1,47,-1
- 198 0 l 1,48,-1
- 118 125 l 1,49,-1
- 135 224 l 1,46,-1
-EndSplineSet
-Validated: 1
+Refer: 180 61013 S 1 0 0 1 679 -138 2
+Refer: 240 61064 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: 4cff40
 EndChar
 
 StartChar: uniEE90EE50
 Encoding: 60015 60015 473
-Width: 416
+Width: 405
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5> 164 100<239.078 319.633>
-VStem: 202 14<94.1991 127.913> 213 145<127.273 237.099> 326 12<27.3586 71.75> 329 29<63.875 149.867>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 9
- 1
- 0
-CALL
-PUSHB_1
- 34
-MDAP[rnd]
-PUSHB_5
- 43
- 10
- 0
- 20
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 53
-MDAP[rnd]
-PUSHB_1
- 41
-MDRP[rp0,rnd,white]
-PUSHB_5
- 46
- 15
- 0
- 14
- 4
-CALL
-PUSHB_1
- 39
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_5
- 14
- 12
- 0
- 125
- 4
-CALL
-PUSHB_1
- 46
-SRP0
-PUSHB_2
- 31
- 13
-MIRP[min,black]
-PUSHB_1
- 31
-MDAP[rnd]
-PUSHB_5
- 48
- 12
- 0
- 80
- 4
-CALL
-PUSHB_2
- 54
- 1
-CALL
-PUSHB_2
- 31
- 14
-SRP1
-SRP2
-PUSHB_4
- 29
- 33
- 34
- 43
-DEPTH
-SLOOP
-IP
-SVTCA[y-axis]
-PUSHB_2
- 34
- 9
-SRP1
-SRP2
-PUSHB_5
- 5
- 38
- 39
- 46
- 50
-DEPTH
-SLOOP
-IP
-PUSHB_1
- 43
-SRP1
-PUSHB_3
- 19
- 4
- 45
-IP
-IP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 11.6329 -5.00001 basechar 0
+HStem: 137 134<212.244 276.563>
+VStem: 283 27<11.0352 204>
+AnchorPoint: "Podtinka" 12 -5 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 AnchorPoint: "Shaidur" 10 187 basechar 0
 AnchorPoint: "Otsechka" 445 117 basechar 0
 AnchorPoint: "Borzaya" 110 450 basechar 0
 AnchorPoint: "Podvertka" 209 582 basechar 0
 AnchorPoint: "Tonal" 457 600 basechar 0
-AnchorPoint: "Zaderzhka" 111 448.9 basechar 0
+AnchorPoint: "Zaderzhka" 111 449 basechar 0
 AnchorPoint: "Podchashie" 207 583 basechar 0
 AnchorPoint: "Oblachko" 109 450 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Lomka" 109 450 basechar 0
 AnchorPoint: "Kachka" 111 448 basechar 0
 AnchorPoint: "Udarka" 109 449 basechar 0
@@ -93133,87 +92284,90 @@ AnchorPoint: "Zevok" 111 449 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-23 100 m 1xc0
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1xc0
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
-268 415 m 1
- 289 481 404 523 404 523 c 1
- 388 427 l 1
- 388 427 271 378 250 315 c 1
- 268 415 l 1
-329 86 m 0xc4
- 329 130 322 164 280 164 c 0
- 253 164 239 158 229 139 c 1
- 223 131 219 119 216 105 c 0
- 215 99 211 94 206 93 c 0
- 202 92 201 95 202 100 c 2xe4
- 213 175 l 1
- 219 227 242 264 291 264 c 0
- 338 264 358 219 358 171 c 0xd0
- 358 155 357 136 354 119 c 2
- 338 35 l 2
- 337 31 335 28 331 27 c 1
- 330 27 l 2
- 327 27 326 32 326 40 c 0xc8
- 326 56 329 72 329 86 c 0xc4
+261 438 m 1
+ 267 456 280 472 298 485 c 0
+ 316 498 332 507 347 511 c 2
+ 370 518 l 1
+ 360 394 l 1
+ 359 393 356 392 352 391 c 0
+ 336 387 318 379 297 366 c 0
+ 276 353 260 335 249 312 c 1
+ 261 438 l 1
+85 343 m 1
+ 91 361 104 377 122 390 c 0
+ 140 403 156 412 171 416 c 2
+ 194 423 l 1
+ 184 299 l 1
+ 183 298 180 297 176 296 c 0
+ 160 292 142 283 121 270 c 0
+ 100 257 84 240 73 217 c 1
+ 85 343 l 1
+21 87 m 1
+ 27 105 40 121 58 134 c 0
+ 76 147 92 156 107 160 c 2
+ 130 167 l 1
+ 120 43 l 1
+ 119 42 116 41 112 40 c 0
+ 96 36 78 27 57 14 c 0
+ 36 1 20 -16 9 -39 c 1
+ 21 87 l 1
+253 271 m 0
+ 291 271 310 226 310 137 c 0
+ 310 87 303 35 290 -19 c 0
+ 289 -24 285 -26 280 -26 c 0
+ 276 -26 271 -21 272 -16 c 0
+ 279 35 283 68 283 82 c 0
+ 283 116 270 134 244 137 c 1
+ 238 137 l 2
+ 215 137 200 121 192 90 c 0
+ 191 85 184 76 182 83 c 0
+ 182 105 185 138 190 183 c 0
+ 197 242 218 271 253 271 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-23 100 m 1,0,1
- 32 129 32 129 66 156 c 128,-1,2
- 100 183 100 183 129.5 195.5 c 2,3,-1
- 159 208 l 1,4,-1
- 143 112 l 1,5,6
- 130 106 130 106 110 96.5 c 128,-1,7
- 90 87 90 87 52 57.5 c 128,-1,8
- 14 28 14 28 5 0 c 1,9,-1
- 23 100 l 1,0,1
-83 290 m 1,10,11
- 92 319 92 319 126 346 c 128,-1,12
- 160 373 160 373 189.5 385.5 c 2,13,-1
- 219 398 l 1,14,-1
- 203 302 l 1,15,16
- 190 296 190 296 170 286.5 c 128,-1,17
- 150 277 150 277 112 247.5 c 128,-1,18
- 74 218 74 218 65 190 c 1,19,-1
- 83 290 l 1,10,11
-268 415 m 1,20,21
- 277 444 277 444 311 471 c 128,-1,22
- 345 498 345 498 374.5 510.5 c 2,23,-1
- 404 523 l 1,24,-1
- 388 427 l 1,25,26
- 375 421 375 421 355 411.5 c 128,-1,27
- 335 402 335 402 297 372.5 c 128,-1,28
- 259 343 259 343 250 315 c 1,29,-1
- 268 415 l 1,20,21
-326 40 m 2,30,-1
- 329 86 l 1,31,32
- 329 124 329 124 319 144 c 128,-1,33
- 309 164 309 164 275.5 164 c 128,-1,34
- 242 164 242 164 229 139 c 1,35,36
- 221 128 221 128 217.5 111.5 c 128,-1,37
- 214 95 214 95 207.698 93.2326 c 128,-1,38
- 201.396 91.4652 201.396 91.4652 201.396 94.5237 c 128,-1,39
- 201.396 97.5822 201.396 97.5822 202 100 c 2,40,-1
- 213 175 l 1,41,42
- 223 264 223 264 291 264 c 0,43,44
- 324 264 324 264 341 237 c 128,-1,45
- 358 210 358 210 358 176 c 128,-1,46
- 358 142 358 142 354 119 c 2,47,-1
- 338 35 l 2,48,49
- 336 28 336 28 331 27 c 1,50,-1
- 330 27 l 2,51,52
- 326 27 326 27 326 40 c 2,30,-1
+261 438 m 1,0,1
+ 270 465 270 465 297.5 485 c 128,-1,2
+ 325 505 325 505 347 511 c 2,3,-1
+ 370 518 l 1,4,-1
+ 360 394 l 1,5,6
+ 358 393 358 393 343 389 c 128,-1,7
+ 328 385 328 385 297 365.5 c 128,-1,8
+ 266 346 266 346 249 312 c 1,9,-1
+ 261 438 l 1,0,1
+85 343 m 1,10,11
+ 94 370 94 370 121.5 390 c 128,-1,12
+ 149 410 149 410 171 416 c 2,13,-1
+ 194 423 l 1,14,-1
+ 184 299 l 1,15,16
+ 182 298 182 298 167 294 c 128,-1,17
+ 152 290 152 290 121 270.5 c 128,-1,18
+ 90 251 90 251 73 217 c 1,19,-1
+ 85 343 l 1,10,11
+21 87 m 1,20,21
+ 30 114 30 114 57.5 134 c 128,-1,22
+ 85 154 85 154 107 160 c 2,23,-1
+ 130 167 l 1,24,-1
+ 120 43 l 1,25,26
+ 118 42 118 42 103 38 c 128,-1,27
+ 88 34 88 34 57 14.5 c 128,-1,28
+ 26 -5 26 -5 9 -39 c 1,29,-1
+ 21 87 l 1,20,21
+253 271 m 0,30,31
+ 310 271 310 271 310 137 c 0,32,33
+ 310 62 310 62 290 -19 c 0,34,35
+ 288 -26 288 -26 280 -26 c 0,36,37
+ 278 -26 278 -26 274.5 -23.5 c 128,-1,38
+ 271 -21 271 -21 272 -16 c 0,39,40
+ 283 61 283 61 283 82 c 0,41,42
+ 283 133 283 133 244 137 c 1,43,-1
+ 238 137 l 2,44,45
+ 204 137 204 137 192 90 c 0,46,47
+ 191 82 191 82 185 81 c 0,48,49
+ 183 80 183 80 182 83 c 0,50,51
+ 182 116 182 116 190 183 c 0,52,53
+ 201 271 201 271 253 271 c 0,30,31
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE90 uniEE50
@@ -93226,8 +92380,8 @@ Width: 415
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: -154 98<251.18 318.01> 0 21G<8.6 15.5>
-VStem: 216 29<-100 16.75> 235 12<3.73333 49.6799>
+HStem: -172 94<246.335 318.663>
+VStem: 211 31<-124 -20.034> 355 10<6.868 30.647>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -93332,90 +92486,11 @@ AnchorPoint: "Otsechka" 444.5 72.3 basechar 0
 AnchorPoint: "Tonal" 236 540 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-23 100 m 1xc0
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1xc0
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
-268 415 m 5
- 289 481 404 523 404 523 c 5
- 388 427 l 5
- 388 427 271 378 250 315 c 5
- 268 415 l 5
-237 244 m 1
- 317 119 l 1
- 300 20 l 1
- 220 145 l 1
- 237 244 l 1
-277 -154 m 0
- 233 -154 216 -121 216 -79 c 0xe0
- 216 -67 217 -53 220 -40 c 2
- 235 42 l 2
- 237 52 248 55 247 37 c 0xd0
- 246 24 245 10 245 -2 c 0xe0
- 245 -29 252 -56 289 -56 c 0
- 326 -56 347 18 356 69 c 0
- 357 76 362 80 365 80 c 0
- 368 80 370 78 369 73 c 2
- 355 -23 l 2
- 345 -86 327 -154 277 -154 c 0
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 652 -168 2
+Refer: 353 60016 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-23 100 m 1,0,1
- 32 129 32 129 66 156 c 128,-1,2
- 100 183 100 183 129.5 195.5 c 2,3,-1
- 159 208 l 1,4,-1
- 143 112 l 1,5,6
- 130 106 130 106 110 96.5 c 128,-1,7
- 90 87 90 87 52 57.5 c 128,-1,8
- 14 28 14 28 5 0 c 1,9,-1
- 23 100 l 1,0,1
-83 290 m 1,10,11
- 92 319 92 319 126 346 c 128,-1,12
- 160 373 160 373 189.5 385.5 c 2,13,-1
- 219 398 l 1,14,-1
- 203 302 l 1,15,16
- 190 296 190 296 170 286.5 c 128,-1,17
- 150 277 150 277 112 247.5 c 128,-1,18
- 74 218 74 218 65 190 c 1,19,-1
- 83 290 l 1,10,11
-268 415 m 1,20,21
- 277 444 277 444 311 471 c 128,-1,22
- 345 498 345 498 374.5 510.5 c 2,23,-1
- 404 523 l 1,24,-1
- 388 427 l 1,25,26
- 375 421 375 421 355 411.5 c 128,-1,27
- 335 402 335 402 297 372.5 c 128,-1,28
- 259 343 259 343 250 315 c 1,29,-1
- 268 415 l 1,20,21
-237 244 m 1,30,-1
- 317 119 l 1,31,-1
- 300 20 l 1,32,-1
- 220 145 l 1,33,-1
- 237 244 l 1,30,-1
-277 -154 m 0,34,35
- 216 -154 216 -154 216 -79 c 0,36,37
- 216 -57 216 -57 220 -40 c 2,38,-1
- 235 42 l 2,39,40
- 236.694 50.4722 236.694 50.4722 242.125 50 c 128,-1,41
- 247.695 49.5156 247.695 49.5156 246.348 30.2578 c 128,-1,42
- 245 11 245 11 245 -2 c 0,43,44
- 245 -56 245 -56 289.5 -56 c 128,-1,45
- 334 -56 334 -56 356 69 c 0,46,47
- 358 80 358 80 365 80 c 0,48,49
- 370 80 370 80 369 73 c 2,50,-1
- 355 -23 l 1,51,52
- 334 -154 334 -154 277 -154 c 0,34,35
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 652 -168 2
+Refer: 353 60016 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 2 0 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE93 uniEE50 uniEE55
@@ -93427,8 +92502,8 @@ Encoding: 60013 60013 475
 Width: 416
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5> 572 90<227.434 292.491>
-VStem: 183 12<451.695 483.469> 196 124<538 624.25> 295 11<498.374 526.719> 296 24<518.141 621.5>
+HStem: 596 98<220.982 312.778>
+VStem: 151 13<458.371 491.082> 313 12<538.054 558.443> 313 31<554.443 593.656>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -93555,80 +92630,11 @@ AnchorPoint: "Udarka" 109 449 basechar 0
 AnchorPoint: "Zevok" 111 449 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-266 662 m 0xf0
- 305 662 320 639 320 604 c 0xf0
- 320 594 319 583 317 571 c 2
- 306 505 l 2
- 304 496 294 493 295 509 c 0xe8
- 295 515 296 521 296 527 c 0xe4
- 296 555 288 572 255 572 c 0
- 223 572 208 516 195 460 c 0
- 192 449 181 446 183 456 c 2
- 196 543 l 2
- 204 601 221 662 266 662 c 0xf0
-23 100 m 1
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
-268 415 m 1
- 289 481 404 523 404 523 c 1
- 388 427 l 1
- 388 427 271 378 250 315 c 1
- 268 415 l 1
-EndSplineSet
-Validated: 1
+Refer: 182 61016 N 1 0 0 1 622 66 2
+Refer: 331 60011 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-296 527 m 1,0,1
- 296 572 296 572 259 572 c 0,2,3
- 240 572 240 572 225.239 549.859 c 128,-1,4
- 210.478 527.717 210.478 527.717 195 460 c 0,5,6
- 192.236 449.866 192.236 449.866 187.012 449.901 c 128,-1,7
- 181.787 449.936 181.787 449.936 183 456 c 2,8,-1
- 196 543 l 1,9,10
- 212 662 212 662 266 662 c 128,-1,11
- 320 662 320 662 320 604 c 0,12,13
- 320 589 320 589 317 571 c 2,14,-1
- 306 505 l 2,15,16
- 304.053 496.239 304.053 496.239 299.212 497.587 c 128,-1,17
- 294.371 498.935 294.371 498.935 295 509 c 2,18,-1
- 296 527 l 1,0,1
-23 100 m 1,19,20
- 32 129 32 129 66 156 c 128,-1,21
- 100 183 100 183 129.5 195.5 c 2,22,-1
- 159 208 l 1,23,-1
- 143 112 l 1,24,25
- 130 106 130 106 110 96.5 c 128,-1,26
- 90 87 90 87 52 57.5 c 128,-1,27
- 14 28 14 28 5 0 c 1,28,-1
- 23 100 l 1,19,20
-83 290 m 1,29,30
- 92 319 92 319 126 346 c 128,-1,31
- 160 373 160 373 189.5 385.5 c 2,32,-1
- 219 398 l 1,33,-1
- 203 302 l 1,34,35
- 190 296 190 296 170 286.5 c 128,-1,36
- 150 277 150 277 112 247.5 c 128,-1,37
- 74 218 74 218 65 190 c 1,38,-1
- 83 290 l 1,29,30
-268 415 m 1,39,40
- 277 444 277 444 311 471 c 128,-1,41
- 345 498 345 498 374.5 510.5 c 2,42,-1
- 404 523 l 1,43,-1
- 388 427 l 1,44,45
- 375 421 375 421 355 411.5 c 128,-1,46
- 335 402 335 402 297 372.5 c 128,-1,47
- 259 343 259 343 250 315 c 1,48,-1
- 268 415 l 1,39,40
-EndSplineSet
-Validated: 1
+Refer: 182 61016 N 1 0 0 1 622 66 2
+Refer: 331 60011 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 2 234 343
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE50 uniEE58
@@ -93641,8 +92647,8 @@ Width: 414
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5> 572 90<227.434 292.491>
-VStem: 183 12<451.695 483.469> 196 124<538 624.25> 295 11<498.225 526.719>
+HStem: 578 98<216.982 308.778>
+VStem: 147 13<440.371 473.082> 309 12<520.054 540.443> 309 31<536.443 575.656>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -93795,94 +92801,12 @@ AnchorPoint: "Shaidur" 10 187 basechar 0
 AnchorPoint: "Kupnaya" 111 450 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-266 662 m 0xf0
- 305 662 320 639 320 604 c 0xf0
- 320 594 319 583 317 571 c 2
- 306 505 l 2
- 304 496 295 493 295 509 c 0xe8
- 295 515 296 521 296 527 c 0
- 296 555 288 572 255 572 c 0
- 223 572 208 516 195 460 c 0
- 192 449 181 446 183 456 c 2
- 196 543 l 2
- 204 601 221 662 266 662 c 0xf0
-268 415 m 1
- 289 481 404 523 404 523 c 1
- 388 427 l 1
- 388 427 271 378 250 315 c 1
- 268 415 l 1
-208 225 m 1
- 229 291 344 333 344 333 c 1
- 328 237 l 1
- 328 237 211 188 190 125 c 1
- 208 225 l 1
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
-23 100 m 1
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1
-EndSplineSet
-Validated: 1
+Refer: 334 60012 N 1 0 0 1 0 0 2
+Refer: 182 61016 N 1 0 0 1 618 48 2
+Refer: 334 60012 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-296 527 m 1,0,1
- 296 572 296 572 259 572 c 0,2,3
- 240 572 240 572 225.239 549.859 c 128,-1,4
- 210.478 527.717 210.478 527.717 195 460 c 0,5,6
- 192.236 449.866 192.236 449.866 187.012 449.901 c 128,-1,7
- 181.787 449.936 181.787 449.936 183 456 c 2,8,-1
- 196 543 l 1,9,10
- 212 662 212 662 266 662 c 128,-1,11
- 320 662 320 662 320 604 c 0,12,13
- 320 589 320 589 317 571 c 2,14,-1
- 306 505 l 2,15,16
- 304.525 498.362 304.525 498.362 299.762 497.553 c 128,-1,17
- 295 496.743 295 496.743 295 509 c 2,18,-1
- 296 527 l 1,0,1
-268 415 m 1,19,20
- 277 444 277 444 311 471 c 128,-1,21
- 345 498 345 498 374.5 510.5 c 2,22,-1
- 404 523 l 1,23,-1
- 388 427 l 1,24,25
- 375 421 375 421 355 411.5 c 128,-1,26
- 335 402 335 402 297 372.5 c 128,-1,27
- 259 343 259 343 250 315 c 1,28,-1
- 268 415 l 1,19,20
-208 225 m 1,29,30
- 217 254 217 254 251 281 c 128,-1,31
- 285 308 285 308 314.5 320.5 c 2,32,-1
- 344 333 l 1,33,-1
- 328 237 l 1,34,35
- 315 231 315 231 295 221.5 c 128,-1,36
- 275 212 275 212 237 182.5 c 128,-1,37
- 199 153 199 153 190 125 c 1,38,-1
- 208 225 l 1,29,30
-83 290 m 1,39,40
- 92 319 92 319 126 346 c 128,-1,41
- 160 373 160 373 189.5 385.5 c 2,42,-1
- 219 398 l 1,43,-1
- 203 302 l 1,44,45
- 190 296 190 296 170 286.5 c 128,-1,46
- 150 277 150 277 112 247.5 c 128,-1,47
- 74 218 74 218 65 190 c 1,48,-1
- 83 290 l 1,39,40
-23 100 m 1,49,50
- 32 129 32 129 66 156 c 128,-1,51
- 100 183 100 183 129.5 195.5 c 2,52,-1
- 159 208 l 1,53,-1
- 143 112 l 1,54,55
- 130 106 130 106 110 96.5 c 128,-1,56
- 90 87 90 87 52 57.5 c 128,-1,57
- 14 28 14 28 5 0 c 1,58,-1
- 23 100 l 1,49,50
-EndSplineSet
-Validated: 1
+Refer: 182 61016 N 1 0 0 1 618 48 2
+Refer: 334 60012 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 2 225 335
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE51 uniEE58
@@ -93891,229 +92815,114 @@ EndChar
 
 StartChar: uniEA71
 Encoding: 60017 60017 477
-Width: 515
+Width: 510
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5> 164 100<386.078 466.633>
-VStem: 349 14<94.1991 127.913> 360 145<127.273 237.099> 473 12<27.3586 71.75> 476 29<63.875 149.867>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 9
- 1
- 0
-CALL
-PUSHB_1
- 38
-MDAP[rnd]
-PUSHB_5
- 47
- 10
- 0
- 20
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 57
-MDAP[rnd]
-PUSHB_1
- 45
-MDRP[rp0,rnd,white]
-PUSHB_5
- 50
- 15
- 0
- 14
- 4
-CALL
-PUSHB_1
- 43
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_5
- 41
- 12
- 0
- 125
- 4
-CALL
-PUSHB_1
- 50
-SRP0
-PUSHB_2
- 35
- 13
-MIRP[min,black]
-PUSHB_1
- 35
-MDAP[rnd]
-PUSHB_5
- 52
- 12
- 0
- 80
- 4
-CALL
-PUSHB_2
- 58
- 1
-CALL
-PUSHB_2
- 35
- 41
-SRP1
-SRP2
-PUSHB_4
- 25
- 37
- 38
- 47
-DEPTH
-SLOOP
-IP
-SVTCA[y-axis]
-PUSHB_2
- 38
- 9
-SRP1
-SRP2
-PUSHB_8
- 5
- 31
- 32
- 33
- 42
- 43
- 50
- 54
-DEPTH
-SLOOP
-IP
-PUSHB_1
- 47
-SRP1
-PUSHB_4
- 19
- 30
- 4
- 49
-DEPTH
-SLOOP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 11.6329 -5.00001 basechar 0
-AnchorPoint: "Kupnaya" 304 607.7 basechar 0
+HStem: 143 134<381.315 446.563>
+VStem: 352 10<90.8848 114.18> 453 27<14.3307 187.5>
+AnchorPoint: "Podtinka" 12 -5 basechar 0
+AnchorPoint: "Kupnaya" 304 608 basechar 0
 AnchorPoint: "Shaidur" 18 244 basechar 0
 AnchorPoint: "Borzaya" -22 34 basechar 0
-AnchorPoint: "Podvertka" 306.5 605.5 basechar 0
-AnchorPoint: "Zaderzhka" 488.496 357.305 basechar 0
-AnchorPoint: "Podchashie" 304.5 605 basechar 0
-AnchorPoint: "Oblachko" 306 604.5 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Podvertka" 306 606 basechar 0
+AnchorPoint: "Zaderzhka" 488 357 basechar 0
+AnchorPoint: "Podchashie" 304 605 basechar 0
+AnchorPoint: "Oblachko" 306 604 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Lomka" 306 605 basechar 0
 AnchorPoint: "Kachka" 306 605 basechar 0
-AnchorPoint: "Udarka" 305.5 604.5 basechar 0
+AnchorPoint: "Udarka" 306 604 basechar 0
 AnchorPoint: "Zevok" 306 605 basechar 0
-AnchorPoint: "Otsechka" 488.996 352.605 basechar 0
-AnchorPoint: "Tonal" 305 605.7 basechar 0
+AnchorPoint: "Otsechka" 489 353 basechar 0
+AnchorPoint: "Tonal" 305 606 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-23 100 m 1xc0
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1xc0
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
-268 415 m 1
- 289 481 404 523 404 523 c 1
- 388 427 l 1
- 388 427 271 378 250 315 c 1
- 268 415 l 1
-237 244 m 1
- 317 119 l 1
- 300 20 l 1
- 220 145 l 1
- 237 244 l 1
-476 86 m 0xc4
- 476 130 469 164 427 164 c 0
- 400 164 386 158 376 139 c 1
- 370 131 366 119 363 105 c 0
- 362 99 358 94 353 93 c 0
- 349 92 348 95 349 100 c 2xe4
- 360 175 l 1
- 366 227 389 264 438 264 c 0
- 485 264 505 219 505 171 c 0xd0
- 505 155 504 136 501 119 c 2
- 485 35 l 2
- 484 31 482 28 478 27 c 1
- 477 27 l 2
- 474 27 473 32 473 40 c 0xc8
- 473 56 476 72 476 86 c 0xc4
+269 442 m 1
+ 275 460 288 476 306 489 c 0
+ 324 502 340 511 355 515 c 2
+ 378 522 l 1
+ 368 398 l 1
+ 315 381 280 362 257 316 c 1
+ 269 442 l 1
+228 218 m 1
+ 309 99 l 1
+ 297 -28 l 1
+ 216 91 l 1
+ 228 218 l 1
+106 343 m 1
+ 112 361 124 377 142 390 c 0
+ 160 403 177 412 192 416 c 2
+ 215 423 l 1
+ 205 299 l 1
+ 152 282 117 263 94 217 c 1
+ 106 343 l 1
+42 87 m 1
+ 48 105 60 121 78 134 c 0
+ 96 147 113 156 128 160 c 2
+ 151 167 l 1
+ 141 43 l 1
+ 88 26 53 7 30 -39 c 1
+ 42 87 l 1
+423 277 m 0
+ 461 277 480 232 480 143 c 0
+ 480 86 473 34 460 -13 c 0
+ 459 -18 455 -20 450 -20 c 0
+ 446 -20 441 -15 442 -10 c 0
+ 449 41 453 74 453 88 c 0
+ 453 122 440 140 414 143 c 1
+ 408 143 l 2
+ 383 143 367 127 362 96 c 0
+ 361 93 354 83 352 89 c 0
+ 352 111 355 144 360 189 c 0
+ 367 248 388 277 423 277 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-23 100 m 1,0,1
- 32 129 32 129 66 156 c 128,-1,2
- 100 183 100 183 129.5 195.5 c 2,3,-1
- 159 208 l 1,4,-1
- 143 112 l 1,5,6
- 130 106 130 106 110 96.5 c 128,-1,7
- 90 87 90 87 52 57.5 c 128,-1,8
- 14 28 14 28 5 0 c 1,9,-1
- 23 100 l 1,0,1
-83 290 m 1,10,11
- 92 319 92 319 126 346 c 128,-1,12
- 160 373 160 373 189.5 385.5 c 2,13,-1
- 219 398 l 1,14,-1
- 203 302 l 1,15,16
- 190 296 190 296 170 286.5 c 128,-1,17
- 150 277 150 277 112 247.5 c 128,-1,18
- 74 218 74 218 65 190 c 1,19,-1
- 83 290 l 1,10,11
-268 415 m 1,20,21
- 277 444 277 444 311 471 c 128,-1,22
- 345 498 345 498 374.5 510.5 c 2,23,-1
- 404 523 l 1,24,-1
- 388 427 l 1,25,26
- 375 421 375 421 355 411.5 c 128,-1,27
- 335 402 335 402 297 372.5 c 128,-1,28
- 259 343 259 343 250 315 c 1,29,-1
- 268 415 l 1,20,21
-237 244 m 1,30,-1
- 317 119 l 1,31,-1
- 300 20 l 1,32,-1
- 220 145 l 1,33,-1
- 237 244 l 1,30,-1
-473 40 m 2,34,-1
- 476 86 l 1,35,36
- 476 124 476 124 466 144 c 128,-1,37
- 456 164 456 164 422.5 164 c 128,-1,38
- 389 164 389 164 376 139 c 1,39,40
- 368 128 368 128 364.5 111.5 c 128,-1,41
- 361 95 361 95 354.698 93.2326 c 128,-1,42
- 348.396 91.4652 348.396 91.4652 348.396 94.5237 c 128,-1,43
- 348.396 97.5822 348.396 97.5822 349 100 c 2,44,-1
- 360 175 l 1,45,46
- 370 264 370 264 438 264 c 0,47,48
- 471 264 471 264 488 237 c 128,-1,49
- 505 210 505 210 505 176 c 128,-1,50
- 505 142 505 142 501 119 c 2,51,-1
- 485 35 l 2,52,53
- 483 28 483 28 478 27 c 1,54,-1
- 477 27 l 2,55,56
- 473 27 473 27 473 40 c 2,34,-1
+269 442 m 1,0,1
+ 278 469 278 469 305.5 489 c 128,-1,2
+ 333 509 333 509 355 515 c 2,3,-1
+ 378 522 l 1,4,-1
+ 368 398 l 1,5,6
+ 328 385 328 385 301 367.5 c 128,-1,7
+ 274 350 274 350 257 316 c 1,8,-1
+ 269 442 l 1,0,1
+228 218 m 1,9,-1
+ 309 99 l 1,10,-1
+ 297 -28 l 1,11,-1
+ 216 91 l 1,12,-1
+ 228 218 l 1,9,-1
+106 343 m 1,13,14
+ 115 370 115 370 142.5 390 c 128,-1,15
+ 170 410 170 410 192 416 c 2,16,-1
+ 215 423 l 1,17,-1
+ 205 299 l 1,18,19
+ 165 286 165 286 138 268.5 c 128,-1,20
+ 111 251 111 251 94 217 c 1,21,-1
+ 106 343 l 1,13,14
+42 87 m 1,22,23
+ 51 114 51 114 78.5 134 c 128,-1,24
+ 106 154 106 154 128 160 c 2,25,-1
+ 151 167 l 1,26,-1
+ 141 43 l 1,27,28
+ 101 30 101 30 74 12.5 c 128,-1,29
+ 47 -5 47 -5 30 -39 c 1,30,-1
+ 42 87 l 1,22,23
+423 277 m 0,31,32
+ 480 277 480 277 480 143 c 0,33,34
+ 480 57 480 57 460 -13 c 0,35,36
+ 458 -20 458 -20 450 -20 c 0,37,38
+ 448 -20 448 -20 444.5 -17.5 c 128,-1,39
+ 441 -15 441 -15 442 -10 c 0,40,41
+ 453 67 453 67 453 88 c 0,42,43
+ 453 139 453 139 414 143 c 1,44,-1
+ 408 143 l 2,45,46
+ 370 143 370 143 362 96 c 0,47,48
+ 361 90 361 90 357 88 c 128,-1,49
+ 353 86 353 86 352 89 c 0,50,51
+ 352 122 352 122 360 189 c 0,52,53
+ 371 277 371 277 423 277 c 0,31,32
 EndSplineSet
-Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 235
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE94 uniEE50
@@ -96404,11 +95213,11 @@ EndChar
 
 StartChar: uniEE87EE55
 Encoding: 60007 60007 534
-Width: 395
+Width: 431
 GlyphClass: 3
 Flags: W
-HStem: -4 98<274.18 341.01>
-VStem: 239 29<50 166.75> 258 12<153.733 199.68>
+HStem: -4 94<294.335 366.663> 1 247
+VStem: 18 221 259 31<44 147.966> 403 10<174.868 198.647>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -96496,58 +95305,11 @@ AnchorPoint: "Tonal" 211.996 360.624 basechar 0
 AnchorPoint: "Otsechka" 451 12 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-35 224 m 1x80
- 115 99 l 1
- 98 0 l 1
- 18 125 l 1
- 35 224 l 1x80
-140 224 m 1
- 220 99 l 1
- 203 0 l 1
- 123 125 l 1
- 140 224 l 1
-300 -4 m 0
- 256 -4 239 29 239 71 c 0xc0
- 239 83 240 97 243 110 c 2
- 258 192 l 2
- 260 202 271 205 270 187 c 0xa0
- 269 174 268 160 268 148 c 0xc0
- 268 121 275 94 312 94 c 0
- 349 94 370 168 379 219 c 0
- 380 226 385 230 388 230 c 0
- 391 230 393 228 392 223 c 2
- 378 127 l 2
- 368 64 350 -4 300 -4 c 0
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 700 0 2
+Refer: 195 61063 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-35 224 m 1,0,-1
- 115 99 l 1,1,-1
- 98 0 l 1,2,-1
- 18 125 l 1,3,-1
- 35 224 l 1,0,-1
-140 224 m 1,4,-1
- 220 99 l 1,5,-1
- 203 0 l 1,6,-1
- 123 125 l 1,7,-1
- 140 224 l 1,4,-1
-300 -4 m 0,8,9
- 239 -4 239 -4 239 71 c 0,10,11
- 239 93 239 93 243 110 c 2,12,-1
- 258 192 l 2,13,14
- 259.694 200.472 259.694 200.472 265.125 200 c 128,-1,15
- 270.695 199.516 270.695 199.516 269.348 180.258 c 128,-1,16
- 268 161 268 161 268 148 c 0,17,18
- 268 94 268 94 312.5 94 c 128,-1,19
- 357 94 357 94 379 219 c 0,20,21
- 381 230 381 230 388 230 c 0,22,23
- 393 230 393 230 392 223 c 2,24,-1
- 378 127 l 1,25,26
- 357 -4 357 -4 300 -4 c 0,8,9
-EndSplineSet
-Validated: 1
+Refer: 180 61013 N 1 0 0 1 700 0 2
+Refer: 195 61063 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uniEE55
@@ -96556,11 +95318,11 @@ EndChar
 
 StartChar: uniEE87EE8D
 Encoding: 60010 60010 535
-Width: 420
+Width: 440
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<84.2 100.434 189.2 205.434 329.863 363.434> 443 97<279.744 356.394>
-VStem: 243 14<373.872 406.719> 253 143<401.2 511.874> 365 31<337.25 430.08>
+HStem: 0 21G<349.863 383.434> 1 247 421 98<309.015 386.52>
+VStem: 18 221 273 13<353.076 383.491> 283 142<380.9 491.055> 394 12<287.182 333.8> 397 28<323.802 446.5>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -96697,80 +95459,11 @@ AnchorPoint: "Tonal" 320 684 basechar 0
 AnchorPoint: "Otsechka" 319 684 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-369 308 m 0xd0
- 364 308 365 314 365 321 c 0
- 365 337 367 353 367 368 c 0
- 367 409 358 443 314 443 c 0
- 277 443 264 416 257 384 c 0
- 255 378 252 374 248 373 c 0
- 244 372 242 374 243 379 c 2xe8
- 253 453 l 2
- 260 502 282 540 331 540 c 0
- 379 540 396 493 396 443 c 0
- 396 428 394 412 391 398 c 2
- 377 317 l 2
- 376 313 373 308 369 308 c 0xd0
-267 172 m 1
- 377 99 l 1
- 360 0 l 1
- 250 73 l 1
- 267 172 l 1
-267 327 m 1
- 377 254 l 1
- 360 155 l 1
- 250 228 l 1
- 267 327 l 1
-114 99 m 1
- 97 0 l 1
- 17 125 l 1
- 34 224 l 1
- 114 99 l 1
-219 99 m 1
- 202 0 l 1
- 122 125 l 1
- 139 224 l 1
- 219 99 l 1
-EndSplineSet
-Validated: 1
+Refer: 469 60242 N 1 0 0 1 247 0 2
+Refer: 195 61063 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-365 321 m 2,0,-1
- 367 368 l 1,1,2
- 367 443 367 443 314 443 c 0,3,4
- 270 443 270 443 257 384 c 0,5,6
- 254 374 254 374 248 373 c 0,7,8
- 240.909 370.636 240.909 370.636 243 379 c 2,9,-1
- 253 453 l 2,10,11
- 265 540 265 540 331 540 c 0,12,13
- 365 540 365 540 380.5 512.5 c 128,-1,14
- 396 485 396 485 396 453 c 128,-1,15
- 396 421 396 421 391 398 c 1,16,-1
- 377 317 l 2,17,18
- 375 308 375 308 369 308 c 0,19,20
- 365 308 365 308 365 321 c 2,0,-1
-267 172 m 1,21,-1
- 377 99 l 1,22,-1
- 360 0 l 1,23,-1
- 250 73 l 1,24,-1
- 267 172 l 1,21,-1
-267 327 m 1,25,-1
- 377 254 l 1,26,-1
- 360 155 l 1,27,-1
- 250 228 l 1,28,-1
- 267 327 l 1,25,-1
-114 99 m 1,29,-1
- 97 0 l 1,30,-1
- 17 125 l 1,31,-1
- 34 224 l 1,32,-1
- 114 99 l 1,29,-1
-219 99 m 1,33,-1
- 202 0 l 1,34,-1
- 122 125 l 1,35,-1
- 139 224 l 1,36,-1
- 219 99 l 1,33,-1
-EndSplineSet
-Validated: 1
+Refer: 469 60242 N 1 0 0 1 247 0 2
+Refer: 195 61063 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uniEE8D
@@ -96779,11 +95472,10 @@ EndChar
 
 StartChar: uniEA6A
 Encoding: 60009 60009 536
-Width: 479
+Width: 490
 Flags: W
-HStem: 0 21G<80.2 96.4343 185.2 201.434> 299 93<139.463 237.894> 440 20G<394 417.045>
-VStem: 94 17<237.564 263.571> 261 28<84.7578 263.997>
-DStem2: 355 60 379 70 0.102029 0.994781<12.3965 138.708 270.81 391.944>
+HStem: 1 21G<80.5 95.875 208.5 223.875> 329 126<159.921 246.035>
+VStem: 114 18<269.004 304.991> 276 18<78.0371 125.626> 276 40<93.6047 293.01> 337 137
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -97057,89 +95749,11 @@ AnchorPoint: "Podvertka" 200.5 477.5 basechar 0
 AnchorPoint: "Shaidur" 26 318 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-289 251 m 0
- 289 184 279 95 266 35 c 0
- 264 28 262 21 255 21 c 0
- 249 21 247 27 248 35 c 2
- 255 91 l 2
- 259 120 261 149 261 174 c 0
- 261 247 251 299 183 299 c 0
- 135 299 125 280 111 248 c 0
- 108 241 104 237 100 237 c 0
- 97 237 93 241 94 248 c 0
- 98 300 116 392 195 392 c 0
- 277 392 289 321 289 251 c 0
-328 253 m 1
- 337 272 358 292 380 308 c 1
- 394 450 l 1
- 419 460 l 1
- 406 327 l 1
- 434 346 469 364 469 364 c 1
- 453 250 l 1
- 453 250 422 233 395 216 c 1
- 379 70 l 1
- 355 60 l 1
- 369 198 l 1
- 345 180 322 158 310 135 c 1
- 328 253 l 1
-30 224 m 1
- 110 99 l 1
- 93 0 l 1
- 13 125 l 1
- 30 224 l 1
-135 224 m 1
- 215 99 l 1
- 198 0 l 1
- 118 125 l 1
- 135 224 l 1
-EndSplineSet
-Validated: 1
+Refer: 900 61024 N 1 0 0 1 486 19 2
+Refer: 240 61064 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-289 251 m 0,0,1
- 289 141 289 141 266 35 c 0,2,3
- 262 21 262 21 255 21 c 0,4,5
- 246 21 246 21 248 35 c 2,6,-1
- 255 91 l 2,7,8
- 261 135 261 135 261 186 c 128,-1,9
- 261 237 261 237 245.5 268 c 128,-1,10
- 230 299 230 299 190 299 c 128,-1,11
- 150 299 150 299 136.5 287.5 c 128,-1,12
- 123 276 123 276 114.5 256.5 c 128,-1,13
- 106 237 106 237 100 237 c 128,-1,14
- 94.1703 237 94.1703 237 94.1703 250.566 c 128,-1,15
- 94.1703 264.132 94.1703 264.132 101 293.5 c 0,16,17
- 115.423 355.519 115.423 355.519 146.5 377.5 c 0,18,19
- 167 392 167 392 200.5 392 c 128,-1,20
- 234 392 234 392 255.5 370 c 128,-1,21
- 277 348 277 348 283 320 c 128,-1,22
- 289 292 289 292 289 251 c 0,0,1
-328 253 m 1,23,24
- 340 279 340 279 380 308 c 1,25,-1
- 394 450 l 1,26,-1
- 419 460 l 1,27,-1
- 406 327 l 1,28,-1
- 469 364 l 1,29,-1
- 453 250 l 1,30,31
- 422 233 422 233 395 216 c 1,32,-1
- 379 70 l 1,33,-1
- 355 60 l 1,34,-1
- 369 198 l 1,35,36
- 326 166 326 166 310 135 c 1,37,-1
- 328 253 l 1,23,24
-30 224 m 1,38,-1
- 110 99 l 1,39,-1
- 93 0 l 1,40,-1
- 13 125 l 1,41,-1
- 30 224 l 1,38,-1
-135 224 m 1,42,-1
- 215 99 l 1,43,-1
- 198 0 l 1,44,-1
- 118 125 l 1,45,-1
- 135 224 l 1,42,-1
-EndSplineSet
-Validated: 1
+Refer: 900 61024 N 1 0 0 1 486 19 2
+Refer: 240 61064 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: 4cff40
 EndChar
@@ -105865,2880 +104479,246 @@ Width: 800
 VWidth: 999
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<34.9677 52.779 757 779> 460 98<671.698 743.094>
-VStem: 94 18<602 620> 757 22<0 434.74>
-DStem2: 33 0 62 100 0.0979143 0.995195<102.359 622.994> 233 279 212 181 0.859456 0.511209<-143.168 503.142>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 18
- 1
- 0
-CALL
-PUSHB_1
- 7
-SHP[rp1]
-PUSHB_3
- 11
- 2
- 0
-CALL
-PUSHB_5
- 3
- 10
- 0
- 21
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 24
-MDAP[rnd]
-PUSHB_1
- 8
-MDRP[rp0,rnd,white]
-PUSHB_2
- 7
- 12
-MIRP[min,black]
-PUSHB_2
- 25
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 18
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 19
-MDRP[grey]
-PUSHB_2
- 17
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 20
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 0
-SRP0
-PUSHB_1
- 1
-MDRP[grey]
-PUSHB_2
- 14
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 12
-MDRP[grey]
-PUSHB_4
- 13
- 14
- 12
- 19
-CALL
-PUSHW_3
- 16297
- -1682
- 21
-CALL
-SFVFS
-PUSHB_1
- 17
-SRP0
-PUSHB_4
- 21
- 17
- 20
- 19
-CALL
-PUSHB_3
- 21
- 17
- 20
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 13
- 14
- 12
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-NPUSHB
- 9
- 0
- 1
- 12
- 13
- 14
- 17
- 19
- 20
- 21
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 10
- 0
- 1
- 12
- 13
- 14
- 17
- 18
- 19
- 20
- 21
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 3
- 11
-SRP1
-SRP2
-PUSHB_1
- 6
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: 0 21G<36.0417 51.0833> 450 126<483.474 547.192>
+VStem: 529 22<104 171.75>
 AnchorPoint: "Podtinka" 48 0 basechar 0
-AnchorPoint: "Zevok" 864 646 basechar 0
-AnchorPoint: "Udarka" 676 178 basechar 0
+AnchorPoint: "Zevok" 656 574 basechar 0
+AnchorPoint: "Udarka" 649 178 basechar 0
 AnchorPoint: "Kupnaya" 423 -108 basechar 0
-AnchorPoint: "Kachka" 349 556 basechar 0
-AnchorPoint: "Lomka" 676 180 basechar 0
+AnchorPoint: "Kachka" 301 554 basechar 0
+AnchorPoint: "Lomka" 649 180 basechar 0
 AnchorPoint: "Tikhaya" 97 260 basechar 0
-AnchorPoint: "Oblachko" 723 645 basechar 0
+AnchorPoint: "Oblachko" 299 631 basechar 0
 AnchorPoint: "Podchashie" 453 214 basechar 0
-AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
-AnchorPoint: "Tonal" 336 433 basechar 0
-AnchorPoint: "Podvertka" 865.996 408.566 basechar 0
-AnchorPoint: "Borzaya" 677 178 basechar 0
-AnchorPoint: "Otsechka" 855 2 basechar 0
+AnchorPoint: "Zaderzhka" 661 476 basechar 0
+AnchorPoint: "Tonal" 298 553 basechar 0
+AnchorPoint: "Podvertka" 658 401 basechar 0
+AnchorPoint: "Borzaya" 647 178 basechar 0
+AnchorPoint: "Otsechka" 647 180 basechar 0
 AnchorPoint: "Shaidur" 15 342 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-233 279 m 2
- 618 508 l 1
- 618 508 705 558 729 558 c 0
- 748 558 772 522 779 508 c 1
- 779 0 l 1
- 757 0 l 1
- 757 419 l 1
- 747 435 728 460 712 460 c 0
- 687 460 597 410 597 410 c 1
- 212 181 l 2
- 91 109 33 0 33 0 c 1
- 94 620 l 1
- 112 620 l 1
- 62 100 l 1
- 85 169 174 244 233 279 c 2
+523 576 m 0
+ 536 576 551 566 570 545 c 0
+ 588.05 525.05 597.075 508.71 597.075 494.26525 c 0
+ 597.075 493.505 597.05 492.75 597 492 c 1
+ 579 375 l 1
+ 551 104 l 1
+ 529 104 l 1
+ 561 415 l 1
+ 540 436 525 447 514 450 c 1
+ 499 450 473 436 434 407 c 0
+ 348 343 228 223 75 48 c 1
+ 34 0 l 1
+ 83 480 l 1
+ 109 496 l 1
+ 74 162 l 1
+ 173 283 285 395 410 498 c 0
+ 473 550 510 576 523 576 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-233 279 m 2,0,-1
- 618 508 l 1,1,2
- 705 558 705 558 729 558 c 0,3,4
- 742 558 742 558 756.5 540.5 c 128,-1,5
- 771 523 771 523 779 508 c 1,6,-1
- 779 0 l 1,7,-1
- 757 0 l 1,8,-1
- 757 419 l 1,9,10
- 731 460 731 460 710 460 c 128,-1,11
- 689 460 689 460 620 422.5 c 2,12,-1
- 597 410 l 1,13,-1
- 212 181 l 2,14,15
- 158 149 158 149 113.5 103.5 c 128,-1,16
- 69 58 69 58 51 29 c 2,17,-1
- 33 0 l 1,18,-1
- 94 620 l 1,19,-1
- 112 620 l 1,20,-1
- 62 100 l 1,21,22
- 78 147 78 147 129.5 197.5 c 128,-1,23
- 181 248 181 248 233 279 c 2,0,-1
+523 576 m 128,-1,1
+ 542 576 542 576 570 545 c 128,-1,2
+ 598 514 598 514 597 492 c 1,3,-1
+ 579 375 l 1,4,-1
+ 551 104 l 1,5,-1
+ 529 104 l 1,6,-1
+ 561 415 l 1,7,8
+ 530 447 530 447 514 451 c 1,9,10
+ 492 451 492 451 434 407 c 0,11,12
+ 305 311 305 311 75 48 c 1,13,-1
+ 34 0 l 1,14,-1
+ 83 480 l 1,15,-1
+ 109 496 l 1,16,-1
+ 74 162 l 1,17,18
+ 222 344 222 344 410 498 c 0,19,0
+ 504 576 504 576 523 576 c 128,-1,1
 EndSplineSet
-Validated: 1
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE70 uniEE5D
 Colour: ffa600
 EndChar
 
-StartChar: uniEB61
-Encoding: 60257 60257 618
-Width: 1470
-VWidth: 999
-GlyphClass: 3
-Flags: W
-HStem: 0 21G<34.9677 52.779 712.024 729.779> 460 98<671.698 742.794 1348.7 1420.06>
-VStem: 94 18<602 620>
-DStem2: 33 0 62 100 0.0979143 0.995195<102.359 622.994> 233 279 212 181 0.859456 0.511209<-143.168 503.142> 710 0 739 100 0.100663 0.994921<102.411 437.024> 910 279 889 181 0.859456 0.511209<-143.168 503.142>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 39
- 1
- 0
-CALL
-PUSHB_1
- 28
-SHP[rp1]
-PUSHB_3
- 31
- 2
- 0
-CALL
-PUSHB_1
- 20
-SHP[rp1]
-PUSHB_5
- 3
- 10
- 0
- 21
- 4
-CALL
-PUSHB_1
- 13
-SHP[rp2]
-SVTCA[x-axis]
-PUSHB_1
- 45
-MDAP[rnd]
-PUSHB_2
- 46
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 39
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 40
-MDRP[grey]
-PUSHB_2
- 38
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 41
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 0
-SRP0
-PUSHB_1
- 1
-MDRP[grey]
-PUSHB_2
- 35
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 33
-MDRP[grey]
-PUSHW_3
- 16301
- -1649
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 28
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 29
-MDRP[grey]
-PUSHB_2
- 27
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 6
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 10
-SRP0
-PUSHB_1
- 11
-MDRP[grey]
-PUSHB_2
- 24
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 22
-MDRP[grey]
-PUSHW_3
- 16292
- -1736
- 21
-CALL
-SFVFS
-PUSHB_1
- 27
-SRP0
-PUSHB_4
- 7
- 27
- 6
- 19
-CALL
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 24
-SRP0
-PUSHB_4
- 23
- 24
- 22
- 19
-CALL
-PUSHB_1
- 35
-SRP0
-PUSHB_4
- 34
- 35
- 33
- 19
-CALL
-PUSHW_3
- 16297
- -1682
- 21
-CALL
-SFVFS
-PUSHB_1
- 38
-SRP0
-PUSHB_4
- 42
- 38
- 41
- 19
-CALL
-PUSHB_3
- 42
- 38
- 41
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 34
- 35
- 33
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 7
- 27
- 6
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 23
- 24
- 22
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-NPUSHB
- 18
- 0
- 1
- 6
- 7
- 10
- 11
- 22
- 23
- 24
- 27
- 29
- 33
- 34
- 35
- 38
- 40
- 41
- 42
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 20
- 0
- 1
- 6
- 7
- 10
- 11
- 22
- 23
- 24
- 27
- 28
- 29
- 33
- 34
- 35
- 38
- 39
- 40
- 41
- 42
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 31
- 39
-SRP1
-SRP2
-PUSHB_1
- 17
-IP
-PUSHB_1
- 3
-SRP1
-PUSHB_1
- 16
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 48 0 basechar 0
-AnchorPoint: "Zevok" 1486 670 basechar 0
-AnchorPoint: "Udarka" 1443 206 basechar 0
-AnchorPoint: "Kupnaya" 423 -108 basechar 0
-AnchorPoint: "Kachka" 349 556 basechar 0
-AnchorPoint: "Lomka" 1298 204 basechar 0
-AnchorPoint: "Tikhaya" 97 260 basechar 0
-AnchorPoint: "Oblachko" 1345 669 basechar 0
-AnchorPoint: "Podchashie" 453 214 basechar 0
-AnchorPoint: "Zaderzhka" 1491 507.9 basechar 0
-AnchorPoint: "Tonal" 1038 475 basechar 0
-AnchorPoint: "Podvertka" 1385 372 basechar 0
-AnchorPoint: "Borzaya" 1449 28 basechar 0
-AnchorPoint: "Otsechka" 1445 332 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
-LayerCount: 3
-Fore
-SplineSet
-233 279 m 2
- 618 508 l 1
- 618 508 705 558 729 558 c 0
- 748 558 772 522 779 508 c 1
- 739 100 l 1
- 762 169 851 244 910 279 c 2
- 1295 508 l 1
- 1295 508 1382 558 1406 558 c 0
- 1425 558 1449 522 1456 508 c 1
- 1439 410 l 1
- 1432 424 1408 460 1389 460 c 0
- 1364 460 1274 410 1274 410 c 1
- 889 181 l 2
- 768 109 710 0 710 0 c 1
- 753 425 l 1
- 742 441 726 460 712 460 c 0
- 687 460 597 410 597 410 c 1
- 212 181 l 2
- 91 109 33 0 33 0 c 1
- 94 620 l 1
- 112 620 l 1
- 62 100 l 1
- 85 169 174 244 233 279 c 2
-EndSplineSet
-Validated: 1
-Layer: 2
-SplineSet
-233 279 m 2,0,-1
- 618 508 l 1,1,2
- 705 558 705 558 729 558 c 0,3,4
- 742 558 742 558 756.5 540.5 c 128,-1,5
- 771 523 771 523 779 508 c 1,6,-1
- 739 100 l 1,7,8
- 755 147 755 147 806.5 197.5 c 128,-1,9
- 858 248 858 248 910 279 c 2,10,-1
- 1295 508 l 1,11,12
- 1382 558 1382 558 1406 558 c 0,13,14
- 1419 558 1419 558 1433.5 540.5 c 128,-1,15
- 1448 523 1448 523 1456 508 c 1,16,-1
- 1439 410 l 1,17,18
- 1431 425 1431 425 1416.5 442.5 c 128,-1,19
- 1402 460 1402 460 1390 460 c 0,20,21
- 1366 460 1366 460 1297 422.5 c 2,22,-1
- 1274 410 l 1,23,-1
- 889 181 l 2,24,25
- 835 149 835 149 790.5 104 c 128,-1,26
- 746 59 746 59 728 29.5 c 2,27,-1
- 710 0 l 1,28,-1
- 753 425 l 1,29,30
- 729 460 729 460 715 460 c 0,31,32
- 689 460 689 460 620 422.5 c 2,33,-1
- 597 410 l 1,34,-1
- 212 181 l 2,35,36
- 158 149 158 149 113.5 103.5 c 128,-1,37
- 69 58 69 58 51 29 c 2,38,-1
- 33 0 l 1,39,-1
- 94 620 l 1,40,-1
- 112 620 l 1,41,-1
- 62 100 l 1,42,43
- 78 147 78 147 129.5 197.5 c 128,-1,44
- 181 248 181 248 233 279 c 2,0,-1
-EndSplineSet
-Validated: 1
-LCarets2: 2 0 0
-Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE70 uni200D uniEE70
-Colour: ffa600
-EndChar
-
-StartChar: uniEB62
-Encoding: 60258 60258 619
-Width: 870
-VWidth: 999
-GlyphClass: 3
-Flags: W
-HStem: 0 21G<34.9677 52.779 707.311 715.5> 460 98<671.698 743.045>
-VStem: 94 18<602 620>
-DStem2: 33 0 62 100 0.0979143 0.995195<102.359 622.994> 233 279 212 181 0.859456 0.511209<-143.168 503.142> 705 0 733 99 0.114802 0.993388<101.56 435.248>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 26
- 1
- 0
-CALL
-PUSHB_1
- 15
-SHP[rp1]
-PUSHB_3
- 18
- 2
- 0
-CALL
-PUSHB_5
- 3
- 10
- 0
- 21
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 32
-MDAP[rnd]
-PUSHB_2
- 33
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 26
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 27
-MDRP[grey]
-PUSHB_2
- 25
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 28
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 0
-SRP0
-PUSHB_1
- 1
-MDRP[grey]
-PUSHB_2
- 22
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 20
-MDRP[grey]
-PUSHW_3
- 16276
- -1881
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 15
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 16
-MDRP[grey]
-PUSHB_2
- 6
- 38
-MIRP[rp0,min,black]
-PUSHB_1
- 5
-MDRP[grey]
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 22
-SRP0
-PUSHB_4
- 21
- 22
- 20
- 19
-CALL
-PUSHW_3
- 16297
- -1682
- 21
-CALL
-SFVFS
-PUSHB_1
- 25
-SRP0
-PUSHB_4
- 29
- 25
- 28
- 19
-CALL
-PUSHB_3
- 29
- 25
- 28
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 21
- 22
- 20
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-NPUSHB
- 12
- 0
- 1
- 5
- 6
- 16
- 20
- 21
- 22
- 25
- 27
- 28
- 29
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 14
- 0
- 1
- 5
- 6
- 15
- 16
- 20
- 21
- 22
- 25
- 26
- 27
- 28
- 29
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 18
- 26
-SRP1
-SRP2
-PUSHB_1
- 10
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 48 0 basechar 0
-AnchorPoint: "Zevok" 864 646 basechar 0
-AnchorPoint: "Udarka" 863 366 basechar 0
-AnchorPoint: "Kupnaya" 423 -108 basechar 0
-AnchorPoint: "Kachka" 349 556 basechar 0
-AnchorPoint: "Lomka" 864 366 basechar 0
-AnchorPoint: "Tikhaya" 97 260 basechar 0
-AnchorPoint: "Oblachko" 723 645 basechar 0
-AnchorPoint: "Podchashie" 453 214 basechar 0
-AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
-AnchorPoint: "Tonal" 336 433 basechar 0
-AnchorPoint: "Podvertka" 876 62 basechar 0
-AnchorPoint: "Borzaya" 863 294 basechar 0
-AnchorPoint: "Otsechka" 905 64 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
-LayerCount: 3
-Fore
-SplineSet
-233 279 m 2
- 618 508 l 1
- 618 508 705 558 729 558 c 0
- 748 558 763 541 771 526 c 2
- 780 509 l 1
- 733 99 l 1
- 754 165 859 207 859 207 c 1
- 845 114 l 1
- 845 114 726 63 705 0 c 1
- 754 424 l 1
- 743 440 726 460 712 460 c 0
- 687 460 597 410 597 410 c 1
- 212 181 l 2
- 91 109 33 0 33 0 c 1
- 94 620 l 1
- 112 620 l 1
- 62 100 l 1
- 85 169 174 244 233 279 c 2
-EndSplineSet
-Validated: 1
-Layer: 2
-SplineSet
-233 279 m 2,0,-1
- 618 508 l 1,1,2
- 705 558 705 558 729.5 558 c 128,-1,3
- 754 558 754 558 771 526 c 2,4,-1
- 780 509 l 1,5,-1
- 733 99 l 1,6,7
- 742 128 742 128 773.5 155 c 128,-1,8
- 805 182 805 182 832 194.5 c 2,9,-1
- 859 207 l 1,10,-1
- 845 114 l 1,11,12
- 832 108 832 108 811.5 98 c 128,-1,13
- 791 88 791 88 752.5 58 c 128,-1,14
- 714 28 714 28 705 0 c 1,15,-1
- 754 424 l 1,16,17
- 729 460 729 460 715 460 c 0,18,19
- 689 460 689 460 620 422.5 c 2,20,-1
- 597 410 l 1,21,-1
- 212 181 l 2,22,23
- 158 149 158 149 113.5 103.5 c 128,-1,24
- 69 58 69 58 51 29 c 2,25,-1
- 33 0 l 1,26,-1
- 94 620 l 1,27,-1
- 112 620 l 1,28,-1
- 62 100 l 1,29,30
- 78 147 78 147 129.5 197.5 c 128,-1,31
- 181 248 181 248 233 279 c 2,0,-1
-EndSplineSet
-Validated: 1
-LCarets2: 2 0 0
-Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE70 uni200D uniEE75
-Colour: ffa600
-EndChar
-
 StartChar: uniEB63
-Encoding: 60259 60259 620
-Width: 836
+Encoding: 60259 60259 618
+Width: 640
 VWidth: 999
 Flags: W
-HStem: 0 21G<34.9677 52.779 711 731.836> 227 95<759.547 811> 460 98<671.872 741.94>
-VStem: 94 18<602 620> 711 19<0 19>
-DStem2: 33 0 62 100 0.0979143 0.995195<102.359 622.994> 233 279 212 181 0.859456 0.511209<-143.168 503.142> 711 0 730 0 0.0953579 0.995443<1.8118 200.9 303.115 437.659>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 32
- 1
- 0
-CALL
-PUSHB_2
- 11
- 12
-SHP[rp1]
-SHP[rp1]
-PUSHB_3
- 24
- 2
- 0
-CALL
-PUSHB_5
- 41
- 10
- 0
- 21
- 4
-CALL
-PUSHB_5
- 8
- 7
- 32
- 41
- 13
-CALL
-PUSHB_5
- 8
- 10
- 0
- 21
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 43
-MDAP[rnd]
-PUSHB_2
- 44
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 32
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 33
-MDRP[grey]
-PUSHB_2
- 31
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 34
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 38
-SRP0
-PUSHB_1
- 39
-MDRP[grey]
-PUSHB_2
- 28
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 26
-MDRP[grey]
-PUSHW_3
- 16309
- -1562
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 12
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 21
-MDRP[grey]
-SFVTCA[x-axis]
-PUSHB_2
- 11
- 7
-MIRP[rp0,min,black]
-SFVTPV
-PUSHB_1
- 4
-MDRP[grey]
-PUSHB_4
- 2
- 11
- 4
- 19
-CALL
-PUSHB_4
- 5
- 11
- 4
- 19
-CALL
-PUSHB_4
- 10
- 11
- 4
- 19
-CALL
-PUSHB_1
- 12
-SRP0
-PUSHB_4
- 13
- 12
- 21
- 19
-CALL
-PUSHB_4
- 20
- 12
- 21
- 19
-CALL
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 28
-SRP0
-PUSHB_4
- 27
- 28
- 26
- 19
-CALL
-PUSHW_3
- 16297
- -1682
- 21
-CALL
-SFVFS
-PUSHB_1
- 31
-SRP0
-PUSHB_4
- 35
- 31
- 34
- 19
-CALL
-PUSHB_3
- 35
- 31
- 34
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 27
- 28
- 26
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 13
- 12
- 21
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_1
- 20
-IP
-PUSHB_3
- 10
- 11
- 4
-SRP1
-SRP2
-IP
-PUSHB_1
- 5
-IP
-PUSHB_1
- 2
-IP
-SVTCA[y-axis]
-NPUSHB
- 16
- 2
- 4
- 5
- 10
- 13
- 20
- 21
- 26
- 27
- 28
- 31
- 33
- 34
- 35
- 38
- 39
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 19
- 2
- 4
- 5
- 10
- 11
- 12
- 13
- 20
- 21
- 26
- 27
- 28
- 31
- 32
- 33
- 34
- 35
- 38
- 39
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 8
- 32
-SRP1
-SRP2
-PUSHB_1
- 15
-IP
-PUSHB_1
- 7
-SRP1
-PUSHB_1
- 18
-IP
-PUSHB_2
- 41
- 24
-SRP1
-SRP2
-PUSHB_1
- 0
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Otsechka" 844 -2 basechar 0
-AnchorPoint: "Podvertka" 346 556 basechar 0
+HStem: 0 21G<36.0417 51.0833> 450 126<483.474 547.192>
+AnchorPoint: "Otsechka" 639 458 basechar 0
+AnchorPoint: "Podvertka" 536 6 basechar 0
 AnchorPoint: "Lomka" 604 176 basechar 0
 AnchorPoint: "Podtinka" 48 0 basechar 0
-AnchorPoint: "Zevok" 864 646 basechar 0
+AnchorPoint: "Zevok" 644 600 basechar 0
 AnchorPoint: "Udarka" 605 180 basechar 0
 AnchorPoint: "Kupnaya" 423 -108 basechar 0
-AnchorPoint: "Kachka" 349 556 basechar 0
+AnchorPoint: "Kachka" 283 526 basechar 0
 AnchorPoint: "Tikhaya" 97 260 basechar 0
-AnchorPoint: "Oblachko" 723 645 basechar 0
+AnchorPoint: "Oblachko" 287 627 basechar 0
 AnchorPoint: "Podchashie" 453 214 basechar 0
-AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
-AnchorPoint: "Tonal" 336 433 basechar 0
+AnchorPoint: "Zaderzhka" 639 180 basechar 0
+AnchorPoint: "Tonal" 284 529 basechar 0
 AnchorPoint: "Borzaya" 603 178 basechar 0
 AnchorPoint: "Shaidur" 15 342 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-779 509 m 5
- 779 508 l 5
- 769 402 l 5
- 769 402 769 403 768 403 c 6
- 758 300 l 5
- 791 314 824 322 824 322 c 5
- 811 227 l 5
- 811 227 781 220 749 207 c 5
- 730 0 l 5
- 711 0 l 5
- 730 200 l 5
- 706 189 683 175 672 155 c 5
- 687 253 l 5
- 695 278 716 284 739 295 c 5
- 752 428 l 5
- 740 444 718 455 712 460 c 5
- 687 460 597 410 597 410 c 1
- 212 181 l 2
- 91 109 33 0 33 0 c 1
- 94 620 l 1
- 112 620 l 1
- 62 100 l 1
- 85 169 174 244 233 279 c 2
- 618 508 l 1
- 618 508 705 558 729 558 c 4
- 748 558 765 541 773 526 c 5
- 779 509 l 5
+523 576 m 0
+ 536 576 551 566 570 545 c 0
+ 588.05 525.05 597.075 508.71 597.075 494.26525 c 0
+ 597.075 493.505 597.05 492.75 597 492 c 1
+ 579 375 l 2
+ 576 357 574 342 572 318 c 1
+ 588 325 605 330 624 334 c 1
+ 614 210 l 1
+ 597 206 579 200 560 191 c 1
+ 546 54 l 1
+ 524 48 l 1
+ 536 179 l 1
+ 513 166 497 149 487 128 c 1
+ 499 254 l 1
+ 506 275 523 293 549 307 c 1
+ 562 414 l 1
+ 541 436 526 447 515 450 c 1
+ 500 450 473 436 434 407 c 0
+ 348 343 228 223 75 48 c 1
+ 34 0 l 1
+ 83 480 l 1
+ 109 496 l 1
+ 74 162 l 1
+ 173 283 285 395 410 498 c 0
+ 473 550 510 576 523 576 c 0
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-779 509 m 1,0,-1
- 779 508 l 1,1,-1
- 769 402 l 2,2,3
- 769 403 769 403 768 403 c 2,4,-1
- 758 300 l 1,5,6
- 824 322 l 1,7,-1
- 811 227 l 1,8,9
- 781 220 781 220 749 207 c 1,10,-1
- 730 0 l 1,11,-1
- 711 0 l 1,12,-1
- 730 200 l 1,13,14
- 686 180 686 180 672 155 c 1,15,-1
- 687 253 l 1,16,17
- 693.142 274.496 693.142 274.496 726.5 289 c 0,18,19
- 738 294 738 294 739 295 c 2,20,-1
- 752 428 l 1,21,22
- 744.344 438.719 744.344 438.719 728.672 448.859 c 128,-1,23
- 713 459 713 459 712 460 c 1,24,25
- 689 460 689 460 620 422.5 c 2,26,-1
- 597 410 l 1,27,-1
- 212 181 l 2,28,29
- 158 149 158 149 113.5 103.5 c 128,-1,30
- 69 58 69 58 51 29 c 2,31,-1
- 33 0 l 1,32,-1
- 94 620 l 1,33,-1
- 112 620 l 1,34,-1
- 62 100 l 1,35,36
- 78 147 78 147 129.5 197.5 c 128,-1,37
- 181 248 181 248 233 279 c 2,38,-1
- 618 508 l 1,39,40
- 705 558 705 558 730.5 558 c 128,-1,41
- 756 558 756 558 773 526 c 1,42,-1
- 779 509 l 1,0,-1
+523 576 m 128,-1,1
+ 542 576 542 576 570 545 c 128,-1,2
+ 598 514 598 514 597 492 c 1,3,-1
+ 579 375 l 2,4,5
+ 578 368 578 368 576 354.5 c 128,-1,6
+ 574 341 574 341 572 318 c 1,7,8
+ 596 328 596 328 624 334 c 1,9,-1
+ 614 210 l 1,10,11
+ 589 204 589 204 560 191 c 1,12,-1
+ 546 54 l 1,13,-1
+ 524 48 l 1,14,-1
+ 536 179 l 1,15,16
+ 502 159 502 159 487 128 c 1,17,-1
+ 499 254 l 1,18,19
+ 510 286 510 286 549 307 c 1,20,-1
+ 562 414 l 1,21,22
+ 531 447 531 447 515 451 c 1,23,24
+ 493 451 493 451 434 407 c 0,25,26
+ 305 311 305 311 75 48 c 1,27,-1
+ 34 0 l 1,28,-1
+ 83 480 l 1,29,-1
+ 109 496 l 1,30,-1
+ 74 162 l 1,31,32
+ 222 344 222 344 410 498 c 0,33,0
+ 504 576 504 576 523 576 c 128,-1,1
 EndSplineSet
-Validated: 1
 LCarets2: 2 0 0
 Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE70 uni200D uniEE89
 Colour: ffa600
 EndChar
 
-StartChar: uniEB64
-Encoding: 60260 60260 621
-Width: 1490
-VWidth: 999
-GlyphClass: 3
-Flags: W
-HStem: 0 21G<39.9931 57.779 721.792 739.779> 460 98<676.698 747.702 1358.7 1430.06> 540 99<107.837 198.888>
-DStem2: 38 0 67 100 0.0979143 0.995195<102.359 292.441 386.19 539.866> 238 279 217 181 0.859456 0.511209<-143.168 503.142> 720 0 749 100 0.0892649 0.996008<102.189 437.252> 920 279 899 181 0.859456 0.511209<-143.168 503.142>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 50
- 1
- 0
-CALL
-PUSHB_1
- 40
-SHP[rp1]
-PUSHB_3
- 32
- 2
- 0
-CALL
-PUSHB_1
- 42
-SHP[rp1]
-PUSHB_5
- 25
- 10
- 0
- 21
- 4
-CALL
-PUSHB_1
- 15
-SHP[rp2]
-PUSHB_4
- 7
- 25
- 32
- 8
-CALL
-PUSHB_5
- 3
- 10
- 0
- 21
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 57
-MDAP[rnd]
-PUSHB_2
- 58
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 50
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 1
-MDRP[grey]
-PUSHB_2
- 49
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 8
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 12
-SRP0
-PUSHB_1
- 13
-MDRP[grey]
-PUSHB_2
- 46
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 44
-MDRP[grey]
-PUSHW_3
- 16319
- -1463
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 40
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 41
-MDRP[grey]
-PUSHB_2
- 39
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 18
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 22
-SRP0
-PUSHB_1
- 23
-MDRP[grey]
-PUSHB_2
- 36
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 34
-MDRP[grey]
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SFVFS
-PUSHB_1
- 50
-SRP0
-PUSHB_4
- 0
- 50
- 1
- 19
-CALL
-PUSHB_1
- 49
-SRP0
-PUSHB_4
- 9
- 49
- 8
- 19
-CALL
-PUSHB_1
- 39
-SRP0
-PUSHB_4
- 19
- 39
- 18
- 19
-CALL
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 36
-SRP0
-PUSHB_4
- 35
- 36
- 34
- 19
-CALL
-PUSHB_1
- 46
-SRP0
-PUSHB_4
- 45
- 46
- 44
- 19
-CALL
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SFVFS
-PUSHB_1
- 50
-SRP0
-PUSHB_4
- 51
- 50
- 1
- 19
-CALL
-PUSHB_3
- 51
- 50
- 1
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_1
- 0
-IP
-PUSHB_3
- 9
- 49
- 8
-SRP1
-SRP2
-IP
-PUSHB_3
- 45
- 46
- 44
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 19
- 39
- 18
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_3
- 35
- 36
- 34
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-NPUSHB
- 20
- 0
- 1
- 8
- 9
- 12
- 13
- 18
- 19
- 22
- 23
- 34
- 35
- 36
- 39
- 41
- 44
- 45
- 46
- 49
- 51
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 22
- 0
- 1
- 8
- 9
- 12
- 13
- 18
- 19
- 22
- 23
- 34
- 35
- 36
- 39
- 40
- 41
- 44
- 45
- 46
- 49
- 50
- 51
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 32
- 50
-SRP1
-SRP2
-PUSHB_2
- 29
- 54
-IP
-IP
-PUSHB_1
- 7
-SRP1
-PUSHB_2
- 5
- 28
-IP
-IP
-PUSHB_2
- 3
- 25
-SRP1
-SRP2
-PUSHB_1
- 4
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 48 0 basechar 0
-AnchorPoint: "Zevok" 1579 641 basechar 0
-AnchorPoint: "Udarka" -101 456 basechar 0
-AnchorPoint: "Kupnaya" 454 -108 basechar 0
-AnchorPoint: "Kachka" 349 556 basechar 0
-AnchorPoint: "Lomka" 1074 162 basechar 0
-AnchorPoint: "Tikhaya" 97 260 basechar 0
-AnchorPoint: "Oblachko" 1439 641 basechar 0
-AnchorPoint: "Podchashie" 1221 226 basechar 0
-AnchorPoint: "Zaderzhka" 1557 483.9 basechar 0
-AnchorPoint: "Tonal" 375 470 basechar 0
-AnchorPoint: "Podvertka" 1455 330 basechar 0
-AnchorPoint: "Borzaya" 1183 56 basechar 0
-AnchorPoint: "Otsechka" 1525 286 basechar 0
-AnchorPoint: "Shaidur" -2.00003 458 basechar 0
-LayerCount: 3
-Fore
-SplineSet
-76 388 m 1xc0
- 99 620 l 1
- 99 620 129 639 160 639 c 0
- 184 639 201 637 213 624 c 1
- 196 525 l 1
- 184 538 167 540 143 540 c 0xa0
- 121 540 108 528 108 528 c 1
- 67 100 l 1
- 90 169 179 244 238 279 c 2
- 623 508 l 1
- 623 508 710 558 734 558 c 0
- 753 558 777 522 784 508 c 1
- 749 100 l 1
- 772 169 861 244 920 279 c 2
- 1305 508 l 1
- 1305 508 1392 558 1416 558 c 0
- 1435 558 1459 522 1466 508 c 1
- 1449 410 l 1
- 1442 424 1418 460 1399 460 c 0
- 1374 460 1284 410 1284 410 c 1
- 899 181 l 2
- 778 109 720 0 720 0 c 1
- 758 424 l 1
- 748 440 731 460 717 460 c 0
- 692 460 602 410 602 410 c 1
- 217 181 l 2
- 96 109 38 0 38 0 c 1
- 67 291 l 1
- 26 280 13 262 2 218 c 1
- 19 317 l 2
- 25 352 37 377 76 388 c 1xc0
-EndSplineSet
-Validated: 1
-Layer: 2
-SplineSet
-76 388 m 1,0,-1
- 99 620 l 1,1,2
- 129 639 129 639 164 639 c 128,-1,3
- 199 639 199 639 213 624 c 1,4,-1
- 196 525 l 1,5,6
- 182 540 182 540 153 540 c 128,-1,7
- 124 540 124 540 108 528 c 1,8,-1
- 67 100 l 1,9,10
- 83 147 83 147 134.5 197.5 c 128,-1,11
- 186 248 186 248 238 279 c 2,12,-1
- 623 508 l 1,13,14
- 710 558 710 558 734 558 c 0,15,16
- 747 558 747 558 761.5 540.5 c 128,-1,17
- 776 523 776 523 784 508 c 1,18,-1
- 749 100 l 1,19,20
- 765 147 765 147 816.5 197.5 c 128,-1,21
- 868 248 868 248 920 279 c 2,22,-1
- 1305 508 l 1,23,24
- 1392 558 1392 558 1416 558 c 0,25,26
- 1429 558 1429 558 1443.5 540.5 c 128,-1,27
- 1458 523 1458 523 1466 508 c 1,28,-1
- 1449 410 l 1,29,30
- 1441 425 1441 425 1426.5 442.5 c 128,-1,31
- 1412 460 1412 460 1400 460 c 0,32,33
- 1376 460 1376 460 1307 422.5 c 2,34,-1
- 1284 410 l 1,35,-1
- 899 181 l 2,36,37
- 845 149 845 149 800.5 104 c 128,-1,38
- 756 59 756 59 738 29.5 c 2,39,-1
- 720 0 l 1,40,-1
- 758 424 l 1,41,42
- 736 460 736 460 715 460 c 128,-1,43
- 694 460 694 460 625 422.5 c 2,44,-1
- 602 410 l 1,45,-1
- 217 181 l 2,46,47
- 163 149 163 149 118.5 103.5 c 128,-1,48
- 74 58 74 58 56 29 c 2,49,-1
- 38 0 l 1,50,-1
- 67 291 l 1,51,52
- 37 283 37 283 23.5 267.5 c 128,-1,53
- 10 252 10 252 2 218 c 1,54,-1
- 19 317 l 2,55,56
- 29 375 29 375 76 388 c 1,0,-1
-EndSplineSet
-Validated: 1
-LCarets2: 2 0 0
-Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE72 uni200D uniEE70
-Colour: ffa600
-EndChar
-
-StartChar: uniEB65
-Encoding: 60261 60261 622
-Width: 880
-VWidth: 999
-Flags: W
-HStem: 0 21G<39.9931 57.779 715.118 723.5> 460 98<676.698 748.411> 540 99<107.837 198.888>
-DStem2: 38 0 67 100 0.0979143 0.995195<102.359 292.441 386.19 539.866> 238 279 217 181 0.859456 0.511209<-143.168 503.142> 713 0 741 99 0.105294 0.994441<101.398 437.231>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 37
- 1
- 0
-CALL
-PUSHB_1
- 27
-SHP[rp1]
-PUSHB_3
- 30
- 2
- 0
-CALL
-PUSHB_5
- 15
- 10
- 0
- 21
- 4
-CALL
-PUSHB_4
- 7
- 15
- 30
- 8
-CALL
-PUSHB_5
- 3
- 10
- 0
- 21
- 4
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 44
-MDAP[rnd]
-PUSHB_2
- 45
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 37
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 1
-MDRP[grey]
-PUSHB_2
- 36
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 8
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 12
-SRP0
-PUSHB_1
- 13
-MDRP[grey]
-PUSHB_2
- 33
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 31
-MDRP[grey]
-PUSHW_3
- 16293
- -1725
- 21
-CALL
-SPVFS
-SFVTCA[x-axis]
-PUSHB_1
- 27
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 28
-MDRP[grey]
-PUSHB_2
- 18
- 38
-MIRP[rp0,min,black]
-PUSHB_1
- 17
-MDRP[grey]
-PUSHB_1
- 37
-SRP0
-PUSHB_4
- 0
- 37
- 1
- 19
-CALL
-PUSHB_1
- 36
-SRP0
-PUSHB_4
- 9
- 36
- 8
- 19
-CALL
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 33
-SRP0
-PUSHB_4
- 32
- 33
- 31
- 19
-CALL
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SFVFS
-PUSHB_1
- 37
-SRP0
-PUSHB_4
- 38
- 37
- 1
- 19
-CALL
-PUSHB_3
- 38
- 37
- 1
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_1
- 0
-IP
-PUSHB_3
- 9
- 36
- 8
-SRP1
-SRP2
-IP
-PUSHB_3
- 32
- 33
- 31
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-NPUSHB
- 14
- 0
- 1
- 8
- 9
- 12
- 13
- 17
- 18
- 28
- 31
- 32
- 33
- 36
- 38
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 16
- 0
- 1
- 8
- 9
- 12
- 13
- 17
- 18
- 27
- 28
- 31
- 32
- 33
- 36
- 37
- 38
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-PUSHB_2
- 30
- 37
-SRP1
-SRP2
-PUSHB_2
- 22
- 41
-IP
-IP
-PUSHB_1
- 7
-SRP1
-PUSHB_1
- 5
-IP
-PUSHB_2
- 3
- 15
-SRP1
-SRP2
-PUSHB_1
- 4
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "Podtinka" 48 0 basechar 0
-AnchorPoint: "Zevok" 863 645 basechar 0
-AnchorPoint: "Udarka" -101 456 basechar 0
-AnchorPoint: "Kupnaya" 448 -2 basechar 0
-AnchorPoint: "Kachka" 349 556 basechar 0
-AnchorPoint: "Lomka" 613 229 basechar 0
-AnchorPoint: "Tikhaya" 97 260 basechar 0
-AnchorPoint: "Oblachko" 723 645 basechar 0
-AnchorPoint: "Podchashie" 453 214 basechar 0
-AnchorPoint: "Zaderzhka" 869 483.9 basechar 0
-AnchorPoint: "Tonal" 375 470 basechar 0
-AnchorPoint: "Podvertka" 614 227 basechar 0
-AnchorPoint: "Borzaya" 614 227 basechar 0
-AnchorPoint: "Otsechka" 895 112 basechar 0
-AnchorPoint: "Shaidur" -2.00003 458 basechar 0
-LayerCount: 3
-Fore
-SplineSet
-76 388 m 1xc0
- 99 620 l 1
- 99 620 129 639 160 639 c 0
- 184 639 201 637 213 624 c 1
- 196 525 l 1
- 184 538 167 540 143 540 c 0xa0
- 121 540 108 528 108 528 c 1
- 67 100 l 1
- 90 169 179 244 238 279 c 2
- 623 508 l 1
- 623 508 710 558 734 558 c 0
- 753 558 763 548 770 534 c 2
- 785 508 l 1
- 741 99 l 1
- 762 165 867 207 867 207 c 1
- 853 114 l 1
- 853 114 734 63 713 0 c 1
- 758 425 l 1
- 748 441 731 460 717 460 c 0
- 692 460 602 410 602 410 c 1
- 217 181 l 2
- 96 109 38 0 38 0 c 1
- 67 291 l 1
- 26 280 11 262 0 218 c 1
- 19 317 l 2
- 25 352 37 377 76 388 c 1xc0
-EndSplineSet
-Validated: 1
-Layer: 2
-SplineSet
-76 388 m 1,0,-1
- 99 620 l 1,1,2
- 129 639 129 639 164 639 c 128,-1,3
- 199 639 199 639 213 624 c 1,4,-1
- 196 525 l 1,5,6
- 182 540 182 540 153 540 c 128,-1,7
- 124 540 124 540 108 528 c 1,8,-1
- 67 100 l 1,9,10
- 83 147 83 147 134.5 197.5 c 128,-1,11
- 186 248 186 248 238 279 c 2,12,-1
- 623 508 l 1,13,14
- 710 558 710 558 734 558 c 128,-1,15
- 758 558 758 558 770 534 c 1,16,-1
- 785 508 l 1,17,-1
- 741 99 l 1,18,19
- 750 128 750 128 781.5 155 c 128,-1,20
- 813 182 813 182 840 194.5 c 2,21,-1
- 867 207 l 1,22,-1
- 853 114 l 1,23,24
- 840 108 840 108 819.5 98 c 128,-1,25
- 799 88 799 88 760.5 58 c 128,-1,26
- 722 28 722 28 713 0 c 1,27,-1
- 758 425 l 1,28,29
- 736 460 736 460 715 460 c 128,-1,30
- 694 460 694 460 625 422.5 c 2,31,-1
- 602 410 l 1,32,-1
- 217 181 l 2,33,34
- 163 149 163 149 118.5 103.5 c 128,-1,35
- 74 58 74 58 56 29 c 2,36,-1
- 38 0 l 1,37,-1
- 67 291 l 1,38,39
- 37 283 37 283 22.5 267 c 128,-1,40
- 8 251 8 251 0 218 c 1,41,-1
- 19 317 l 1,42,43
- 29 375 29 375 76 388 c 1,0,-1
-EndSplineSet
-Validated: 1
-LCarets2: 2 0 0
-Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE72 uni200D uniEE75
-Colour: ffa600
-EndChar
-
 StartChar: uniEB66
-Encoding: 60262 60262 623
-Width: 785
+Encoding: 60262 60262 619
+Width: 615
 VWidth: 999
 Flags: W
-HStem: 0 21G<34.9677 52.779 757 780> 460 98<671.698 743.289>
-VStem: 94 18<602 620> 757 23<0 434.74>
-DStem2: 33 0 62 100 0.0979143 0.995195<102.359 622.994> 233 279 212 181 0.859456 0.511209<-143.168 190.538 293.718 503.142> 456 432 358 415 0.707107 -0.707107<-57.2757 -2.12132 95.4594 154.856> 434 209 458 223 0.0998125 0.995006<16.3256 100.705 224.082 320.601>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 26
- 1
- 0
-CALL
-PUSHB_1
- 9
-SHP[rp1]
-PUSHB_3
- 13
- 2
- 0
-CALL
-PUSHB_5
- 5
- 10
- 0
- 21
- 4
-CALL
-PUSHB_4
- 17
- 26
- 5
- 8
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 37
-MDAP[rnd]
-PUSHB_1
- 16
-MDRP[rp0,rnd,white]
-PUSHB_2
- 10
- 1
-CALL
-PUSHB_2
- 9
- 12
-MIRP[min,black]
-PUSHB_2
- 38
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1604
- 21
-CALL
-SPVFS
-PUSHB_1
- 26
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 27
-MDRP[grey]
-PUSHB_2
- 25
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 28
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 32
-SRP0
-PUSHB_1
- 3
-MDRP[grey]
-PUSHB_2
- 22
- 30
-MIRP[rp0,min,black]
-PUSHB_1
- 14
-MDRP[grey]
-PUSHB_1
- 38
-SMD
-SVTCA[x-axis]
-PUSHB_2
- 35
- 34
-MDAP[rnd]
-MDRP[min,black]
-SVTCA[y-axis]
-PUSHB_2
- 34
- 35
-MDAP[rnd]
-MDRP[min,black]
-SVTCA[x-axis]
-PUSHB_2
- 17
- 16
-MDAP[no-rnd]
-MDRP[min,black]
-SVTCA[y-axis]
-PUSHB_2
- 16
- 17
-MDAP[no-rnd]
-MDRP[min,black]
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16302
- -1635
- 21
-CALL
-SPVFS
-SFVTPV
-PUSHB_1
- 20
-SRP0
-PUSHB_1
- 0
-MDRP[grey]
-PUSHB_2
- 19
- 12
-MIRP[rp0,min,black]
-PUSHB_1
- 1
-MDRP[grey]
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SFVFS
-PUSHB_1
- 32
-SRP0
-PUSHB_4
- 2
- 32
- 3
- 19
-CALL
-PUSHB_2
- 32
- 3
-SFVTL[parallel]
-PUSHB_1
- 19
-SRP0
-PUSHB_4
- 2
- 19
- 1
- 19
-CALL
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 22
-SRP0
-PUSHB_4
- 15
- 22
- 14
- 19
-CALL
-PUSHB_2
- 22
- 14
-SFVTL[parallel]
-PUSHB_1
- 35
-SRP0
-PUSHB_4
- 15
- 35
- 16
- 19
-CALL
-PUSHW_3
- -11585
- -11585
- 21
-CALL
-SFVFS
-PUSHB_1
- 34
-SRP0
-PUSHB_4
- 18
- 34
- 17
- 19
-CALL
-PUSHB_2
- 34
- 17
-SFVTL[parallel]
-PUSHB_1
- 19
-SRP0
-PUSHB_4
- 18
- 19
- 1
- 19
-CALL
-PUSHW_3
- 8345
- -14099
- 21
-CALL
-SFVFS
-PUSHB_1
- 22
-SRP0
-PUSHB_4
- 21
- 22
- 14
- 19
-CALL
-PUSHB_2
- 22
- 14
-SFVTL[parallel]
-PUSHB_1
- 20
-SRP0
-PUSHB_4
- 21
- 20
- 0
- 19
-CALL
-PUSHW_3
- 16297
- -1682
- 21
-CALL
-SFVFS
-PUSHB_1
- 25
-SRP0
-PUSHB_4
- 29
- 25
- 28
- 19
-CALL
-PUSHW_3
- 8376
- -14081
- 21
-CALL
-SFVFS
-PUSHB_1
- 32
-SRP0
-PUSHB_4
- 33
- 32
- 3
- 19
-CALL
-PUSHB_2
- 32
- 3
-SFVTL[parallel]
-PUSHB_1
- 34
-SRP0
-PUSHB_4
- 33
- 34
- 17
- 19
-CALL
-PUSHW_3
- -11585
- -11585
- 21
-CALL
-SFVFS
-PUSHB_1
- 35
-SRP0
-PUSHB_4
- 36
- 35
- 16
- 19
-CALL
-PUSHB_2
- 35
- 16
-SFVTL[parallel]
-PUSHB_1
- 20
-SRP0
-PUSHB_4
- 36
- 20
- 0
- 19
-CALL
-PUSHB_3
- 29
- 25
- 28
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-SVTCA[y-axis]
-NPUSHB
- 18
- 0
- 1
- 2
- 3
- 14
- 15
- 18
- 19
- 20
- 21
- 22
- 25
- 27
- 28
- 29
- 32
- 33
- 36
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-NPUSHB
- 19
- 0
- 1
- 2
- 3
- 14
- 15
- 18
- 19
- 20
- 21
- 22
- 25
- 26
- 27
- 28
- 29
- 32
- 33
- 36
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-PUSHB_2
- 9
- 10
-SRP1
-SRP2
-PUSHB_1
- 7
-IP
-SVTCA[y-axis]
-PUSHB_2
- 13
- 17
-SRP1
-SRP2
-PUSHB_1
- 11
-IP
-PUSHB_1
- 5
-SRP1
-PUSHB_1
- 8
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: 0 21G<34.0417 49.0833> 450 126<478.211 548.519>
+VStem: 530 22<122 190.133>
 AnchorPoint: "Podtinka" 48 0 basechar 0
 AnchorPoint: "Zevok" 864 649 basechar 0
 AnchorPoint: "Udarka" 6 451 basechar 0
 AnchorPoint: "Kupnaya" 423 -115 basechar 0
 AnchorPoint: "Kachka" 433 710 basechar 0
 AnchorPoint: "Lomka" 644 216 basechar 0
-AnchorPoint: "Tikhaya" 165 190.5 basechar 0
+AnchorPoint: "Tikhaya" 165 190 basechar 0
 AnchorPoint: "Oblachko" 722 649 basechar 0
 AnchorPoint: "Podchashie" 434 711 basechar 0
-AnchorPoint: "Zaderzhka" 864 483.9 basechar 0
+AnchorPoint: "Zaderzhka" 864 484 basechar 0
 AnchorPoint: "Tonal" 598 587 basechar 0
-AnchorPoint: "Podvertka" 654.996 274.551 basechar 0
-AnchorPoint: "Borzaya" 6.00002 450 basechar 0
-AnchorPoint: "Otsechka" 853.996 356.551 basechar 0
+AnchorPoint: "Podvertka" 655 275 basechar 0
+AnchorPoint: "Borzaya" 6 450 basechar 0
+AnchorPoint: "Otsechka" 854 357 basechar 0
 AnchorPoint: "Shaidur" 7 325 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-466 528 m 1
- 489 542 l 1
- 477 424 l 1
- 618 508 l 1
- 618 508 705 558 729 558 c 0
- 748 558 759 545 769 531 c 1
- 776 520 l 1
- 780 506 l 1
- 780 0 l 1
- 757 0 l 1
- 757 419 l 1
- 747 435 728 460 712 460 c 0
- 687 460 597 410 597 410 c 1
- 523 366 l 1
- 566 323 l 1
- 549 224 l 1
- 466 307 l 1
- 458 223 l 1
- 434 209 l 1
- 445 320 l 1
- 212 181 l 2
- 91 109 33 0 33 0 c 1
- 94 620 l 1
- 112 620 l 1
- 62 100 l 1
- 85 169 174 244 233 279 c 2
- 397 376 l 1
- 358 415 l 1
- 375 514 l 1
- 456 432 l 1
- 466 528 l 1
+342 444 m 1
+ 443 532 503 576 521 576 c 0
+ 534 576 549 566 568 545 c 0
+ 586 525 595 508 595 494 c 0
+ 595 493 595 493 595 492 c 1
+ 579 385 l 1
+ 552 122 l 1
+ 530 122 l 1
+ 560 414 l 1
+ 552 426 541 437 528 447 c 0
+ 525 449 521 450 516 450 c 0
+ 494 450 453 426 394 377 c 1
+ 440 346 l 1
+ 431 243 l 1
+ 329 311 l 1
+ 319 212 l 1
+ 297 202 l 1
+ 306 298 l 1
+ 231 225 154 141 73 48 c 2
+ 32 0 l 1
+ 81 480 l 1
+ 107 496 l 1
+ 72 162 l 1
+ 117 217 177 284 254 361 c 1
+ 208 392 l 1
+ 218 495 l 1
+ 319 427 l 1
+ 328 515 l 1
+ 351 528 l 1
+ 342 444 l 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-466 528 m 1,0,-1
- 489 542 l 1,1,-1
- 477 424 l 1,2,-1
- 618 508 l 1,3,4
- 705 558 705 558 727.5 558 c 128,-1,5
- 750 558 750 558 769 531 c 1,6,-1
- 776 520 l 1,7,-1
- 780 506 l 1,8,-1
- 780 0 l 1,9,-1
- 757 0 l 1,10,-1
- 757 419 l 1,11,12
- 731 460 731 460 710 460 c 128,-1,13
- 689 460 689 460 620 422.5 c 1,14,-1
- 523 366 l 1,15,-1
- 566 323 l 1,16,-1
- 549 224 l 1,17,-1
- 466 307 l 1,18,-1
- 458 223 l 1,19,-1
- 434 209 l 1,20,-1
- 445 320 l 1,21,-1
- 212 181 l 2,22,23
- 158 149 158 149 113.5 103.5 c 128,-1,24
- 69 58 69 58 51 29 c 2,25,-1
- 33 0 l 1,26,-1
- 94 620 l 1,27,-1
- 112 620 l 1,28,-1
- 62 100 l 1,29,30
- 78 147 78 147 129.5 197.5 c 128,-1,31
- 181 248 181 248 233 279 c 2,32,-1
- 397 376 l 1,33,-1
- 358 415 l 1,34,-1
- 375 514 l 1,35,-1
- 456 432 l 1,36,-1
- 466 528 l 1,0,-1
+342 444 m 1,0,1
+ 494 576 494 576 521 576 c 0,2,3
+ 540 576 540 576 568 545 c 128,-1,4
+ 596 514 596 514 595 492 c 1,5,-1
+ 579 385 l 1,6,-1
+ 552 122 l 1,7,-1
+ 530 122 l 1,8,-1
+ 560 414 l 1,9,10
+ 548 432 548 432 528 447 c 0,11,12
+ 523 450 523 450 516 450 c 0,13,14
+ 483 450 483 450 394 377 c 1,15,-1
+ 440 346 l 1,16,-1
+ 431 243 l 1,17,-1
+ 329 311 l 1,18,-1
+ 319 212 l 1,19,-1
+ 297 202 l 1,20,-1
+ 306 298 l 1,21,22
+ 194 188 194 188 73 48 c 1,23,-1
+ 32 0 l 1,24,-1
+ 81 480 l 1,25,-1
+ 107 496 l 1,26,-1
+ 72 162 l 1,27,28
+ 139 245 139 245 254 361 c 1,29,-1
+ 208 392 l 1,30,-1
+ 218 495 l 1,31,-1
+ 319 427 l 1,32,-1
+ 328 515 l 1,33,-1
+ 351 528 l 1,34,-1
+ 342 444 l 1,0,1
 EndSplineSet
-Validated: 1
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE74 uniEE5D
 Colour: ffa600
 EndChar
 
 StartChar: uniEB67
-Encoding: 60263 60263 624
+Encoding: 60263 60263 620
 Width: 800
 VWidth: 999
 Flags: W
@@ -109283,7 +105263,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB68
-Encoding: 60264 60264 625
+Encoding: 60264 60264 621
 Width: 1466
 VWidth: 999
 Flags: W
@@ -109959,7 +105939,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB69
-Encoding: 60265 60265 626
+Encoding: 60265 60265 622
 Width: 1565
 VWidth: 999
 Flags: W
@@ -110682,7 +106662,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB6A
-Encoding: 60266 60266 627
+Encoding: 60266 60266 623
 Width: 1470
 VWidth: 999
 Flags: W
@@ -111629,7 +107609,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB6B
-Encoding: 60267 60267 628
+Encoding: 60267 60267 624
 Width: 2160
 VWidth: 999
 Flags: W
@@ -112725,7 +108705,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB6C
-Encoding: 60268 60268 629
+Encoding: 60268 60268 625
 Width: 1550
 VWidth: 999
 Flags: W
@@ -113713,7 +109693,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB6D
-Encoding: 60269 60269 630
+Encoding: 60269 60269 626
 Width: 1725
 VWidth: 999
 Flags: W
@@ -114784,7 +110764,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB6E
-Encoding: 60270 60270 631
+Encoding: 60270 60270 627
 Width: 882
 VWidth: 999
 Flags: W
@@ -115351,7 +111331,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB6F
-Encoding: 60271 60271 632
+Encoding: 60271 60271 628
 Width: 774
 VWidth: 999
 Flags: W
@@ -116021,7 +112001,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB70
-Encoding: 60272 60272 633
+Encoding: 60272 60272 629
 Width: 1300
 VWidth: 999
 Flags: W
@@ -116882,7 +112862,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB71
-Encoding: 60273 60273 634
+Encoding: 60273 60273 630
 Width: 1490
 VWidth: 999
 Flags: W
@@ -117804,7 +113784,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB72
-Encoding: 60274 60274 635
+Encoding: 60274 60274 631
 Width: 1540
 VWidth: 999
 Flags: W
@@ -118879,7 +114859,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB73
-Encoding: 60275 60275 636
+Encoding: 60275 60275 632
 Width: 1740
 VWidth: 999
 Flags: W
@@ -119954,7 +115934,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB74
-Encoding: 60276 60276 637
+Encoding: 60276 60276 633
 Width: 1600
 VWidth: 999
 Flags: W
@@ -120884,7 +116864,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB75
-Encoding: 60277 60277 638
+Encoding: 60277 60277 634
 Width: 1625
 VWidth: 999
 Flags: W
@@ -121831,7 +117811,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB76
-Encoding: 60278 60278 639
+Encoding: 60278 60278 635
 Width: 1710
 VWidth: 999
 Flags: W
@@ -122888,7 +118868,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB77
-Encoding: 60279 60279 640
+Encoding: 60279 60279 636
 Width: 2280
 VWidth: 999
 Flags: W
@@ -123971,7 +119951,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB78
-Encoding: 60280 60280 641
+Encoding: 60280 60280 637
 Width: 1695
 VWidth: 999
 Flags: W
@@ -124947,7 +120927,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB79
-Encoding: 60281 60281 642
+Encoding: 60281 60281 638
 Width: 1650
 VWidth: 999
 Flags: W
@@ -126018,7 +121998,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB7A
-Encoding: 60282 60282 643
+Encoding: 60282 60282 639
 Width: 2425
 VWidth: 999
 Flags: W
@@ -127356,7 +123336,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB7B
-Encoding: 60283 60283 644
+Encoding: 60283 60283 640
 Width: 2435
 VWidth: 999
 Flags: W
@@ -128711,7 +124691,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB7C
-Encoding: 60284 60284 645
+Encoding: 60284 60284 641
 Width: 810
 VWidth: 999
 Flags: W
@@ -129126,7 +125106,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB7D
-Encoding: 60285 60285 646
+Encoding: 60285 60285 642
 Width: 907
 VWidth: 999
 Flags: W
@@ -129554,7 +125534,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB7E
-Encoding: 60286 60286 647
+Encoding: 60286 60286 643
 Width: 858
 VWidth: 999
 Flags: W
@@ -130086,7 +126066,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB7F
-Encoding: 60287 60287 648
+Encoding: 60287 60287 644
 Width: 1470
 VWidth: 999
 GlyphClass: 3
@@ -130525,13 +126505,12 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB80
-Encoding: 60288 60288 649
-Width: 330
+Encoding: 60288 60288 645
+Width: 370
 VWidth: 999
 Flags: W
-HStem: 0 21G<34.9032 43.5 233 255.42>
-VStem: 92 18<602 620> 233 20<0 20> 272 20<348 368>
-DStem2: 33 0 61 100 0.0947333 0.995503<102.203 622.801> 233 0 253 0 0.105388 0.994431<2.10776 154.15 245.968 370.061>
+HStem: 0 21G<32.0417 40.5>
+VStem: 30 169 213 137
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -130733,7 +126712,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "Podtinka" 41 0 basechar 0
-AnchorPoint: "Zevok" 526 645 basechar 0
+AnchorPoint: "Zevok" 282 575 basechar 0
 AnchorPoint: "Udarka" -71 340 basechar 0
 AnchorPoint: "Kupnaya" 244 -2 basechar 0
 AnchorPoint: "Kachka" 93 726 basechar 0
@@ -130744,76 +126723,28 @@ AnchorPoint: "Podchashie" 93 720 basechar 0
 AnchorPoint: "Zaderzhka" 87 721.9 basechar 0
 AnchorPoint: "Tonal" 94 721 basechar 0
 AnchorPoint: "Podvertka" 237 -43 basechar 0
-AnchorPoint: "Borzaya" 283 382 basechar 0
+AnchorPoint: "Borzaya" 259 452 basechar 0
 AnchorPoint: "Otsechka" 322 3 basechar 0
 AnchorPoint: "Shaidur" 15 342 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-256 239 m 5
- 272 368 l 5
- 292 368 l 5
- 274 243 l 5
- 292 251 312 262 312 262 c 5
- 304 173 l 5
- 304 173 290 164 272 157 c 5
- 253 0 l 5
- 233 0 l 5
- 252 153 l 5
- 238 147 216 135 208 124 c 5
- 218 212 l 5
- 222 226 244 233 256 239 c 5
-61 100 m 1
- 82 166 187 208 187 208 c 1
- 173 115 l 1
- 173 115 54 63 33 0 c 1
- 92 620 l 1
- 110 620 l 1
- 61 100 l 1
-EndSplineSet
-Validated: 1
+Refer: 900 61024 N 1 0 0 1 362 -22 2
+Refer: 222 61045 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-256 239 m 1,0,-1
- 272 368 l 1,1,-1
- 292 368 l 1,2,-1
- 274 243 l 1,3,4
- 312 262 l 1,5,-1
- 304 173 l 1,6,7
- 290 164 290 164 272 157 c 1,8,-1
- 253 0 l 1,9,-1
- 233 0 l 1,10,-1
- 252 153 l 1,11,12
- 219 139 219 139 208 124 c 1,13,-1
- 218 212 l 2,14,15
- 219.775 220.875 219.775 220.875 228.887 225.937 c 128,-1,16
- 238 231 238 231 246 234.5 c 128,-1,17
- 254 238 254 238 256 239 c 1,0,-1
-61 100 m 1,18,19
- 70 129 70 129 101.5 156 c 128,-1,20
- 133 183 133 183 160 195.5 c 2,21,-1
- 187 208 l 1,22,-1
- 173 115 l 1,23,24
- 140.925 102.17 140.925 102.17 106.962 78.5849 c 0,25,26
- 44.8072 35.4217 44.8072 35.4217 33 0 c 1,27,-1
- 92 620 l 1,28,-1
- 110 620 l 1,29,-1
- 61 100 l 1,18,19
-EndSplineSet
-Validated: 1
+Refer: 900 61024 N 1 0 0 1 362 -22 2
+Refer: 222 61045 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE89
 Colour: ffa600
 EndChar
 
 StartChar: uniEB81
-Encoding: 60289 60289 650
-Width: 430
+Encoding: 60289 60289 646
+Width: 485
 VWidth: 999
 Flags: W
-HStem: 0 21G<34.9032 43.5 233 255.42>
-VStem: 92 18<602 620> 233 20<0 20> 272 20<348 368> 344 20<-47 -27> 384 20<301 321>
-DStem2: 33 0 61 100 0.0947333 0.995503<102.203 622.801> 233 0 253 0 0.105388 0.994431<2.10776 154.15 245.968 370.061> 344 -47 364 -47 0.108059 0.994144<2.16118 154.265 246.116 370.168>
+HStem: 0 21G<32.0417 40.5>
+VStem: 30 169 213 137 337 137
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -131117,93 +127048,18 @@ AnchorPoint: "Otsechka" 322 3 basechar 0
 AnchorPoint: "Shaidur" 15 342 basechar 0
 LayerCount: 3
 Fore
-SplineSet
-368 192 m 1
- 384 321 l 1
- 404 321 l 1
- 386 196 l 1
- 404 204 424 215 424 215 c 1
- 416 126 l 1
- 416 126 402 117 384 110 c 1
- 364 -47 l 1
- 344 -47 l 1
- 364 106 l 1
- 350 100 328 88 320 77 c 1
- 330 165 l 1
- 334 179 356 186 368 192 c 1
-256 239 m 1
- 272 368 l 1
- 292 368 l 1
- 274 243 l 1
- 292 251 312 262 312 262 c 1
- 304 173 l 1
- 304 173 290 164 272 157 c 1
- 253 0 l 1
- 233 0 l 1
- 252 153 l 1
- 238 147 216 135 208 124 c 1
- 218 212 l 1
- 222 226 244 233 256 239 c 1
-61 100 m 1
- 82 166 187 208 187 208 c 1
- 173 115 l 1
- 173 115 54 63 33 0 c 1
- 92 620 l 1
- 110 620 l 1
- 61 100 l 1
-EndSplineSet
-Validated: 1
+Refer: 900 61024 N 1 0 0 1 486 -90 2
+Refer: 645 60288 N 1 0 0 1 0 0 2
 Layer: 2
-SplineSet
-368 192 m 1,0,-1
- 384 321 l 1,1,-1
- 404 321 l 1,2,-1
- 386 196 l 1,3,4
- 424 215 l 1,5,-1
- 416 126 l 1,6,7
- 402 117 402 117 384 110 c 1,8,-1
- 364 -47 l 1,9,-1
- 344 -47 l 1,10,-1
- 364 106 l 1,11,12
- 331 92 331 92 320 77 c 1,13,-1
- 330 165 l 2,14,15
- 331.775 173.875 331.775 173.875 340.888 178.937 c 128,-1,16
- 350 184 350 184 358 187.5 c 128,-1,17
- 366 191 366 191 368 192 c 1,0,-1
-256 239 m 1,18,-1
- 272 368 l 1,19,-1
- 292 368 l 1,20,-1
- 274 243 l 1,21,-1
- 312 262 l 1,22,-1
- 304 173 l 1,23,24
- 290 164 290 164 272 157 c 1,25,-1
- 253 0 l 1,26,-1
- 233 0 l 1,27,-1
- 252 153 l 1,28,29
- 219 139 219 139 208 124 c 1,30,-1
- 218 212 l 2,31,32
- 219.775 220.875 219.775 220.875 228.887 225.937 c 128,-1,33
- 238 231 238 231 246 234.5 c 128,-1,34
- 254 238 254 238 256 239 c 1,18,-1
-61 100 m 1,35,36
- 70 129 70 129 101.5 156 c 128,-1,37
- 133 183 133 183 160 195.5 c 2,38,-1
- 187 208 l 1,39,-1
- 173 115 l 1,40,41
- 140.925 102.17 140.925 102.17 106.962 78.5849 c 0,42,43
- 44.8072 35.4217 44.8072 35.4217 33 0 c 1,44,-1
- 92 620 l 1,45,-1
- 110 620 l 1,46,-1
- 61 100 l 1,35,36
-EndSplineSet
-Validated: 1
+Refer: 900 61024 N 1 0 0 1 486 -90 2
+Refer: 645 60288 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE89 uniEE89
 Colour: ffa600
 EndChar
 
 StartChar: uniEB82
-Encoding: 60290 60290 651
+Encoding: 60290 60290 647
 Width: 533
 VWidth: 999
 Flags: W
@@ -131731,7 +127587,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB83
-Encoding: 60291 60291 652
+Encoding: 60291 60291 648
 Width: 710
 VWidth: 999
 Flags: W
@@ -132114,7 +127970,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB84
-Encoding: 60292 60292 653
+Encoding: 60292 60292 649
 Width: 555
 VWidth: 999
 Flags: W
@@ -132554,7 +128410,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB85
-Encoding: 60293 60293 654
+Encoding: 60293 60293 650
 Width: 1220
 VWidth: 999
 Flags: W
@@ -133241,7 +129097,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB86
-Encoding: 60294 60294 655
+Encoding: 60294 60294 651
 Width: 1175
 VWidth: 0
 Flags: W
@@ -133798,7 +129654,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB87
-Encoding: 60295 60295 656
+Encoding: 60295 60295 652
 Width: 855
 VWidth: 999
 Flags: W
@@ -134239,7 +130095,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB88
-Encoding: 60296 60296 657
+Encoding: 60296 60296 653
 Width: 310
 VWidth: 999
 Flags: W
@@ -134611,7 +130467,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB89
-Encoding: 60297 60297 658
+Encoding: 60297 60297 654
 Width: 500
 VWidth: 0
 Flags: W
@@ -134725,7 +130581,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB8A
-Encoding: 60298 60298 659
+Encoding: 60298 60298 655
 Width: 504
 VWidth: 999
 Flags: W
@@ -135139,7 +130995,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB8B
-Encoding: 60299 60299 660
+Encoding: 60299 60299 656
 Width: 580
 VWidth: 999
 Flags: W
@@ -135523,7 +131379,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB8C
-Encoding: 60300 60300 661
+Encoding: 60300 60300 657
 Width: 580
 VWidth: 999
 GlyphClass: 3
@@ -135920,7 +131776,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB8D
-Encoding: 60301 60301 662
+Encoding: 60301 60301 658
 Width: 475
 VWidth: 999
 Flags: W
@@ -136375,7 +132231,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB8E
-Encoding: 60302 60302 663
+Encoding: 60302 60302 659
 Width: 592
 VWidth: 999
 Flags: W
@@ -136963,7 +132819,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB8F
-Encoding: 60303 60303 664
+Encoding: 60303 60303 660
 Width: 1066
 VWidth: 999
 Flags: W
@@ -137478,7 +133334,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB90
-Encoding: 60304 60304 665
+Encoding: 60304 60304 661
 Width: 735
 VWidth: 999
 Flags: W
@@ -138031,7 +133887,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB91
-Encoding: 60305 60305 666
+Encoding: 60305 60305 662
 Width: 635
 VWidth: 999
 Flags: W
@@ -138648,7 +134504,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB92
-Encoding: 60306 60306 667
+Encoding: 60306 60306 663
 Width: 1240
 VWidth: 999
 Flags: W
@@ -139509,7 +135365,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB93
-Encoding: 60307 60307 668
+Encoding: 60307 60307 664
 Width: 1255
 VWidth: 999
 Flags: W
@@ -140075,7 +135931,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB94
-Encoding: 60308 60308 669
+Encoding: 60308 60308 665
 Width: 900
 VWidth: 999
 Flags: W
@@ -140725,7 +136581,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB95
-Encoding: 60309 60309 670
+Encoding: 60309 60309 666
 Width: 800
 VWidth: 999
 Flags: W
@@ -141202,7 +137058,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB96
-Encoding: 60310 60310 671
+Encoding: 60310 60310 667
 Width: 803
 VWidth: 999
 Flags: W
@@ -141708,7 +137564,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB97
-Encoding: 60311 60311 672
+Encoding: 60311 60311 668
 Width: 1460
 VWidth: 999
 GlyphClass: 3
@@ -142261,7 +138117,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB98
-Encoding: 60312 60312 673
+Encoding: 60312 60312 669
 Width: 780
 VWidth: 0
 Flags: W
@@ -142621,7 +138477,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB99
-Encoding: 60313 60313 674
+Encoding: 60313 60313 670
 Width: 1575
 VWidth: 0
 Flags: W
@@ -143371,7 +139227,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB9A
-Encoding: 60314 60314 675
+Encoding: 60314 60314 671
 Width: 2250
 VWidth: 0
 Flags: W
@@ -144249,7 +140105,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB9B
-Encoding: 60315 60315 676
+Encoding: 60315 60315 672
 Width: 2930
 VWidth: 0
 Flags: W
@@ -145315,7 +141171,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB9C
-Encoding: 60316 60316 677
+Encoding: 60316 60316 673
 Width: 1445
 VWidth: 0
 Flags: W
@@ -145955,7 +141811,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB9D
-Encoding: 60317 60317 678
+Encoding: 60317 60317 674
 Width: 1570
 VWidth: 0
 Flags: W
@@ -146825,7 +142681,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB9E
-Encoding: 60318 60318 679
+Encoding: 60318 60318 675
 Width: 2250
 VWidth: 0
 Flags: W
@@ -147842,7 +143698,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEB9F
-Encoding: 60319 60319 680
+Encoding: 60319 60319 676
 Width: 1800
 VWidth: 999
 GlyphClass: 2
@@ -148908,7 +144764,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA0
-Encoding: 60320 60320 681
+Encoding: 60320 60320 677
 Width: 820
 VWidth: 999
 Flags: W
@@ -149422,26 +145278,26 @@ EndSplineSet
 Validated: 1
 Layer: 2
 SplineSet
-722.5 365 m 128,-1,1
- 736 375 736 375 753.5 375 c 128,-1,2
- 771 375 771 375 787 360 c 128,-1,3
- 803 345 803 345 803 315 c 128,-1,4
- 803 285 803 285 763 224 c 2,5,-1
- 715 151 l 1,6,7
- 713.387 143.742 713.387 143.742 709.875 148.875 c 128,-1,8
- 706.444 153.889 706.444 153.889 710 161 c 0,9,10
- 746 233 746 233 746 260 c 2,11,12
- 746 268.5 l 2,13,14
- 746 271 746 271 744 275 c 0,15,16
- 735 297 735 297 709 297 c 0,17,18
- 696.333 297 696.333 297 689.667 291 c 128,-1,19
- 683 285 683 285 680.5 282.5 c 128,-1,20
- 678 280 678 280 672 272.5 c 0,21,22
- 655.639 252.048 655.639 252.048 653.742 258.021 c 128,-1,23
- 651.854 263.966 651.854 263.966 655 269 c 2,24,-1
- 689 326 l 2,25,26
- 699 341 699 341 704 348 c 128,-1,0
- 709 355 709 355 722.5 365 c 128,-1,1
+722.5 365 m 132,-1,1
+ 736 375 736 375 753.5 375 c 132,-1,2
+ 771 375 771 375 787 360 c 132,-1,3
+ 803 345 803 345 803 315 c 132,-1,4
+ 803 285 803 285 763 224 c 6,5,-1
+ 715 151 l 5,6,7
+ 713.387 143.742 713.387 143.742 709.875 148.875 c 132,-1,8
+ 706.444 153.889 706.444 153.889 710 161 c 4,9,10
+ 746 233 746 233 746 260 c 6,11,12
+ 746 268.5 l 6,13,14
+ 746 271 746 271 744 275 c 4,15,16
+ 735 297 735 297 709 297 c 4,17,18
+ 696.333 297 696.333 297 689.667 291 c 132,-1,19
+ 683 285 683 285 680.5 282.5 c 132,-1,20
+ 678 280 678 280 672 272.5 c 4,21,22
+ 655.639 252.048 655.639 252.048 653.742 258.021 c 132,-1,23
+ 651.854 263.966 651.854 263.966 655 269 c 6,24,-1
+ 689 326 l 6,25,26
+ 699 341 699 341 704 348 c 132,-1,0
+ 709 355 709 355 722.5 365 c 132,-1,1
 34 100 m 1,27,28
  50 147 50 147 101.5 197.5 c 128,-1,29
  153 248 153 248 205 279 c 2,30,-1
@@ -149480,7 +145336,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA1
-Encoding: 60321 60321 682
+Encoding: 60321 60321 678
 Width: 800
 VWidth: 999
 Flags: W
@@ -149953,7 +145809,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA2
-Encoding: 60322 60322 683
+Encoding: 60322 60322 679
 Width: 1455
 VWidth: 999
 Flags: W
@@ -150564,7 +146420,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA3
-Encoding: 60323 60323 684
+Encoding: 60323 60323 680
 Width: 2120
 VWidth: 999
 Flags: W
@@ -151330,7 +147186,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA4
-Encoding: 60324 60324 685
+Encoding: 60324 60324 681
 Width: 851
 VWidth: 999
 Flags: W
@@ -151824,7 +147680,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA5
-Encoding: 60325 60325 686
+Encoding: 60325 60325 682
 Width: 810
 VWidth: 999
 Flags: W
@@ -152416,7 +148272,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA6
-Encoding: 60326 60326 687
+Encoding: 60326 60326 683
 Width: 1025
 VWidth: 999
 Flags: W
@@ -152996,7 +148852,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA7
-Encoding: 60327 60327 688
+Encoding: 60327 60327 684
 Width: 1465
 VWidth: 999
 Flags: W
@@ -153889,7 +149745,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA8
-Encoding: 60328 60328 689
+Encoding: 60328 60328 685
 Width: 1465
 VWidth: 999
 Flags: W
@@ -154834,7 +150690,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBA9
-Encoding: 60329 60329 690
+Encoding: 60329 60329 686
 Width: 790
 VWidth: 999
 Flags: W
@@ -154946,7 +150802,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBAA
-Encoding: 60330 60330 691
+Encoding: 60330 60330 687
 Width: 1641
 VWidth: 0
 Flags: W
@@ -155495,7 +151351,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBAB
-Encoding: 60331 60331 692
+Encoding: 60331 60331 688
 Width: 1051
 VWidth: 0
 Flags: W
@@ -155922,7 +151778,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBAC
-Encoding: 60332 60332 693
+Encoding: 60332 60332 689
 Width: 776
 VWidth: 0
 Flags: W
@@ -156065,7 +151921,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBAD
-Encoding: 60333 60333 694
+Encoding: 60333 60333 690
 Width: 760
 VWidth: 999
 Flags: W
@@ -156188,7 +152044,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBAE
-Encoding: 60334 60334 695
+Encoding: 60334 60334 691
 Width: 760
 VWidth: 999
 Flags: W
@@ -156323,7 +152179,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBAF
-Encoding: 60335 60335 696
+Encoding: 60335 60335 692
 Width: 1639
 VWidth: 999
 Flags: W
@@ -156825,7 +152681,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB0
-Encoding: 60336 60336 697
+Encoding: 60336 60336 693
 Width: 1045
 VWidth: 999
 Flags: W
@@ -157175,7 +153031,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB1
-Encoding: 60337 60337 698
+Encoding: 60337 60337 694
 Width: 1003
 VWidth: 999
 Flags: W
@@ -157643,7 +153499,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB2
-Encoding: 60338 60338 699
+Encoding: 60338 60338 695
 Width: 864
 VWidth: 999
 Flags: W
@@ -158125,7 +153981,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB3
-Encoding: 60339 60339 700
+Encoding: 60339 60339 696
 Width: 864
 VWidth: 999
 Flags: W
@@ -158623,7 +154479,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB4
-Encoding: 60340 60340 701
+Encoding: 60340 60340 697
 Width: 905
 VWidth: 999
 Flags: W
@@ -159103,7 +154959,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB5
-Encoding: 60341 60341 702
+Encoding: 60341 60341 698
 Width: 994
 VWidth: 999
 Flags: W
@@ -159669,7 +155525,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB6
-Encoding: 60342 60342 703
+Encoding: 60342 60342 699
 Width: 905
 VWidth: 999
 Flags: W
@@ -160148,7 +156004,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB7
-Encoding: 60343 60343 704
+Encoding: 60343 60343 700
 Width: 905
 VWidth: 999
 Flags: W
@@ -160642,7 +156498,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB8
-Encoding: 60344 60344 705
+Encoding: 60344 60344 701
 Width: 905
 VWidth: 999
 Flags: W
@@ -161152,7 +157008,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBB9
-Encoding: 60345 60345 706
+Encoding: 60345 60345 702
 Width: 1550
 VWidth: 999
 Flags: W
@@ -161775,7 +157631,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBBA
-Encoding: 60346 60346 707
+Encoding: 60346 60346 703
 Width: 2252
 VWidth: 999
 Flags: W
@@ -162555,7 +158411,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBBB
-Encoding: 60347 60347 708
+Encoding: 60347 60347 704
 Width: 1550
 VWidth: 999
 Flags: W
@@ -163456,7 +159312,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBBC
-Encoding: 60348 60348 709
+Encoding: 60348 60348 705
 Width: 1590
 VWidth: 999
 Flags: W
@@ -164374,7 +160230,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBBD
-Encoding: 60349 60349 710
+Encoding: 60349 60349 706
 Width: 955
 VWidth: 999
 Flags: W
@@ -164881,7 +160737,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBBE
-Encoding: 60350 60350 711
+Encoding: 60350 60350 707
 Width: 1275
 VWidth: 999
 Flags: W
@@ -165560,7 +161416,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBBF
-Encoding: 60351 60351 712
+Encoding: 60351 60351 708
 Width: 1475
 VWidth: 999
 Flags: W
@@ -166253,7 +162109,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC0
-Encoding: 60352 60352 713
+Encoding: 60352 60352 709
 Width: 1430
 VWidth: 999
 Flags: W
@@ -166992,7 +162848,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC1
-Encoding: 60353 60353 714
+Encoding: 60353 60353 710
 Width: 1625
 VWidth: 999
 Flags: W
@@ -167797,7 +163653,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC2
-Encoding: 60354 60354 715
+Encoding: 60354 60354 711
 Width: 921
 VWidth: 999
 Flags: W
@@ -168420,7 +164276,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC3
-Encoding: 60355 60355 716
+Encoding: 60355 60355 712
 Width: 1335
 VWidth: 999
 Flags: W
@@ -169291,7 +165147,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC4
-Encoding: 60356 60356 717
+Encoding: 60356 60356 713
 Width: 1475
 VWidth: 999
 Flags: W
@@ -170256,7 +166112,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC5
-Encoding: 60357 60357 718
+Encoding: 60357 60357 714
 Width: 1680
 VWidth: 999
 Flags: W
@@ -171293,7 +167149,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC6
-Encoding: 60358 60358 719
+Encoding: 60358 60358 715
 Width: 1800
 VWidth: 999
 Flags: W
@@ -172197,7 +168053,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC7
-Encoding: 60359 60359 720
+Encoding: 60359 60359 716
 Width: 1585
 VWidth: 999
 Flags: W
@@ -173097,7 +168953,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC8
-Encoding: 60360 60360 721
+Encoding: 60360 60360 717
 Width: 1575
 VWidth: 999
 Flags: W
@@ -173995,7 +169851,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBC9
-Encoding: 60361 60361 722
+Encoding: 60361 60361 718
 Width: 1585
 VWidth: 999
 Flags: W
@@ -174874,7 +170730,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBCA
-Encoding: 60362 60362 723
+Encoding: 60362 60362 719
 Width: 1572
 VWidth: 999
 Flags: W
@@ -175832,7 +171688,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBCB
-Encoding: 60363 60363 724
+Encoding: 60363 60363 720
 Width: 1585
 VWidth: 999
 Flags: W
@@ -176697,7 +172553,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBCC
-Encoding: 60364 60364 725
+Encoding: 60364 60364 721
 Width: 1675
 VWidth: 999
 Flags: W
@@ -177557,7 +173413,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBCD
-Encoding: 60365 60365 726
+Encoding: 60365 60365 722
 Width: 1790
 VWidth: 999
 Flags: W
@@ -178537,7 +174393,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBCE
-Encoding: 60366 60366 727
+Encoding: 60366 60366 723
 Width: 1730
 VWidth: 999
 Flags: W
@@ -179409,7 +175265,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBCF
-Encoding: 60367 60367 728
+Encoding: 60367 60367 724
 Width: 1720
 VWidth: 999
 Flags: W
@@ -180425,7 +176281,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD0
-Encoding: 60368 60368 729
+Encoding: 60368 60368 725
 Width: 2160
 VWidth: 999
 GlyphClass: 3
@@ -181667,7 +177523,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD1
-Encoding: 60369 60369 730
+Encoding: 60369 60369 726
 Width: 1470
 VWidth: 999
 Flags: W
@@ -182758,7 +178614,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD2
-Encoding: 60370 60370 731
+Encoding: 60370 60370 727
 Width: 2470
 VWidth: 999
 GlyphClass: 3
@@ -183915,7 +179771,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD3
-Encoding: 60371 60371 732
+Encoding: 60371 60371 728
 Width: 2600
 VWidth: 999
 GlyphClass: 3
@@ -185216,7 +181072,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD5
-Encoding: 60373 60373 733
+Encoding: 60373 60373 729
 Width: 1015
 VWidth: 999
 Flags: W
@@ -185931,7 +181787,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD6
-Encoding: 60374 60374 734
+Encoding: 60374 60374 730
 Width: 1490
 VWidth: 999
 Flags: W
@@ -186873,7 +182729,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD7
-Encoding: 60375 60375 735
+Encoding: 60375 60375 731
 Width: 200
 Flags: W
 HStem: 206 108<59.6493 128.174>
@@ -186965,7 +182821,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD8
-Encoding: 60376 60376 736
+Encoding: 60376 60376 732
 Width: 376
 Flags: W
 HStem: 0 21G<257.832 278> 206 108<59.0884 127.009>
@@ -187073,7 +182929,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBD9
-Encoding: 60377 60377 737
+Encoding: 60377 60377 733
 Width: 690
 VWidth: 999
 Flags: W
@@ -187173,7 +183029,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBDA
-Encoding: 60378 60378 738
+Encoding: 60378 60378 734
 Width: 690
 VWidth: 999
 Flags: W
@@ -187289,7 +183145,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBDB
-Encoding: 60379 60379 739
+Encoding: 60379 60379 735
 Width: 1000
 VWidth: 999
 LayerCount: 3
@@ -187297,7 +183153,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBDC
-Encoding: 60380 60380 740
+Encoding: 60380 60380 736
 Width: 1000
 VWidth: 999
 LayerCount: 3
@@ -187305,7 +183161,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBDD
-Encoding: 60381 60381 741
+Encoding: 60381 60381 737
 Width: 1000
 VWidth: 999
 LayerCount: 3
@@ -187313,7 +183169,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBDE
-Encoding: 60382 60382 742
+Encoding: 60382 60382 738
 Width: 1000
 VWidth: 999
 LayerCount: 3
@@ -187321,7 +183177,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBDF
-Encoding: 60383 60383 743
+Encoding: 60383 60383 739
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -187329,7 +183185,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE0
-Encoding: 60384 60384 744
+Encoding: 60384 60384 740
 Width: 610
 Flags: W
 HStem: 448 126<481.639 537.78>
@@ -187406,7 +183262,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE1
-Encoding: 60385 60385 745
+Encoding: 60385 60385 741
 Width: 625
 Flags: W
 HStem: 0 21G<33 46.4818> 298 77<-20.9301 57.1549> 450 126<477.57 533.674>
@@ -187680,7 +183536,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE3
-Encoding: 60387 60387 746
+Encoding: 60387 60387 742
 Width: 225
 Flags: W
 VStem: -82 291
@@ -187749,7 +183605,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE4
-Encoding: 60388 60388 747
+Encoding: 60388 60388 743
 Width: 215
 Flags: W
 HStem: 0 21G<32.0364 40.5> 299 77<-17.9674 56.7705>
@@ -187814,7 +183670,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE5
-Encoding: 60389 60389 748
+Encoding: 60389 60389 744
 Width: 294
 Flags: W
 HStem: 371 125<52 127.621>
@@ -187883,7 +183739,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE6
-Encoding: 60390 60390 749
+Encoding: 60390 60390 745
 Width: 422
 Flags: W
 HStem: 371 125<52 127.621>
@@ -187962,7 +183818,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE7
-Encoding: 60391 60391 750
+Encoding: 60391 60391 746
 Width: 422
 Flags: W
 HStem: 371 125<52 125.449>
@@ -188060,7 +183916,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE8
-Encoding: 60392 60392 751
+Encoding: 60392 60392 747
 Width: 255
 Flags: W
 HStem: 73 18<144.766 181.683> 259 104<91.4398 174.777>
@@ -188123,7 +183979,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBE9
-Encoding: 60393 60393 752
+Encoding: 60393 60393 748
 Width: 425
 Flags: W
 HStem: 73 18<145.766 182.683> 259 104<92.4398 175.777>
@@ -188200,7 +184056,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBEA
-Encoding: 60394 60394 753
+Encoding: 60394 60394 749
 Width: 525
 Flags: W
 HStem: 73 18<132.553 145.623> 206 108<77.5653 145.933> 289 134<409.67 473.174>
@@ -188305,7 +184161,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBEB
-Encoding: 60395 60395 754
+Encoding: 60395 60395 750
 Width: 490
 VWidth: 999
 Flags: W
@@ -188420,7 +184276,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBEC
-Encoding: 60396 60396 755
+Encoding: 60396 60396 751
 Width: 640
 VWidth: 999
 Flags: W
@@ -188542,7 +184398,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBED
-Encoding: 60397 60397 756
+Encoding: 60397 60397 752
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188550,7 +184406,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBEE
-Encoding: 60398 60398 757
+Encoding: 60398 60398 753
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188558,7 +184414,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBEF
-Encoding: 60399 60399 758
+Encoding: 60399 60399 754
 Width: 615
 Flags: W
 HStem: -20 20G<-47.5 -32> 450 126<481.639 537.78>
@@ -188662,7 +184518,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF0
-Encoding: 60400 60400 759
+Encoding: 60400 60400 755
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188670,7 +184526,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF1
-Encoding: 60401 60401 760
+Encoding: 60401 60401 756
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188678,7 +184534,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF2
-Encoding: 60402 60402 761
+Encoding: 60402 60402 757
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188686,7 +184542,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF3
-Encoding: 60403 60403 762
+Encoding: 60403 60403 758
 Width: 264
 Flags: W
 VStem: -90 315
@@ -188771,7 +184627,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF4
-Encoding: 60404 60404 763
+Encoding: 60404 60404 759
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188779,7 +184635,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF5
-Encoding: 60405 60405 764
+Encoding: 60405 60405 760
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -188787,7 +184643,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF6
-Encoding: 60406 60406 765
+Encoding: 60406 60406 761
 Width: 750
 Flags: W
 HStem: 545 125<636.716 693.791>
@@ -188892,7 +184748,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF7
-Encoding: 60407 60407 766
+Encoding: 60407 60407 762
 Width: 750
 Flags: W
 HStem: 545 125<638.298 693.791>
@@ -189046,7 +184902,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF8
-Encoding: 60408 60408 767
+Encoding: 60408 60408 763
 Width: 750
 Flags: W
 HStem: 0 21G<460.846 481> 545 125<638.298 693.791>
@@ -189184,7 +185040,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBF9
-Encoding: 60409 60409 768
+Encoding: 60409 60409 764
 Width: 755
 VWidth: 999
 Flags: W
@@ -189279,7 +185135,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBFA
-Encoding: 60410 60410 769
+Encoding: 60410 60410 765
 Width: 715
 Flags: W
 HStem: -24 20G<-57 -43.5> 0 21G<139.869 142> 438 20G<280.269 312> 450 126<587.592 644.113>
@@ -189400,7 +185256,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBFB
-Encoding: 60411 60411 770
+Encoding: 60411 60411 766
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189408,7 +185264,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBFC
-Encoding: 60412 60412 771
+Encoding: 60412 60412 767
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189416,7 +185272,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBFD
-Encoding: 60413 60413 772
+Encoding: 60413 60413 768
 Width: 775
 VWidth: 999
 Flags: W
@@ -189492,7 +185348,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBFE
-Encoding: 60414 60414 773
+Encoding: 60414 60414 769
 Width: 775
 Flags: W
 HStem: 556 127<620.046 686.629>
@@ -189642,7 +185498,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEBFF
-Encoding: 60415 60415 774
+Encoding: 60415 60415 770
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189650,7 +185506,7 @@ Colour: ffa600
 EndChar
 
 StartChar: uniEE0F
-Encoding: 60943 60943 775
+Encoding: 60943 60943 771
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189658,7 +185514,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE18
-Encoding: 60952 60952 776
+Encoding: 60952 60952 772
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189666,7 +185522,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE19
-Encoding: 60953 60953 777
+Encoding: 60953 60953 773
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189674,7 +185530,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE1A
-Encoding: 60954 60954 778
+Encoding: 60954 60954 774
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189682,7 +185538,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE1B
-Encoding: 60955 60955 779
+Encoding: 60955 60955 775
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189690,7 +185546,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE1C
-Encoding: 60956 60956 780
+Encoding: 60956 60956 776
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189698,7 +185554,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE1D
-Encoding: 60957 60957 781
+Encoding: 60957 60957 777
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189706,7 +185562,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE1E
-Encoding: 60958 60958 782
+Encoding: 60958 60958 778
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189714,7 +185570,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE20
-Encoding: 60960 60960 783
+Encoding: 60960 60960 779
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189722,7 +185578,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE21
-Encoding: 60961 60961 784
+Encoding: 60961 60961 780
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189730,7 +185586,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE22
-Encoding: 60962 60962 785
+Encoding: 60962 60962 781
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189738,7 +185594,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE23
-Encoding: 60963 60963 786
+Encoding: 60963 60963 782
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189746,7 +185602,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE24
-Encoding: 60964 60964 787
+Encoding: 60964 60964 783
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189754,7 +185610,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE25
-Encoding: 60965 60965 788
+Encoding: 60965 60965 784
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189762,7 +185618,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE26
-Encoding: 60966 60966 789
+Encoding: 60966 60966 785
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189770,7 +185626,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE27
-Encoding: 60967 60967 790
+Encoding: 60967 60967 786
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189778,7 +185634,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE28
-Encoding: 60968 60968 791
+Encoding: 60968 60968 787
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189786,7 +185642,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE29
-Encoding: 60969 60969 792
+Encoding: 60969 60969 788
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189794,7 +185650,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE2A
-Encoding: 60970 60970 793
+Encoding: 60970 60970 789
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189802,7 +185658,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE2B
-Encoding: 60971 60971 794
+Encoding: 60971 60971 790
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189810,7 +185666,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE2C
-Encoding: 60972 60972 795
+Encoding: 60972 60972 791
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189818,7 +185674,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE2D
-Encoding: 60973 60973 796
+Encoding: 60973 60973 792
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189826,7 +185682,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE2E
-Encoding: 60974 60974 797
+Encoding: 60974 60974 793
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189834,7 +185690,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE2F
-Encoding: 60975 60975 798
+Encoding: 60975 60975 794
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189842,7 +185698,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE3D
-Encoding: 60989 60989 799
+Encoding: 60989 60989 795
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189850,7 +185706,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE3E
-Encoding: 60990 60990 800
+Encoding: 60990 60990 796
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189858,7 +185714,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE3F
-Encoding: 60991 60991 801
+Encoding: 60991 60991 797
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189866,7 +185722,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE40
-Encoding: 60992 60992 802
+Encoding: 60992 60992 798
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189874,7 +185730,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE41
-Encoding: 60993 60993 803
+Encoding: 60993 60993 799
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189882,7 +185738,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE42
-Encoding: 60994 60994 804
+Encoding: 60994 60994 800
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189890,7 +185746,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE43
-Encoding: 60995 60995 805
+Encoding: 60995 60995 801
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189898,7 +185754,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE44
-Encoding: 60996 60996 806
+Encoding: 60996 60996 802
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189906,7 +185762,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE45
-Encoding: 60997 60997 807
+Encoding: 60997 60997 803
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189914,7 +185770,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE46
-Encoding: 60998 60998 808
+Encoding: 60998 60998 804
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189922,7 +185778,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE47
-Encoding: 60999 60999 809
+Encoding: 60999 60999 805
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189930,7 +185786,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE48
-Encoding: 61000 61000 810
+Encoding: 61000 61000 806
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189938,7 +185794,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE49
-Encoding: 61001 61001 811
+Encoding: 61001 61001 807
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189946,7 +185802,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE4A
-Encoding: 61002 61002 812
+Encoding: 61002 61002 808
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189954,7 +185810,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE4B
-Encoding: 61003 61003 813
+Encoding: 61003 61003 809
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189962,7 +185818,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE4C
-Encoding: 61004 61004 814
+Encoding: 61004 61004 810
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189970,7 +185826,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE4D
-Encoding: 61005 61005 815
+Encoding: 61005 61005 811
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189978,7 +185834,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE4E
-Encoding: 61006 61006 816
+Encoding: 61006 61006 812
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189986,7 +185842,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE4F
-Encoding: 61007 61007 817
+Encoding: 61007 61007 813
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -189994,7 +185850,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE5D
-Encoding: 61021 61021 818
+Encoding: 61021 61021 814
 Width: 0
 VWidth: 999
 GlyphClass: 4
@@ -190086,17 +185942,17 @@ EndSplineSet
 Validated: 1
 Layer: 2
 SplineSet
-52 296 m 1,0,-1
- 22 0 l 1,1,-1
- 0 0 l 1,2,-1
- 30 296 l 1,3,-1
- 52 296 l 1,0,-1
+52 296 m 5,0,-1
+ 22 0 l 5,1,-1
+ 0 0 l 5,2,-1
+ 30 296 l 5,3,-1
+ 52 296 l 5,0,-1
 EndSplineSet
 Colour: ffb54c
 EndChar
 
 StartChar: uniEE5E
-Encoding: 61022 61022 819
+Encoding: 61022 61022 815
 Width: 0
 VWidth: 999
 GlyphClass: 4
@@ -190107,46 +185963,46 @@ AnchorPoint: "Zaderzhka" -140 600 mark 0
 LayerCount: 3
 Fore
 SplineSet
--90 511 m 0xa0
- -90 453 -100 337 -109 299 c 0
- -110 294 -114 292 -119 292 c 0
- -123 292 -128 297 -127 302 c 0xc0
- -120 355 -116 402 -116 441 c 0
- -116 481 -129 502 -155 505 c 1
- -161 505 l 2
- -189 505 -207 489 -215 458 c 0
- -216 453 -223 444 -225 451 c 0
- -225 453 -225 453 -225 455 c 0
- -222 510 -215 553 -205 582 c 0
- -192 620 -172 639 -146 639 c 0
- -114 639 -96 608 -91 545 c 0
- -90 535 -90 524 -90 511 c 0xa0
+-90 511 m 4xa0
+ -90 453 -100 337 -109 299 c 4
+ -110 294 -114 292 -119 292 c 4
+ -123 292 -128 297 -127 302 c 4xc0
+ -120 355 -116 402 -116 441 c 4
+ -116 481 -129 502 -155 505 c 5
+ -161 505 l 6
+ -189 505 -207 489 -215 458 c 4
+ -216 453 -223 444 -225 451 c 4
+ -225 453 -225 453 -225 455 c 4
+ -222 510 -215 553 -205 582 c 4
+ -192 620 -172 639 -146 639 c 4
+ -114 639 -96 608 -91 545 c 4
+ -90 535 -90 524 -90 511 c 4xa0
 EndSplineSet
 Layer: 2
 SplineSet
--109 299 m 0,0,1
- -111 292 -111 292 -119 292 c 0,2,3
- -121 292 -121 292 -124.5 294.5 c 128,-1,4
- -128 297 -128 297 -127 302 c 0,5,6
- -116 382 -116 382 -116 441 c 0,7,8
- -116 501 -116 501 -155 505 c 1,9,-1
- -161 505 l 2,10,11
- -203 505 -203 505 -215 458 c 0,12,13
- -216 450 -216 450 -222 449 c 0,14,15
- -224 448 -224 448 -225 451 c 0,16,17
- -225 453 -225 453 -225 455 c 0,18,19
- -220 538 -220 538 -205 582 c 0,20,21
- -185 639 -185 639 -146 639 c 0,22,23
- -98 639 -98 639 -91 545 c 0,24,25
- -90 530 -90 530 -90 511 c 0,26,27
- -90 470 -90 470 -94 416 c 0,28,29
- -100 336 -100 336 -109 299 c 0,0,1
+-109 299 m 4,0,1
+ -111 292 -111 292 -119 292 c 4,2,3
+ -121 292 -121 292 -124.5 294.5 c 132,-1,4
+ -128 297 -128 297 -127 302 c 4,5,6
+ -116 382 -116 382 -116 441 c 4,7,8
+ -116 501 -116 501 -155 505 c 5,9,-1
+ -161 505 l 6,10,11
+ -203 505 -203 505 -215 458 c 4,12,13
+ -216 450 -216 450 -222 449 c 4,14,15
+ -224 448 -224 448 -225 451 c 4,16,17
+ -225 453 -225 453 -225 455 c 4,18,19
+ -220 538 -220 538 -205 582 c 4,20,21
+ -185 639 -185 639 -146 639 c 4,22,23
+ -98 639 -98 639 -91 545 c 4,24,25
+ -90 530 -90 530 -90 511 c 4,26,27
+ -90 470 -90 470 -94 416 c 4,28,29
+ -100 336 -100 336 -109 299 c 4,0,1
 EndSplineSet
 Colour: ffb54c
 EndChar
 
 StartChar: uniEE5F
-Encoding: 61023 61023 820
+Encoding: 61023 61023 816
 Width: 0
 VWidth: 999
 Flags: W
@@ -190196,7 +186052,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE99
-Encoding: 61081 61081 821
+Encoding: 61081 61081 817
 Width: 325
 VWidth: 999
 GlyphClass: 2
@@ -190266,7 +186122,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE64
-Encoding: 61028 61028 822
+Encoding: 61028 61028 818
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190274,7 +186130,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE65
-Encoding: 61029 61029 823
+Encoding: 61029 61029 819
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190282,7 +186138,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE66
-Encoding: 61030 61030 824
+Encoding: 61030 61030 820
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190290,7 +186146,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE67
-Encoding: 61031 61031 825
+Encoding: 61031 61031 821
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190298,7 +186154,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE6A
-Encoding: 61034 61034 826
+Encoding: 61034 61034 822
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190306,7 +186162,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE6B
-Encoding: 61035 61035 827
+Encoding: 61035 61035 823
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190314,7 +186170,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE6C
-Encoding: 61036 61036 828
+Encoding: 61036 61036 824
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190322,7 +186178,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE6D
-Encoding: 61037 61037 829
+Encoding: 61037 61037 825
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190330,7 +186186,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE6E
-Encoding: 61038 61038 830
+Encoding: 61038 61038 826
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190338,7 +186194,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE6F
-Encoding: 61039 61039 831
+Encoding: 61039 61039 827
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190346,7 +186202,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEA6
-Encoding: 61094 61094 832
+Encoding: 61094 61094 828
 Width: 750
 VWidth: 999
 Flags: W
@@ -190435,7 +186291,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEA7
-Encoding: 61095 61095 833
+Encoding: 61095 61095 829
 Width: 760
 VWidth: 999
 Flags: W
@@ -190542,7 +186398,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEA8
-Encoding: 61096 61096 834
+Encoding: 61096 61096 830
 Width: 925
 VWidth: 999
 Flags: W
@@ -190677,7 +186533,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEA9
-Encoding: 61097 61097 835
+Encoding: 61097 61097 831
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -190685,7 +186541,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE94
-Encoding: 61076 61076 836
+Encoding: 61076 61076 832
 Width: 470
 Flags: W
 HStem: 137 134<346.569 411.563>
@@ -190787,7 +186643,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE95
-Encoding: 61077 61077 837
+Encoding: 61077 61077 833
 Width: 472
 VWidth: 999
 Flags: W
@@ -190914,7 +186770,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE96
-Encoding: 61078 61078 838
+Encoding: 61078 61078 834
 Width: 485
 VWidth: 0
 Flags: W
@@ -190937,16 +186793,16 @@ AnchorPoint: "Otsechka" 583 22 basechar 0
 AnchorPoint: "Shaidur" 11 191 basechar 0
 LayerCount: 3
 Fore
-Refer: 821 61081 N 1 0 0 1 164 72 2
+Refer: 817 61081 N 1 0 0 1 164 72 2
 Refer: 202 61071 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 821 61081 N 1 0 0 1 164 72 2
+Refer: 817 61081 N 1 0 0 1 164 72 2
 Refer: 202 61071 N 1 0 0 1 0 0 2
 Colour: ffb54c
 EndChar
 
 StartChar: uniEE98
-Encoding: 61080 61080 839
+Encoding: 61080 61080 835
 Width: 335
 GlyphClass: 2
 Flags: W
@@ -191038,7 +186894,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE97
-Encoding: 61079 61079 840
+Encoding: 61079 61079 836
 Width: 495
 VWidth: 0
 Flags: W
@@ -191157,7 +187013,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB0
-Encoding: 61104 61104 841
+Encoding: 61104 61104 837
 Width: 785
 VWidth: 999
 Flags: W
@@ -191249,7 +187105,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB2
-Encoding: 61106 61106 842
+Encoding: 61106 61106 838
 Width: 930
 Flags: W
 HStem: 0 21G<350.011 365.5> 65 134<57.8267 123.563> 89 134<217.827 283.563> 451 125<797.474 863.206>
@@ -191366,7 +187222,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB3
-Encoding: 61107 61107 843
+Encoding: 61107 61107 839
 Width: 935
 Flags: W
 HStem: -6.4 315 0 21G<350.011 365.5> 65 134<57.8267 123.563> 89 134<217.827 283.563> 112.6 21G<687.89 694> 451 125<797.474 863.206>
@@ -191389,15 +187245,15 @@ AnchorPoint: "Shaidur" 262 368 basechar 0
 LayerCount: 3
 Fore
 Refer: 176 61009 N 1 0 0 1 1040 -346.4 2
-Refer: 842 61106 N 1 0 0 1 0 0 2
+Refer: 838 61106 N 1 0 0 1 0 0 2
 Layer: 2
 Refer: 176 61009 N 1 0 0 1 1040 -346.4 2
-Refer: 842 61106 N 1 0 0 1 0 0 2
+Refer: 838 61106 N 1 0 0 1 0 0 2
 Colour: ffb54c
 EndChar
 
 StartChar: uniEEB4
-Encoding: 61108 61108 844
+Encoding: 61108 61108 840
 Width: 920
 VWidth: 999
 Flags: W
@@ -191515,7 +187371,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB5
-Encoding: 61109 61109 845
+Encoding: 61109 61109 841
 Width: 865
 VWidth: 999
 Flags: W
@@ -191629,7 +187485,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB6
-Encoding: 61110 61110 846
+Encoding: 61110 61110 842
 Width: 760
 VWidth: 999
 Flags: W
@@ -191720,7 +187576,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB7
-Encoding: 61111 61111 847
+Encoding: 61111 61111 843
 Width: 730
 VWidth: 999
 Flags: W
@@ -191828,7 +187684,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEB9
-Encoding: 61113 61113 848
+Encoding: 61113 61113 844
 Width: 540
 VWidth: 999
 Flags: W
@@ -191918,7 +187774,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEBA
-Encoding: 61114 61114 849
+Encoding: 61114 61114 845
 Width: 960
 VWidth: 0
 Flags: W
@@ -192030,7 +187886,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEBD
-Encoding: 61117 61117 850
+Encoding: 61117 61117 846
 Width: 575
 VWidth: 999
 Flags: W
@@ -192110,7 +187966,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEBE
-Encoding: 61118 61118 851
+Encoding: 61118 61118 847
 Width: 751
 VWidth: 999
 Flags: W
@@ -192133,16 +187989,16 @@ AnchorPoint: "Otsechka" 849.983 519.036 basechar 0
 AnchorPoint: "Shaidur" 851.267 518.435 basechar 0
 LayerCount: 3
 Fore
-Refer: 850 61117 N 1 0 0 1 167 97 2
+Refer: 846 61117 N 1 0 0 1 167 97 2
 Refer: 202 61071 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 850 61117 N 1 0 0 1 167 97 2
+Refer: 846 61117 N 1 0 0 1 167 97 2
 Refer: 202 61071 N 1 0 0 1 0 0 2
 Colour: ffb54c
 EndChar
 
 StartChar: uniEEBF
-Encoding: 61119 61119 852
+Encoding: 61119 61119 848
 Width: 615
 Flags: W
 HStem: 256 60<160.288 423.515>
@@ -192186,7 +188042,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC0
-Encoding: 61120 61120 853
+Encoding: 61120 61120 849
 Width: 660
 VWidth: 999
 Flags: W
@@ -192269,7 +188125,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC1
-Encoding: 61121 61121 854
+Encoding: 61121 61121 850
 Width: 250
 VWidth: 999
 Flags: W
@@ -192341,7 +188197,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC2
-Encoding: 61122 61122 855
+Encoding: 61122 61122 851
 Width: 650
 VWidth: 999
 Flags: W
@@ -192436,7 +188292,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC3
-Encoding: 61123 61123 856
+Encoding: 61123 61123 852
 Width: 490
 VWidth: 999
 Flags: W
@@ -192530,7 +188386,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC4
-Encoding: 61124 61124 857
+Encoding: 61124 61124 853
 Width: 640
 VWidth: 999
 Flags: W
@@ -192637,7 +188493,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC5
-Encoding: 61125 61125 858
+Encoding: 61125 61125 854
 Width: 690
 VWidth: 999
 Flags: W
@@ -192730,7 +188586,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC6
-Encoding: 61126 61126 859
+Encoding: 61126 61126 855
 Width: 830
 VWidth: 999
 Flags: W
@@ -192838,7 +188694,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC8
-Encoding: 61128 61128 860
+Encoding: 61128 61128 856
 Width: 1090
 VWidth: 999
 Flags: W
@@ -192970,7 +188826,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEC9
-Encoding: 61129 61129 861
+Encoding: 61129 61129 857
 Width: 675
 VWidth: 0
 Flags: W
@@ -193068,7 +188924,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEECA
-Encoding: 61130 61130 862
+Encoding: 61130 61130 858
 Width: 815
 VWidth: 0
 Flags: W
@@ -193194,7 +189050,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEECD
-Encoding: 61133 61133 863
+Encoding: 61133 61133 859
 Width: 615
 VWidth: 999
 Flags: W
@@ -193274,7 +189130,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEECE
-Encoding: 61134 61134 864
+Encoding: 61134 61134 860
 Width: 605
 VWidth: 999
 Flags: W
@@ -193390,7 +189246,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEECF
-Encoding: 61135 61135 865
+Encoding: 61135 61135 861
 Width: 600
 VWidth: 0
 Flags: W
@@ -193521,7 +189377,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED0
-Encoding: 61136 61136 866
+Encoding: 61136 61136 862
 Width: 600
 VWidth: 999
 Flags: W
@@ -193620,7 +189476,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED2
-Encoding: 61138 61138 867
+Encoding: 61138 61138 863
 Width: 615
 VWidth: 0
 Flags: W
@@ -193720,7 +189576,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED3
-Encoding: 61139 61139 868
+Encoding: 61139 61139 864
 Width: 605
 VWidth: 999
 Flags: W
@@ -193835,7 +189691,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED4
-Encoding: 61140 61140 869
+Encoding: 61140 61140 865
 Width: 795
 Flags: W
 HStem: 0 21G<13.6529 28> 592 128<658.414 730.364> 652 20G<408.269 440>
@@ -193960,7 +189816,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED6
-Encoding: 61142 61142 870
+Encoding: 61142 61142 866
 Width: 300
 Flags: W
 HStem: 0 21G<77.9048 81>
@@ -194039,7 +189895,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE2
-Encoding: 61154 61154 871
+Encoding: 61154 61154 867
 Width: 837
 VWidth: 0
 Flags: W
@@ -194890,7 +190746,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE3
-Encoding: 61155 61155 872
+Encoding: 61155 61155 868
 Width: 837
 VWidth: 0
 Flags: W
@@ -195802,7 +191658,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE4
-Encoding: 61156 61156 873
+Encoding: 61156 61156 869
 Width: 837
 VWidth: 0
 Flags: W
@@ -196706,7 +192562,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEECB
-Encoding: 61131 61131 874
+Encoding: 61131 61131 870
 Width: 960
 VWidth: 999
 Flags: W
@@ -196848,7 +192704,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEB45
-Encoding: 60229 60229 875
+Encoding: 60229 60229 871
 Width: 244
 VWidth: 999
 Flags: W
@@ -196893,7 +192749,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE6
-Encoding: 61158 61158 876
+Encoding: 61158 61158 872
 Width: 755
 VWidth: 999
 Flags: W
@@ -196980,7 +192836,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEEC
-Encoding: 61164 61164 877
+Encoding: 61164 61164 873
 Width: 765
 VWidth: 999
 Flags: W
@@ -197090,7 +192946,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEEF
-Encoding: 61167 61167 878
+Encoding: 61167 61167 874
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197098,7 +192954,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF3
-Encoding: 61171 61171 879
+Encoding: 61171 61171 875
 Width: 720
 VWidth: 999
 Flags: W
@@ -197208,7 +193064,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF4
-Encoding: 61172 61172 880
+Encoding: 61172 61172 876
 Width: 735
 VWidth: 999
 Flags: W
@@ -197348,7 +193204,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF5
-Encoding: 61173 61173 881
+Encoding: 61173 61173 877
 Width: 725
 VWidth: 0
 Flags: W
@@ -197503,7 +193359,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF6
-Encoding: 61174 61174 882
+Encoding: 61174 61174 878
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197511,7 +193367,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF8
-Encoding: 61176 61176 883
+Encoding: 61176 61176 879
 Width: 936
 Flags: W
 HStem: 0 21G<13.0417 33> 602 125<814.157 870.865> 654 20G<577.252 609>
@@ -197621,7 +193477,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF9
-Encoding: 61177 61177 884
+Encoding: 61177 61177 880
 Width: 1088
 VWidth: 999
 Flags: W
@@ -197763,7 +193619,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEFA
-Encoding: 61178 61178 885
+Encoding: 61178 61178 881
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197771,7 +193627,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEFB
-Encoding: 61179 61179 886
+Encoding: 61179 61179 882
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197779,7 +193635,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEFC
-Encoding: 61180 61180 887
+Encoding: 61180 61180 883
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197787,7 +193643,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEFD
-Encoding: 61181 61181 888
+Encoding: 61181 61181 884
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197795,7 +193651,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEFE
-Encoding: 61182 61182 889
+Encoding: 61182 61182 885
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197803,7 +193659,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEFF
-Encoding: 61183 61183 890
+Encoding: 61183 61183 886
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -197811,166 +193667,21 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEA73
-Encoding: 60019 60019 891
-Width: 411
+Encoding: 60019 60019 887
+Width: 405
 VWidth: 999
 GlyphClass: 3
 Flags: W
-HStem: 0 21G<8.6 15.5 229.875 249>
-DStem2: 228 0 249 11 0.0980107 0.995185<13.0053 96.4199 205.943 265.277>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 21
- 1
- 0
-CALL
-PUSHB_1
- 34
-SHP[rp1]
-SVTCA[x-axis]
-PUSHB_1
- 45
-MDAP[rnd]
-PUSHB_2
- 46
- 1
-CALL
-PUSHB_1
- 54
-SMD
-PUSHW_3
- 16305
- -1606
- 21
-CALL
-SPVFS
-PUSHB_1
- 21
-MDAP[no-rnd]
-SFVTPV
-PUSHB_1
- 13
-MDRP[grey]
-PUSHB_2
- 20
- 7
-MIRP[rp0,min,black]
-PUSHB_1
- 14
-MDRP[grey]
-PUSHB_1
- 21
-SRP0
-PUSHB_4
- 12
- 21
- 13
- 19
-CALL
-PUSHB_1
- 20
-SRP0
-PUSHB_4
- 15
- 20
- 14
- 19
-CALL
-PUSHB_4
- 19
- 20
- 14
- 19
-CALL
-PUSHB_1
- 21
-SRP0
-PUSHB_4
- 22
- 21
- 13
- 19
-CALL
-PUSHB_3
- 22
- 21
- 13
-DUP
-ROLL
-DUP
-ROLL
-SWAP
-SPVTL[parallel]
-SFVTPV
-SRP1
-SRP2
-IP
-PUSHB_1
- 12
-IP
-PUSHB_3
- 19
- 20
- 14
-SRP1
-SRP2
-IP
-PUSHB_1
- 15
-IP
-SVTCA[y-axis]
-PUSHB_7
- 12
- 13
- 14
- 15
- 19
- 20
- 22
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[x-axis]
-PUSHB_8
- 12
- 13
- 14
- 15
- 19
- 20
- 21
- 22
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-PUSHB_1
- 64
-SMD
-SVTCA[x-axis]
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 AnchorPoint: "Podtinka" 11 -16 basechar 0
 AnchorPoint: "Zevok" 228 464 basechar 0
 AnchorPoint: "Udarka" 229 464 basechar 0
 AnchorPoint: "Kupnaya" 193 -108 basechar 0
 AnchorPoint: "Kachka" 228 465 basechar 0
 AnchorPoint: "Lomka" 229 464 basechar 0
-AnchorPoint: "Tikhaya" 62 110.5 basechar 0
+AnchorPoint: "Tikhaya" 62 110 basechar 0
 AnchorPoint: "Oblachko" 230 464 basechar 0
 AnchorPoint: "Podchashie" 228 464 basechar 0
-AnchorPoint: "Zaderzhka" 228 463.9 basechar 0
+AnchorPoint: "Zaderzhka" 228 464 basechar 0
 AnchorPoint: "Tonal" 229 500 basechar 0
 AnchorPoint: "Podvertka" 229 464 basechar 0
 AnchorPoint: "Borzaya" 229 464 basechar 0
@@ -197979,87 +193690,89 @@ AnchorPoint: "Shaidur" 13 187 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-268 415 m 1
- 289 481 404 523 404 523 c 1
- 388 427 l 1
- 388 427 271 378 250 315 c 1
- 268 415 l 1
-203 141 m 1
- 211 157 228 173 246 187 c 1
- 254 264 l 1
- 275 275 l 1
- 268 203 l 1
- 292 218 313 229 313 229 c 1
- 300 134 l 1
- 300 134 281 125 259 110 c 1
- 249 11 l 1
- 228 0 l 1
- 237 96 l 1
- 217 81 198 62 188 43 c 1
- 203 141 l 1
-23 100 m 1
- 44 166 159 208 159 208 c 1
- 143 112 l 1
- 143 112 26 63 5 0 c 1
- 23 100 l 1
-83 290 m 1
- 104 356 219 398 219 398 c 1
- 203 302 l 1
- 203 302 86 253 65 190 c 1
- 83 290 l 1
+261 438 m 1
+ 267 456 280 472 298 485 c 0
+ 316 498 332 507 347 511 c 2
+ 370 518 l 1
+ 360 394 l 1
+ 307 377 272 358 249 312 c 1
+ 261 438 l 1
+86 343 m 1
+ 92 361 104 377 122 390 c 0
+ 140 403 157 412 172 416 c 2
+ 195 423 l 1
+ 185 299 l 1
+ 132 282 97 263 74 217 c 1
+ 86 343 l 1
+22 87 m 1
+ 28 105 40 121 58 134 c 0
+ 76 147 93 156 108 160 c 2
+ 131 167 l 1
+ 121 43 l 1
+ 68 26 33 7 10 -39 c 1
+ 22 87 l 1
+259 103 m 1
+ 247 -13 l 1
+ 225 -19 l 1
+ 235 91 l 1
+ 212 78 196 61 186 40 c 1
+ 198 166 l 1
+ 205 187 222 205 248 219 c 1
+ 255 281 l 1
+ 278 289 l 1
+ 275 257 274 263 271 230 c 1
+ 287 237 304 242 323 246 c 1
+ 313 122 l 1
+ 296 118 278 112 259 103 c 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
-268 415 m 1,0,1
- 277 444 277 444 311 471 c 128,-1,2
- 345 498 345 498 374.5 510.5 c 2,3,-1
- 404 523 l 1,4,-1
- 388 427 l 1,5,6
- 375 421 375 421 355 411.5 c 128,-1,7
- 335 402 335 402 297 372.5 c 128,-1,8
- 259 343 259 343 250 315 c 1,9,-1
- 268 415 l 1,0,1
-203 141 m 1,10,11
- 213 162 213 162 246 187 c 1,12,-1
- 254 264 l 1,13,-1
- 275 275 l 1,14,-1
- 268 203 l 1,15,-1
- 313 229 l 1,16,-1
- 300 134 l 1,17,18
- 281 125 281 125 259 110 c 1,19,-1
- 249 11 l 1,20,-1
- 228 0 l 1,21,-1
- 237 96 l 1,22,23
- 202 70 202 70 188 43 c 1,24,-1
- 203 141 l 1,10,11
-23 100 m 1,25,26
- 32 129 32 129 66 156 c 128,-1,27
- 100 183 100 183 129.5 195.5 c 2,28,-1
- 159 208 l 1,29,-1
- 143 112 l 1,30,31
- 130 106 130 106 110 96.5 c 128,-1,32
- 90 87 90 87 52 57.5 c 128,-1,33
- 14 28 14 28 5 0 c 1,34,-1
- 23 100 l 1,25,26
-83 290 m 1,35,36
- 92 319 92 319 126 346 c 128,-1,37
- 160 373 160 373 189.5 385.5 c 2,38,-1
- 219 398 l 1,39,-1
- 203 302 l 1,40,41
- 190 296 190 296 170 286.5 c 128,-1,42
- 150 277 150 277 112 247.5 c 128,-1,43
- 74 218 74 218 65 190 c 1,44,-1
- 83 290 l 1,35,36
+261 438 m 1,0,1
+ 270 465 270 465 297.5 485 c 128,-1,2
+ 325 505 325 505 347 511 c 2,3,-1
+ 370 518 l 1,4,-1
+ 360 394 l 1,5,6
+ 320 381 320 381 293 363.5 c 128,-1,7
+ 266 346 266 346 249 312 c 1,8,-1
+ 261 438 l 1,0,1
+86 343 m 1,9,10
+ 95 370 95 370 122.5 390 c 128,-1,11
+ 150 410 150 410 172 416 c 2,12,-1
+ 195 423 l 1,13,-1
+ 185 299 l 1,14,15
+ 145 286 145 286 118 268.5 c 128,-1,16
+ 91 251 91 251 74 217 c 1,17,-1
+ 86 343 l 1,9,10
+22 87 m 1,18,19
+ 31 114 31 114 58.5 134 c 128,-1,20
+ 86 154 86 154 108 160 c 2,21,-1
+ 131 167 l 1,22,-1
+ 121 43 l 1,23,24
+ 81 30 81 30 54 12.5 c 128,-1,25
+ 27 -5 27 -5 10 -39 c 1,26,-1
+ 22 87 l 1,18,19
+259 103 m 1,27,-1
+ 247 -13 l 1,28,-1
+ 225 -19 l 1,29,-1
+ 235 91 l 1,30,31
+ 201 71 201 71 186 40 c 1,32,-1
+ 198 166 l 1,33,34
+ 209 198 209 198 248 219 c 1,35,-1
+ 255 281 l 1,36,-1
+ 278 289 l 1,37,38
+ 276 268 276 268 274.5 260.5 c 128,-1,39
+ 273 253 273 253 271 230 c 1,40,41
+ 295 240 295 240 323 246 c 1,42,-1
+ 313 122 l 1,43,44
+ 288 116 288 116 259 103 c 1,27,-1
 EndSplineSet
-Validated: 1
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE91 uniEE50
 Colour: 4cff40
 EndChar
 
 StartChar: uniEEB1
-Encoding: 61105 61105 892
+Encoding: 61105 61105 888
 Width: 804
 VWidth: 999
 Flags: W
@@ -198083,15 +193796,15 @@ AnchorPoint: "Shaidur" 153 368 basechar 0
 LayerCount: 3
 Fore
 Refer: 176 61009 N 1 0 0 1 906 -225 2
-Refer: 841 61104 N 1 0 0 1 9 0 2
+Refer: 837 61104 N 1 0 0 1 9 0 2
 Layer: 2
 Refer: 176 61009 N 1 0 0 1 906 -225 2
-Refer: 841 61104 N 1 0 0 1 9 0 2
+Refer: 837 61104 N 1 0 0 1 9 0 2
 Colour: ffb54c
 EndChar
 
 StartChar: uniEC46
-Encoding: 60486 60486 893
+Encoding: 60486 60486 889
 Width: 813
 VWidth: 2048
 Flags: W
@@ -198952,7 +194665,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC45
-Encoding: 60485 60485 894
+Encoding: 60485 60485 890
 Width: 806
 VWidth: 2048
 Flags: W
@@ -200342,7 +196055,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC47
-Encoding: 60487 60487 895
+Encoding: 60487 60487 891
 Width: 807
 VWidth: 2048
 Flags: W
@@ -201464,7 +197177,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEBD4
-Encoding: 60372 60372 896
+Encoding: 60372 60372 892
 Width: 1675
 VWidth: 999
 Flags: W
@@ -202368,7 +198081,7 @@ Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEED8 uni200D uniEEDA
 EndChar
 
 StartChar: uni2423
-Encoding: 9251 9251 897
+Encoding: 9251 9251 893
 Width: 414
 Flags: W
 HStem: 0 22<56.2172 355.346>
@@ -202467,7 +198180,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC48
-Encoding: 60488 60488 898
+Encoding: 60488 60488 894
 Width: 807
 Flags: W
 HStem: 18 88<2 41 766 805> 18 38<41 92 144 235 287 377 429 521 572 663 715 766> 147 89<2 41 765 804> 256 43<511.439 579.182> 286 88<2 41 765 804> 425 88<2 41 765 804> 564 89<2 41 765 804> 690 89<2 41 766 805> 740 39<41 92 144 235 287 377 429 521 572 663 715 766>
@@ -203409,7 +199122,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC49
-Encoding: 60489 60489 899
+Encoding: 60489 60489 895
 Width: 808
 Flags: W
 HStem: 17 88<3 42 767 806> 17 38<42 93 145 236 288 378 430 522 573 664 716 767> 107 44<221.288 326.182> 146 89<3 42 766 805> 204 38<483 546.043> 285 88<3 42 766 805> 319 42<268.192 359.235 481 548.834> 424 88<3 42 766 805> 428 39<587 657.59> 535 37<585 645.845> 563 89<3 42 766 805> 632 41<584 647.508> 689 89<3 42 767 806> 739 39<42 93 145 236 288 378 430 522 573 664 716 767>
@@ -204673,7 +200386,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC4A
-Encoding: 60490 60490 900
+Encoding: 60490 60490 896
 Width: 811
 Flags: W
 HStem: 17 88<4 43 768 807> 17 38<43 94 146 237 289 379 431 523 574 665 717 768> 146 89<4 43 767 806> 284 44<216.243 321.182> 285 88<4 43 767 806> 381 38<478 540.388> 424 88<4 43 767 806> 496 42<263.192 354.235 476 541.848> 563 89<4 43 767 806> 689 89<4 43 768 807> 739 39<43 94 146 237 289 379 431 523 574 665 717 768>
@@ -205511,7 +201224,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC4B
-Encoding: 60491 60491 901
+Encoding: 60491 60491 897
 Width: 853
 Flags: W
 HStem: 17 88<27 66 791 830> 17 38<66 117 169 260 312 402 454 546 597 688 740 791> 140 44<110.116 225.82> 146 89<27 66 790 829> 253 44<370 461> 285 88<27 66 790 829> 355 42<161.237 263.224> 424 88<27 66 790 829> 540 54<266 596> 563 89<27 66 790 829> 689 89<27 66 791 830> 739 39<66 117 169 260 312 402 454 546 597 688 740 791>
@@ -206469,7 +202182,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEC4C
-Encoding: 60492 60492 902
+Encoding: 60492 60492 898
 Width: 812
 Flags: W
 HStem: 17 88<5 44 769 808> 17 38<44 95 147 238 290 380 432 524 575 666 718 769> 107 44<227.288 332.182> 146 89<5 44 768 807> 204 38<489 551.388> 285 88<5 44 768 807> 319 42<274.192 365.235 487 554.834> 420 39<485.373 557.59> 424 88<5 44 768 807> 528 36<485 545.75> 563 89<5 44 768 807> 624 41<484 547.508> 689 89<5 44 769 808> 739 39<44 95 147 238 290 380 432 524 575 666 718 769>
@@ -207581,7 +203294,7 @@ Validated: 1
 EndChar
 
 StartChar: uniEEB8
-Encoding: 61112 61112 903
+Encoding: 61112 61112 899
 Width: 870
 VWidth: 799
 Flags: W
@@ -207714,7 +203427,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEE60
-Encoding: 61024 61024 904
+Encoding: 61024 61024 900
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -207738,25 +203451,25 @@ SplineSet
 EndSplineSet
 Layer: 2
 SplineSet
--75 209 m 1,0,1
- -89 72 l 1,2,-1
- -111 66 l 1,3,-1
- -99 197 l 1,4,5
- -133 177 -133 177 -148 146 c 1,6,-1
- -136 272 l 1,7,8
- -125 304 -125 304 -86 325 c 1,9,-1
- -78 406 l 1,10,-1
- -55 414 l 1,11,12
- -57 393 -57 393 -59 376 c 128,-1,13
- -61 359 -61 359 -63 336 c 1,14,15
- -39 346 -39 346 -11 352 c 1,16,-1
- -21 228 l 1,17,18
- -46 222 -46 222 -75 209 c 1,0,1
+-75 209 m 5,0,1
+ -89 72 l 5,2,-1
+ -111 66 l 5,3,-1
+ -99 197 l 5,4,5
+ -133 177 -133 177 -148 146 c 5,6,-1
+ -136 272 l 5,7,8
+ -125 304 -125 304 -86 325 c 5,9,-1
+ -78 406 l 5,10,-1
+ -55 414 l 5,11,12
+ -57 393 -57 393 -59 376 c 132,-1,13
+ -61 359 -61 359 -63 336 c 5,14,15
+ -39 346 -39 346 -11 352 c 5,16,-1
+ -21 228 l 5,17,18
+ -46 222 -46 222 -75 209 c 5,0,1
 EndSplineSet
 EndChar
 
 StartChar: uniEEC7
-Encoding: 61127 61127 905
+Encoding: 61127 61127 901
 Width: 972
 Flags: W
 HStem: 205 108<89.6072 157.817> 602 124<836.595 904.333>
@@ -207879,7 +203592,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEBB
-Encoding: 61115 61115 906
+Encoding: 61115 61115 902
 Width: 1075
 Flags: W
 HStem: 0 21G<15.0374 23.5> 683 125<951.949 1019.2>
@@ -207986,7 +203699,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEBC
-Encoding: 61116 61116 907
+Encoding: 61116 61116 903
 Width: 970
 Flags: W
 HStem: 0 21G<17.0417 25.5> 672 107<851.981 907.267>
@@ -208078,7 +203791,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE7
-Encoding: 61159 61159 908
+Encoding: 61159 61159 904
 Width: 765
 VWidth: 999
 Flags: W
@@ -208190,7 +203903,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE8
-Encoding: 61160 61160 909
+Encoding: 61160 61160 905
 Width: 780
 VWidth: 999
 Flags: W
@@ -208332,7 +204045,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE9
-Encoding: 61161 61161 910
+Encoding: 61161 61161 906
 Width: 755
 Flags: W
 HStem: 543 125<621.203 689.326>
@@ -208478,7 +204191,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEEA
-Encoding: 61162 61162 911
+Encoding: 61162 61162 907
 Width: 755
 Flags: W
 HStem: 541 126<621.533 677.681>
@@ -208614,7 +204327,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEED
-Encoding: 61165 61165 912
+Encoding: 61165 61165 908
 Width: 750
 Flags: W
 HStem: 556 127<620.046 686.348>
@@ -208737,7 +204450,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEEE
-Encoding: 61166 61166 913
+Encoding: 61166 61166 909
 Width: 745
 Flags: W
 HStem: 555 125<616.211 686.472> 663 20G<411 431.959>
@@ -208858,7 +204571,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF0
-Encoding: 61168 61168 914
+Encoding: 61168 61168 910
 Width: 950
 VWidth: 999
 Flags: W
@@ -208983,7 +204696,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF1
-Encoding: 61169 61169 915
+Encoding: 61169 61169 911
 Width: 950
 VWidth: 999
 Flags: W
@@ -209144,7 +204857,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEECC
-Encoding: 61132 61132 916
+Encoding: 61132 61132 912
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209152,7 +204865,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED1
-Encoding: 61137 61137 917
+Encoding: 61137 61137 913
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209160,7 +204873,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED5
-Encoding: 61141 61141 918
+Encoding: 61141 61141 914
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209168,7 +204881,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED7
-Encoding: 61143 61143 919
+Encoding: 61143 61143 915
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209176,7 +204889,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED8
-Encoding: 61144 61144 920
+Encoding: 61144 61144 916
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209184,7 +204897,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEED9
-Encoding: 61145 61145 921
+Encoding: 61145 61145 917
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209192,7 +204905,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEDA
-Encoding: 61146 61146 922
+Encoding: 61146 61146 918
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209200,7 +204913,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEDB
-Encoding: 61147 61147 923
+Encoding: 61147 61147 919
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209208,7 +204921,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEDC
-Encoding: 61148 61148 924
+Encoding: 61148 61148 920
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209216,7 +204929,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEDD
-Encoding: 61149 61149 925
+Encoding: 61149 61149 921
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209224,7 +204937,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEDE
-Encoding: 61150 61150 926
+Encoding: 61150 61150 922
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209232,7 +204945,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEDF
-Encoding: 61151 61151 927
+Encoding: 61151 61151 923
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209240,7 +204953,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEE5
-Encoding: 61157 61157 928
+Encoding: 61157 61157 924
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209248,7 +204961,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEEB
-Encoding: 61163 61163 929
+Encoding: 61163 61163 925
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209256,7 +204969,7 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF2
-Encoding: 61170 61170 930
+Encoding: 61170 61170 926
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -209264,11 +204977,28 @@ Colour: ffb54c
 EndChar
 
 StartChar: uniEEF7
-Encoding: 61175 61175 931
+Encoding: 61175 61175 927
 Width: 1000
 VWidth: 0
 LayerCount: 3
 Colour: ffb54c
+EndChar
+
+StartChar: uniEB61
+Encoding: 60257 60257 928
+Width: 628
+VWidth: 999
+Flags: W
+HStem: 0 21G<36.0417 51.0833> 283 134<469.67 531.391> 451 125<482.289 549.454>
+VStem: 529 18<70.0371 134.723> 540 26<114.36 295.5>
+LayerCount: 3
+Fore
+Refer: 815 61022 N 1 0 0 1 656 -222 2
+Refer: 190 61040 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 815 61022 N 1 0 0 1 656 -222 2
+Refer: 190 61040 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Demestvenny Ligatures-1" uniEE70 uniEE5E
 EndChar
 EndChars
 EndSplineFont
