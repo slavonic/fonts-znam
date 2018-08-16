@@ -978,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60183 27 9
+WinInfo: 60345 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -999,7 +999,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Podtinka" "'mark' Black Marking Positions-1" "DoubleShaidur" "'mkmk' Double Shaidur Attachment-1" "Zevok" "'mark' Cinnabar Indicatory Mark Positioning-1" "Udarka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kupnaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kachka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Lomka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Oblachko" "'mark' Black Marking Positions-1" "Podchashie" "'mark' Black Marking Positions-1" "Zaderzhka" "'mark' Black Marking Positions-1" "Tonal" "'mark' Black Marking Positions-1" "Podvertka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Borzaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Otsechka" "'mark' Black Marking Positions-1" "Shaidur" "'mark' Cinnabar Pitch Marking Positioning-1"
-BeginChars: 1114112 1137
+BeginChars: 1114112 1135
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -57595,7 +57595,7 @@ SplineSet
  302 432 302 432 302 445 c 2,28,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -58037,7 +58037,7 @@ SplineSet
  202 664 202 664 268 664 c 0,28,29
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE1
 Colour: faff80
 EndChar
@@ -58334,7 +58334,7 @@ SplineSet
  23 100 l 1,51,52
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEC uniEE58
 Colour: faff80
 EndChar
@@ -59252,7 +59252,7 @@ SplineSet
  23 100 l 1,38,39
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF2 uniEE50
 Colour: faff80
 EndChar
@@ -59538,7 +59538,7 @@ SplineSet
  23 100 l 1,39,40
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBC6 uniEE50
 Colour: faff80
 EndChar
@@ -59811,7 +59811,7 @@ SplineSet
  23 100 l 1,31,32
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE0
 Colour: faff80
 EndChar
@@ -60060,7 +60060,7 @@ SplineSet
  23 100 l 1,29,30
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE1
 Colour: faff80
 EndChar
@@ -73222,7 +73222,7 @@ SplineSet
  23 100 l 1,11,12
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE0
 Colour: faff80
 EndChar
@@ -73370,7 +73370,7 @@ SplineSet
  221 518 l 1,10,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE1
 Colour: faff80
 EndChar
@@ -73820,7 +73820,7 @@ SplineSet
  23 100 l 1,19,20
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE50
 Colour: faff80
 EndChar
@@ -74003,7 +74003,7 @@ SplineSet
  23 100 l 1,31,32
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -74158,7 +74158,7 @@ SplineSet
  23 100 l 1,29,30
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE51
 Colour: faff80
 EndChar
@@ -74314,7 +74314,7 @@ SplineSet
  208 225 l 1,29,30
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE51
 Colour: faff80
 EndChar
@@ -75218,7 +75218,7 @@ SplineSet
  23 100 l 1,53,54
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEB uniEE58
 Colour: faff80
 EndChar
@@ -75481,7 +75481,7 @@ SplineSet
  23 100 l 1,42,43
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF9 uniEE50
 Colour: faff80
 EndChar
@@ -75799,7 +75799,7 @@ SplineSet
  203 141 l 1,21,22
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE0
 Colour: faff80
 EndChar
@@ -76093,7 +76093,7 @@ SplineSet
  203 141 l 1,19,20
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE1
 Colour: faff80
 EndChar
@@ -76496,7 +76496,7 @@ SplineSet
  23 100 l 1,46,47
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE0
 Colour: faff80
 EndChar
@@ -77220,7 +77220,7 @@ SplineSet
  23 100 l 1,13,14
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE1
 Colour: faff80
 EndChar
@@ -77399,7 +77399,7 @@ SplineSet
  23 100 l 1,25,26
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -77550,7 +77550,7 @@ SplineSet
  237 244 l 1,29,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB03 uniEE50
 Colour: faff80
 EndChar
@@ -77702,7 +77702,7 @@ SplineSet
  237 244 l 1,29,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB04 uniEE50
 Colour: faff80
 EndChar
@@ -78004,7 +78004,7 @@ SplineSet
  473 27 473 27 473 40 c 2,35,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -78554,7 +78554,7 @@ SplineSet
  473 27 473 27 473 40 c 2,33,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE1 uniEE50
 Colour: faff80
 EndChar
@@ -80158,8 +80158,8 @@ Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE0
 Colour: faff80
 EndChar
 
-StartChar: uniEBF9
-Encoding: 60409 60409 430
+StartChar: uniEBD9
+Encoding: 60377 60377 430
 Width: 955
 Flags: W
 HStem: 576 98<836.388 904>
@@ -80428,8 +80428,7 @@ SplineSet
  24 66 l 1,37,38
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE1
 Colour: faff80
 EndChar
@@ -111411,8 +111410,8 @@ EndSplineSet
 Colour: ffa600
 EndChar
 
-StartChar: uniEBDD
-Encoding: 60381 60381 635
+StartChar: uniECA3
+Encoding: 60579 60579 635
 Width: 615
 VWidth: 0
 Flags: W
@@ -111444,8 +111443,8 @@ Refer: 657 60578 N 1 0 0 1 0 0 2
 Colour: ffa600
 EndChar
 
-StartChar: uniEBDE
-Encoding: 60382 60382 636
+StartChar: uniEB1E
+Encoding: 60190 60190 636
 Width: 780
 VWidth: 999
 Flags: W
@@ -111610,8 +111609,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE60
 Colour: ffa600
 EndChar
 
-StartChar: uniEBDF
-Encoding: 60383 60383 637
+StartChar: uniEB1D
+Encoding: 60189 60189 637
 Width: 780
 VWidth: 999
 Flags: W
@@ -111751,7 +111750,6 @@ SplineSet
  462 527 462 527 552 600 c 0,75,76
  645 677 645 677 666 677 c 0,49,50
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE5D
 Colour: ffa600
 EndChar
@@ -111909,8 +111907,8 @@ Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE4
 Colour: ffa600
 EndChar
 
-StartChar: uniEBE3
-Encoding: 60387 60387 640
+StartChar: uniEC5B
+Encoding: 60507 60507 640
 Width: 225
 Flags: W
 VStem: -82 291
@@ -111975,13 +111973,12 @@ SplineSet
  14 -73 14 -73 9 -63 c 0,41,42
  7 -60 7 -60 -7 -40 c 1,0,1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE3
 Colour: ffa600
 EndChar
 
-StartChar: uniEBE4
-Encoding: 60388 60388 641
+StartChar: uniEC5E
+Encoding: 60510 60510 641
 Width: 215
 Flags: W
 HStem: 0 21G<31.9895 40.5> 406 77<-7.96743 66.8916>
@@ -112045,8 +112042,8 @@ Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE4
 Colour: ffa600
 EndChar
 
-StartChar: uniEBE5
-Encoding: 60389 60389 642
+StartChar: uniEC72
+Encoding: 60530 60530 642
 Width: 294
 Flags: W
 HStem: 371 125<52 127.621>
@@ -112111,7 +112108,6 @@ SplineSet
  156 -112 156 -112 150 -102 c 0,41,42
  148 -99 148 -99 134 -79 c 1,0,1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE3
 Colour: ffa600
 EndChar
@@ -112192,7 +112188,7 @@ SplineSet
  156 -112 156 -112 150 -102 c 0,45,46
  148 -99 148 -99 134 -79 c 1,4,5
 EndSplineSet
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBE5 uniEE5A
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEC72 uniEE5A
 Colour: ffa600
 EndChar
 
@@ -134595,7 +134591,7 @@ SplineSet
  162 499 162 499 179 488.5 c 128,-1,24
  196 478 196 478 196 462 c 1,0,1
 EndSplineSet
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBE4 uniEEE2
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEC5E uniEEE2
 EndChar
 
 StartChar: u1CF00
@@ -138019,164 +138015,8 @@ EndSplineSet
 Colour: ffff
 EndChar
 
-StartChar: uniEB1D
-Encoding: 60189 60189 1041
-Width: 790
-VWidth: 999
-Flags: W
-HStem: 432 20G<665 680.387> 552 125<643.131 711.662>
-AnchorPoint: "Podtinka" 32 -144 basechar 0
-AnchorPoint: "Zevok" 688 650 basechar 0
-AnchorPoint: "Udarka" 542 26 basechar 0
-AnchorPoint: "Kupnaya" 440 -208 basechar 0
-AnchorPoint: "Kachka" 376 584 basechar 0
-AnchorPoint: "Lomka" 541 26 basechar 0
-AnchorPoint: "Tikhaya" 238 205 basechar 0
-AnchorPoint: "Oblachko" 374 585 basechar 0
-AnchorPoint: "Podchashie" 542 25 basechar 0
-AnchorPoint: "Zaderzhka" 794 570 basechar 0
-AnchorPoint: "Tonal" 377 449 basechar 0
-AnchorPoint: "Podvertka" 702 60 basechar 0
-AnchorPoint: "Borzaya" 122 404 basechar 0
-AnchorPoint: "Otsechka" 798 508 basechar 0
-AnchorPoint: "Shaidur" 124 406 basechar 0
-LayerCount: 3
-Fore
-SplineSet
-106 247 m 1
- 127 308 215 327 215 327 c 1
- 205 203 l 1
- 205 203 125 184 94 121 c 1
- 106 247 l 1
-42 -9 m 1
- 63 52 151 71 151 71 c 1
- 141 -53 l 1
- 141 -53 61 -72 30 -135 c 1
- 42 -9 l 1
-684 576 m 0
- 697 576 711 566 729 545 c 0
- 746 525 753 508 753 494 c 0
- 753 493 753 493 753 492 c 1
- 740 374 l 1
- 734 402 718 426 691 447 c 0
- 688 450 683 451 678 451 c 0
- 677 451 l 0
- 660 451 635 439 603 414 c 0
- 559 381 512 340 461 290 c 0
- 410 240 355 182 295 116 c 0
- 235 50 201 11 195 0 c 1
- 205 107 l 1
- 213 122 240 157 285 212 c 0
- 383 332 447 396 571 498 c 0
- 634 550 671 576 684 576 c 0
-298 24.1396 m 5
- 319 85.1396 382 94.1396 382 94.1396 c 5
- 372 -29.8604 l 5
- 372 -29.8604 317 -38.8604 286 -101.86 c 5
- 298 24.1396 l 5
-559 262.14 m 5
- 580 323.14 643 332.14 643 332.14 c 5
- 632 208.14 l 5
- 632 208.14 578 199.14 547 136.14 c 5
- 559 262.14 l 5
-428 143.14 m 5
- 449 204.14 512 213.14 512 213.14 c 5
- 502 89.1396 l 5
- 502 89.1396 447 80.1396 416 17.1396 c 5
- 428 143.14 l 5
-753 493 m 1
- 711 68 l 1
- 688 53 l 1
- 731 485 l 1
- 753 493 l 1
-EndSplineSet
-Colour: ffff
-EndChar
-
-StartChar: uniEB1E
-Encoding: 60190 60190 1042
-Width: 810
-VWidth: 999
-Flags: W
-HStem: 552 125<643.131 711.557>
-AnchorPoint: "Podtinka" 34 -145 basechar 0
-AnchorPoint: "Zevok" 688 652 basechar 0
-AnchorPoint: "Udarka" 542 26 basechar 0
-AnchorPoint: "Kupnaya" 440 -208 basechar 0
-AnchorPoint: "Kachka" 394 564 basechar 0
-AnchorPoint: "Lomka" 541 26 basechar 0
-AnchorPoint: "Tikhaya" 240 210 basechar 0
-AnchorPoint: "Oblachko" 394 563 basechar 0
-AnchorPoint: "Podchashie" 541 26 basechar 0
-AnchorPoint: "Zaderzhka" 804 558 basechar 0
-AnchorPoint: "Tonal" 391 455 basechar 0
-AnchorPoint: "Podvertka" 698 16 basechar 0
-AnchorPoint: "Borzaya" 140 408 basechar 0
-AnchorPoint: "Otsechka" 804 456 basechar 0
-AnchorPoint: "Shaidur" 40 316 basechar 0
-LayerCount: 3
-Fore
-SplineSet
-106 247 m 1
- 127 308 215 327 215 327 c 1
- 205 203 l 1
- 205 203 125 184 94 121 c 1
- 106 247 l 1
-42 -9 m 1
- 63 52 151 71 151 71 c 1
- 141 -53 l 1
- 141 -53 61 -72 30 -135 c 1
- 42 -9 l 1
-684 576 m 0
- 697 576 711 566 729 545 c 0
- 746 525 753 508 753 494 c 0
- 753 493 753 493 753 492 c 1
- 740 374 l 1
- 734 402 718 426 691 447 c 0
- 688 450 683 451 678 451 c 0
- 677 451 l 0
- 660 451 635 439 603 414 c 0
- 559 381 512 340 461 290 c 0
- 410 240 355 182 295 116 c 0
- 235 50 201 11 195 0 c 1
- 205 107 l 1
- 213 122 240 157 285 212 c 0
- 383 332 447 396 571 498 c 0
- 634 550 671 576 684 576 c 0
-298 24.1396 m 5
- 319 85.1396 382 94.1396 382 94.1396 c 5
- 372 -29.8604 l 5
- 372 -29.8604 317 -38.8604 286 -101.86 c 5
- 298 24.1396 l 5
-559 262.14 m 5
- 580 323.14 643 332.14 643 332.14 c 5
- 632 208.14 l 5
- 632 208.14 578 199.14 547 136.14 c 5
- 559 262.14 l 5
-428 143.14 m 5
- 449 204.14 512 213.14 512 213.14 c 5
- 502 89.1396 l 5
- 502 89.1396 447 80.1396 416 17.1396 c 5
- 428 143.14 l 5
-723.122 189.659 m 5
- 711 67 l 5
- 688 52 l 5
- 700.497 177.552 l 5
- 679.908 164.93 660.207 147.775 649 125 c 5
- 661 252 l 5
- 669.305 276.124 690.591 293.679 713.291 306.087 c 5
- 731 484 l 5
- 753 492 l 5
- 735.675 316.686 l 5
- 762.552 327.716 786 332 786 332 c 5
- 776 208 l 5
- 776 208 751.422 202.879 723.122 189.659 c 5
-EndSplineSet
-Colour: ffff
-EndChar
-
 StartChar: uniEB20
-Encoding: 60192 60192 1043
+Encoding: 60192 60192 1041
 Width: 900
 Flags: W
 HStem: 543 125<638.203 706.326>
@@ -138262,7 +138102,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB24
-Encoding: 60196 60196 1044
+Encoding: 60196 60196 1042
 Width: 790
 VWidth: 999
 Flags: W
@@ -138331,7 +138171,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB30
-Encoding: 60208 60208 1045
+Encoding: 60208 60208 1043
 Width: 790
 Flags: W
 HStem: 556 127<646.046 712.348>
@@ -138412,7 +138252,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB31
-Encoding: 60209 60209 1046
+Encoding: 60209 60209 1044
 Width: 790
 Flags: W
 HStem: 556 127<646.046 712.348>
@@ -138493,7 +138333,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB34
-Encoding: 60212 60212 1047
+Encoding: 60212 60212 1045
 Width: 770
 VWidth: 999
 Flags: HW
@@ -138547,7 +138387,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB35
-Encoding: 60213 60213 1048
+Encoding: 60213 60213 1046
 Width: 750
 VWidth: 999
 Flags: HW
@@ -138609,7 +138449,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB36
-Encoding: 60214 60214 1049
+Encoding: 60214 60214 1047
 Width: 750
 VWidth: 999
 Flags: HW
@@ -138655,7 +138495,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB3F
-Encoding: 60223 60223 1050
+Encoding: 60223 60223 1048
 Width: 790
 VWidth: 999
 Flags: W
@@ -138744,7 +138584,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB46
-Encoding: 60230 60230 1051
+Encoding: 60230 60230 1049
 Width: 960
 VWidth: 0
 Flags: W
@@ -138815,7 +138655,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB49
-Encoding: 60233 60233 1052
+Encoding: 60233 60233 1050
 Width: 645
 Flags: HW
 LayerCount: 3
@@ -138844,7 +138684,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4A
-Encoding: 60234 60234 1053
+Encoding: 60234 60234 1051
 Width: 645
 Flags: HW
 LayerCount: 3
@@ -138876,7 +138716,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4B
-Encoding: 60235 60235 1054
+Encoding: 60235 60235 1052
 Width: 645
 Flags: HW
 LayerCount: 3
@@ -138919,7 +138759,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4C
-Encoding: 60236 60236 1055
+Encoding: 60236 60236 1053
 Width: 645
 Flags: HW
 LayerCount: 3
@@ -138950,7 +138790,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4D
-Encoding: 60237 60237 1056
+Encoding: 60237 60237 1054
 Width: 560
 Flags: HW
 LayerCount: 3
@@ -138989,7 +138829,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4E
-Encoding: 60238 60238 1057
+Encoding: 60238 60238 1055
 Width: 550
 Flags: HW
 LayerCount: 3
@@ -139011,7 +138851,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA63
-Encoding: 60003 60003 1058
+Encoding: 60003 60003 1056
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139019,7 +138859,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA66
-Encoding: 60006 60006 1059
+Encoding: 60006 60006 1057
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139027,7 +138867,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA69
-Encoding: 60009 60009 1060
+Encoding: 60009 60009 1058
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139035,7 +138875,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA6A
-Encoding: 60010 60010 1061
+Encoding: 60010 60010 1059
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139043,7 +138883,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA79
-Encoding: 60025 60025 1062
+Encoding: 60025 60025 1060
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139051,7 +138891,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA7C
-Encoding: 60028 60028 1063
+Encoding: 60028 60028 1061
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139059,7 +138899,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA80
-Encoding: 60032 60032 1064
+Encoding: 60032 60032 1062
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139067,7 +138907,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA84
-Encoding: 60036 60036 1065
+Encoding: 60036 60036 1063
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139075,7 +138915,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA8A
-Encoding: 60042 60042 1066
+Encoding: 60042 60042 1064
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139083,7 +138923,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA8E
-Encoding: 60046 60046 1067
+Encoding: 60046 60046 1065
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139091,7 +138931,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA90
-Encoding: 60048 60048 1068
+Encoding: 60048 60048 1066
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139099,7 +138939,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA9F
-Encoding: 60063 60063 1069
+Encoding: 60063 60063 1067
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139107,7 +138947,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAA2
-Encoding: 60066 60066 1070
+Encoding: 60066 60066 1068
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139115,7 +138955,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAA3
-Encoding: 60067 60067 1071
+Encoding: 60067 60067 1069
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139123,7 +138963,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAA4
-Encoding: 60068 60068 1072
+Encoding: 60068 60068 1070
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139131,7 +138971,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAAE
-Encoding: 60078 60078 1073
+Encoding: 60078 60078 1071
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139139,7 +138979,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAB1
-Encoding: 60081 60081 1074
+Encoding: 60081 60081 1072
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139147,7 +138987,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAB4
-Encoding: 60084 60084 1075
+Encoding: 60084 60084 1073
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139155,7 +138995,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAB8
-Encoding: 60088 60088 1076
+Encoding: 60088 60088 1074
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139163,7 +139003,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEABA
-Encoding: 60090 60090 1077
+Encoding: 60090 60090 1075
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139171,7 +139011,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEABC
-Encoding: 60092 60092 1078
+Encoding: 60092 60092 1076
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139179,7 +139019,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAC3
-Encoding: 60099 60099 1079
+Encoding: 60099 60099 1077
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139187,7 +139027,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAC5
-Encoding: 60101 60101 1080
+Encoding: 60101 60101 1078
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139195,7 +139035,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAC8
-Encoding: 60104 60104 1081
+Encoding: 60104 60104 1079
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139203,7 +139043,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEACD
-Encoding: 60109 60109 1082
+Encoding: 60109 60109 1080
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139211,7 +139051,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEACF
-Encoding: 60111 60111 1083
+Encoding: 60111 60111 1081
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139219,7 +139059,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAD7
-Encoding: 60119 60119 1084
+Encoding: 60119 60119 1082
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139227,7 +139067,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEADB
-Encoding: 60123 60123 1085
+Encoding: 60123 60123 1083
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139235,7 +139075,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEADF
-Encoding: 60127 60127 1086
+Encoding: 60127 60127 1084
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139243,7 +139083,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAE6
-Encoding: 60134 60134 1087
+Encoding: 60134 60134 1085
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139251,7 +139091,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAEA
-Encoding: 60138 60138 1088
+Encoding: 60138 60138 1086
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139259,7 +139099,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAED
-Encoding: 60141 60141 1089
+Encoding: 60141 60141 1087
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139267,7 +139107,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAF0
-Encoding: 60144 60144 1090
+Encoding: 60144 60144 1088
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139275,7 +139115,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAF3
-Encoding: 60147 60147 1091
+Encoding: 60147 60147 1089
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139283,7 +139123,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAF5
-Encoding: 60149 60149 1092
+Encoding: 60149 60149 1090
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139291,7 +139131,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAF7
-Encoding: 60151 60151 1093
+Encoding: 60151 60151 1091
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139299,7 +139139,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAFA
-Encoding: 60154 60154 1094
+Encoding: 60154 60154 1092
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139307,7 +139147,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAFC
-Encoding: 60156 60156 1095
+Encoding: 60156 60156 1093
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139315,7 +139155,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB07
-Encoding: 60167 60167 1096
+Encoding: 60167 60167 1094
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139323,7 +139163,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB0A
-Encoding: 60170 60170 1097
+Encoding: 60170 60170 1095
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139331,7 +139171,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB0C
-Encoding: 60172 60172 1098
+Encoding: 60172 60172 1096
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139339,7 +139179,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB10
-Encoding: 60176 60176 1099
+Encoding: 60176 60176 1097
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139347,7 +139187,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB13
-Encoding: 60179 60179 1100
+Encoding: 60179 60179 1098
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139355,7 +139195,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB1B
-Encoding: 60187 60187 1101
+Encoding: 60187 60187 1099
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139363,7 +139203,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB1C
-Encoding: 60188 60188 1102
+Encoding: 60188 60188 1100
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139371,7 +139211,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB1F
-Encoding: 60191 60191 1103
+Encoding: 60191 60191 1101
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139379,7 +139219,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB21
-Encoding: 60193 60193 1104
+Encoding: 60193 60193 1102
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139387,7 +139227,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB23
-Encoding: 60195 60195 1105
+Encoding: 60195 60195 1103
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139395,7 +139235,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB2E
-Encoding: 60206 60206 1106
+Encoding: 60206 60206 1104
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139403,7 +139243,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB32
-Encoding: 60210 60210 1107
+Encoding: 60210 60210 1105
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139411,7 +139251,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB37
-Encoding: 60215 60215 1108
+Encoding: 60215 60215 1106
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139419,7 +139259,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB45
-Encoding: 60229 60229 1109
+Encoding: 60229 60229 1107
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139427,7 +139267,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB48
-Encoding: 60232 60232 1110
+Encoding: 60232 60232 1108
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139435,7 +139275,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4F
-Encoding: 60239 60239 1111
+Encoding: 60239 60239 1109
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139443,7 +139283,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB50
-Encoding: 60240 60240 1112
+Encoding: 60240 60240 1110
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139451,7 +139291,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB51
-Encoding: 60241 60241 1113
+Encoding: 60241 60241 1111
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139459,7 +139299,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB52
-Encoding: 60242 60242 1114
+Encoding: 60242 60242 1112
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139467,7 +139307,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB53
-Encoding: 60243 60243 1115
+Encoding: 60243 60243 1113
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139475,7 +139315,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB54
-Encoding: 60244 60244 1116
+Encoding: 60244 60244 1114
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139483,7 +139323,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB55
-Encoding: 60245 60245 1117
+Encoding: 60245 60245 1115
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139491,7 +139331,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB56
-Encoding: 60246 60246 1118
+Encoding: 60246 60246 1116
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139499,7 +139339,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB57
-Encoding: 60247 60247 1119
+Encoding: 60247 60247 1117
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139507,7 +139347,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB58
-Encoding: 60248 60248 1120
+Encoding: 60248 60248 1118
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139515,7 +139355,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB59
-Encoding: 60249 60249 1121
+Encoding: 60249 60249 1119
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139523,7 +139363,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5A
-Encoding: 60250 60250 1122
+Encoding: 60250 60250 1120
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139531,7 +139371,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5B
-Encoding: 60251 60251 1123
+Encoding: 60251 60251 1121
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139539,7 +139379,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5C
-Encoding: 60252 60252 1124
+Encoding: 60252 60252 1122
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139547,7 +139387,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5D
-Encoding: 60253 60253 1125
+Encoding: 60253 60253 1123
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139555,7 +139395,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5E
-Encoding: 60254 60254 1126
+Encoding: 60254 60254 1124
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139563,7 +139403,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5F
-Encoding: 60255 60255 1127
+Encoding: 60255 60255 1125
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -139571,7 +139411,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEA14
-Encoding: 59924 59924 1128
+Encoding: 59924 59924 1126
 Width: 0
 Flags: HW
 LayerCount: 3
@@ -139628,7 +139468,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEB80
-Encoding: 60288 60288 1129
+Encoding: 60288 60288 1127
 Width: 385
 Flags: W
 HStem: 0 21G<33.0134 41.5> 281 134<265.827 331.563>
@@ -139682,7 +139522,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEB82
-Encoding: 60290 60290 1130
+Encoding: 60290 60290 1128
 Width: 385
 Flags: W
 HStem: 0 21G<33.0513 41.5> 281 134<265.827 331.563>
@@ -139746,7 +139586,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEBA7
-Encoding: 60327 60327 1131
+Encoding: 60327 60327 1129
 Width: 215
 VWidth: 999
 Flags: W
@@ -139794,7 +139634,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEBA8
-Encoding: 60328 60328 1132
+Encoding: 60328 60328 1130
 Width: 215
 VWidth: 999
 Flags: W
@@ -139844,7 +139684,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEBA9
-Encoding: 60329 60329 1133
+Encoding: 60329 60329 1131
 Width: 215
 VWidth: 999
 Flags: W
@@ -139892,7 +139732,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEBAA
-Encoding: 60330 60330 1134
+Encoding: 60330 60330 1132
 Width: 215
 VWidth: 999
 Flags: W
@@ -139942,7 +139782,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEBAB
-Encoding: 60331 60331 1135
+Encoding: 60331 60331 1133
 Width: 229
 Flags: HW
 LayerCount: 3
@@ -139972,7 +139812,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniEBAC
-Encoding: 60332 60332 1136
+Encoding: 60332 60332 1134
 Width: 229
 Flags: HW
 LayerCount: 3
