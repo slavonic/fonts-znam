@@ -82,13 +82,13 @@ ChainSub2: class "'ccmp'  Contextual Prizakification-1" 3 3 3 1
 EndFPST
 ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1" 4 4 4 2
   Class: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBA9 uniEAE3 uniEAE5 uniEBAC uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE6 uniEBE7 uniEB1E uniEBE9 uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBAC uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE6 uniEBE7 uniEB1E uniEBE9 uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   Class: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
   BClass: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  BClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBA9 uniEAE3 uniEAE5 uniEBAC uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE6 uniEBE7 uniEB1E uniEBE9 uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  BClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBAC uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE6 uniEBE7 uniEB1E uniEBE9 uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   BClass: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
   FClass: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  FClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBA9 uniEAE3 uniEAE5 uniEBAC uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE6 uniEBE7 uniEB1E uniEBE9 uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  FClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBAC uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE6 uniEBE7 uniEB1E uniEBE9 uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   FClass: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
  2 0 0
   ClsList: 2 1
@@ -48285,7 +48285,7 @@ Validated: 49153
 Layer: 2
 Refer: 179 61011 N 1 0 0 1 194 -244 2
 Refer: 222 61045 N 1 0 0 1 0 0 2
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE5A
 Colour: 4cff40
 EndChar
@@ -48773,7 +48773,7 @@ Validated: 49153
 Layer: 2
 Refer: 175 61008 N 1 0 0 1 644 -261.4 2
 Refer: 317 60280 N 1 0 0 1 0 0 2
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEE5A
 Colour: faff80
 EndChar
@@ -49041,7 +49041,7 @@ SplineSet
  106 496 l 1,37,-1
  71 162 l 1,24,25
 EndSplineSet
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9B uniEEE2
 Colour: faff80
 EndChar
@@ -53510,7 +53510,7 @@ SplineSet
  15 98 l 1,30,31
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE0
 Substitution2: "Depriznakify-1" uniEE85
 Colour: faff80
@@ -54132,7 +54132,7 @@ SplineSet
  30 224 l 1,29,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE1
 Colour: faff80
 EndChar
@@ -56508,7 +56508,7 @@ SplineSet
  40 327 l 1,29,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -57206,13 +57206,13 @@ SplineSet
  261 443 l 1,46,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE0
 Colour: faff80
 EndChar
 
-StartChar: uniEBA9
-Encoding: 60329 60329 339
+StartChar: uniEBAF
+Encoding: 60335 60335 339
 Width: 436
 Flags: W
 HStem: 0 21G<8.6 15.5> 567 95<225.343 293.394>
@@ -57595,7 +57595,7 @@ SplineSet
  302 432 302 432 302 445 c 2,28,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Colour: faff80
 EndChar
 
@@ -57688,8 +57688,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE93 uniEE50
 Colour: ffff
 EndChar
 
-StartChar: uniEBAA
-Encoding: 60330 60330 341
+StartChar: uniEBB0
+Encoding: 60336 60336 341
 Width: 436
 GlyphClass: 2
 Flags: W
@@ -58037,13 +58037,13 @@ SplineSet
  202 664 202 664 268 664 c 0,28,29
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE1
 Colour: faff80
 EndChar
 
-StartChar: uniEBB6
-Encoding: 60342 60342 342
+StartChar: uniEBBC
+Encoding: 60348 60348 342
 Width: 414
 VWidth: 0
 Flags: W
@@ -58334,7 +58334,7 @@ SplineSet
  23 100 l 1,51,52
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEC uniEE58
 Colour: faff80
 EndChar
@@ -58579,7 +58579,7 @@ SplineSet
  23 100 l 1,31,32
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE0
 Colour: faff80
 EndChar
@@ -58784,7 +58784,7 @@ SplineSet
  23 100 l 1,28,29
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE1
 Colour: faff80
 EndChar
@@ -59029,7 +59029,7 @@ SplineSet
  23 100 l 1,40,41
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -60345,7 +60345,7 @@ SplineSet
  23 100 l 1,44,45
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -60604,7 +60604,7 @@ SplineSet
  23 100 l 1,41,42
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF8 uniEE50
 Colour: faff80
 EndChar
@@ -69764,7 +69764,7 @@ Validated: 32769
 Layer: 2
 Refer: 179 61011 N 1 0 0 1 190 -257 2
 Refer: 318 60281 N 1 0 0 1 0 0 2
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEE5A
 Colour: faff80
 EndChar
@@ -69902,7 +69902,7 @@ Validated: 49153
 Layer: 2
 Refer: 179 61011 N 1 0 0 1 192 -251.4 2
 Refer: 298 60282 N 1 0 0 1 0 0 2
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE0 uniEEE2 uniEE5A
 Colour: faff80
 EndChar
@@ -70021,7 +70021,7 @@ Validated: 49153
 Layer: 2
 Refer: 179 61011 N 1 0 0 1 193 -247 2
 Refer: 297 60283 N 1 0 0 1 0 0 2
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE1 uniEEE2 uniEE5A
 Colour: faff80
 EndChar
@@ -73054,7 +73054,7 @@ SplineSet
  261 443 l 1,51,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -73537,7 +73537,7 @@ SplineSet
  23 100 l 1,21,22
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: faff80
 EndChar
 
@@ -73678,13 +73678,13 @@ SplineSet
  23 100 l 1,19,20
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE50
 Colour: faff80
 EndChar
 
-StartChar: uniEBAF
-Encoding: 60335 60335 405
+StartChar: uniEBB5
+Encoding: 60341 60341 405
 Width: 437
 Flags: W
 HStem: 0 21G<8.6 15.5>
@@ -73820,13 +73820,13 @@ SplineSet
  23 100 l 1,19,20
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBAC uniEE50
 Colour: faff80
 EndChar
 
-StartChar: uniEBB0
-Encoding: 60336 60336 406
+StartChar: uniEBB6
+Encoding: 60342 60342 406
 Width: 414
 Flags: W
 HStem: 0 21G<8.6 15.5> 440 20G<113 130.25>
@@ -74003,7 +74003,7 @@ SplineSet
  23 100 l 1,31,32
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Colour: faff80
 EndChar
 
@@ -74639,7 +74639,7 @@ SplineSet
  296 527 l 1,30,31
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE8 uniEE58
 Colour: faff80
 EndChar
@@ -74930,13 +74930,13 @@ SplineSet
  296 527 l 1,30,31
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE9 uniEE58
 Colour: faff80
 EndChar
 
-StartChar: uniEBB5
-Encoding: 60341 60341 411
+StartChar: uniEBBB
+Encoding: 60347 60347 411
 Width: 414
 VWidth: 0
 Flags: W
@@ -75218,13 +75218,13 @@ SplineSet
  23 100 l 1,53,54
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEB uniEE58
 Colour: faff80
 EndChar
 
-StartChar: uniEBBB
-Encoding: 60347 60347 412
+StartChar: uniEBC1
+Encoding: 60353 60353 412
 Width: 437
 Flags: W
 HStem: 0 21G<8.6 15.5> 164 100<239.078 319.633>
@@ -75481,13 +75481,13 @@ SplineSet
  23 100 l 1,42,43
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF9 uniEE50
 Colour: faff80
 EndChar
 
-StartChar: uniEBBC
-Encoding: 60348 60348 413
+StartChar: uniEBAA
+Encoding: 60330 60330 413
 Width: 323
 Flags: W
 HStem: 0 21G<8.6 15.5 229.875 249> 440 20G<113 130.25>
@@ -76873,7 +76873,7 @@ SplineSet
  23 100 l 1,44,45
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE1
 Colour: faff80
 EndChar
@@ -77059,13 +77059,13 @@ SplineSet
  237 244 l 1,21,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE0
 Colour: faff80
 EndChar
 
-StartChar: uniEBC1
-Encoding: 60353 60353 418
+StartChar: uniEBC7
+Encoding: 60359 60359 418
 Width: 327
 Flags: W
 HStem: 0 21G<8.6 15.5>
@@ -77220,7 +77220,7 @@ SplineSet
  23 100 l 1,13,14
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE1
 Colour: faff80
 EndChar
@@ -78279,7 +78279,7 @@ SplineSet
  473 27 473 27 473 40 c 2,33,-1
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE0 uniEE50
 Colour: faff80
 EndChar
