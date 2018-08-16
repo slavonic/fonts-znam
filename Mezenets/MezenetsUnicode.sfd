@@ -978,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60318 27 9
+WinInfo: 61398 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -30897,7 +30897,7 @@ SplineSet
  -407 417 -407 417 -421 389 c 1,9,-1
  -409 515 l 1,0,1
 EndSplineSet
-Substitution2: "Priznakify-1" uniEDF5
+Substitution2: "Priznakify-1" uniEFF5
 Colour: ffb54c
 EndChar
 
@@ -41750,8 +41750,8 @@ EndSplineSet
 Colour: ff00
 EndChar
 
-StartChar: uniEDF1
-Encoding: 60913 60913 261
+StartChar: uniEFF1
+Encoding: 61425 61425 261
 Width: 639
 VWidth: 0
 GlyphClass: 3
@@ -44642,7 +44642,7 @@ SplineSet
  -115 182 l 2,0,1
 EndSplineSet
 Validated: 1
-Colour: faff61
+Colour: ffff00
 EndChar
 
 StartChar: uniEA10
@@ -45260,7 +45260,7 @@ SplineSet
  -77 236 -77 236 -95 236 c 128,-1,34
 EndSplineSet
 Validated: 1
-Colour: faff61
+Colour: ffff00
 EndChar
 
 StartChar: uniEA12
@@ -46418,8 +46418,8 @@ Validated: 1
 Colour: ff00
 EndChar
 
-StartChar: uniEDF3
-Encoding: 60915 60915 282
+StartChar: uniEFF3
+Encoding: 61427 61427 282
 Width: 706
 VWidth: 500
 GlyphClass: 2
@@ -60861,7 +60861,7 @@ SplineSet
  -70 513 l 1,38,-1
 EndSplineSet
 Validated: 1
-Colour: faff61
+Colour: ffff00
 EndChar
 
 StartChar: uniEA17
@@ -61127,11 +61127,11 @@ SplineSet
  -160 471 l 1,53,-1
 EndSplineSet
 Validated: 1
-Colour: faff61
+Colour: ffff00
 EndChar
 
-StartChar: uniEDF4
-Encoding: 60916 60916 354
+StartChar: uniEFF4
+Encoding: 61428 61428 354
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61227,8 +61227,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE50 uniEE58
 Colour: faff61
 EndChar
 
-StartChar: uniEDF5
-Encoding: 60917 60917 355
+StartChar: uniEFF5
+Encoding: 61429 61429 355
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61476,8 +61476,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE51 uniEE58
 Colour: faff61
 EndChar
 
-StartChar: uniEDF6
-Encoding: 60918 60918 356
+StartChar: uniEFF6
+Encoding: 61430 61430 356
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -80239,7 +80239,7 @@ SplineSet
  24 66 l 1,37,38
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE1
 Colour: faff80
 EndChar
@@ -82776,7 +82776,7 @@ SplineSet
  131 6 l 2,44,45
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9E uniEEE1
 Colour: faff80
 EndChar
@@ -83408,7 +83408,7 @@ SplineSet
  728 240 l 1,73,74
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9F uniEEE1
 Colour: faff80
 EndChar
@@ -83902,7 +83902,7 @@ SplineSet
  315 98 l 1,35,36
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA0 uniEEE1
 Colour: faff80
 EndChar
@@ -84564,13 +84564,13 @@ SplineSet
  730 240 l 1,69,70
 EndSplineSet
 Validated: 1
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA1 uniEEE1
 Colour: faff80
 EndChar
 
-StartChar: uniEDF2
-Encoding: 60914 60914 440
+StartChar: uniEFF2
+Encoding: 61426 61426 440
 Width: 500
 Flags: W
 HStem: 0 56<226 281> 0 24<12 216 281 488>
@@ -87427,8 +87427,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE94 uniEE50
 Colour: ffff
 EndChar
 
-StartChar: uniEDF8
-Encoding: 60920 60920 457
+StartChar: uniEFF8
+Encoding: 61432 61432 457
 Width: 322
 VWidth: 750
 Flags: W
@@ -87758,8 +87758,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE89
 Colour: 4cff40
 EndChar
 
-StartChar: uniEDF9
-Encoding: 60921 60921 458
+StartChar: uniEFF9
+Encoding: 61433 61433 458
 Width: 321
 VWidth: 750
 Flags: W
@@ -88025,8 +88025,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE89 uni200D uniEE87
 Colour: 4cff40
 EndChar
 
-StartChar: uniEDFA
-Encoding: 60922 60922 459
+StartChar: uniEFFA
+Encoding: 61434 61434 459
 Width: 603
 VWidth: 750
 Flags: W
@@ -88475,8 +88475,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE8F uniEE51
 Colour: 4cff40
 EndChar
 
-StartChar: uniEDFB
-Encoding: 60923 60923 460
+StartChar: uniEFFB
+Encoding: 61435 61435 460
 Width: 651
 VWidth: 750
 Flags: W
@@ -110489,7 +110489,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE60
-Colour: ffa600
+Colour: ffff
 EndChar
 
 StartChar: uniEB1D
@@ -110634,7 +110634,7 @@ SplineSet
  645 677 645 677 666 677 c 0,49,50
 EndSplineSet
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE5D
-Colour: ffa600
+Colour: ffff
 EndChar
 
 StartChar: uniEC50
@@ -138167,6 +138167,7 @@ SplineSet
  -67 143 -56 164 -56 187 c 0
  -56 211 -70 236 -95 236 c 0
 EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: uniEB80
@@ -144095,8 +144096,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniEDF0
-Encoding: 60912 60912 1207
+StartChar: uniEFF0
+Encoding: 61424 61424 1207
 Width: 401
 Flags: W
 HStem: -180 75<100.618 210.109> 113 81<136.389 212.882> 314 55<145.51 262.369>
