@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1534434034
+ModificationTime: 1534554345
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -978,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 61290 27 9
+WinInfo: 61236 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -999,7 +999,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Podtinka" "'mark' Black Marking Positions-1" "DoubleShaidur" "'mkmk' Double Shaidur Attachment-1" "Zevok" "'mark' Cinnabar Indicatory Mark Positioning-1" "Udarka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kupnaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kachka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Lomka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Oblachko" "'mark' Black Marking Positions-1" "Podchashie" "'mark' Black Marking Positions-1" "Zaderzhka" "'mark' Black Marking Positions-1" "Tonal" "'mark' Black Marking Positions-1" "Podvertka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Borzaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Otsechka" "'mark' Black Marking Positions-1" "Shaidur" "'mark' Cinnabar Pitch Marking Positioning-1"
-BeginChars: 1114112 1229
+BeginChars: 1114112 1285
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -28907,7 +28907,7 @@ Validated: 32769
 Layer: 2
 Refer: 163 60931 N 1 0 0 1 0 0 2
 Refer: 239 60959 N 1 0 0 1 16 -1 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE01
@@ -28930,7 +28930,7 @@ Validated: 32769
 Layer: 2
 Refer: 164 60932 N 1 0 0 1 -10 -0.599976 2
 Refer: 239 60959 N 1 0 0 1 0 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE02
@@ -29199,7 +29199,7 @@ SplineSet
  -79 304 -79 304 -79 265 c 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE03
@@ -29376,7 +29376,7 @@ SplineSet
  -166 201 -166 201 -166 207 c 2,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE04
@@ -29585,7 +29585,7 @@ SplineSet
  -144 261 l 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE05
@@ -29660,7 +29660,7 @@ SplineSet
  -65 256 -65 256 -77 256 c 128,-1,1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE06
@@ -29839,7 +29839,7 @@ SplineSet
  -52 349 -52 349 -53 341 c 1,0,1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE07
@@ -29992,7 +29992,7 @@ SplineSet
  -166 306 -166 306 -166 263 c 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE08
@@ -30170,7 +30170,7 @@ SplineSet
  -213 216 -213 216 -199 216 c 1,8,9
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE09
@@ -30357,7 +30357,7 @@ SplineSet
  -54 349 -54 349 -55 341 c 1,8,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE0A
@@ -30570,7 +30570,7 @@ SplineSet
  -119 387 -119 387 -128 387 c 128,-1,31
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE0B
@@ -30794,7 +30794,7 @@ SplineSet
  -123 406 -123 406 -129.5 398 c 128,-1,35
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE11
@@ -30817,7 +30817,7 @@ Validated: 32769
 Layer: 2
 Refer: 166 60934 N 1 0 0 1 14 0 2
 Refer: 239 60959 N 1 0 0 1 -114 -4 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE13
@@ -30840,7 +30840,7 @@ Validated: 32769
 Layer: 2
 Refer: 167 60935 N 1 0 0 1 17.9958 0.0142517 2
 Refer: 239 60959 N 1 0 0 1 -4 -4 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE15
@@ -30863,7 +30863,7 @@ Validated: 32769
 Layer: 2
 Refer: 168 60936 N 1 0 0 1 10 0 2
 Refer: 239 60959 N 1 0 0 1 -42 -9 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE50
@@ -30897,8 +30897,8 @@ SplineSet
  -407 417 -407 417 -421 389 c 1,9,-1
  -409 515 l 1,0,1
 EndSplineSet
-Substitution2: "Priznakify-1" uniEB55
-Colour: ffb54c
+Substitution2: "Priznakify-1" uniEF55
+Colour: ffc259
 EndChar
 
 StartChar: uniEE51
@@ -30948,7 +30948,7 @@ SplineSet
  -342 586 l 1,10,11
 EndSplineSet
 Substitution2: "Priznakify-1" uniEB62
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE52
@@ -31011,7 +31011,7 @@ SplineSet
  -425 517 l 1,20,21
 EndSplineSet
 Substitution2: "Priznakify-1" uniEB64
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE54
@@ -31041,7 +31041,7 @@ SplineSet
  62 414 l 1,3,-1
  84 422 l 1,0,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE53
@@ -31075,7 +31075,7 @@ SplineSet
  51 417 51 417 37 389 c 1,9,-1
  49 515 l 1,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE55
@@ -31119,7 +31119,7 @@ SplineSet
  -287 119 -287 119 -306 66 c 0,18,19
  -332 -4 -332 -4 -376 -4 c 0,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE57
@@ -31176,7 +31176,7 @@ SplineSet
  -418 760 l 1,25,-1
  -330 702 l 1,22,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE58
@@ -31224,7 +31224,7 @@ SplineSet
  -310 473 -310 473 -309 483 c 1,21,-1
  -309 506 l 2,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE59
@@ -31278,7 +31278,7 @@ SplineSet
  168 596 168 596 157 546 c 0,25,26
  140 462 140 462 94 462 c 0,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE0
@@ -32187,7 +32187,7 @@ SplineSet
  106 17 l 1,143,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE1
@@ -33070,7 +33070,7 @@ SplineSet
  106 17 l 1,155,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE90
@@ -33167,7 +33167,7 @@ SplineSet
  201 271 201 271 253 271 c 0,22,23
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE76
@@ -33251,7 +33251,7 @@ SplineSet
  253 271 l 1,22,23
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE77
@@ -33333,7 +33333,7 @@ SplineSet
  255 415 255 415 308 415 c 4,12,13
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE7C
@@ -33419,7 +33419,7 @@ SplineSet
  173 458 l 1,30,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE70
@@ -33566,7 +33566,7 @@ SplineSet
 EndSplineSet
 Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE85
@@ -33722,7 +33722,7 @@ SplineSet
  487 576 487 576 506 576 c 128,-1,31
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE80
@@ -33807,7 +33807,7 @@ SplineSet
  53 191 53 191 53 184 c 2,0,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEAC
@@ -33894,7 +33894,7 @@ SplineSet
  136 172 136 172 198 109 c 1,29,30
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEAD
@@ -33965,7 +33965,7 @@ SplineSet
  216 245 l 1,15,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE87
@@ -34042,7 +34042,7 @@ SplineSet
  30 248 l 1,4,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE89
@@ -34109,7 +34109,7 @@ SplineSet
  28 271 l 2,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE71
@@ -34307,7 +34307,7 @@ SplineSet
  502 571 502 571 521 571 c 132,-1,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE72
@@ -34392,7 +34392,7 @@ SplineSet
 EndSplineSet
 Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE84
@@ -34483,7 +34483,7 @@ SplineSet
  485 576 485 576 504 576 c 128,-1,21
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE8C
@@ -34565,7 +34565,7 @@ SplineSet
  424 264 424 264 380 184 c 1,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE8E
@@ -34684,7 +34684,7 @@ EndSplineSet
 LCarets2: 1 229
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE8D
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE8F
@@ -34752,7 +34752,7 @@ SplineSet
  22 87 l 1,11,12
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE8D
@@ -34816,7 +34816,7 @@ SplineSet
  49 368 l 1,8,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE8A
@@ -34920,7 +34920,7 @@ SplineSet
  117 178 117 178 117 167 c 0,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE8B
@@ -34998,7 +34998,7 @@ SplineSet
  100 308 100 308 145 314 c 1,20,21
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE73
@@ -35077,7 +35077,7 @@ SplineSet
 EndSplineSet
 Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE9B
@@ -35181,7 +35181,7 @@ SplineSet
  648 672 648 672 667 672 c 128,-1,23
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE9C
@@ -35309,7 +35309,7 @@ SplineSet
  524 156 524 156 495 143 c 5,41,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE91
@@ -35406,7 +35406,7 @@ SplineSet
  84 343 l 1,31,32
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE9A
@@ -35505,7 +35505,7 @@ SplineSet
  24 87 l 5,29,30
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE93
@@ -35583,7 +35583,7 @@ SplineSet
  42 87 l 1,15,16
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE92
@@ -35711,7 +35711,7 @@ SplineSet
  19 87 l 1,61,62
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE9E
@@ -35832,7 +35832,7 @@ SplineSet
  25 213 25 213 78 213 c 0,44,45
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE9F
@@ -35867,7 +35867,7 @@ Layer: 2
 Refer: 176 61009 N 1 0 0 1 1019 -333 2
 Refer: 213 61086 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA0
@@ -35988,7 +35988,7 @@ SplineSet
  24 209 24 209 77 209 c 0,38,39
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE7E
@@ -36093,7 +36093,7 @@ SplineSet
  42 178 42 178 88 178 c 0,37,38
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEA9A
@@ -36166,7 +36166,7 @@ Refer: 210 61082 N 1 0 0 1 274 -96 2
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEAC uniEE9A
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE82
@@ -36254,7 +36254,7 @@ SplineSet
  478 576 478 576 497 576 c 128,-1,22
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE83
@@ -36330,7 +36330,7 @@ SplineSet
  485 576 485 576 504 576 c 128,-1,11
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEAA
@@ -36415,7 +36415,7 @@ SplineSet
  593 576 593 576 612 576 c 128,-1,13
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE75
@@ -36470,7 +36470,7 @@ SplineSet
  70 162 l 5,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE74
@@ -36557,7 +36557,7 @@ SplineSet
 EndSplineSet
 Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 587 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 589 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 592 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 593 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 594 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE7D
@@ -36651,7 +36651,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss01' Style Set 1 Demestvenny Variants-1" uniEB46
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE7F
@@ -36784,7 +36784,7 @@ SplineSet
  45 178 45 178 91 178 c 0,60,61
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE7A
@@ -37001,7 +37001,7 @@ SplineSet
  36 -53 36 -53 31 -53 c 128,-1,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE86
@@ -37036,7 +37036,7 @@ Layer: 2
 Refer: 176 61009 N 1 0 0 1 754 -326.4 2
 Refer: 190 61040 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEAF
@@ -37073,7 +37073,7 @@ Refer: 202 61071 N 1 0 0 1 -6 0 2
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEEAE
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE78
@@ -37130,7 +37130,7 @@ SplineSet
  217 131 217 131 194 6 c 0,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEAE
@@ -37199,7 +37199,7 @@ SplineSet
  220 344 220 344 408 498 c 0,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE81
@@ -37297,7 +37297,7 @@ EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE80 uniEE5A
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE17
@@ -37642,7 +37642,7 @@ SplineSet
  -344 299 -344 299 -344 261 c 1,36,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEA9C
@@ -37772,7 +37772,7 @@ Refer: 176 61009 S 1 0 0 1 868 -250 2
 Refer: 210 61082 S 1 0 0 1 0 0 2
 Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE10
@@ -37795,7 +37795,7 @@ Validated: 32769
 Layer: 2
 Refer: 162 60930 N 1 0 0 1 -1 0 2
 Refer: 239 60959 N 1 0 0 1 -101 -4 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE12
@@ -38113,7 +38113,7 @@ SplineSet
  -52 202 -52 202 -65 202 c 2,27,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE14
@@ -38485,7 +38485,7 @@ SplineSet
  -318 281 l 1,25,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE16
@@ -38839,7 +38839,7 @@ SplineSet
  -182 202 -182 202 -195 202 c 2,25,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE1F
@@ -38993,7 +38993,7 @@ SplineSet
  -222 147 -222 147 -208 130 c 1,0,1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE88
@@ -39082,7 +39082,7 @@ SplineSet
  25 248 l 1,27,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE0C
@@ -39290,7 +39290,7 @@ SplineSet
  -162 383 -162 383 -171 383 c 128,-1,47
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE0D
@@ -39531,7 +39531,7 @@ SplineSet
  -175 306 -175 306 -175 263 c 1,16,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE0E
@@ -39809,7 +39809,7 @@ SplineSet
  -163 404 -163 404 -169.5 396 c 128,-1,43
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE30
@@ -40044,7 +40044,7 @@ SplineSet
  126 411 126 411 142 411 c 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE31
@@ -40162,7 +40162,7 @@ SplineSet
  149 506 149 506 132 506 c 0,8,9
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE32
@@ -40315,7 +40315,7 @@ SplineSet
  -107 266 l 1,21,22
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE33
@@ -40372,7 +40372,7 @@ SplineSet
  -38 227 l 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE34
@@ -40645,7 +40645,7 @@ SplineSet
  -59 185 -59 185 -59 227 c 0,39,40
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE35
@@ -40888,7 +40888,7 @@ SplineSet
  -94 363 -94 363 -94 356 c 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE36
@@ -40935,7 +40935,7 @@ SplineSet
  -27 330 -27 330 -37 282 c 0,21,22
  -54 198 -54 198 -100 198 c 0,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE37
@@ -41008,7 +41008,7 @@ SplineSet
  302 299 302 299 291.5 314 c 128,-1,27
  281 329 281 329 263 329 c 128,-1,28
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE38
@@ -41154,7 +41154,7 @@ SplineSet
  -85 107 -85 107 -100 107 c 0,11,12
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE39
@@ -41306,7 +41306,7 @@ SplineSet
  -41 355 -41 355 -56 355 c 0,11,12
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE3A
@@ -41374,7 +41374,7 @@ SplineSet
  -139 357 -139 357 -78 357 c 0,46,0
  -53 357 -53 357 -36 345 c 128,-1,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE3B
@@ -41498,7 +41498,7 @@ SplineSet
  -65 198 -65 198 -78 198 c 1,0,1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE3C
@@ -41583,7 +41583,7 @@ SplineSet
  -111 414 -111 414 -127 414 c 0,0,1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE56
@@ -41629,7 +41629,7 @@ SplineSet
  -298 598 -298 598 -309 544 c 0,21,22
  -326 460 -326 460 -372 460 c 0,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE5A
@@ -41659,7 +41659,7 @@ SplineSet
  -143 283.599609375 l 1,3,-1
  -135 386.599609375 l 1,0,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE5B
@@ -41699,7 +41699,7 @@ SplineSet
  -139 265 l 1,7,-1
  -131 368 l 1,4,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEA57
@@ -41750,8 +41750,8 @@ EndSplineSet
 Colour: ff00
 EndChar
 
-StartChar: uniEB51
-Encoding: 60241 60241 261
+StartChar: uniEF51
+Encoding: 61265 61265 261
 Width: 639
 VWidth: 0
 GlyphClass: 3
@@ -42279,7 +42279,7 @@ SplineSet
  104.352 36 104.352 36 146 36 c 0,102,103
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffff00
 EndChar
 
 StartChar: afii10095
@@ -42563,7 +42563,7 @@ Layer: 2
 Refer: 176 61009 N 1 0 0 1 1014 -340 2
 Refer: 215 61088 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA2
@@ -42681,7 +42681,7 @@ SplineSet
  733 610 733 610 752 610 c 128,-1,35
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA3
@@ -42716,7 +42716,7 @@ Layer: 2
 Refer: 176 61009 N 1 0 0 1 953 -315 2
 Refer: 264 61090 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA4
@@ -42862,7 +42862,7 @@ SplineSet
  741 610 741 610 760 610 c 128,-1,54
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA5
@@ -42955,7 +42955,7 @@ SplineSet
  103 330 103 330 107 330 c 0,18,19
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEA00
@@ -46418,8 +46418,8 @@ Validated: 1
 Colour: ff00
 EndChar
 
-StartChar: uniEB53
-Encoding: 60243 60243 282
+StartChar: uniEF53
+Encoding: 61267 61267 282
 Width: 706
 VWidth: 500
 GlyphClass: 2
@@ -47027,7 +47027,7 @@ SplineSet
  295 389 295 389 295 476 c 0,114,115
 EndSplineSet
 Validated: 1
-Colour: ff66ff
+Colour: ffff00
 EndChar
 
 StartChar: afii10047
@@ -47368,7 +47368,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB67
@@ -47443,7 +47443,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB6A
@@ -47526,7 +47526,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE71 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB6B
@@ -47607,7 +47607,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE71 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB6E
@@ -47696,7 +47696,7 @@ EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE72 uniEEE0
 Substitution2: "Depriznakify-1" uniEE72
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB6F
@@ -47791,7 +47791,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE72 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB70
@@ -47880,7 +47880,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE73 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB71
@@ -47973,7 +47973,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE73 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB74
@@ -48069,7 +48069,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE74 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB75
@@ -48169,7 +48169,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE74 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: u1CF57
@@ -48382,7 +48382,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB74 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB77
@@ -48477,7 +48477,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA8F uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB7B
@@ -48535,7 +48535,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB7A
@@ -48597,7 +48597,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEA97
@@ -48775,7 +48775,7 @@ Refer: 175 61008 N 1 0 0 1 644 -261.4 2
 Refer: 317 60280 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEE5A
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB81
@@ -48868,7 +48868,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE77 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEE7B
@@ -48958,7 +48958,7 @@ EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9A uniEEE2
-Colour: faff80
+Colour: ffc259
 EndChar
 
 StartChar: uniEB83
@@ -49043,7 +49043,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9B uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB86
@@ -49186,7 +49186,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAA1 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB87
@@ -49405,7 +49405,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEA9D
@@ -49689,7 +49689,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE7A uniEE5C
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB8A
@@ -49925,7 +49925,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB8B
@@ -50083,7 +50083,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB8C
@@ -50233,7 +50233,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB8D
@@ -50371,7 +50371,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAB6 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEAC4
@@ -50924,7 +50924,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB70 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB73
@@ -51006,7 +51006,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA8B uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB78
@@ -51070,7 +51070,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB79
@@ -51139,7 +51139,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB8E
@@ -51564,7 +51564,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB8F
@@ -51953,7 +51953,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7E uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB91
@@ -52432,7 +52432,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7E uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEAFD
@@ -52985,7 +52985,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB98
@@ -53513,7 +53513,7 @@ Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE0
 Substitution2: "Depriznakify-1" uniEE85
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB9B
@@ -53931,7 +53931,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE86 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB9F
@@ -54134,7 +54134,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA0
@@ -54312,7 +54312,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD8 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA1
@@ -54632,7 +54632,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA2
@@ -54827,7 +54827,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA4
@@ -55119,7 +55119,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB99
@@ -55583,7 +55583,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB9A
@@ -56011,7 +56011,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE86 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB9E
@@ -56306,7 +56306,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA5
@@ -56509,7 +56509,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB08
@@ -56808,7 +56808,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBAE
@@ -57208,7 +57208,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBAF
@@ -57596,7 +57596,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB01
@@ -58039,7 +58039,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBBC
@@ -58336,7 +58336,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEC uniEE58
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBCB
@@ -58581,7 +58581,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBCC
@@ -58786,7 +58786,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBCD
@@ -59030,7 +59030,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBCE
@@ -59254,7 +59254,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF2 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBCF
@@ -59540,7 +59540,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBC6 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBBD
@@ -59813,7 +59813,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBBE
@@ -60062,7 +60062,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBBF
@@ -60346,7 +60346,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC0
@@ -60606,7 +60606,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF8 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEA16
@@ -61130,8 +61130,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEB54
-Encoding: 60244 60244 354
+StartChar: uniEF54
+Encoding: 61268 61268 354
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61224,11 +61224,11 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE50 uniEE58
-Colour: faff61
+Colour: ffff00
 EndChar
 
-StartChar: uniEB55
-Encoding: 60245 60245 355
+StartChar: uniEF55
+Encoding: 61269 61269 355
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61473,11 +61473,11 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE51 uniEE58
-Colour: faff61
+Colour: ffff00
 EndChar
 
-StartChar: uniEB56
-Encoding: 60246 60246 356
+StartChar: uniEF56
+Encoding: 61270 61270 356
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61818,7 +61818,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE52 uniEE58
-Colour: faff61
+Colour: ffff00
 EndChar
 
 StartChar: uniEB60
@@ -61933,7 +61933,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEE50 uniEEE0
-Colour: faff61
+Colour: fff24a
 EndChar
 
 StartChar: uniEB61
@@ -62043,7 +62043,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEE50 uniEEE1
-Colour: ff00ff
+Colour: fff24a
 EndChar
 
 StartChar: uniEB62
@@ -62291,7 +62291,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEE51 uniEEE0
-Colour: faff61
+Colour: fff24a
 EndChar
 
 StartChar: uniEB63
@@ -62417,7 +62417,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEE51 uniEEE1
-Colour: faff61
+Colour: fff24a
 EndChar
 
 StartChar: uniEB64
@@ -62728,7 +62728,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEE52 uniEEE0
-Colour: faff61
+Colour: fff24a
 EndChar
 
 StartChar: uniEB65
@@ -63024,7 +63024,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEE52 uniEEE1
-Colour: faff61
+Colour: fff24a
 EndChar
 
 StartChar: uniEE5C
@@ -63092,7 +63092,7 @@ SplineSet
  -232 -22 l 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEA20
@@ -69317,7 +69317,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB66 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB69
@@ -69389,7 +69389,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA81 uniEEE2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB6C
@@ -69467,7 +69467,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB6A uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB6D
@@ -69543,7 +69543,7 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA85 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB7D
@@ -69577,7 +69577,7 @@ Refer: 179 61011 N 1 0 0 1 190 -257 2
 Refer: 318 60281 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEE5A
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB7E
@@ -69715,7 +69715,7 @@ Refer: 179 61011 N 1 0 0 1 192 -251.4 2
 Refer: 298 60282 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE0 uniEEE2 uniEE5A
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB7F
@@ -69834,7 +69834,7 @@ Refer: 179 61011 N 1 0 0 1 193 -247 2
 Refer: 297 60283 N 1 0 0 1 0 0 2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE1 uniEEE2 uniEE5A
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEE79
@@ -69927,7 +69927,7 @@ EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE77 uniEEE0
-Colour: faff80
+Colour: ffc259
 EndChar
 
 StartChar: uniEB84
@@ -70093,7 +70093,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB85
@@ -70236,7 +70236,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB90
@@ -70624,7 +70624,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAC1 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB92
@@ -70954,7 +70954,7 @@ Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE82 uniEEE0
 Substitution2: "Depriznakify-1" uniEE82
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB93
@@ -71285,7 +71285,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE82 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB94
@@ -71606,7 +71606,7 @@ Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE83 uniEEE0
 Substitution2: "Depriznakify-1" uniEE83
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB95
@@ -71858,7 +71858,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE83 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB96
@@ -72281,7 +72281,7 @@ Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE0
 Substitution2: "Depriznakify-1" uniEE84
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA3
@@ -72438,7 +72438,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBAD
@@ -72866,7 +72866,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB1
@@ -73035,7 +73035,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB2
@@ -73183,7 +73183,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB3
@@ -73349,7 +73349,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB4
@@ -73491,7 +73491,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB5
@@ -73633,7 +73633,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB6
@@ -73815,7 +73815,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB7
@@ -73971,7 +73971,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE51
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB8
@@ -74127,7 +74127,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE51
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBB9
@@ -74452,7 +74452,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE8 uniEE58
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBBA
@@ -74743,7 +74743,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE9 uniEE58
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBBB
@@ -75031,7 +75031,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEB uniEE58
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC1
@@ -75294,7 +75294,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF9 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC2
@@ -75612,7 +75612,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC3
@@ -75906,7 +75906,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC4
@@ -76309,7 +76309,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC5
@@ -76686,7 +76686,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC6
@@ -76872,7 +76872,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC7
@@ -77033,7 +77033,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC8
@@ -77211,7 +77211,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBC9
@@ -77363,7 +77363,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB03 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBCA
@@ -77515,7 +77515,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB04 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD0
@@ -77816,7 +77816,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD1
@@ -78092,7 +78092,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE0 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD2
@@ -78367,7 +78367,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE1 uniEE50
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD4
@@ -78601,7 +78601,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD5
@@ -78772,7 +78772,7 @@ Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE0
 Substitution2: "Depriznakify-1" uniEE9A
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD6
@@ -78946,7 +78946,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD7
@@ -79440,7 +79440,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD8
@@ -79966,7 +79966,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBD9
@@ -80241,7 +80241,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBDA
@@ -80553,7 +80553,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBDB
@@ -80932,7 +80932,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBDC
@@ -81252,7 +81252,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE0
@@ -81630,7 +81630,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE1
@@ -81971,7 +81971,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE2
@@ -82322,7 +82322,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE7
@@ -82778,7 +82778,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9E uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBEB
@@ -83410,7 +83410,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9F uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBED
@@ -83904,7 +83904,7 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA0 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBEF
@@ -84566,11 +84566,11 @@ EndSplineSet
 Validated: 1
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA1 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
-StartChar: uniEB52
-Encoding: 60242 60242 440
+StartChar: uniEF52
+Encoding: 61266 61266 440
 Width: 500
 Flags: W
 HStem: 0 56<226 281> 0 24<12 216 281 488>
@@ -84654,7 +84654,7 @@ SplineSet
  216 24 l 1,0,-1
 EndSplineSet
 Validated: 1
-Colour: ff66ff
+Colour: ffff00
 EndChar
 
 StartChar: uniEAE4
@@ -86192,7 +86192,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAE uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBFB
@@ -86526,7 +86526,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAE uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEAEB
@@ -87427,8 +87427,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE94 uniEE50
 Colour: ffff
 EndChar
 
-StartChar: uniEB58
-Encoding: 60248 60248 457
+StartChar: uniEF58
+Encoding: 61272 61272 457
 Width: 322
 VWidth: 750
 Flags: W
@@ -87755,11 +87755,11 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE89
-Colour: 4cff40
+Colour: ffff00
 EndChar
 
-StartChar: uniEB59
-Encoding: 60249 60249 458
+StartChar: uniEF59
+Encoding: 61273 61273 458
 Width: 321
 VWidth: 750
 Flags: W
@@ -88022,11 +88022,11 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE89 uni200D uniEE87
-Colour: 4cff40
+Colour: ffff00
 EndChar
 
-StartChar: uniEB5A
-Encoding: 60250 60250 459
+StartChar: uniEF5A
+Encoding: 61274 61274 459
 Width: 603
 VWidth: 750
 Flags: W
@@ -88472,11 +88472,11 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE8F uniEE51
-Colour: 4cff40
+Colour: ffff00
 EndChar
 
-StartChar: uniEB5B
-Encoding: 60251 60251 460
+StartChar: uniEF5B
+Encoding: 61275 61275 460
 Width: 651
 VWidth: 750
 Flags: W
@@ -89037,7 +89037,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8B uni200D uniEE73
-Colour: 4cff40
+Colour: ffff00
 EndChar
 
 StartChar: uniEAF6
@@ -91307,7 +91307,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAA5 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEA9B
@@ -92214,7 +92214,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD2 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB9D
@@ -92606,7 +92606,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD3 uniEEE2
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEA95
@@ -93418,7 +93418,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA5 uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBF1
@@ -93653,7 +93653,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA5 uniEEE1
 Comment: "Why is it mapped here?"
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEAEF
@@ -94560,7 +94560,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAF uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBF6
@@ -94870,7 +94870,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAA uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEACE
@@ -95192,7 +95192,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAB uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBF9
@@ -95516,7 +95516,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAB uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB28
@@ -95999,7 +95999,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA2 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBF3
@@ -96411,7 +96411,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA3 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEBF4
@@ -96807,7 +96807,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA4 uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEAF4
@@ -97260,7 +97260,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAA uniEEE0
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEABD
@@ -98333,7 +98333,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'ccmp' Priznak Composition-1" uniEEAF uniEEE1
-Colour: faff80
+Colour: fff24a
 EndChar
 
 StartChar: uniEB19
@@ -113510,7 +113510,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE18
@@ -113520,7 +113520,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE19
@@ -113530,7 +113530,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE1A
@@ -113540,7 +113540,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE1B
@@ -113550,7 +113550,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE1C
@@ -113560,7 +113560,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE1D
@@ -113570,7 +113570,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE1E
@@ -113580,7 +113580,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE20
@@ -113590,7 +113590,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE21
@@ -113600,7 +113600,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE22
@@ -113610,7 +113610,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE23
@@ -113620,7 +113620,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE24
@@ -113630,7 +113630,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE25
@@ -113640,7 +113640,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE26
@@ -113650,7 +113650,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE27
@@ -113660,7 +113660,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE28
@@ -113670,7 +113670,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE29
@@ -113680,7 +113680,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE2A
@@ -113690,7 +113690,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE2B
@@ -113700,7 +113700,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE2C
@@ -113710,7 +113710,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE2D
@@ -113720,7 +113720,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE2E
@@ -113730,7 +113730,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE2F
@@ -113740,7 +113740,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE3D
@@ -113750,7 +113750,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE3E
@@ -113760,7 +113760,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE3F
@@ -113770,7 +113770,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE40
@@ -113780,7 +113780,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE41
@@ -113790,7 +113790,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE42
@@ -113800,7 +113800,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE43
@@ -113810,7 +113810,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE44
@@ -113820,7 +113820,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE45
@@ -113830,7 +113830,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE46
@@ -113840,7 +113840,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE47
@@ -113850,7 +113850,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE48
@@ -113860,7 +113860,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE49
@@ -113870,7 +113870,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE4A
@@ -113880,7 +113880,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE4B
@@ -113890,7 +113890,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE4C
@@ -113900,7 +113900,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE4D
@@ -113910,7 +113910,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE4E
@@ -113920,7 +113920,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE4F
@@ -113930,7 +113930,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE5D
@@ -114032,7 +114032,7 @@ SplineSet
  30 296 l 5,3,-1
  52 296 l 5,0,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE5E
@@ -114083,7 +114083,7 @@ SplineSet
  -90 470 -90 470 -94 416 c 4,28,29
  -100 336 -100 336 -109 299 c 4,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE5F
@@ -114134,7 +114134,7 @@ SplineSet
  -394 -91 l 1,24,-1
  -384 0 l 1,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE99
@@ -114205,7 +114205,7 @@ SplineSet
  21 86 21 86 24 111 c 0,46,47
  35 199 35 199 87 199 c 0,24,25
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE64
@@ -114215,7 +114215,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE65
@@ -114225,7 +114225,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE66
@@ -114235,7 +114235,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE67
@@ -114245,7 +114245,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE6A
@@ -114255,7 +114255,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE6B
@@ -114265,7 +114265,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE6C
@@ -114275,7 +114275,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE6D
@@ -114285,7 +114285,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE6E
@@ -114295,7 +114295,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE6F
@@ -114305,7 +114305,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA6
@@ -114395,7 +114395,7 @@ SplineSet
  17 128 17 128 18 135 c 0,39,40
  29 223 29 223 82 223 c 0,18,19
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA7
@@ -114503,7 +114503,7 @@ SplineSet
  20 96 20 96 21 103 c 0,49,50
  32 191 32 191 85 191 c 0,25,26
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA8
@@ -114639,7 +114639,7 @@ SplineSet
  189 100 189 100 190 106 c 0,75,76
  201 194 201 194 254 194 c 0,51,52
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEA9
@@ -114649,7 +114649,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE94
@@ -114752,7 +114752,7 @@ SplineSet
  28 87 l 1,38,39
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE95
@@ -114880,7 +114880,7 @@ SplineSet
  89 251 89 251 72 217 c 1,76,-1
  84 343 l 1,66,67
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE96
@@ -114913,7 +114913,7 @@ Validated: 32769
 Layer: 2
 Refer: 709 61081 N 1 0 0 1 164 72 2
 Refer: 202 61071 N 1 0 0 1 0 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE98
@@ -115006,7 +115006,7 @@ SplineSet
  22 87 l 1,31,32
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE97
@@ -115126,7 +115126,7 @@ SplineSet
  25 -5 25 -5 8 -39 c 1,61,-1
  20 87 l 1,52,53
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB0
@@ -115219,7 +115219,7 @@ SplineSet
  25 26 25 26 8 -8 c 1,38,-1
  20 118 l 1,30,31
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB2
@@ -115337,7 +115337,7 @@ SplineSet
  35 104 35 104 36 111 c 0,67,68
  47 199 47 199 100 199 c 0,45,46
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB3
@@ -115369,7 +115369,7 @@ Validated: 32769
 Layer: 2
 Refer: 176 61009 N 1 0 0 1 1040 -346.4 2
 Refer: 730 61106 N 1 0 0 1 0 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB4
@@ -115488,7 +115488,7 @@ SplineSet
  29 152 29 152 30 158 c 0,65,66
  41 246 41 246 94 246 c 0,41,42
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB5
@@ -115603,7 +115603,7 @@ SplineSet
  319 201 l 1,51,52
  474 390 474 390 654 538 c 0,34,35
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB6
@@ -115695,7 +115695,7 @@ SplineSet
  27 128 27 128 28 135 c 0,42,43
  39 223 39 223 92 223 c 0,20,21
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB7
@@ -115804,7 +115804,7 @@ SplineSet
  31 126 31 126 32 132 c 0,52,53
  43 220 43 220 96 220 c 0,28,29
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEB9
@@ -115895,7 +115895,7 @@ SplineSet
  187 215 187 215 226 215 c 0,40,17
  244 215 244 215 257 200.5 c 128,-1,18
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEBA
@@ -116008,7 +116008,7 @@ SplineSet
  104 496 l 5,49,-1
  69 162 l 5,38,39
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEBD
@@ -116089,7 +116089,7 @@ SplineSet
  95 158 95 158 95 142.5 c 128,-1,40
  95 127 95 127 101 116 c 0,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEBE
@@ -116122,7 +116122,7 @@ Validated: 32769
 Layer: 2
 Refer: 738 61117 N 1 0 0 1 167 97 2
 Refer: 202 61071 N 1 0 0 1 0 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEBF
@@ -116167,7 +116167,7 @@ SplineSet
  64 166 64 166 56 166 c 0,22,23
  11 166 11 166 11 197 c 0,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC0
@@ -116252,7 +116252,7 @@ SplineSet
  550 576 550 576 569 576 c 128,-1,1
 EndSplineSet
 Kerns2: 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC1
@@ -116325,7 +116325,7 @@ SplineSet
  145 496 l 1,27,-1
  110 162 l 1,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC2
@@ -116421,7 +116421,7 @@ SplineSet
  255 173 255 173 241 145 c 1,42,-1
  255 271 l 1,33,34
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC3
@@ -116516,7 +116516,7 @@ SplineSet
  174 1 174 1 165 1 c 128,-1,45
  156 1 156 1 154 10 c 1,22,23
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC4
@@ -116624,7 +116624,7 @@ SplineSet
  165 1 165 1 156 0.5 c 128,-1,56
  147 0 147 0 145 9 c 1,33,34
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC5
@@ -116718,7 +116718,7 @@ SplineSet
  155 4 155 4 146 3.5 c 128,-1,44
  137 3 137 3 135 12 c 1,19,20
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC6
@@ -116827,7 +116827,7 @@ SplineSet
  174 4 174 4 165 3.5 c 132,-1,52
  156 3 156 3 154 12 c 5,29,30
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC8
@@ -116960,7 +116960,7 @@ SplineSet
  141 -1 141 -1 138 10 c 1,78,79
  149 109 149 109 150 122 c 2,52,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC9
@@ -117059,7 +117059,7 @@ SplineSet
  435 622 l 1,59,-1
  426 532 l 1,28,29
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEECA
@@ -117186,7 +117186,7 @@ SplineSet
  580 621 l 1,69,-1
  571 531 l 1,37,38
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEECD
@@ -117268,7 +117268,7 @@ SplineSet
  338 442 l 1,0,1
 EndSplineSet
 Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEECE
@@ -117385,7 +117385,7 @@ SplineSet
  436 173 436 173 422 145 c 1,54,-1
  434 271 l 1,44,45
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEECF
@@ -117517,7 +117517,7 @@ SplineSet
  419 173 419 173 405 145 c 1,63,-1
  417 271 l 1,54,55
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED0
@@ -117617,7 +117617,7 @@ SplineSet
  424 173 424 173 410 145 c 1,55,-1
  422 271 l 1,45,46
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED2
@@ -117650,7 +117650,7 @@ Validated: 32769
 Layer: 2
 Refer: 176 61009 N 1 0 0 1 732 -316 2
 Refer: 803 61137 N 1 0 0 1 0 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED3
@@ -117682,7 +117682,7 @@ Validated: 32769
 Layer: 2
 Refer: 177 61010 N 1 0 0 1 702 -358 2
 Refer: 803 61137 N 1 0 0 1 0 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED4
@@ -117808,7 +117808,7 @@ SplineSet
  362 150 362 150 349 125 c 1,57,-1
  361 252 l 1,49,50
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED6
@@ -117888,7 +117888,7 @@ SplineSet
  12 317 l 1,27,-1
  24 444 l 1,24,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE2
@@ -118739,7 +118739,7 @@ SplineSet
  106 17 l 1,149,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE3
@@ -119651,7 +119651,7 @@ SplineSet
  106 17 l 5,157,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE4
@@ -120555,7 +120555,7 @@ SplineSet
  106 17 l 5,155,-1
 EndSplineSet
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEECB
@@ -120698,7 +120698,7 @@ SplineSet
  718 703 l 1,78,-1
  709 614 l 1,46,47
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE6
@@ -120786,7 +120786,7 @@ SplineSet
  488 551 488 551 568 616.5 c 128,-1,20
  648 682 648 682 667 682 c 128,-1,21
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEEC
@@ -120898,7 +120898,7 @@ SplineSet
  501 559 l 5,24,25
 EndSplineSet
 Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEEF
@@ -120908,7 +120908,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF3
@@ -121020,7 +121020,7 @@ SplineSet
  92 330 92 330 96 330 c 0,31,32
 EndSplineSet
 Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 595 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 596 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 597 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 598 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 743 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 827 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF4
@@ -121161,7 +121161,7 @@ SplineSet
  100 327 l 2,67,68
  102 330 102 330 106 330 c 0,53,54
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF5
@@ -121317,7 +121317,7 @@ SplineSet
  92 327 l 2,78,79
  94 330 94 330 98 330 c 0,64,65
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF6
@@ -121327,7 +121327,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF8
@@ -121438,7 +121438,7 @@ SplineSet
  370 253 370 253 356 225 c 1,65,-1
  370 351 l 1,55,56
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF9
@@ -121581,7 +121581,7 @@ SplineSet
  973 683 973 683 906 633 c 1,69,-1
  949 605 l 1,39,-1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEFA
@@ -121591,7 +121591,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEFB
@@ -121601,7 +121601,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEFC
@@ -121611,7 +121611,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEFD
@@ -121621,7 +121621,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEFE
@@ -121631,7 +121631,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEFF
@@ -121641,7 +121641,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEB06
@@ -121779,7 +121779,7 @@ Validated: 32769
 Layer: 2
 Refer: 176 61009 N 1 0 0 1 906 -225 2
 Refer: 729 61104 N 1 0 0 1 9 0 2
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEC46
@@ -129256,8 +129256,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniEC4C
-Encoding: 60492 60492 788
+StartChar: uniEC50
+Encoding: 60496 60496 788
 Width: 812
 Flags: W
 HStem: 17 88<5 44 769 808> 17 38<44 95 147 238 290 380 432 524 575 666 718 769> 107 44<227.288 332.182> 146 89<5 44 768 807> 204 38<489 551.388> 285 88<5 44 768 807> 319 42<274.192 365.235 487 554.834> 420 39<485.373 557.59> 424 88<5 44 768 807> 528 36<485 545.75> 563 89<5 44 768 807> 624 41<484 547.508> 689 89<5 44 769 808> 739 39<44 95 147 238 290 380 432 524 575 666 718 769>
@@ -130501,7 +130501,7 @@ SplineSet
  175 96 175 96 176 103 c 0,73,74
  187 191 187 191 240 191 c 0,51,52
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEE60
@@ -130545,6 +130545,7 @@ SplineSet
  -21 228 l 5,17,18
  -46 222 -46 222 -75 209 c 5,0,1
 EndSplineSet
+Colour: ffc259
 EndChar
 
 StartChar: uniEEC7
@@ -130668,7 +130669,7 @@ SplineSet
  154 0 154 0 152 8 c 2,67,-1
  152 11 l 1,40,41
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEBB
@@ -130776,7 +130777,7 @@ SplineSet
  236 174 236 174 222 146 c 1,61,-1
  236 272 l 1,51,52
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEBC
@@ -130869,7 +130870,7 @@ SplineSet
  237 171 237 171 224 145 c 1,49,-1
  238 271 l 1,41,42
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE7
@@ -130982,7 +130983,7 @@ SplineSet
  27 4 27 4 10 -30 c 1,52,-1
  22 96 l 1,41,42
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE8
@@ -131125,7 +131126,7 @@ SplineSet
  28 0 28 0 11 -34 c 1,71,-1
  23 92 l 1,60,61
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE9
@@ -131272,7 +131273,7 @@ SplineSet
  585.5 265 585.5 265 571.5 237 c 1,72,-1
  583.5 363 l 5,63,64
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEEA
@@ -131409,7 +131410,7 @@ SplineSet
  581 264 581 264 567 236 c 1,87,-1
  579 362 l 1,78,79
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEED
@@ -131534,7 +131535,7 @@ SplineSet
  16 97 l 1,56,57
 EndSplineSet
 Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEEE
@@ -131671,7 +131672,7 @@ SplineSet
  522 243 522 243 508 215 c 1,69,-1
  520 342 l 1,59,60
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF0
@@ -131797,7 +131798,7 @@ SplineSet
  703 797 l 1,66,-1
  694 706 l 1,24,25
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF1
@@ -131959,7 +131960,7 @@ SplineSet
  523 244 523 244 509 216 c 1,84,-1
  521 343 l 1,74,75
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEECC
@@ -131969,7 +131970,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED1
@@ -132040,7 +132041,7 @@ SplineSet
  338 593 l 1,26,-1
  323 445 l 1,0,1
 EndSplineSet
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED5
@@ -132050,7 +132051,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED7
@@ -132060,7 +132061,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED8
@@ -132070,7 +132071,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEED9
@@ -132080,7 +132081,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEDA
@@ -132090,7 +132091,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEDB
@@ -132100,7 +132101,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEDC
@@ -132110,7 +132111,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEDD
@@ -132120,7 +132121,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEDE
@@ -132130,7 +132131,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEDF
@@ -132140,7 +132141,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEE5
@@ -132150,7 +132151,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEEB
@@ -132160,7 +132161,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF2
@@ -132170,7 +132171,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEEF7
@@ -132180,7 +132181,7 @@ VWidth: 0
 LayerCount: 3
 Fore
 Validated: 1
-Colour: ffb54c
+Colour: ffc259
 EndChar
 
 StartChar: uniEA61
@@ -137995,12 +137996,12 @@ LayerCount: 3
 Colour: faff5c
 EndChar
 
-StartChar: uniEB57
-Encoding: 60247 60247 1105
+StartChar: uniEF57
+Encoding: 61271 61271 1105
 Width: 1000
 VWidth: 0
 LayerCount: 3
-Colour: ffff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF9
@@ -138153,6 +138154,7 @@ SplineSet
  237 232 244 326 244 327 c 0
  251 386 273 415 308 415 c 0
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEB82
@@ -138217,6 +138219,7 @@ SplineSet
  237 232 244 326 244 327 c 0
  251 386 273 415 308 415 c 0
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA7
@@ -138265,6 +138268,7 @@ SplineSet
  65 214 28 169 16 145 c 1
  28 271 l 2
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA8
@@ -138315,6 +138319,7 @@ SplineSet
  65 214 28 169 16 145 c 5
  28 271 l 6
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBA9
@@ -138363,6 +138368,7 @@ SplineSet
  65 214 28 169 16 145 c 1
  28 271 l 2
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBAA
@@ -138413,6 +138419,7 @@ SplineSet
  176.5 442.602 l 5
  198.5 450.602 l 5
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBAB
@@ -138443,6 +138450,7 @@ SplineSet
  64 6 55 37 60 96 c 4
  63.7236 135.565 75.9912 213.732 75.9912 213.732 c 4
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBAC
@@ -138476,6 +138484,7 @@ SplineSet
  64 6 55 37 60 96 c 4
  63.7236 135.565 75.9912 213.732 75.9912 213.732 c 4
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEF81
@@ -144113,8 +144122,8 @@ EndSplineSet
 Colour: faff5c
 EndChar
 
-StartChar: uniEB50
-Encoding: 60240 60240 1198
+StartChar: uniEF50
+Encoding: 61264 61264 1198
 Width: 401
 Flags: W
 HStem: -180 75<100.618 210.109> 113 81<136.389 212.882> 314 55<145.51 262.369>
@@ -144176,6 +144185,7 @@ SplineSet
  222.239 505.983 236.978 541.902 276.212 541.902 c 0
  304.464 541.896 329.762 515.521 329.762 493.613 c 0
 EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: uniEBDD
@@ -144223,6 +144233,7 @@ SplineSet
  412 -12.0195 357 -21.0195 326 -84.0195 c 1
  338 42.9805 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBDE
@@ -144270,6 +144281,7 @@ SplineSet
  412 -12.0195 357 -21.0195 326 -84.0195 c 1
  338 42.9805 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBDF
@@ -144317,6 +144329,7 @@ SplineSet
  412 -12.0195 357 -21.0195 326 -84.0195 c 1
  338 42.9805 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE3
@@ -144391,6 +144404,7 @@ SplineSet
  544 124.4 489 115.4 458 52.4004 c 1
  470 178.4 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE4
@@ -144465,6 +144479,7 @@ SplineSet
  544 124.4 489 115.4 458 52.4004 c 1
  470 178.4 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE5
@@ -144539,6 +144554,7 @@ SplineSet
  544 124.4 489 115.4 458 52.4004 c 1
  470 178.4 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE6
@@ -144612,6 +144628,7 @@ SplineSet
  543 332 607 396 731 498 c 0
  794 550 831 576 844 576 c 0
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE8
@@ -144680,6 +144697,7 @@ SplineSet
  543 332 607 396 731 498 c 0
  794 550 831 576 844 576 c 0
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBE9
@@ -144748,6 +144766,7 @@ SplineSet
  30 -10 34 39 41 74 c 0
  52 130 73 158 104 158 c 0
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBEA
@@ -144831,6 +144850,7 @@ SplineSet
  798 214.6 743 205.6 712 142.6 c 1
  724 269.6 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBEC
@@ -144905,6 +144925,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0xbc
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBEE
@@ -144989,6 +145010,7 @@ SplineSet
  798 214.6 743 205.6 712 142.6 c 1
  724 269.6 l 1
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEBF7
@@ -145071,6 +145093,7 @@ SplineSet
  663 332 727 396 851 498 c 0
  914 550 951 576 964 576 c 0
 EndSplineSet
+Colour: fff24a
 EndChar
 
 StartChar: uniEF84
@@ -145207,6 +145230,454 @@ Width: 1000
 VWidth: 0
 LayerCount: 3
 Colour: faff5c
+EndChar
+
+StartChar: uniEBD3
+Encoding: 60371 60371 1229
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: fff24a
+EndChar
+
+StartChar: uniEBFE
+Encoding: 60414 60414 1230
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: fff24a
+EndChar
+
+StartChar: uniEBFF
+Encoding: 60415 60415 1231
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: fff24a
+EndChar
+
+StartChar: uniEE61
+Encoding: 61025 61025 1232
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffc259
+EndChar
+
+StartChar: uniEE62
+Encoding: 61026 61026 1233
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffc259
+EndChar
+
+StartChar: uniEE63
+Encoding: 61027 61027 1234
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffc259
+EndChar
+
+StartChar: uniEE68
+Encoding: 61032 61032 1235
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffc259
+EndChar
+
+StartChar: uniEE69
+Encoding: 61033 61033 1236
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffc259
+EndChar
+
+StartChar: uniEB50
+Encoding: 60240 60240 1237
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB51
+Encoding: 60241 60241 1238
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB52
+Encoding: 60242 60242 1239
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB53
+Encoding: 60243 60243 1240
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB54
+Encoding: 60244 60244 1241
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB55
+Encoding: 60245 60245 1242
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB56
+Encoding: 60246 60246 1243
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB57
+Encoding: 60247 60247 1244
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB58
+Encoding: 60248 60248 1245
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB59
+Encoding: 60249 60249 1246
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB5A
+Encoding: 60250 60250 1247
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB5B
+Encoding: 60251 60251 1248
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEF5C
+Encoding: 61276 61276 1249
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF5D
+Encoding: 61277 61277 1250
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF5E
+Encoding: 61278 61278 1251
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF5F
+Encoding: 61279 61279 1252
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF60
+Encoding: 61280 61280 1253
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF61
+Encoding: 61281 61281 1254
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF62
+Encoding: 61282 61282 1255
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF63
+Encoding: 61283 61283 1256
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF64
+Encoding: 61284 61284 1257
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF65
+Encoding: 61285 61285 1258
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF66
+Encoding: 61286 61286 1259
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF67
+Encoding: 61287 61287 1260
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF68
+Encoding: 61288 61288 1261
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF69
+Encoding: 61289 61289 1262
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF6A
+Encoding: 61290 61290 1263
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF6B
+Encoding: 61291 61291 1264
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF6C
+Encoding: 61292 61292 1265
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF6D
+Encoding: 61293 61293 1266
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF6E
+Encoding: 61294 61294 1267
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF6F
+Encoding: 61295 61295 1268
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF70
+Encoding: 61296 61296 1269
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF71
+Encoding: 61297 61297 1270
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF72
+Encoding: 61298 61298 1271
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF73
+Encoding: 61299 61299 1272
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF74
+Encoding: 61300 61300 1273
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF75
+Encoding: 61301 61301 1274
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF76
+Encoding: 61302 61302 1275
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF77
+Encoding: 61303 61303 1276
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF78
+Encoding: 61304 61304 1277
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF79
+Encoding: 61305 61305 1278
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF7A
+Encoding: 61306 61306 1279
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF7B
+Encoding: 61307 61307 1280
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF7C
+Encoding: 61308 61308 1281
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF7D
+Encoding: 61309 61309 1282
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF7E
+Encoding: 61310 61310 1283
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEF7F
+Encoding: 61311 61311 1284
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
 EndChar
 EndChars
 EndSplineFont
