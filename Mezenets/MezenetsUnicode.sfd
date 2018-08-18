@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1534554345
+ModificationTime: 1534605154
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -82,13 +82,13 @@ ChainSub2: class "'ccmp'  Contextual Prizakification-1" 3 3 3 1
 EndFPST
 ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1" 4 4 4 2
   Class: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   Class: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
   BClass: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  BClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  BClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   BClass: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
   FClass: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  FClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEA8F uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEAB7 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  FClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   FClass: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
  2 0 0
   ClsList: 2 1
@@ -978,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 61236 27 9
+WinInfo: 60264 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -999,7 +999,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Podtinka" "'mark' Black Marking Positions-1" "DoubleShaidur" "'mkmk' Double Shaidur Attachment-1" "Zevok" "'mark' Cinnabar Indicatory Mark Positioning-1" "Udarka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kupnaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kachka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Lomka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Oblachko" "'mark' Black Marking Positions-1" "Podchashie" "'mark' Black Marking Positions-1" "Zaderzhka" "'mark' Black Marking Positions-1" "Tonal" "'mark' Black Marking Positions-1" "Podvertka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Borzaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Otsechka" "'mark' Black Marking Positions-1" "Shaidur" "'mark' Cinnabar Pitch Marking Positioning-1"
-BeginChars: 1114112 1285
+BeginChars: 1114112 1324
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -30897,7 +30897,7 @@ SplineSet
  -407 417 -407 417 -421 389 c 1,9,-1
  -409 515 l 1,0,1
 EndSplineSet
-Substitution2: "Priznakify-1" uniEF55
+Substitution2: "Priznakify-1" uniEC01
 Colour: ffc259
 EndChar
 
@@ -48476,7 +48476,7 @@ SplineSet
  342 444 l 1,0,1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA8F uniEEE2
+Ligature2: "'ccmp' Priznak-based Compositions-1" uniEC03 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -61130,8 +61130,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEF54
-Encoding: 61268 61268 354
+StartChar: uniEC00
+Encoding: 60416 60416 354
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61227,8 +61227,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE50 uniEE58
 Colour: ffff00
 EndChar
 
-StartChar: uniEF55
-Encoding: 61269 61269 355
+StartChar: uniEC01
+Encoding: 60417 60417 355
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -61476,8 +61476,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE51 uniEE58
 Colour: ffff00
 EndChar
 
-StartChar: uniEF56
-Encoding: 61270 61270 356
+StartChar: uniEC02
+Encoding: 60418 60418 356
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -87427,8 +87427,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE94 uniEE50
 Colour: ffff
 EndChar
 
-StartChar: uniEF58
-Encoding: 61272 61272 457
+StartChar: uniEC13
+Encoding: 60435 60435 457
 Width: 322
 VWidth: 750
 Flags: W
@@ -87758,8 +87758,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE89
 Colour: ffff00
 EndChar
 
-StartChar: uniEF59
-Encoding: 61273 61273 458
+StartChar: uniEC14
+Encoding: 60436 60436 458
 Width: 321
 VWidth: 750
 Flags: W
@@ -88025,8 +88025,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE89 uni200D uniEE87
 Colour: ffff00
 EndChar
 
-StartChar: uniEF5A
-Encoding: 61274 61274 459
+StartChar: uniEC15
+Encoding: 60437 60437 459
 Width: 603
 VWidth: 750
 Flags: W
@@ -88475,8 +88475,8 @@ Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE8F uniEE51
 Colour: ffff00
 EndChar
 
-StartChar: uniEF5B
-Encoding: 61275 61275 460
+StartChar: uniEC16
+Encoding: 60438 60438 460
 Width: 651
 VWidth: 750
 Flags: W
@@ -91496,8 +91496,8 @@ EndSplineSet
 Colour: ffff
 EndChar
 
-StartChar: uniEA8F
-Encoding: 60047 60047 526
+StartChar: uniEC03
+Encoding: 60419 60419 526
 Width: 740
 VWidth: 0
 Flags: W
@@ -91545,7 +91545,7 @@ SplineSet
  671 613 703 571 703 548 c 0
  703 547 703 547 703 546 c 2
 EndSplineSet
-Colour: ffff
+Colour: ffff00
 EndChar
 
 StartChar: uniEA8B
@@ -136390,8 +136390,8 @@ EndSplineSet
 Colour: ffff
 EndChar
 
-StartChar: uniEAB7
-Encoding: 60087 60087 1029
+StartChar: uniEC11
+Encoding: 60433 60433 1029
 Width: 1055
 Flags: HW
 LayerCount: 3
@@ -136465,7 +136465,7 @@ SplineSet
  936 644 l 1
  901 310 l 1
 EndSplineSet
-Colour: ffff
+Colour: ffff00
 EndChar
 
 StartChar: uniEAC6
@@ -144192,7 +144192,9 @@ StartChar: uniEBDD
 Encoding: 60381 60381 1199
 Width: 790
 VWidth: 999
-Flags: HW
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+VStem: 123 22<343.035 401>
 LayerCount: 3
 Fore
 SplineSet
@@ -144240,7 +144242,8 @@ StartChar: uniEBDE
 Encoding: 60382 60382 1200
 Width: 790
 VWidth: 999
-Flags: HW
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 LayerCount: 3
 Fore
 SplineSet
@@ -144288,7 +144291,9 @@ StartChar: uniEBDF
 Encoding: 60383 60383 1201
 Width: 790
 VWidth: 999
-Flags: HW
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+VStem: 747 22<580.035 638>
 LayerCount: 3
 Fore
 SplineSet
@@ -145674,6 +145679,962 @@ EndChar
 
 StartChar: uniEFDF
 Encoding: 61407 61407 1284
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC04
+Encoding: 60420 60420 1285
+Width: 999
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+912 782 m 0
+ 932 782 971 739 969 715 c 2
+ 957 613 l 1
+ 954 628 942 653 918 672 c 0
+ 893 691 793 603 745 556 c 0
+ 643 456 513 309 513 309 c 1
+ 552 693 l 1
+ 580 710 l 1
+ 553 451 l 1
+ 598 506 633 545 696 608 c 0
+ 759 671 891 782 912 782 c 0
+70 162 m 1
+ 113 237 199 262 199 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC05
+Encoding: 60421 60421 1286
+Width: 999
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+737 948 m 1
+ 712 707 l 1
+ 690 701 l 1
+ 714 940 l 1
+ 737 948 l 1
+702 694 m 0
+ 667 694 645 720 645 754 c 0
+ 645 788 659 871 674 907 c 0
+ 677 915 684 917 683 903 c 0
+ 682 893 676 842 676 832 c 0
+ 676 810 681 788 711 788 c 0
+ 756 788 758 879 765 920 c 0
+ 766 926 770 929 772 929 c 0
+ 774 929 775 928 775 924 c 0
+ 776 893 772 812 765 778 c 0
+ 756 734 736 694 702 694 c 0
+912 782 m 0
+ 932 782 971 739 969 715 c 2
+ 957 613 l 1
+ 954 628 942 653 918 672 c 0
+ 893 691 793 603 745 556 c 0
+ 643 456 513 309 513 309 c 1
+ 552 693 l 1
+ 580 710 l 1
+ 553 451 l 1
+ 598 506 633 545 696 608 c 0
+ 759 671 891 782 912 782 c 0
+70 162 m 1
+ 113 237 199 262 199 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC06
+Encoding: 60422 60422 1287
+Width: 973
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+794 862 m 1
+ 815 923 878 932 878 932 c 1
+ 867 808 l 1
+ 867 808 813 799 782 736 c 1
+ 794 862 l 1
+697 898 m 1
+ 672 657 l 1
+ 650 651 l 1
+ 674 890 l 1
+ 697 898 l 1
+662 644 m 0
+ 627 644 605 670 605 704 c 0
+ 605 738 619 821 634 857 c 0
+ 637 865 644 867 643 853 c 0
+ 642 843 636 792 636 782 c 0
+ 636 760 641 738 671 738 c 0
+ 716 738 718 829 725 870 c 0
+ 726 876 730 879 732 879 c 0
+ 734 879 735 878 735 874 c 0
+ 736 843 732 762 725 728 c 0
+ 716 684 696 644 662 644 c 0
+873 727 m 0
+ 898 727 945 673 943 643 c 1
+ 929 526 l 1
+ 925 545 910 576 880 599 c 0
+ 849 623 724 513 664 454 c 0
+ 536 329 524 312 513 291 c 1
+ 529 418 l 1
+ 531 410 513 419 602 509 c 0
+ 680 588 847 727 873 727 c 0
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+70 162 m 1
+ 113 237 203 262 203 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC07
+Encoding: 60423 60423 1288
+Width: 1103
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+602 416 m 0
+ 600 408 599 404 598 402 c 0
+ 595 395 582 374 557 341 c 0
+ 532 307 519 290 517 290 c 2
+ 513 290 l 1
+ 513 291 514 299 516 314 c 0
+ 527 380 528 445 517 508 c 0
+ 516 510 515 513 513 520 c 0
+ 512 523 514 528 519 534 c 2
+ 591 627 l 2
+ 593 629 595 630 598 630 c 0
+ 615 630 615 591 615 514 c 0
+ 615 475 607 442 602 416 c 0
+1003.53 780.3 m 0
+ 1028.53 780.3 1075.53 726.3 1073.53 696.3 c 1
+ 1059.53 579.3 l 1
+ 1055.53 598.3 1040.53 629.3 1010.53 652.3 c 0
+ 979.531 676.3 854.531 566.3 794.531 507.3 c 0
+ 666.531 382.3 654.531 365.3 643.531 344.3 c 1
+ 659.531 471.3 l 1
+ 661.531 463.3 643.531 472.3 732.531 562.3 c 0
+ 810.531 641.3 977.531 780.3 1003.53 780.3 c 0
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+70 162 m 1
+ 113 237 203 262 203 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC08
+Encoding: 60424 60424 1289
+Width: 1135
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+824 852 m 1
+ 845 913 908 922 908 922 c 1
+ 897 798 l 1
+ 897 798 843 789 812 726 c 1
+ 824 852 l 1
+1048 852 m 0
+ 1068 852 1107 809 1105 785 c 2
+ 1093 683 l 1
+ 1090 698 1078 723 1054 742 c 0
+ 1029 761 929 673 881 626 c 0
+ 779 526 649 379 649 379 c 1
+ 688 763 l 1
+ 716 780 l 1
+ 689 521 l 1
+ 734 576 769 615 832 678 c 0
+ 895 741 1027 852 1048 852 c 0
+525 431 m 1
+ 546 492 609 501 609 501 c 1
+ 596 377 l 1
+ 596 377 542 368 511 305 c 1
+ 525 431 l 1
+70 162 m 1
+ 113 237 200 262 200 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC09
+Encoding: 60425 60425 1290
+Width: 1135
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+437 668 m 0
+ 483 675 517 646 518 608 c 0
+ 519 574 510 545 499 520 c 0
+ 496 512 486 510 487 524 c 0
+ 488 534 487 537 487 547 c 0
+ 487 569 460 578 425 566 c 0
+ 373 548 347 483 338 442 c 0
+ 337 436 332 433 329 433 c 0
+ 326 433 325 435 325 439 c 0
+ 324 473 331 549 350 590 c 0
+ 368 630 399 662 437 668 c 0
+1013 667 m 1
+ 1003 563 l 1
+ 781 712 l 1
+ 790 815 l 1
+ 1013 667 l 1
+923 848 m 1
+ 892 532 l 1
+ 869 522 l 1
+ 901 835 l 1
+ 923 848 l 1
+1048 852 m 0
+ 1068 852 1107 809 1105 785 c 2
+ 1093 683 l 1
+ 1090 698 1078 723 1054 742 c 0
+ 1029 761 929 673 881 626 c 0
+ 779 526 649 379 649 379 c 1
+ 688 763 l 1
+ 716 780 l 1
+ 689 521 l 1
+ 734 576 769 615 832 678 c 0
+ 895 741 1027 852 1048 852 c 0
+525 431 m 1
+ 546 492 609 501 609 501 c 1
+ 596 377 l 1
+ 596 377 542 368 511 305 c 1
+ 525 431 l 1
+70 162 m 1
+ 113 237 200 262 200 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC0A
+Encoding: 60426 60426 1291
+Width: 1239
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+738 496 m 0
+ 736 488 735 484 734 482 c 0
+ 731 475 718 454 693 421 c 0
+ 668 387 655 370 653 370 c 2
+ 649 370 l 1
+ 649 371 650 379 652 394 c 0
+ 663 460 664 525 653 588 c 0
+ 652 590 651 593 649 600 c 0
+ 648 603 650 608 655 614 c 2
+ 727 707 l 2
+ 729 709 731 710 734 710 c 0
+ 751 710 751 671 751 594 c 0
+ 751 555 743 522 738 496 c 0
+1139.53 860.3 m 0
+ 1164.53 860.3 1211.53 806.3 1209.53 776.3 c 1
+ 1195.53 659.3 l 1
+ 1191.53 678.3 1176.53 709.3 1146.53 732.3 c 0
+ 1115.53 756.3 990.531 646.3 930.531 587.3 c 0
+ 802.531 462.3 790.531 445.3 779.531 424.3 c 1
+ 795.531 551.3 l 1
+ 797.531 543.3 779.531 552.3 868.531 642.3 c 0
+ 946.531 721.3 1113.53 860.3 1139.53 860.3 c 0
+1104 674 m 1
+ 1094 570 l 1
+ 872 719 l 1
+ 881 822 l 1
+ 1104 674 l 1
+1014 855 m 1
+ 983 539 l 1
+ 960 529 l 1
+ 992 842 l 1
+ 1014 855 l 1
+525 431 m 1
+ 546 492 609 501 609 501 c 1
+ 596 377 l 1
+ 596 377 542 368 511 305 c 1
+ 525 431 l 1
+70 162 m 1
+ 113 237 200 262 200 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC0B
+Encoding: 60427 60427 1292
+Width: 1259
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+794 752 m 1
+ 815 813 878 822 878 822 c 1
+ 867 698 l 1
+ 867 698 813 689 782 626 c 1
+ 794 752 l 1
+738 496 m 0
+ 736 488 735 484 734 482 c 0
+ 731 475 718 454 693 421 c 0
+ 668 387 655 370 653 370 c 2
+ 649 370 l 1
+ 649 371 650 379 652 394 c 0
+ 663 460 664 525 653 588 c 0
+ 652 590 651 593 649 600 c 0
+ 648 603 650 608 655 614 c 2
+ 727 707 l 2
+ 729 709 731 710 734 710 c 0
+ 751 710 751 671 751 594 c 0
+ 751 555 743 522 738 496 c 0
+1159.53 860.3 m 0
+ 1184.53 860.3 1231.53 806.3 1229.53 776.3 c 1
+ 1215.53 659.3 l 1
+ 1211.53 678.3 1196.53 709.3 1166.53 732.3 c 0
+ 1135.53 756.3 1010.53 646.3 950.531 587.3 c 0
+ 822.531 462.3 810.531 445.3 799.531 424.3 c 1
+ 815.531 551.3 l 1
+ 817.531 543.3 799.531 552.3 888.531 642.3 c 0
+ 966.531 721.3 1133.53 860.3 1159.53 860.3 c 0
+1154 699 m 1
+ 1144 595 l 1
+ 922 744 l 1
+ 931 847 l 1
+ 1154 699 l 1
+1064 880 m 1
+ 1033 564 l 1
+ 1010 554 l 1
+ 1042 867 l 1
+ 1064 880 l 1
+525 431 m 1
+ 546 492 609 501 609 501 c 1
+ 596 377 l 1
+ 596 377 542 368 511 305 c 1
+ 525 431 l 1
+70 162 m 1
+ 113 237 200 262 200 262 c 1
+ 184 122 l 1
+ 184 122 74 90 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+389 351 m 1
+ 410 412 473 421 473 421 c 1
+ 460 297 l 1
+ 460 297 406 288 375 225 c 1
+ 389 351 l 1
+253 271 m 1
+ 274 332 337 341 337 341 c 1
+ 324 217 l 1
+ 324 217 270 208 239 145 c 1
+ 253 271 l 1
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC0C
+Encoding: 60428 60428 1293
+Width: 695
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+270 162 m 5
+ 283 184 300 203 322 220 c 4
+ 344 237 361.741 248.692 377 254 c 6
+ 400 262 l 5
+ 385 122 l 5
+ 377 120 363 115 346 107 c 4
+ 290 82 251 46 230 0 c 5
+ 279 480 l 5
+ 305 496 l 5
+ 270 162 l 5
+591 351 m 5
+ 601 380 630 410 659 417 c 6
+ 675 421 l 5
+ 662 297 l 5
+ 627 291 593 257 577 225 c 5
+ 591 351 l 5
+453 271 m 5
+ 463 300 492 330 521 337 c 6
+ 537 341 l 5
+ 524 217 l 5
+ 489 211 455 177 439 145 c 5
+ 453 271 l 5
+133.483 304 m 0
+ 167.483 304 195.483 285 195.483 218 c 0
+ 195.483 153 177.483 14 175.483 5 c 1
+ 175.483 5 171.483 -6 162.483 -7 c 0
+ 152.483 -8 150.483 2 150.483 2 c 1
+ 155.483 46 160.483 78 162.483 114 c 0
+ 165.483 159 161.483 196 126.483 196 c 0
+ 113.483 196 70.4844 196 60.4844 72 c 1
+ 60.4844 72 58.4844 16 56.4844 -38 c 0
+ 56.4844 -43 50.4844 -53 41.4844 -53 c 0
+ 26.4844 -53 30.4844 -35 30.4844 -22 c 0
+ 30.4844 88 41.4844 304 133.483 304 c 0
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC0D
+Encoding: 60429 60429 1294
+Width: 762
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+598 183 m 1
+ 719 102 l 1
+ 717 71 710 1 711 -1 c 1
+ 590 80 l 1
+ 598 183 l 1
+612 367 m 1
+ 733 286 l 1
+ 725 183 l 1
+ 604 264 l 1
+ 612 367 l 1
+529 6 m 0
+ 528 -1 523 -6 517 -6 c 0
+ 508 -6 505 2 506 6 c 0
+ 509 32 517 82 517 146 c 0
+ 517 207 521 256 490 306 c 0
+ 461 352 415 371 358 371 c 1
+ 370 496 l 1
+ 458 496 552 414 552 247 c 0
+ 552 125 536 44 529 6 c 0
+270 162 m 1
+ 313 237 399 262 399 262 c 1
+ 384 122 l 1
+ 384 122 274 90 230 0 c 1
+ 279 480 l 1
+ 305 496 l 1
+ 270 162 l 1
+133.483 304 m 0
+ 167.483 304 195.483 285 195.483 218 c 0
+ 195.483 153 177.483 14 175.483 5 c 1
+ 175.483 5 171.483 -6 162.483 -7 c 0
+ 152.483 -8 150.483 2 150.483 2 c 1
+ 155.483 46 160.483 78 162.483 114 c 0
+ 165.483 159 161.483 196 126.483 196 c 0
+ 113.483 196 70.4844 196 60.4844 72 c 1
+ 60.4844 72 58.4844 16 56.4844 -38 c 0
+ 56.4844 -43 50.4844 -53 41.4844 -53 c 0
+ 26.4844 -53 30.4844 -35 30.4844 -22 c 0
+ 30.4844 88 41.4844 304 133.483 304 c 0
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC0E
+Encoding: 60430 60430 1295
+Width: 902
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+638 237 m 1
+ 659 298 722 307 722 307 c 1
+ 712 183 l 1
+ 712 183 657 174 626 111 c 1
+ 638 237 l 1
+508 118 m 1
+ 529 179 592 188 592 188 c 1
+ 582 64 l 1
+ 582 64 527 55 496 -8 c 1
+ 508 118 l 1
+798 576 m 0
+ 823 576 874 522 872 492 c 1
+ 854 374 l 1
+ 850 393 835 424 805 447 c 0
+ 774 471 649 362 589 303 c 0
+ 461 178 309 0 309 0 c 1
+ 321 123 l 1
+ 321 123 439 268 528 358 c 0
+ 606 437 772 576 798 576 c 0
+289 383 m 1
+ 310 444 414 463 414 463 c 1
+ 404 339 l 1
+ 404 339 308 320 277 257 c 1
+ 289 383 l 1
+159 363 m 0
+ 201 363 236 341 236 257 c 0
+ 236 249 236 241 235 232 c 0
+ 233 191 229 144 220 85 c 2
+ 210 14 l 1
+ 210 14 204 4 198 5 c 0
+ 193 5 190 16 190 16 c 1
+ 196 70 205 111 205 157 c 0
+ 205 214 193 259 150 259 c 0
+ 133 259 71 257 58 103 c 1
+ 58 103 53 30 51 -38 c 0
+ 51 -44 46 -53 39 -53 c 0
+ 33 -53 30 -41 30 -41 c 1
+ 30 -14 l 2
+ 30 124 44 363 159 363 c 0
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC0F
+Encoding: 60431 60431 1296
+Width: 934
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+779 249 m 1
+ 800 310 904 329 904 329 c 1
+ 894 205 l 1
+ 894 205 798 185 767 122 c 1
+ 779 249 l 1
+871 489 m 1
+ 829 64 l 1
+ 806 49 l 1
+ 849 481 l 1
+ 871 489 l 1
+638 237 m 1
+ 659 298 722 307 722 307 c 1
+ 712 183 l 1
+ 712 183 657 174 626 111 c 1
+ 638 237 l 1
+508 118 m 1
+ 529 179 592 188 592 188 c 1
+ 582 64 l 1
+ 582 64 527 55 496 -8 c 1
+ 508 118 l 1
+798 576 m 0
+ 823 576 874 522 872 492 c 1
+ 854 374 l 1
+ 850 393 835 424 805 447 c 0
+ 774 471 649 362 589 303 c 0
+ 461 178 309 0 309 0 c 1
+ 321 123 l 1
+ 321 123 439 268 528 358 c 0
+ 606 437 772 576 798 576 c 0
+289 383 m 1
+ 310 444 414 463 414 463 c 1
+ 404 339 l 1
+ 404 339 308 320 277 257 c 1
+ 289 383 l 1
+159 363 m 0
+ 201 363 236 341 236 257 c 0
+ 236 249 236 241 235 232 c 0
+ 233 191 229 144 220 85 c 2
+ 210 14 l 1
+ 210 14 204 4 198 5 c 0
+ 193 5 190 16 190 16 c 1
+ 196 70 205 111 205 157 c 0
+ 205 214 193 259 150 259 c 0
+ 133 259 71 257 58 103 c 1
+ 58 103 53 30 51 -38 c 0
+ 51 -44 46 -53 39 -53 c 0
+ 33 -53 30 -41 30 -41 c 1
+ 30 -14 l 2
+ 30 124 44 363 159 363 c 0
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC10
+Encoding: 60432 60432 1297
+Width: 899
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+596 738 m 1
+ 571 497 l 1
+ 549 491 l 1
+ 573 730 l 1
+ 596 738 l 1
+561 484 m 0
+ 526 484 504 510 504 544 c 0
+ 504 578 518 661 533 697 c 0
+ 536 705 543 707 542 693 c 0
+ 541 683 535 632 535 622 c 0
+ 535 600 540 578 570 578 c 0
+ 615 578 617 669 624 710 c 0
+ 625 716 629 719 631 719 c 0
+ 633 719 634 718 634 714 c 0
+ 635 683 631 602 624 568 c 0
+ 615 524 595 484 561 484 c 0
+702 692 m 1
+ 723 753 786 762 786 762 c 1
+ 775 638 l 1
+ 775 638 721 629 690 566 c 1
+ 702 692 l 1
+798 576 m 0
+ 823 576 871 522 869 492 c 1
+ 854 374 l 1
+ 850 393 836 424 806 447 c 0
+ 775 471 650 362 590 303 c 0
+ 462 178 320 21 309 0 c 1
+ 320 107 l 1
+ 334 135 439 268 528 358 c 0
+ 606 437 772 576 798 576 c 0
+289 383 m 1
+ 310 444 414 463 414 463 c 1
+ 404 339 l 1
+ 404 339 308 320 277 257 c 1
+ 289 383 l 1
+159 363 m 0
+ 201 363 236 341 236 257 c 0
+ 236 249 236 241 235 232 c 0
+ 233 191 229 144 220 85 c 2
+ 210 14 l 1
+ 210 14 204 4 198 5 c 0
+ 193 5 190 16 190 16 c 1
+ 196 70 205 111 205 157 c 0
+ 205 214 193 259 150 259 c 0
+ 133 259 71 257 58 103 c 1
+ 58 103 53 30 51 -38 c 0
+ 51 -44 46 -53 39 -53 c 0
+ 33 -53 30 -41 30 -41 c 1
+ 30 -14 l 2
+ 30 124 44 363 159 363 c 0
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC12
+Encoding: 60434 60434 1298
+Width: 321
+VWidth: 750
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+201 6 m 0
+ 200 -1 195 -6 189 -6 c 0
+ 180 -6 177 2 178 6 c 0
+ 181 32 189 82 189 146 c 0
+ 189 207 193 256 162 306 c 0
+ 133 352 87 371 30 371 c 1
+ 42 496 l 1
+ 130 496 224 414 224 247 c 0
+ 224 125 208 44 201 6 c 0
+625 309 m 1
+ 615 206 l 1
+ 393 354 l 1
+ 402 458 l 1
+ 625 309 l 1
+535 490 m 1
+ 504 174 l 1
+ 481 164 l 1
+ 513 478 l 1
+ 535 490 l 1
+747 576 m 0
+ 772 576 823 522 821 492 c 1
+ 803 374 l 1
+ 799 393 784 424 754 447 c 0
+ 723 471 598 362 538 303 c 0
+ 410 178 269 21 258 0 c 1
+ 268 107 l 1
+ 282 135 388 268 477 358 c 0
+ 555 437 721 576 747 576 c 0
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEC17
+Encoding: 60439 60439 1299
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC18
+Encoding: 60440 60440 1300
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC19
+Encoding: 60441 60441 1301
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC1A
+Encoding: 60442 60442 1302
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC1B
+Encoding: 60443 60443 1303
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC1C
+Encoding: 60444 60444 1304
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC1D
+Encoding: 60445 60445 1305
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC1E
+Encoding: 60446 60446 1306
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC1F
+Encoding: 60447 60447 1307
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC20
+Encoding: 60448 60448 1308
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC21
+Encoding: 60449 60449 1309
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC22
+Encoding: 60450 60450 1310
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC23
+Encoding: 60451 60451 1311
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC24
+Encoding: 60452 60452 1312
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC25
+Encoding: 60453 60453 1313
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC26
+Encoding: 60454 60454 1314
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC27
+Encoding: 60455 60455 1315
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC28
+Encoding: 60456 60456 1316
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC29
+Encoding: 60457 60457 1317
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC2A
+Encoding: 60458 60458 1318
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC2B
+Encoding: 60459 60459 1319
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC2C
+Encoding: 60460 60460 1320
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC2D
+Encoding: 60461 60461 1321
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC2E
+Encoding: 60462 60462 1322
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEC2F
+Encoding: 60463 60463 1323
 Width: 1000
 VWidth: 0
 LayerCount: 3
