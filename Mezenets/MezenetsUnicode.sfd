@@ -4,26 +4,27 @@ FullName: Mezenets Unicode
 FamilyName: Mezenets Unicode
 Weight: Medium
 Copyright: Copyright 2013-2018 Aleksandr Andreev and Nikita Simmons.\n\nThis font is part of the Ponomar Project Slavonic Computing Initiative. See http://sci.ponomar.net/ for more information.\n\nOriginal glyph design by Nikita Simmons. Reencoding for Unicode, OpenType and Graphite feature creation and some tweaking by Aleksandr Andreev.
-UComments: "2014-4-19: Created.+AAoA-See README for more information." 
+UComments: "2014-4-19: Created.+AAoA-See README for more information."
 Version: 0.875
 ItalicAngle: 0
 UnderlinePosition: -80
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
+InvalidEm: 0
 woffMajor: 1
 woffMinor: 1
 LayerCount: 3
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
-Layer: 2 1 "TTF"  0
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 1 "TTF" 0
 XUID: [1021 1004 1038049950 1172439]
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1535682747
+ModificationTime: 1536561491
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -43,25 +44,25 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 4 0 0 "'ccmp' Precomposed Neumes"  {"'ccmp' Precomposed Neumes-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 8 0 "'ccmp' Priznak Composition"  {"'ccmp' Priznak Composition-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Precomposed Neumes Round 2"  {"'ccmp' Precomposed Neumes 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 8 0 "'ss01' Style Set 1 Demestvenny Variants"  {"'ss01' Style Set 1 Demestvenny Variants-1"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Second Round of Demestvenny Ligs"  {"'ccmp' Second Round of Demestvenny Ligs-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Priznak-based Compositions"  {"'ccmp' Priznak-based Compositions-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp'  Contextual Prizakification"  {"'ccmp'  Contextual Prizakification-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Depriznakify"  {"Depriznakify-1"  } []
-Lookup: 1 0 0 "Priznakify"  {"Priznakify-1"  } []
-Lookup: 258 8 0 "'ss01' Style Set 1 Demestvenny Ligatures"  {"'ss01' Style Set 1 Demestvenny Ligatures-1" [150,15,3] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 263 0 0 "'kern' Horizontal Kerning with Shaidur Marks"  {"'kern' Horizontal Kerning with Shaidur Marks-1"  } []
-Lookup: 260 0 0 "'mark' Black Marking Positions"  {"'mark' Black Marking Positions-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Cinnabar Pitch Marking Positioning"  {"'mark' Cinnabar Pitch Marking Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Cinnabar Indicatory Mark Positioning"  {"'mark' Cinnabar Indicatory Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Double Shaidur Attachment"  {"'mkmk' Double Shaidur Attachment-1"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 257 0 0 "Advance neume with cinnabar mark"  {"Advance neume with cinnabar mark-1"  } []
+Lookup: 4 0 0 "'ccmp' Precomposed Neumes" { "'ccmp' Precomposed Neumes-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 8 0 "'ccmp' Priznak Composition" { "'ccmp' Priznak Composition-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Precomposed Neumes Round 2" { "'ccmp' Precomposed Neumes 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 8 0 "'ss01' Style Set 1 Demestvenny Variants" { "'ss01' Style Set 1 Demestvenny Variants-1"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Second Round of Demestvenny Ligs" { "'ccmp' Second Round of Demestvenny Ligs-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Priznak-based Compositions" { "'ccmp' Priznak-based Compositions-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp'  Contextual Prizakification" { "'ccmp'  Contextual Prizakification-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Depriznakify" { "Depriznakify-1"  } []
+Lookup: 1 0 0 "Priznakify" { "Priznakify-1"  } []
+Lookup: 258 8 0 "'ss01' Style Set 1 Demestvenny Ligatures" { "'ss01' Style Set 1 Demestvenny Ligatures-1" [150,15,3] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 263 0 0 "'kern' Horizontal Kerning with Shaidur Marks" { "'kern' Horizontal Kerning with Shaidur Marks-1"  } []
+Lookup: 260 0 0 "'mark' Black Marking Positions" { "'mark' Black Marking Positions-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Cinnabar Pitch Marking Positioning" { "'mark' Cinnabar Pitch Marking Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Cinnabar Indicatory Mark Positioning" { "'mark' Cinnabar Indicatory Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Double Shaidur Attachment" { "'mkmk' Double Shaidur Attachment-1"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 257 0 0 "Advance neume with cinnabar mark" { "Advance neume with cinnabar mark-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: class "'ccmp'  Contextual Prizakification-1"  3 3 3 1
+ChainSub2: class "'ccmp'  Contextual Prizakification-1" 3 3 3 1
   Class: 63 uniEA88 uniEACA uniEB94 uniEB96 uniEAD1 uniEB0D uniEB14 uniEB18
   Class: 23 uniEE50 uniEE51 uniEE52
   BClass: 63 uniEA88 uniEACA uniEB94 uniEB96 uniEAD1 uniEB0D uniEB14 uniEB18
@@ -73,13 +74,13 @@ ChainSub2: class "'ccmp'  Contextual Prizakification-1"  3 3 3 1
   BClsList:
   FClsList:
  2
-  SeqLookup: 0 "Depriznakify" 
-  SeqLookup: 1 "Priznakify" 
-  ClassNames: "All_Others"  "base"  "tonal"  
-  BClassNames: "All_Others"  "base"  "tonal"  
-  FClassNames: "All_Others"  "base"  "tonal"  
+  SeqLookup: 0 "Depriznakify"
+  SeqLookup: 1 "Priznakify"
+  ClassNames: "All_Others" "base" "tonal"
+  BClassNames: "All_Others" "base" "tonal"
+  FClassNames: "All_Others" "base" "tonal"
 EndFPST
-ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1"  4 4 4 2
+ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1" 4 4 4 2
   Class: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
   Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   Class: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
@@ -94,16 +95,16 @@ ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1"  4 4 4 2
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Advance neume with cinnabar mark" 
+  SeqLookup: 0 "Advance neume with cinnabar mark"
  3 0 0
   ClsList: 2 3 1
   BClsList:
   FClsList:
  1
-  SeqLookup: 0 "Advance neume with cinnabar mark" 
-  ClassNames: "All_Others"  "shaidur"  "sym"  "black"  
-  BClassNames: "All_Others"  "shaidur"  "sym"  "black"  
-  FClassNames: "All_Others"  "shaidur"  "sym"  "black"  
+  SeqLookup: 0 "Advance neume with cinnabar mark"
+  ClassNames: "All_Others" "shaidur" "sym" "black"
+  BClassNames: "All_Others" "shaidur" "sym" "black"
+  FClassNames: "All_Others" "shaidur" "sym" "black"
 EndFPST
 ShortTable: maxp 16
   0
@@ -969,7 +970,7 @@ ShortTable: cvt  41
   24
   71
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -977,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 59994 27 5
+WinInfo: 61074 27 5
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -990,14 +991,14 @@ ExpansionFactor 4 0.06
 EndPrivate
 Grid
 -1000 276 m 0
- 2000 276 l 0
+ 2000 276 l 1024
 -1000 356.333 m 5
- -0.00543691 356.915 1000.01 356.472 2000 356.333 c 5
+ -0.00543691 356.915 1000.01 356.472 2000 356.333 c 1029
 -1000 202.6 m 0
- 2000 202.6 l 0
+ 2000 202.6 l 1024
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Podtinka"  "'mark' Black Marking Positions-1" "DoubleShaidur"  "'mkmk' Double Shaidur Attachment-1" "Zevok"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Udarka"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Kupnaya"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Kachka"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Lomka"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Tikhaya"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Oblachko"  "'mark' Black Marking Positions-1" "Podchashie"  "'mark' Black Marking Positions-1" "Zaderzhka"  "'mark' Black Marking Positions-1" "Tonal"  "'mark' Black Marking Positions-1" "Podvertka"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Borzaya"  "'mark' Cinnabar Indicatory Mark Positioning-1" "Otsechka"  "'mark' Black Marking Positions-1" "Shaidur"  "'mark' Cinnabar Pitch Marking Positioning-1" 
+AnchorClass2: "Podtinka" "'mark' Black Marking Positions-1" "DoubleShaidur" "'mkmk' Double Shaidur Attachment-1" "Zevok" "'mark' Cinnabar Indicatory Mark Positioning-1" "Udarka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kupnaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Kachka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Lomka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Oblachko" "'mark' Black Marking Positions-1" "Podchashie" "'mark' Black Marking Positions-1" "Zaderzhka" "'mark' Black Marking Positions-1" "Tonal" "'mark' Black Marking Positions-1" "Podvertka" "'mark' Cinnabar Indicatory Mark Positioning-1" "Borzaya" "'mark' Cinnabar Indicatory Mark Positioning-1" "Otsechka" "'mark' Black Marking Positions-1" "Shaidur" "'mark' Cinnabar Pitch Marking Positioning-1"
 BeginChars: 1114112 1382
 
 StartChar: uni0002
@@ -10423,7 +10424,7 @@ VWidth: 0
 GlyphClass: 4
 Flags: W
 LayerCount: 3
-Comment: "Required character" 
+Comment: "Required character"
 Colour: ff
 EndChar
 
@@ -33513,7 +33514,7 @@ SplineSet
  220.536 343.529 220.536 343.529 409.5 498.5 c 4,18,0
  504 576 504 576 523 576 c 132,-1,1
 EndSplineSet
-Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
@@ -34339,7 +34340,7 @@ SplineSet
  224.536 343.529 224.536 343.529 413.5 498.5 c 4,34,0
  508 576 508 576 527 576 c 132,-1,1
 EndSplineSet
-Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
@@ -34630,7 +34631,7 @@ SplineSet
  45 -5 45 -5 28 -39 c 1,53,-1
  40 87 l 1,45,46
 EndSplineSet
-LCarets2: 1 229 
+LCarets2: 1 229
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE8D
 Colour: ffc259
@@ -35024,7 +35025,7 @@ SplineSet
  368.347 466.39 368.347 466.39 407.5 498.5 c 4,28,0
  502 576 502 576 521 576 c 132,-1,1
 EndSplineSet
-Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
@@ -36104,7 +36105,7 @@ Validated: 32769
 Layer: 2
 Refer: 193 61100 N 1 0 0 1 0 0 2
 Refer: 210 61082 N 1 0 0 1 274 -96 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEAC uniEE9A
 Colour: ffc259
@@ -36496,7 +36497,7 @@ SplineSet
  351 528 l 5,31,-1
  342 444 l 5,0,1
 EndSplineSet
-Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  586 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  588 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  591 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  592 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  593 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 586 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 588 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 591 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 592 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 593 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
@@ -37011,7 +37012,7 @@ Validated: 32769
 Layer: 2
 Refer: 230 61102 N 1 0 0 1 211 0 2
 Refer: 202 61071 N 1 0 0 1 -6 0 2
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEEAE
 Colour: ffc259
@@ -37236,7 +37237,7 @@ SplineSet
  31 301 l 1,39,-1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE80 uniEE5A
 Colour: ffc259
 EndChar
@@ -37667,7 +37668,7 @@ Validated: 32769
 Layer: 2
 Refer: 176 61009 S 1 0 0 1 868 -250 2
 Refer: 210 61082 S 1 0 0 1 0 0 2
-Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
@@ -47211,7 +47212,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE0
 Colour: fff24a
@@ -47261,7 +47262,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE1
 Colour: fff24a
@@ -47315,7 +47316,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE71 uniEEE0
 Colour: fff24a
@@ -47369,7 +47370,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE71 uniEEE1
 Colour: fff24a
@@ -47426,7 +47427,7 @@ SplineSet
  370 545 l 1
  365 512 359 482 354 450 c 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE72 uniEEE0
 Substitution2: "Depriznakify-1" uniEE72
@@ -47488,7 +47489,7 @@ SplineSet
  78 162 l 1
  169 275 281 387 414 498 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE72 uniEEE1
 Colour: fff24a
@@ -47546,7 +47547,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE73 uniEEE0
 Colour: fff24a
@@ -47604,7 +47605,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE73 uniEEE1
 Colour: fff24a
@@ -47666,7 +47667,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE74 uniEEE0
 Colour: fff24a
@@ -47728,7 +47729,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE74 uniEEE1
 Colour: fff24a
@@ -47844,7 +47845,7 @@ Fore
 Refer: 179 61011 S 1 0 0 1 194 -244 2
 Refer: 222 61045 S 1 0 0 1 0 0 2
 Validated: 49153
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE5A
 EndChar
@@ -47906,7 +47907,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB74 uniEEE2
 Colour: fff24a
@@ -47969,7 +47970,7 @@ SplineSet
  24 455 l 5
  33 531 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEC03 uniEEE2
 Colour: fff24a
@@ -48016,7 +48017,7 @@ SplineSet
  24 455 l 5
  33 531 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEEE2
 Colour: fff24a
@@ -48063,7 +48064,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEEE2
 Colour: fff24a
@@ -48265,7 +48266,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEE5A
 Colour: fff24a
@@ -48324,7 +48325,7 @@ SplineSet
  237 232 244 326 244 327 c 0
  251 386 273 415 308 415 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE77 uniEEE1
 Colour: fff24a
@@ -48414,7 +48415,7 @@ SplineSet
  106 496 l 1,39,-1
  71 162 l 1,24,25
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9A uniEEE2
 Colour: ffc259
@@ -48472,7 +48473,7 @@ SplineSet
  237 232 244 326 244 327 c 0
  251 386 273 415 308 415 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9B uniEEE2
 Colour: fff24a
@@ -48600,7 +48601,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAA1 uniEEE2
 Colour: fff24a
@@ -48804,7 +48805,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 4
  175.5 39.5 183 117 182 190 c 4
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE1
 Colour: fff24a
@@ -48997,7 +48998,7 @@ SplineSet
  90.8135 78.8604 87.3994 38.7998 87.3994 38.7998 c 1
  125.8 38.7998 l 1xd0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE7A uniEE5C
 Colour: fff24a
@@ -49211,7 +49212,7 @@ SplineSet
  200.75 9.5 196.506 4.5 191.25 4.5 c 0
  186.75 4.5 181.25 9 182.75 18.5 c 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE0
 Colour: fff24a
@@ -49349,7 +49350,7 @@ SplineSet
  200.75 9.5 196.506 4.5 191.25 4.5 c 0
  186.75 4.5 181.25 9 182.75 18.5 c 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE1
 Colour: fff24a
@@ -49474,7 +49475,7 @@ SplineSet
  21.8333 -25.6667 21.7002 -14.5996 21.7002 -6.59961 c 0
  21.7002 131.8 37.0996 364 152.3 364 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE2
 Colour: fff24a
@@ -49589,7 +49590,7 @@ SplineSet
  24 196.2 20 201 20 207.4 c 4
  20 271.4 56 364.2 120 364.2 c 4
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAB6 uniEEE2
 Colour: fff24a
@@ -50124,7 +50125,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB70 uniEEE2
 Colour: fff24a
@@ -50182,7 +50183,7 @@ SplineSet
  24 455 l 5
  33 531 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA8B uniEEE2
 Colour: fff24a
@@ -50229,7 +50230,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE0
 Colour: fff24a
@@ -50276,7 +50277,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE1
 Colour: fff24a
@@ -50955,7 +50956,7 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xd480
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7E uniEEE0
 Colour: fff24a
@@ -51369,7 +51370,7 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xd480
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7E uniEEE1
 Colour: fff24a
@@ -51415,7 +51416,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE50
 Colour: ffff
@@ -51806,7 +51807,7 @@ SplineSet
  443 191.6 388 182.6 357 119.6 c 1
  369 246.6 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE1
 Colour: fff24a
@@ -52289,7 +52290,7 @@ SplineSet
  379 124.4 324 115.4 293 52.4004 c 1
  305 178.4 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE0
 Substitution2: "Depriznakify-1" uniEE85
@@ -52658,7 +52659,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE86 uniEEE1
 Colour: fff24a
@@ -52832,7 +52833,7 @@ SplineSet
  20 121 l 1
  32 248 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE1
 Colour: fff24a
@@ -52973,7 +52974,7 @@ SplineSet
  20 121 l 1
  32 248 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD8 uniEEE2
 Colour: fff24a
@@ -54094,7 +54095,7 @@ SplineSet
  379 124.4 324 115.4 293 52.4004 c 1
  305 178.4 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE1
 Colour: fff24a
@@ -54478,7 +54479,7 @@ SplineSet
  68 276 25 269 0 218 c 5
  4.40332 252 -0.908203 286 11 320 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE86 uniEEE0
 Colour: fff24a
@@ -54738,7 +54739,7 @@ SplineSet
  20 121 l 1
  32 248 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE0
 Colour: fff24a
@@ -55486,7 +55487,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE0
 Colour: fff24a
@@ -56200,7 +56201,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE1
 Colour: fff24a
@@ -56446,7 +56447,7 @@ SplineSet
  253 573 265 644 278 671 c 0
  302 724 336 750 379 750 c 0xe0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEC uniEE58
 Colour: fff24a
@@ -56656,7 +56657,7 @@ SplineSet
  339 163 335 115 328 81 c 0
  319 37 299 -3 265 -3 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE0
 Colour: fff24a
@@ -56830,7 +56831,7 @@ SplineSet
  339 163 335 115 328 81 c 0
  319 37 299 -3 265 -3 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE1
 Colour: fff24a
@@ -57213,7 +57214,7 @@ SplineSet
  376 197 378 200 382 200 c 0
  384 200 385 194 385 183 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF2 uniEE50
 Colour: fff24a
@@ -57458,7 +57459,7 @@ SplineSet
  376 197 378 200 382 200 c 0
  384 200 385 194 385 183 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBC6 uniEE50
 Colour: fff24a
@@ -57695,7 +57696,7 @@ SplineSet
  311 271 325 230 329 177 c 0
  334 107 320 19 311 -19 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE0
 Colour: fff24a
@@ -57912,7 +57913,7 @@ SplineSet
  311 271 325 230 329 177 c 0
  334 107 320 19 311 -19 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE1
 Colour: fff24a
@@ -58371,7 +58372,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF8 uniEE50
 Colour: fff24a
@@ -58968,7 +58969,7 @@ SplineSet
  -465 573 -458 649 -439 690 c 0
  -421 730 -390 762 -352 768 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE50 uniEE58
 Colour: ff00
 EndChar
@@ -59188,7 +59189,7 @@ SplineSet
  -427 644 -420 720 -401 761 c 0
  -383 801 -352 833 -314 839 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE51 uniEE58
 Colour: ff00
 EndChar
@@ -59495,7 +59496,7 @@ SplineSet
  -395 696 -388 772 -369 813 c 0
  -351 853 -320 885 -282 891 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE52 uniEE58
 Colour: ff00
 EndChar
@@ -59597,7 +59598,7 @@ SplineSet
  -381 643 l 1
  -402 518 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE50 uniEEE0
 Colour: fff24a
 EndChar
@@ -66852,7 +66853,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB66 uniEEE2
 Colour: fff24a
@@ -66902,7 +66903,7 @@ SplineSet
  24 455 l 5
  33 531 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA81 uniEEE2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -66956,7 +66957,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB6A uniEEE2
 Colour: fff24a
@@ -67011,7 +67012,7 @@ SplineSet
  24 455 l 1
  33 531 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA85 uniEEE2
 Colour: fff24a
@@ -67062,7 +67063,7 @@ SplineSet
  78 383 35 376 10 325 c 5
  14.4033 359 9.0918 393 21 427 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEE5A
 Colour: fff24a
@@ -67217,7 +67218,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 3 0 0 0 
+LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE0 uniEEE2 uniEE5A
 Colour: fff24a
@@ -67353,7 +67354,7 @@ SplineSet
  24 455 l 5
  33 531 l 5
 EndSplineSet
-LCarets2: 3 0 0 0 
+LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE1 uniEEE2 uniEE5A
 Colour: fff24a
@@ -67446,7 +67447,7 @@ SplineSet
  106 496 l 1,43,-1
  71 162 l 1,24,25
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE77 uniEEE0
 Colour: ffc259
@@ -67720,7 +67721,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 4
  175.5 39.5 183 117 182 190 c 4
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE0
 Colour: fff24a
@@ -68044,7 +68045,7 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xd480
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAC1 uniEEE2
 Colour: fff24a
@@ -68342,7 +68343,7 @@ SplineSet
  464 267 466 270 470 270 c 0
  472 270 473 264 473 253 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE82 uniEEE0
 Substitution2: "Depriznakify-1" uniEE82
@@ -68642,7 +68643,7 @@ SplineSet
  464 267 466 270 470 270 c 0
  472 270 473 264 473 253 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE82 uniEEE1
 Colour: fff24a
@@ -68936,7 +68937,7 @@ SplineSet
  369 104 314 95 283 32 c 1
  295 159 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE83 uniEEE0
 Substitution2: "Depriznakify-1" uniEE83
@@ -69161,7 +69162,7 @@ SplineSet
  369 104 314 95 283 32 c 1
  295 159 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE83 uniEEE1
 Colour: fff24a
@@ -69548,7 +69549,7 @@ SplineSet
  443 191.6 388 182.6 357 119.6 c 1
  369 246.6 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE0
 Substitution2: "Depriznakify-1" uniEE84
@@ -70198,7 +70199,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE0
 Colour: fff24a
@@ -70329,7 +70330,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE1
 Colour: fff24a
@@ -70580,7 +70581,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE50
 Colour: fff24a
@@ -70696,7 +70697,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE50
 Colour: fff24a
@@ -70959,7 +70960,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE51
 Colour: fff24a
@@ -71080,7 +71081,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE51
 Colour: fff24a
@@ -71359,7 +71360,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE8 uniEE58
 Colour: fff24a
@@ -71607,7 +71608,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE9 uniEE58
 Colour: fff24a
@@ -71843,7 +71844,7 @@ SplineSet
  253 573 265 644 278 671 c 0
  302 724 336 750 379 750 c 0xe0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEB uniEE58
 Colour: fff24a
@@ -72066,7 +72067,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF9 uniEE50
 Colour: fff24a
@@ -72351,7 +72352,7 @@ SplineSet
  328 162 l 1
  328 162 303 156 274 143 c 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE0
 Colour: fff24a
@@ -72615,7 +72616,7 @@ SplineSet
  328 162 l 1
  328 162 303 156 274 143 c 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE1
 Colour: fff24a
@@ -72969,7 +72970,7 @@ SplineSet
  311 271 325 230 329 177 c 0
  334 107 320 19 311 -19 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE0
 Colour: fff24a
@@ -73300,7 +73301,7 @@ SplineSet
  311 271 325 230 329 177 c 0
  334 107 320 19 311 -19 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE1
 Colour: fff24a
@@ -73460,7 +73461,7 @@ SplineSet
  208 91 l 1
  220 218 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE0
 Colour: fff24a
@@ -73599,7 +73600,7 @@ SplineSet
  208 91 l 1
  220 218 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE1
 Colour: fff24a
@@ -73862,7 +73863,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB03 uniEE50
 Colour: fff24a
@@ -73983,7 +73984,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB04 uniEE50
 Colour: fff24a
@@ -74449,7 +74450,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE0 uniEE50
 Colour: fff24a
@@ -74671,7 +74672,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE1 uniEE50
 Colour: fff24a
@@ -75017,7 +75018,7 @@ SplineSet
  383 332 447 396 571 498 c 0
  634 550 671 576 684 576 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE0
 Substitution2: "Depriznakify-1" uniEE9A
@@ -85134,7 +85135,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAA5 uniEEE2
 Colour: fff24a
 EndChar
@@ -85722,7 +85723,7 @@ SplineSet
  7 339 l 5
  16 415 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD2 uniEEE2
 Colour: fff24a
 EndChar
@@ -86073,7 +86074,7 @@ SplineSet
  24 455 l 5
  33 531 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD3 uniEEE2
 Colour: fff24a
 EndChar
@@ -87014,7 +87015,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 Ligature2: "'ccmp' Priznak Composition-1" uniEEA5 uniEEE1
-Comment: "Why is it mapped here?" 
+Comment: "Why is it mapped here?"
 Colour: fff24a
 EndChar
 
@@ -92311,7 +92312,7 @@ SplineSet
  565 481 l 1
  587 489 l 1
 EndSplineSet
-Kerns2: 818 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  764 -100 "'ss01' Style Set 1 Demestvenny Ligatures-1"  749 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  745 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  742 -115 "'ss01' Style Set 1 Demestvenny Ligatures-1"  622 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  620 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  619 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  618 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  613 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  226 -115 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 818 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 764 -100 "'ss01' Style Set 1 Demestvenny Ligatures-1" 749 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 745 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 742 -115 "'ss01' Style Set 1 Demestvenny Ligatures-1" 622 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 620 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 619 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 618 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 613 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 226 -115 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE74 uniEE5D
 Colour: ffff
 EndChar
@@ -94085,7 +94086,7 @@ SplineSet
  184 122 l 1
  184 122 74 90 30 0 c 1
  79 480 l 1
- 105 496 l 1
+ 105 496 l 1025
 EndSplineSet
 Ligature2: "'ccmp' Second Round of Demestvenny Ligs-1" uniEA7E uniEE60
 Colour: ffff
@@ -95894,7 +95895,7 @@ SplineSet
  566 485 l 1
  588 493 l 1
 EndSplineSet
-Kerns2: 764 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  749 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"  267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 764 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 749 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEECE uniEE5D
 Colour: ffff
 EndChar
@@ -97556,7 +97557,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Kerns2: 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE50
 Colour: ffff
 EndChar
@@ -99957,7 +99958,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Kerns2: 764 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  745 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  743 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  619 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  618 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  607 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  226 -100 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 764 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 745 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 743 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 619 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 618 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 607 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 226 -100 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE5D
 Colour: ffff
 EndChar
@@ -100444,7 +100445,7 @@ SplineSet
  776 208 l 5
  776 208 751.422 202.879 723.122 189.659 c 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE60
 Colour: ffff
 EndChar
@@ -100580,7 +100581,7 @@ SplineSet
  168 283 280 395 406 498 c 0
  468 550 506 576 519 576 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE3
 Colour: ffff00
 EndChar
@@ -100650,7 +100651,7 @@ SplineSet
  168 283 280 395 406 498 c 0
  468 550 506 576 519 576 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE4
 Colour: ffff00
 EndChar
@@ -100713,7 +100714,7 @@ SplineSet
  324 217 270 208 239 145 c 5
  251 271 l 5
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE3
 Colour: ffff00
 EndChar
@@ -100782,7 +100783,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE4
 Colour: ffff00
 EndChar
@@ -100854,7 +100855,7 @@ SplineSet
  89 204 68 163 61 80 c 0
  60 43 58 6 57 -30 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE3
 Colour: ffff00
 EndChar
@@ -100921,7 +100922,7 @@ SplineSet
  89 204 68 163 61 80 c 0
  60 43 58 6 57 -30 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE3
 Colour: ffff00
 EndChar
@@ -101002,7 +101003,7 @@ SplineSet
  629.948 503 647.948 472 652.948 409 c 0
  653.948 399 653.948 388 653.948 375 c 0xa0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE7D uniEEE3
 Colour: ffff00
 EndChar
@@ -101134,7 +101135,7 @@ SplineSet
  218 551 213 481 207 450 c 4
  198 406 178 366 144 366 c 4
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEEC3 uniEEE3
 Colour: ffff00
 EndChar
@@ -101208,7 +101209,7 @@ SplineSet
  89 206 68 165 61 82 c 0
  60 45 58 8 57 -28 c 0
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEEC4 uniEEE3
 Colour: ffff00
 EndChar
@@ -101412,7 +101413,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE3
 Colour: ffff00
 EndChar
@@ -101661,7 +101662,7 @@ SplineSet
  544 124.4 489 115.4 458 52.4004 c 1
  470 178.4 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE3
 Colour: ffff00
 EndChar
@@ -101907,7 +101908,7 @@ SplineSet
  674 217 619 208 588 145 c 1
  600 272 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE3
 Colour: ffff00
 EndChar
@@ -101980,7 +101981,7 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE3
 Colour: ffff00
 EndChar
@@ -102079,7 +102080,7 @@ SplineSet
  674 217 619 208 588 145 c 1
  600 272 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE3
 Colour: ffff00
 EndChar
@@ -105200,7 +105201,7 @@ SplineSet
  276 352 276 352 455 498 c 0,36,0
  550 576 550 576 569 576 c 128,-1,1
 EndSplineSet
-Kerns2: 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Colour: ffc259
 EndChar
 
@@ -106216,7 +106217,7 @@ SplineSet
  346 528 l 1,29,-1
  338 442 l 1,0,1
 EndSplineSet
-Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Colour: ffc259
 EndChar
 
@@ -109654,9 +109655,47 @@ StartChar: uniEEE6
 Encoding: 61158 61158 761
 Width: 755
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 557 126<625.898 694.284>
 LayerCount: 3
+Fore
+SplineSet
+24 97 m 1
+ 30 115 42 131 60 144 c 0
+ 78 157 95 166 110 170 c 2
+ 133 177 l 1
+ 123 53 l 1
+ 100 45 89 42 60 24 c 0
+ 39 11 23 -6 12 -29 c 1
+ 24 97 l 1
+88 353 m 1
+ 94 371 106 387 124 400 c 0
+ 142 413 159 422 174 426 c 2
+ 197 433 l 1
+ 187 309 l 1
+ 164 301 153 298 124 280 c 0
+ 103 267 87 250 76 227 c 1
+ 88 353 l 1
+667 683 m 0
+ 680 683 694 672 712 651 c 0
+ 729 631 738 614 738 600 c 0
+ 738 599 738 599 738 598 c 1
+ 723 480 l 1
+ 717 509 701 533 675 553 c 0
+ 672 556 667 557 662 557 c 0
+ 646 557 619 543 580 514 c 0
+ 541 485 496 446 445 396 c 0
+ 394 346 339 288 278 222 c 0
+ 217 156 184 117 178 106 c 1
+ 189 213 l 1
+ 197 229 226 267 274 326 c 0
+ 322 385 369 436 414 481 c 1
+ 435 691 l 1
+ 458 699 l 1
+ 438 504 l 1
+ 471 535 515 572 568 616 c 0
+ 621 660 654 683 667 683 c 0
+EndSplineSet
 Layer: 2
 SplineSet
 24 97 m 1,0,1
@@ -109807,7 +109846,7 @@ SplineSet
  515 698 l 5,49,-1
  501 559 l 5,24,25
 EndSplineSet
-Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Colour: ffc259
 EndChar
 
@@ -109927,7 +109966,7 @@ SplineSet
  90 327 l 2,45,46
  92 330 92 330 96 330 c 0,31,32
 EndSplineSet
-Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  594 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  595 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  596 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"  597 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  741 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  825 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 594 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 595 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 596 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 597 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 741 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 825 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Colour: ffc259
 EndChar
 
@@ -110239,24 +110278,74 @@ EndChar
 StartChar: uniEEF8
 Encoding: 61176 61176 768
 Width: 945
-Flags: HW
-HStem: 0 21G<13.0417 33> 602 125<814.157 870.865> 654 20G<577.252 609>
-AnchorPoint: "Podtinka" 12.6329 0 basechar 0
-AnchorPoint: "Zevok" 855 788 basechar 0
-AnchorPoint: "Udarka" -19 454 basechar 0
-AnchorPoint: "Kupnaya" 515 52 basechar 0
-AnchorPoint: "Kachka" 595 745 basechar 0
-AnchorPoint: "Lomka" 834 277 basechar 0
-AnchorPoint: "Tikhaya" 49 224.5 basechar 0
-AnchorPoint: "Oblachko" 596 744 basechar 0
-AnchorPoint: "Podchashie" 794 392 basechar 0
-AnchorPoint: "Zaderzhka" 953 526.9 basechar 0
-AnchorPoint: "Tonal" 579 623 basechar 0
-AnchorPoint: "Podvertka" 910 484 basechar 0
-AnchorPoint: "Borzaya" -20 360 basechar 0
-AnchorPoint: "Otsechka" 954 486 basechar 0
-AnchorPoint: "Shaidur" 279 493 basechar 0
+Flags: W
+HStem: -2 21G<13.0417 29.5> 600 125<809.157 865.865> 652 20G<572.252 604>
+AnchorPoint: "Shaidur" 291 493 basechar 0
+AnchorPoint: "Otsechka" 966 486 basechar 0
+AnchorPoint: "Borzaya" -7.99999 360 basechar 0
+AnchorPoint: "Podvertka" 922 484 basechar 0
+AnchorPoint: "Tonal" 591 623 basechar 0
+AnchorPoint: "Zaderzhka" 965 526.9 basechar 0
+AnchorPoint: "Podchashie" 806 392 basechar 0
+AnchorPoint: "Oblachko" 608 744 basechar 0
+AnchorPoint: "Tikhaya" 61 224.5 basechar 0
+AnchorPoint: "Lomka" 846 277 basechar 0
+AnchorPoint: "Kachka" 607 745 basechar 0
+AnchorPoint: "Kupnaya" 527 52 basechar 0
+AnchorPoint: "Udarka" -7 454 basechar 0
+AnchorPoint: "Zevok" 867 788 basechar 0
+AnchorPoint: "Podtinka" 24.6329 0 basechar 0
 LayerCount: 3
+Fore
+SplineSet
+797 524 m 1xc0
+ 787 420 l 1
+ 686 488 l 1
+ 676 389 l 1
+ 653 379 l 1
+ 663 474 l 1
+ 655 466 647 459 640 452 c 0
+ 512 327 500 310 489 289 c 1
+ 505 416 l 1
+ 505 416 519 448 578 507 c 0
+ 588 517 599 527 611 538 c 1
+ 565 569 l 1
+ 574 672 l 1xa0
+ 676 604 l 1
+ 685 692 l 1
+ 707 705 l 1
+ 698 616 l 1
+ 766 674 833 725 849 725 c 0
+ 873 725 919 673 919 643 c 0
+ 919 642 919 642 919 641 c 1
+ 905 524 l 1
+ 901 543 886 574 856 597 c 0
+ 853 599 850 600 845 600 c 0
+ 825 600 790 579 754 552 c 1
+ 797 524 l 1xc0
+51 160 m 1
+ 64 182 81 201 103 218 c 0
+ 125 235 142.741210938 246.692382812 158 252 c 2
+ 181 260 l 1
+ 166 120 l 1
+ 158 118 143.301757812 114.33984375 127 105 c 0
+ 75.5 75.494140625 48 37 11 -2 c 1
+ 60 478 l 1
+ 86 494 l 1
+ 51 160 l 1
+372 349 m 1
+ 382 378 411 408 440 415 c 2
+ 456 419 l 1
+ 443 295 l 1
+ 408 289 374 255 358 223 c 1
+ 372 349 l 1
+234 269 m 1
+ 244 298 273 328 302 335 c 2
+ 318 339 l 1
+ 305 215 l 1
+ 270 209 236 175 220 143 c 1
+ 234 269 l 1
+EndSplineSet
 Layer: 2
 SplineSet
 51 162 m 1,0,1
@@ -120107,8 +120196,8 @@ EndChar
 StartChar: uniEEEA
 Encoding: 61162 61162 795
 Width: 755
-Flags: HW
-HStem: 541 126<621.533 677.681>
+Flags: W
+HStem: 543 125<621.203 689.326>
 AnchorPoint: "Shaidur" 25 393 basechar 0
 AnchorPoint: "Otsechka" 757 470 basechar 0
 AnchorPoint: "Borzaya" 25 392 basechar 0
@@ -120385,7 +120474,7 @@ SplineSet
  21 6 21 6 4 -29 c 1,67,-1
  16 97 l 1,56,57
 EndSplineSet
-Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"  223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Colour: ffc259
 EndChar
 
@@ -121120,7 +121209,7 @@ SplineSet
  566 485 l 1
  588 493 l 1
 EndSplineSet
-Kerns2: 754 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"  751 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"  226 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 754 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 751 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 226 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEECD uniEE5D
 Colour: ffff
 EndChar
@@ -121493,7 +121582,7 @@ SplineSet
  566 485 l 5
  588 493 l 5
 EndSplineSet
-Kerns2: 764 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1"  749 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"  267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 764 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 749 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEED2 uniEE5D
 Colour: ffff
 EndChar
@@ -121791,7 +121880,7 @@ SplineSet
  566 485 l 1
  588 493 l 1
 EndSplineSet
-Kerns2: 764 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"  267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 
+Kerns2: 764 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"
 Ligature2: "'ccmp' Precomposed Neumes-1" uniEE84 uniEE5D
 Colour: ffff
 EndChar
@@ -122480,7 +122569,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'ccmp' Priznak-based Compositions-1" uniEF6C uniEEE2
 Colour: ffff00
 EndChar
