@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1536561491
+ModificationTime: 1537024253
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -44,15 +44,11 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 4 0 0 "'ccmp' Precomposed Neumes" { "'ccmp' Precomposed Neumes-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 8 0 "'ccmp' Priznak Composition" { "'ccmp' Priznak Composition-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Precomposed Neumes Round 2" { "'ccmp' Precomposed Neumes 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 8 0 "'ss01' Style Set 1 Demestvenny Variants" { "'ss01' Style Set 1 Demestvenny Variants-1"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Second Round of Demestvenny Ligs" { "'ccmp' Second Round of Demestvenny Ligs-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Priznak-based Compositions" { "'ccmp' Priznak-based Compositions-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 6 0 0 "'ccmp'  Contextual Prizakification" { "'ccmp'  Contextual Prizakification-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Depriznakify" { "Depriznakify-1"  } []
-Lookup: 1 0 0 "Priznakify" { "Priznakify-1"  } []
+Lookup: 4 0 0 "Support for deprecated mappings (ccmp)" { "Support for deprecated mappings (ccmp)-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Canonical Composition (ccmp)" { "Canonical Composition (ccmp)-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Precomposed forms for Znamenny Notation" { "Precomposed forms for Znamenny Notation-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Precomposed forms for Znamenny Round 2" { "Precomposed forms for Znamenny Round 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Precomposed forms for Znamenny Round 3" { "Precomposed forms for Znamenny Round 3-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 8 0 "'ss01' Style Set 1 Demestvenny Ligatures" { "'ss01' Style Set 1 Demestvenny Ligatures-1" [150,15,3] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 263 0 0 "'kern' Horizontal Kerning with Shaidur Marks" { "'kern' Horizontal Kerning with Shaidur Marks-1"  } []
 Lookup: 260 0 0 "'mark' Black Marking Positions" { "'mark' Black Marking Positions-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -62,24 +58,6 @@ Lookup: 262 0 0 "'mkmk' Double Shaidur Attachment" { "'mkmk' Double Shaidur Atta
 Lookup: 257 0 0 "Advance neume with cinnabar mark" { "Advance neume with cinnabar mark-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: class "'ccmp'  Contextual Prizakification-1" 3 3 3 1
-  Class: 63 uniEA88 uniEACA uniEB94 uniEB96 uniEAD1 uniEB0D uniEB14 uniEB18
-  Class: 23 uniEE50 uniEE51 uniEE52
-  BClass: 63 uniEA88 uniEACA uniEB94 uniEB96 uniEAD1 uniEB0D uniEB14 uniEB18
-  BClass: 23 uniEE50 uniEE51 uniEE52
-  FClass: 63 uniEA88 uniEACA uniEB94 uniEB96 uniEAD1 uniEB0D uniEB14 uniEB18
-  FClass: 23 uniEE50 uniEE51 uniEE52
- 2 0 0
-  ClsList: 1 2
-  BClsList:
-  FClsList:
- 2
-  SeqLookup: 0 "Depriznakify"
-  SeqLookup: 1 "Priznakify"
-  ClassNames: "All_Others" "base" "tonal"
-  BClassNames: "All_Others" "base" "tonal"
-  FClassNames: "All_Others" "base" "tonal"
-EndFPST
 ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1" 4 4 4 2
   Class: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
   Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
@@ -978,7 +956,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 61074 27 5
+WinInfo: 60129 27 5
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -30847,7 +30825,6 @@ SplineSet
  -407 417 -407 417 -421 389 c 1,9,-1
  -409 515 l 1,0,1
 EndSplineSet
-Substitution2: "Priznakify-1" uniEC01
 Colour: ffc259
 EndChar
 
@@ -30897,7 +30874,6 @@ SplineSet
  -340 487 -340 487 -354 459 c 1,19,-1
  -342 586 l 1,10,11
 EndSplineSet
-Substitution2: "Priznakify-1" uniEB62
 Colour: ffc259
 EndChar
 
@@ -30960,7 +30936,6 @@ SplineSet
  -423 419 -423 419 -437 391 c 1,29,-1
  -425 517 l 1,20,21
 EndSplineSet
-Substitution2: "Priznakify-1" uniEB64
 Colour: ffc259
 EndChar
 
@@ -34633,7 +34608,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 229
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE8D
 Colour: ffc259
 EndChar
 
@@ -36070,7 +36044,6 @@ SplineSet
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE78 uniEE5B
 Colour: ffff
 EndChar
 
@@ -36105,9 +36078,9 @@ Validated: 32769
 Layer: 2
 Refer: 193 61100 N 1 0 0 1 0 0 2
 Refer: 210 61082 N 1 0 0 1 274 -96 2
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEEAC uniEE9A
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEAC uniEE9A
 Colour: ffc259
 EndChar
 
@@ -36591,7 +36564,6 @@ SplineSet
  131 3 131 3 129 10 c 1,38,-1
  129 12 l 1,14,15
 EndSplineSet
-Substitution2: "'ss01' Style Set 1 Demestvenny Variants-1" uniEB46
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
@@ -37012,9 +36984,9 @@ Validated: 32769
 Layer: 2
 Refer: 230 61102 N 1 0 0 1 211 0 2
 Refer: 202 61071 N 1 0 0 1 -6 0 2
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE8F uniEEAE
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEEAE
 Colour: ffc259
 EndChar
 
@@ -37238,7 +37210,6 @@ SplineSet
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 LCarets2: 1 0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE80 uniEE5A
 Colour: ffc259
 EndChar
 
@@ -37613,26 +37584,27 @@ AnchorPoint: "Shaidur" 155 355 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-182 190 m 0
- 180.425 304.989 129 371 23 371 c 1
- 35 496 l 1
- 83 496 125 474 162 430 c 0
- 199 386 217 326 217 248 c 0
- 217 170 209 89 194 6 c 0
- 193 -2 189 -6 182 -6 c 0
- 175 -6 170.031 -1.21484 171 6 c 0
- 175.5 39.5 183 117 182 190 c 0
-265 182 m 1
- 386 101 l 1
- 378 -1 l 1
- 257 79 l 1
- 265 182 l 1
-279 366 m 1
- 400 285 l 1
- 392 182 l 1
- 271 263 l 1
- 279 366 l 1
+182 190 m 4
+ 180.425 304.989 129 371 23 371 c 5
+ 35 496 l 5
+ 83 496 125 474 162 430 c 4
+ 199 386 217 326 217 248 c 4
+ 217 170 209 89 194 6 c 4
+ 193 -2 189 -6 182 -6 c 4
+ 175 -6 170.031 -1.21484 171 6 c 4
+ 175.5 39.5 183 117 182 190 c 4
+265 182 m 5
+ 386 101 l 5
+ 378 -1 l 5
+ 257 79 l 5
+ 265 182 l 5
+279 366 m 5
+ 400 285 l 5
+ 392 182 l 5
+ 271 263 l 5
+ 279 366 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF3C
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -47214,7 +47186,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -47264,7 +47235,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -47318,7 +47288,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE71 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -47372,7 +47341,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE71 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -47429,8 +47397,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE72 uniEEE0
-Substitution2: "Depriznakify-1" uniEE72
 Colour: fff24a
 EndChar
 
@@ -47491,7 +47457,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE72 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -47549,7 +47514,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE73 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -47607,7 +47571,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE73 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -47669,7 +47632,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE74 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -47731,7 +47693,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE74 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -47845,9 +47806,10 @@ Fore
 Refer: 179 61011 S 1 0 0 1 194 -244 2
 Refer: 222 61045 S 1 0 0 1 0 0 2
 Validated: 49153
+Ligature2: "Canonical Composition (ccmp)-1" u1CF56 u1CF30
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE75 uniEE5A
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE5A
 EndChar
 
 StartChar: uniEB76
@@ -47909,7 +47871,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB74 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -47972,7 +47933,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEC03 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -48019,7 +47979,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -48066,7 +48025,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -48108,8 +48066,8 @@ SplineSet
  394 -6 389.031 -1.21484 390 6 c 0
  394.5 39.5 402 117 401 190 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5A u1CF5C
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE78 uniEE5A
 Colour: ffff
 EndChar
 
@@ -48268,7 +48226,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA92 uniEE5A
 Colour: fff24a
 EndChar
 
@@ -48327,97 +48284,103 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE77 uniEEE1
 Colour: fff24a
 EndChar
 
 StartChar: uniEE7B
 Encoding: 61051 61051 302
-Width: 385
+Width: 420
 Flags: W
-HStem: 0 21G<33.0513 41.5> 281 134<265.827 331.563>
-VStem: 237 10<227.683 248.65> 338 27<154.973 325.5>
-AnchorPoint: "Podtinka" 45 -5 basechar 0
-AnchorPoint: "Oblachko" 101 725 basechar 0
-AnchorPoint: "Podchashie" 99 724 basechar 0
-AnchorPoint: "Zaderzhka" 99 724 basechar 0
-AnchorPoint: "Podvertka" 388 134 basechar 0
-AnchorPoint: "Borzaya" 347 4 basechar 0
-AnchorPoint: "Shaidur" 15 350 basechar 0
-AnchorPoint: "Tikhaya" 52 200 basechar 0
-AnchorPoint: "Kachka" 99 724 basechar 0
-AnchorPoint: "Zevok" 316 614 basechar 0
-AnchorPoint: "Udarka" 314 614 basechar 0
-AnchorPoint: "Kupnaya" 100 722 basechar 0
-AnchorPoint: "Lomka" 315 616 basechar 0
-AnchorPoint: "Otsechka" 330 116 basechar 0
-AnchorPoint: "Tonal" 97 675 basechar 0
+HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984>
+VStem: 22 22<-52.7908 139.562> 182 20<15.3987 75.8317> 197 31<83.6916 292.5>
+AnchorPoint: "Shaidur" 20 255 basechar 0
+AnchorPoint: "Otsechka" 401 1 basechar 0
+AnchorPoint: "Borzaya" 427 1 basechar 0
+AnchorPoint: "Podvertka" 187 453 basechar 0
+AnchorPoint: "Tonal" 187 600 basechar 0
+AnchorPoint: "Zaderzhka" 184 458 basechar 0
+AnchorPoint: "Podchashie" 186 456 basechar 0
+AnchorPoint: "Oblachko" 182 457 basechar 0
+AnchorPoint: "Tikhaya" 93 102 basechar 0
+AnchorPoint: "Lomka" 7 400 basechar 0
+AnchorPoint: "Kachka" 184 460 basechar 0
+AnchorPoint: "Kupnaya" 143 -108 basechar 0
+AnchorPoint: "Udarka" 184 457 basechar 0
+AnchorPoint: "Zevok" 186 456 basechar 0
+AnchorPoint: "Podtinka" 143 -109 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-308 415 m 0
- 346 415 365 370 365 281 c 0
- 365 231 358 179 345 125 c 0
- 344 120 340 118 335 118 c 0
- 331 118 326 123 327 128 c 0
- 334 179 338 212 338 226 c 0
- 338 260 325 278 299 281 c 1
- 293 281 l 2
- 270 281 255 265 247 234 c 0
- 246 228 237 219 237 230 c 0
- 237 232 244 326 244 327 c 0
- 251 386 273 415 308 415 c 0
-71 162 m 1
- 84 184 100 203 122 220 c 0
- 144 237 163 248 178 254 c 2
- 200 262 l 1
- 185 122 l 1
- 178 120 165 115 148 107 c 0
- 91 81 52 45 31 0 c 1
- 63 312 l 1
- 7 339 l 1
- 16 415 l 1
- 71 388 l 1
- 80 480 l 1
- 106 496 l 1
- 71 162 l 1
+182 16 m 1xf8
+ 185 47 197 118 197 157 c 0
+ 197 225 179 259 142 259 c 0
+ 89 259 59 207 50 103 c 0
+ 47 54 45 18 44 -6 c 0
+ 43 -35 45 -53 31 -53 c 0
+ 28 -53 25 -49 22 -41 c 1
+ 22 -14 l 2
+ 22 237 65 363 151 363 c 0
+ 202 363 228 328 228 257 c 4xf4
+ 228 192.692 215.5 92 202 14 c 0
+ 201.829 13.0146 201 13 200 12 c 0
+ 193 1 187 3 182 16 c 1xf8
+271 257 m 1
+ 278 276 294 294 321 310 c 1
+ 334 443 l 1
+ 357 451 l 1
+ 344 322 l 1
+ 353 326 361 329 369 330 c 1
+ 396 337 l 1
+ 386 213 l 1
+ 366 208 358 207 332 194 c 1
+ 324 113 318 50 313 5 c 1
+ 290 0 l 1
+ 308 181 l 1
+ 285 166 268 149 259 130 c 1
+ 271 257 l 1
 EndSplineSet
-Validated: 3073
 Layer: 2
 SplineSet
-308 415 m 0,0,1
- 365 415 365 415 365 281 c 0,2,3
- 365 206 365 206 345 125 c 0,4,5
- 343 118 343 118 335 118 c 0,6,7
- 333 118 333 118 329.5 120.5 c 128,-1,8
- 326 123 326 123 327 128 c 0,9,10
- 338 205 338 205 338 226 c 0,11,12
- 338 277 338 277 299 281 c 1,13,-1
- 293 281 l 2,14,15
- 259 281 259 281 247 234 c 0,16,17
- 246 226 246 226 240 225 c 0,18,19
- 237 224 237 224 237 230 c 128,-1,20
- 237 236 237 236 240 278 c 128,-1,21
- 243 320 243 320 244 327 c 0,22,23
- 255 415 255 415 308 415 c 0,0,1
-71 162 m 1,24,25
- 90 195 90 195 122.5 220 c 128,-1,26
- 155 245 155 245 178 254 c 2,27,-1
- 200 262 l 1,28,-1
- 185 122 l 1,29,30
- 174 119 174 119 148 107 c 0,31,32
- 63 68 63 68 31 0 c 1,33,-1
- 63 312 l 1,34,-1
- 7 339 l 1,35,-1
- 16 415 l 1,36,-1
- 71 388 l 1,37,-1
- 80 480 l 1,38,-1
- 106 496 l 1,39,-1
- 71 162 l 1,24,25
+182 16 m 1,0,1
+ 183 26 183 26 187 55.5 c 128,-1,2
+ 191 85 191 85 194 112.5 c 128,-1,3
+ 197 140 197 140 197 157 c 0,4,5
+ 197 259 197 259 142 259 c 0,6,7
+ 63 259 63 259 50 103 c 0,8,9
+ 45 28 45 28 44 -6 c 0,10,11
+ 44 -10 44 -10 44 -15.5 c 128,-1,12
+ 44 -21 44 -21 43.5 -24 c 128,-1,13
+ 43 -27 43 -27 43 -31 c 128,-1,14
+ 43 -35 43 -35 42.5 -37.5 c 128,-1,15
+ 42 -40 42 -40 41.5 -43 c 128,-1,16
+ 41 -46 41 -46 40 -47.5 c 128,-1,17
+ 39 -49 39 -49 38 -50.5 c 128,-1,18
+ 37 -52 37 -52 35 -52.5 c 128,-1,19
+ 33 -53 33 -53 31 -53 c 0,20,21
+ 26.5 -53 26.5 -53 22 -41 c 1,22,-1
+ 22 -14 l 2,23,24
+ 22 363 22 363 151 363 c 0,25,26
+ 228 363 228 363 228 257 c 0,27,28
+ 228 164 228 164 202 14 c 1,29,-1
+ 200 12 l 1,30,31
+ 190 -4 190 -4 182 16 c 1,0,1
+271 257 m 1,32,33
+ 282 287 282 287 321 310 c 1,34,-1
+ 334 443 l 1,35,-1
+ 357 451 l 1,36,-1
+ 344 322 l 1,37,38
+ 359 329 359 329 369 330 c 2,39,-1
+ 396 337 l 1,40,-1
+ 386 213 l 1,41,42
+ 354 205 354 205 332 194 c 1,43,44
+ 316 32 316 32 313 5 c 1,45,-1
+ 290 0 l 1,46,-1
+ 308 181 l 1,47,48
+ 272 158 272 158 259 130 c 1,49,-1
+ 271 257 l 1,32,33
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9A uniEEE2
 Colour: ffc259
 EndChar
 
@@ -48475,7 +48438,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA9B uniEEE2
 Colour: fff24a
 EndChar
 
@@ -48603,7 +48565,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAA1 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -48807,7 +48768,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -48851,8 +48811,9 @@ SplineSet
  152 196 154 199 158 199 c 4
  160 199 161 193 161 182 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9B u1CF3C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9C u1CF26
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7A uniEE53
 Colour: ffff
 EndChar
 
@@ -49000,7 +48961,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE7A uniEE5C
 Colour: fff24a
 EndChar
 
@@ -49214,7 +49174,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE0
 Colour: fff24a
 EndChar
 
@@ -49352,7 +49311,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE1
 Colour: fff24a
 EndChar
 
@@ -49477,7 +49435,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE2
 Colour: fff24a
 EndChar
 
@@ -49592,7 +49549,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAB6 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -49886,8 +49842,8 @@ SplineSet
  433 264 l 5
  441 367 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6D u1CF3B
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7E uniEE5A
 Colour: ffff
 EndChar
 
@@ -49973,8 +49929,8 @@ SplineSet
  394 97 316 80 285 17 c 5
  297 143 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7E u1CF33
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uniEE53
 Colour: ffff
 EndChar
 
@@ -50127,7 +50083,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB70 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -50185,7 +50140,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA8B uniEEE2
 Colour: fff24a
 EndChar
 
@@ -50232,7 +50186,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -50279,7 +50232,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -50958,7 +50910,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7E uniEEE0
 Colour: fff24a
 EndChar
 
@@ -51372,7 +51323,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7E uniEEE1
 Colour: fff24a
 EndChar
 
@@ -51416,9 +51366,10 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF88 u1CF30
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE8F uniEE50
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE50
 Colour: ffff
 EndChar
 
@@ -51467,8 +51418,9 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE8F uniEE51
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF88 u1CF31
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE51
 Colour: ffff
 EndChar
 
@@ -51809,7 +51761,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -52292,8 +52243,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE0
-Substitution2: "Depriznakify-1" uniEE85
 Colour: fff24a
 EndChar
 
@@ -52661,7 +52610,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE86 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -52835,7 +52783,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -52976,7 +52923,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD8 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -54097,7 +54043,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE85 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -54481,7 +54426,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE86 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -54741,7 +54685,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE88 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -54970,8 +54913,9 @@ SplineSet
  376 197 378 200 382 200 c 4
  384 200 385 194 385 183 c 4
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE98 uniEE50
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF92 u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE98 uniEE50
 Colour: ffff
 EndChar
 
@@ -55489,7 +55433,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE0
 Colour: fff24a
 EndChar
 
@@ -55885,8 +55828,9 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE93 uniEE50
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF8D u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE93 uniEE50
 Colour: ffff
 EndChar
 
@@ -56203,7 +56147,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE8E uniEEE1
 Colour: fff24a
 EndChar
 
@@ -56449,7 +56392,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEC uniEE58
 Colour: fff24a
 EndChar
 
@@ -56659,7 +56601,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -56833,7 +56774,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE98 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -57216,7 +57156,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF2 uniEE50
 Colour: fff24a
 EndChar
 
@@ -57461,7 +57400,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBC6 uniEE50
 Colour: fff24a
 EndChar
 
@@ -57698,7 +57636,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -57915,7 +57852,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE90 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -58374,7 +58310,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF8 uniEE50
 Colour: fff24a
 EndChar
 
@@ -58970,7 +58905,6 @@ SplineSet
  -421 730 -390 762 -352 768 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE50 uniEE58
 Colour: ff00
 EndChar
 
@@ -59190,7 +59124,6 @@ SplineSet
  -383 801 -352 833 -314 839 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE51 uniEE58
 Colour: ff00
 EndChar
 
@@ -59497,7 +59430,6 @@ SplineSet
  -351 853 -320 885 -282 891 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE52 uniEE58
 Colour: ff00
 EndChar
 
@@ -59599,7 +59531,6 @@ SplineSet
  -402 518 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE50 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -59696,7 +59627,6 @@ SplineSet
  -282 694 l 1
  -315 494 l 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEE50 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -59921,7 +59851,6 @@ SplineSet
  -461 597 l 1
  -482 472 l 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEE51 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -60025,7 +59954,6 @@ SplineSet
  -209 738 l 1
  -242 538 l 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEE51 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -60304,7 +60232,6 @@ SplineSet
  -551 553 l 1
  -572 428 l 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEE52 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -60569,7 +60496,6 @@ SplineSet
  -147 786 l 1
  -180 586 l 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEE52 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -66805,6 +66731,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF3B
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -66855,7 +66782,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB66 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -66904,7 +66830,6 @@ SplineSet
  33 531 l 5
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA81 uniEEE2
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -66959,7 +66884,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB6A uniEEE2
 Colour: fff24a
 EndChar
 
@@ -67014,7 +66938,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA85 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -67065,7 +66988,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEA93 uniEE5A
 Colour: fff24a
 EndChar
 
@@ -67220,7 +67142,6 @@ SplineSet
 EndSplineSet
 LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE0 uniEEE2 uniEE5A
 Colour: fff24a
 EndChar
 
@@ -67356,100 +67277,81 @@ SplineSet
 EndSplineSet
 LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEE75 uniEEE1 uniEEE2 uniEE5A
 Colour: fff24a
 EndChar
 
 StartChar: uniEE79
 Encoding: 61049 61049 389
-Width: 385
+Width: 420
 Flags: W
-HStem: 0 21G<33.0134 41.5> 281 134<265.827 331.563>
-VStem: 237 10<227.683 248.65> 338 27<154.973 325.5>
-AnchorPoint: "Podtinka" 45 -5 basechar 0
-AnchorPoint: "Oblachko" 101 725 basechar 0
-AnchorPoint: "Podchashie" 99 724 basechar 0
-AnchorPoint: "Zaderzhka" 99 724 basechar 0
-AnchorPoint: "Podvertka" 388 134 basechar 0
-AnchorPoint: "Borzaya" 347 4 basechar 0
-AnchorPoint: "Shaidur" 15 342 basechar 0
-AnchorPoint: "Tikhaya" 52 200 basechar 0
-AnchorPoint: "Kachka" 99 724 basechar 0
-AnchorPoint: "Zevok" 316 614 basechar 0
-AnchorPoint: "Udarka" 314 614 basechar 0
-AnchorPoint: "Kupnaya" 100 722 basechar 0
-AnchorPoint: "Lomka" 315 616 basechar 0
-AnchorPoint: "Otsechka" 330 116 basechar 0
-AnchorPoint: "Tonal" 97 675 basechar 0
+HStem: -6 21G<178.5 185.5 347.75 379.569> 371 125<35 109.883>
+VStem: 182.091 34.9093<48.6146 282.933>
+AnchorPoint: "Shaidur" 155 355 basechar 0
+AnchorPoint: "Otsechka" 154 683 basechar 0
+AnchorPoint: "Borzaya" 154 684 basechar 0
+AnchorPoint: "Podvertka" 153 684 basechar 0
+AnchorPoint: "Tonal" 152 700 basechar 0
+AnchorPoint: "Zaderzhka" 153 684.9 basechar 0
+AnchorPoint: "Podchashie" 152 689 basechar 0
+AnchorPoint: "Oblachko" 154 687 basechar 0
+AnchorPoint: "Tikhaya" 152 686.5 basechar 0
+AnchorPoint: "Lomka" 153 689 basechar 0
+AnchorPoint: "Kachka" 155 686 basechar 0
+AnchorPoint: "Kupnaya" 158 -115 basechar 0
+AnchorPoint: "Udarka" 154 686 basechar 0
+AnchorPoint: "Zevok" 153 687 basechar 0
+AnchorPoint: "Podtinka" 157 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-308 415 m 0
- 346 415 365 370 365 281 c 0
- 365 231 358 179 345 125 c 0
- 344 120 340 118 335 118 c 0
- 331 118 326 123 327 128 c 0
- 334 179 338 212 338 226 c 0
- 338 260 325 278 299 281 c 1
- 293 281 l 2
- 270 281 255 265 247 234 c 0
- 246 228 237 219 237 230 c 0
- 237 232 244 326 244 327 c 0
- 251 386 273 415 308 415 c 0
-71 162 m 1
- 84 184 100 203 122 220 c 0
- 144 237 163 248 178 254 c 2
- 200 262 l 1
- 185 122 l 1
- 178 120 165 115 148 107 c 0
- 91 81 52 45 31 0 c 1
- 61 298 l 1
- 38 285 22 268 13 247 c 1
- 14 251 15 266 16 291 c 0
- 18 335 23 364 46 383 c 0
- 56 391 65 396 72 399 c 1
- 80 480 l 1
- 106 496 l 1
- 71 162 l 1
+182 190 m 0
+ 180.425 304.989 129 371 23 371 c 1
+ 35 496 l 1
+ 83 496 125 474 162 430 c 0
+ 199 386 217 326 217 248 c 0
+ 217 170 209 89 194 6 c 0
+ 193 -2 189 -6 182 -6 c 0
+ 175 -6 170.031 -1.21484 171 6 c 0
+ 175.223828596 37.4440573253 182.090728008 107.653153285 182.090728008 176.520022135 c 0
+ 182.090728008 181.022823192 182.061371423 185.519886112 182 190 c 0
+265 182 m 1
+ 386 101 l 1
+ 378 -1 l 1
+ 257 79 l 1
+ 265 182 l 1
+279 366 m 1
+ 400 285 l 1
+ 392 182 l 1
+ 271 263 l 1
+ 279 366 l 1
 EndSplineSet
-Validated: 3073
 Layer: 2
 SplineSet
-308 415 m 0,0,1
- 365 415 365 415 365 281 c 0,2,3
- 365 206 365 206 345 125 c 0,4,5
- 343 118 343 118 335 118 c 0,6,7
- 333 118 333 118 329.5 120.5 c 128,-1,8
- 326 123 326 123 327 128 c 0,9,10
- 338 205 338 205 338 226 c 0,11,12
- 338 277 338 277 299 281 c 1,13,-1
- 293 281 l 2,14,15
- 259 281 259 281 247 234 c 0,16,17
- 246 226 246 226 240 225 c 0,18,19
- 237 224 237 224 237 230 c 128,-1,20
- 237 236 237 236 240 278 c 128,-1,21
- 243 320 243 320 244 327 c 0,22,23
- 255 415 255 415 308 415 c 0,0,1
-71 162 m 1,24,25
- 90 195 90 195 122.5 220 c 128,-1,26
- 155 245 155 245 178 254 c 2,27,-1
- 200 262 l 1,28,-1
- 185 122 l 1,29,30
- 174 119 174 119 148 107 c 0,31,32
- 63 68 63 68 31 0 c 1,33,-1
- 61 298 l 1,34,35
- 27 278 27 278 13 247 c 1,36,37
- 14 253 14 253 15.5 291 c 128,-1,38
- 17 329 17 329 24 350 c 128,-1,39
- 31 371 31 371 46 383 c 128,-1,40
- 61 395 61 395 72 399 c 1,41,-1
- 80 480 l 1,42,-1
- 106 496 l 1,43,-1
- 71 162 l 1,24,25
+182 190 m 0,0,1
+ 181 278 181 278 141 324.5 c 128,-1,2
+ 101 371 101 371 23 371 c 1,3,-1
+ 35 496 l 1,4,5
+ 106 496 106 496 162 430 c 0,6,7
+ 217 365 217 365 217 248 c 0,8,9
+ 217 133 217 133 194 6 c 0,10,11
+ 192.5 -6 192.5 -6 182 -6 c 0,12,13
+ 169 -6 169 -6 171 6 c 0,14,15
+ 182.090728008 88.5643085029 182.090728008 88.5643085029 182.090728008 176.520022135 c 0,16,17
+ 182.090728008 179.922695416 182.090728008 179.922695416 182.06821159 183.293473939 c 128,-1,18
+ 182.045695172 186.664252462 182.045695172 186.664252462 182 190 c 0,0,1
+265 182 m 1,19,-1
+ 386 101 l 1,20,-1
+ 378 -1 l 1,21,-1
+ 257 79 l 1,22,-1
+ 265 182 l 1,19,-1
+279 366 m 1,23,-1
+ 400 285 l 1,24,-1
+ 392 182 l 1,25,-1
+ 271 263 l 1,26,-1
+ 279 366 l 1,23,-1
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE77 uniEEE0
 Colour: ffc259
 EndChar
 
@@ -67723,7 +67625,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -68047,7 +67948,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAC1 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -68345,8 +68245,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE82 uniEEE0
-Substitution2: "Depriznakify-1" uniEE82
 Colour: fff24a
 EndChar
 
@@ -68645,7 +68543,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE82 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -68939,8 +68836,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE83 uniEEE0
-Substitution2: "Depriznakify-1" uniEE83
 Colour: fff24a
 EndChar
 
@@ -69164,7 +69059,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE83 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -69551,8 +69445,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE0
-Substitution2: "Depriznakify-1" uniEE84
 Colour: fff24a
 EndChar
 
@@ -70201,7 +70093,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE0
 Colour: fff24a
 EndChar
 
@@ -70332,7 +70223,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE1
 Colour: fff24a
 EndChar
 
@@ -70583,7 +70473,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE50
 Colour: fff24a
 EndChar
 
@@ -70699,7 +70588,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE50
 Colour: fff24a
 EndChar
 
@@ -70962,7 +70850,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE5 uniEE51
 Colour: fff24a
 EndChar
 
@@ -71083,7 +70970,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEBB2 uniEE51
 Colour: fff24a
 EndChar
 
@@ -71362,7 +71248,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE8 uniEE58
 Colour: fff24a
 EndChar
 
@@ -71610,7 +71495,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAE9 uniEE58
 Colour: fff24a
 EndChar
 
@@ -71846,7 +71730,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAEB uniEE58
 Colour: fff24a
 EndChar
 
@@ -72069,7 +71952,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAF9 uniEE50
 Colour: fff24a
 EndChar
 
@@ -72354,7 +72236,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -72618,7 +72499,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE91 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -72972,7 +72852,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -73303,7 +73182,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE92 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -73463,7 +73341,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -73602,7 +73479,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE93 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -73865,7 +73741,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB03 uniEE50
 Colour: fff24a
 EndChar
 
@@ -73986,7 +73861,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEB04 uniEE50
 Colour: fff24a
 EndChar
 
@@ -74452,7 +74326,6 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE0 uniEE50
 Colour: fff24a
 EndChar
 
@@ -74674,7 +74547,6 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE94 uniEEE1 uniEE50
 Colour: fff24a
 EndChar
 
@@ -75020,8 +74892,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE0
-Substitution2: "Depriznakify-1" uniEE9A
 Colour: fff24a
 EndChar
 
@@ -75157,7 +75027,6 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE1
 Colour: fff24a
 EndChar
 
@@ -76014,7 +75883,6 @@ SplineSet
  500 342 l 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE0
 Colour: fff24a
 EndChar
 
@@ -76249,7 +76117,6 @@ SplineSet
  500 342 l 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9B uniEEE1
 Colour: fff24a
 EndChar
 
@@ -76855,7 +76722,6 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE0
 Colour: fff24a
 EndChar
 
@@ -77124,7 +76990,6 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE1
 Colour: fff24a
 EndChar
 
@@ -77750,7 +77615,6 @@ SplineSet
  516 218 l 5
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE0
 Colour: fff24a
 EndChar
 
@@ -78046,7 +77910,6 @@ SplineSet
  516 218 l 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE1
 Colour: fff24a
 EndChar
 
@@ -78452,7 +78315,6 @@ SplineSet
  794 550 831 576 844 576 c 0
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9E uniEEE1
 Colour: fff24a
 EndChar
 
@@ -79016,7 +78878,6 @@ SplineSet
  724 269.6 l 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9F uniEEE1
 Colour: fff24a
 EndChar
 
@@ -79463,7 +79324,6 @@ SplineSet
  36 102 37 199 101 199 c 0xbc
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA0 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -80060,7 +79920,6 @@ SplineSet
  724 269.6 l 1
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA1 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -81440,7 +81299,6 @@ SplineSet
  70 162 l 1
  168 283 280 395 405 498 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAE uniEEE0
 Colour: fff24a
 EndChar
 
@@ -81751,7 +81609,6 @@ SplineSet
  70 162 l 1
  168 283 280 395 405 498 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAE uniEEE1
 Colour: fff24a
 EndChar
 
@@ -82015,6 +81872,7 @@ SplineSet
  20 121 l 1
  32 248 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7F u1CF26
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -82078,8 +81936,9 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE90 uniEE50
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF89 u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE90 uniEE50
 Colour: ffff
 EndChar
 
@@ -82227,8 +82086,8 @@ SplineSet
  364 37 366 40 370 40 c 4
  372 40 373 34 373 23 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB01 u1CF26
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE93 uniEE50 uniEE55
 Colour: ffff
 EndChar
 
@@ -82395,8 +82254,8 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFD u1CF39
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE50 uniEE58
 Colour: ffff
 EndChar
 
@@ -82595,8 +82454,8 @@ SplineSet
  253 573 265 644 278 671 c 0
  302 724 336 750 379 750 c 0xe0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB0D u1CF39
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8F uniEE51 uniEE58
 Colour: ffff
 EndChar
 
@@ -82658,8 +82517,8 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF8E u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE94 uniEE50
 Colour: ffff
 EndChar
 
@@ -82700,7 +82559,6 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE89
 Colour: ff00
 EndChar
 
@@ -82737,7 +82595,6 @@ SplineSet
  275 306 l 1
  287 425 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE89 uni200D uniEE87
 Colour: ff00
 EndChar
 
@@ -82774,7 +82631,6 @@ SplineSet
  365 129 l 1
  377 248 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uni200D uniEE8F uniEE51
 Colour: ff00
 EndChar
 
@@ -82820,7 +82676,6 @@ SplineSet
  237 317 l 1
  249 444 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE8B uni200D uniEE73
 Colour: ff00
 EndChar
 
@@ -84043,8 +83898,8 @@ SplineSet
  421 196.5 423 199.5 427 199.5 c 4
  429 199.5 430 193.5 430 182.5 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7E u1CF26
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uniEE55
 Colour: ffff
 EndChar
 
@@ -84225,8 +84080,8 @@ SplineSet
  416 569 433 532 438 487 c 0
  444 427 434 352 424 326 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7E u1CF86
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE87 uniEE8D
 Colour: ffff
 EndChar
 
@@ -84545,6 +84400,7 @@ SplineSet
  490 290 l 1
  490 290 465 284 436 271 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7F u1CF82
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -84648,6 +84504,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB08 u1CF3A
 Colour: ffff
 EndChar
 
@@ -84703,6 +84560,8 @@ SplineSet
  199 361 144 352 113 289 c 1
  125 416 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA76 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6C u1CF31
 Colour: ffff
 EndChar
 
@@ -84780,6 +84639,7 @@ SplineSet
  462 271 476 230 480 177 c 0
  485 107 471 19 462 -19 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB03 u1CF3A
 Colour: ffff
 EndChar
 
@@ -84857,6 +84717,7 @@ SplineSet
  690 78 l 5
  690 78 665 72 636 59 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA81 u1CF3F
 Colour: ffff
 EndChar
 
@@ -84902,6 +84763,7 @@ SplineSet
  742 455 688 446 657 383 c 5
  669 509 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF30
 Colour: ffff
 EndChar
 
@@ -85136,7 +84998,6 @@ SplineSet
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAA5 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -85169,6 +85030,7 @@ SplineSet
  152 196 154 199 158 199 c 4
  160 199 161 193 161 182 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF26
 Colour: ffff
 EndChar
 
@@ -85230,6 +85092,7 @@ SplineSet
  415 228 l 1
  415 228 390 222 361 209 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5A u1CF3F
 Colour: ffff
 EndChar
 
@@ -85724,7 +85587,6 @@ SplineSet
  16 415 l 5
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD2 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -86075,7 +85937,6 @@ SplineSet
  33 531 l 5
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEAD3 uniEEE2
 Colour: fff24a
 EndChar
 
@@ -86164,6 +86025,7 @@ SplineSet
  89 204 68 163 61 80 c 0
  60 43 58 6 57 -30 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF61 u1CF3F
 Colour: ffff
 EndChar
 
@@ -86210,6 +86072,7 @@ SplineSet
  691 485 l 5
  713 493 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3D
 Colour: ffff
 EndChar
 
@@ -86290,6 +86153,7 @@ SplineSet
  966 358 l 1
  966 358 941.422 352.879 913.122 339.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF69 u1CF3F
 Colour: ffff
 EndChar
 
@@ -86381,6 +86245,7 @@ SplineSet
  708.622 252.5 l 5
  708.622 252.5 683.622 246.5 654.622 233.5 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF62 u1CF3F
 Colour: ffff
 EndChar
 
@@ -86465,6 +86330,7 @@ SplineSet
  328 215 273 206 242 143 c 1
  256 269 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF68 u1CF3F
 Colour: ffff
 EndChar
 
@@ -86516,6 +86382,7 @@ SplineSet
  611 208 l 1
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF73 u1CF3F
 Colour: ffff
 EndChar
 
@@ -86790,7 +86657,6 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA5 uniEEE0
 Colour: fff24a
 EndChar
 
@@ -87014,7 +86880,6 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA5 uniEEE1
 Comment: "Why is it mapped here?"
 Colour: fff24a
 EndChar
@@ -87789,7 +87654,6 @@ SplineSet
  270 162 l 1
  368 283 480 395 605 498 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAF uniEEE0
 Colour: fff24a
 EndChar
 
@@ -88082,7 +87946,6 @@ SplineSet
  381 399 433 446 496 498 c 0
  559 550 597 576 610 576 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAA uniEEE1
 Colour: fff24a
 EndChar
 
@@ -88147,6 +88010,7 @@ SplineSet
  459 617.98 404 608.98 373 545.98 c 5
  385 672.98 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF74 u1CF30
 Colour: ffff
 EndChar
 
@@ -88348,7 +88212,6 @@ SplineSet
  663 332 727 396 851 498 c 0
  914 550 951 576 964 576 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAB uniEEE0
 Colour: fff24a
 EndChar
 
@@ -88613,7 +88476,6 @@ SplineSet
  663 332 727 396 851 498 c 0
  914 550 951 576 964 576 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAB uniEEE1
 Colour: fff24a
 EndChar
 
@@ -88696,6 +88558,8 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB25 u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3F
 Colour: ffff
 EndChar
 
@@ -88774,6 +88638,7 @@ SplineSet
  611 208 l 1
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF77 u1CF3F
 Colour: ffff
 EndChar
 
@@ -88849,6 +88714,7 @@ SplineSet
  719 606 l 1
  802 668 872 713 885 713 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA0 u1CF30
 Colour: ffff
 EndChar
 
@@ -89089,7 +88955,6 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA2 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -89476,7 +89341,6 @@ SplineSet
  728 214.6 673 205.6 642 142.6 c 1
  654 269.6 l 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA3 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -89852,7 +89716,6 @@ SplineSet
  670 100 l 1
  653 96 634 90 615 81 c 1
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEA4 uniEEE1
 Colour: fff24a
 EndChar
 
@@ -89953,6 +89816,8 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB24 u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3D
 Colour: ffff
 EndChar
 
@@ -90276,7 +90141,6 @@ SplineSet
  381 399 433 446 496 498 c 4
  559 550 597 576 610 576 c 4
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAA uniEEE0
 Colour: fff24a
 EndChar
 
@@ -90363,6 +90227,7 @@ SplineSet
  459 617.98 404 608.98 373 545.98 c 5
  385 672.98 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF73 u1CF30
 Colour: ffff
 EndChar
 
@@ -90427,6 +90292,8 @@ SplineSet
  566 485 l 1
  588 493 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEACB u1CF3D
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC9 u1CF30
 Colour: ffff
 EndChar
 
@@ -90572,6 +90439,7 @@ SplineSet
  459 617.98 404 608.98 373 545.98 c 5
  385 672.98 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF77 u1CF30
 Colour: ffff
 EndChar
 
@@ -90618,6 +90486,7 @@ SplineSet
  489 637.98 434 628.98 403 565.98 c 5
  415 692.98 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7B u1CF30
 Colour: ffff
 EndChar
 
@@ -91111,7 +90980,6 @@ SplineSet
  270 162 l 1
  368 283 480 395 605 498 c 0
 EndSplineSet
-Ligature2: "'ccmp' Priznak Composition-1" uniEEAF uniEEE1
 Colour: fff24a
 EndChar
 
@@ -91165,6 +91033,7 @@ SplineSet
  624 617.98 569 608.98 538 545.98 c 5
  550 672.98 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF98 u1CF30
 Colour: ffff
 EndChar
 
@@ -91231,6 +91100,8 @@ SplineSet
  776 208 l 1
  776 208 751.422 202.879 723.122 189.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB19 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB18 u1CF30
 Colour: ffff
 EndChar
 
@@ -91295,6 +91166,7 @@ SplineSet
  339 163 335 115 328 81 c 4
  319 37 299 -3 265 -3 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF92 u1CF3A
 Colour: ffff
 EndChar
 
@@ -91508,7 +91380,7 @@ SplineSet
  397 403 317 384 286 321 c 1
  298 447 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEE8FEE50 uniEE59
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFD u1CF3A
 Colour: ffff
 EndChar
 
@@ -91727,7 +91599,7 @@ SplineSet
  406.5 723.94 402.5 690.94 395.5 657.94 c 0
  384.5 601.94 363.5 573.94 332.5 573.94 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEE93EE50 uniEE59
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB01 u1CF3A
 Colour: ffff
 EndChar
 
@@ -91946,7 +91818,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEE8FEE51 uniEE59
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB0D u1CF3A
 Colour: ffff
 EndChar
 
@@ -92055,6 +91927,7 @@ SplineSet
  383 332 447 396 571 498 c 0
  634 550 671 576 684 576 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF97 u1CF30
 Colour: ffff
 EndChar
 
@@ -92146,6 +92019,7 @@ SplineSet
  882 320 877 267 862 226 c 0
  847 186 823 156 792 156 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF26
 Colour: ffff
 EndChar
 
@@ -92195,7 +92069,7 @@ SplineSet
  565 481 l 5
  587 489 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE70 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3D
 Colour: ffff
 EndChar
 
@@ -92251,7 +92125,7 @@ SplineSet
  610 205 l 1
  610 205 585.422 199.879 557.122 186.659 c 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE70 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3F
 Colour: ffff
 EndChar
 
@@ -92313,7 +92187,7 @@ SplineSet
  587 489 l 1
 EndSplineSet
 Kerns2: 818 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 764 -100 "'ss01' Style Set 1 Demestvenny Ligatures-1" 749 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 745 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 742 -115 "'ss01' Style Set 1 Demestvenny Ligatures-1" 622 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 620 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 619 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 618 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 613 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 226 -115 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE74 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF3D
 Colour: ffff
 EndChar
 
@@ -92813,7 +92687,7 @@ SplineSet
  521 278 l 5
  529 381 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE74 uniEE5A
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF3B
 Colour: ffff
 EndChar
 
@@ -92881,7 +92755,7 @@ SplineSet
  610 205 l 5
  610 205 585.422 199.879 557.122 186.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE74 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF3F
 Colour: ffff
 EndChar
 
@@ -92941,7 +92815,7 @@ SplineSet
  615 481 l 1
  637 489 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC0 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF55 u1CF3D
 Colour: ffff
 EndChar
 
@@ -93009,7 +92883,7 @@ SplineSet
  660 205 l 5
  660 205 635.422 199.879 607.122 186.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC0 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF55 u1CF3F
 Colour: ffff
 EndChar
 
@@ -93262,7 +93136,7 @@ SplineSet
  365 228 l 5
  365 228 340 222 311 209 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE75 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF3F
 Colour: ffff
 EndChar
 
@@ -93614,7 +93488,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEA7D uniEE60
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA7D u1CF3F
 Colour: ffff
 EndChar
 
@@ -94088,7 +93962,7 @@ SplineSet
  79 480 l 1
  105 496 l 1025
 EndSplineSet
-Ligature2: "'ccmp' Second Round of Demestvenny Ligs-1" uniEA7E uniEE60
+Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEA7E u1CF3F
 Colour: ffff
 EndChar
 
@@ -94425,7 +94299,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE76 uniEE5E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF3E
 Colour: ffff
 EndChar
 
@@ -94819,7 +94693,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE76 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF3F
 Colour: ffff
 EndChar
 
@@ -94899,7 +94773,7 @@ SplineSet
  965 358 l 1
  965 358 940.422 352.879 912.122 339.659 c 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEBA uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB1 u1CF3F
 Colour: ffff
 EndChar
 
@@ -95287,7 +95161,7 @@ SplineSet
  748 593 766 562 771 499 c 4
  772 489 772 478 772 465 c 4xa0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC2 uniEE5E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF3E
 Colour: ffff
 EndChar
 
@@ -95297,7 +95171,6 @@ Width: 1000
 VWidth: 999
 Flags: H
 LayerCount: 3
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC1 uniEE60
 Colour: ffff
 EndChar
 
@@ -95307,7 +95180,6 @@ Width: 1000
 VWidth: 0
 Flags: H
 LayerCount: 3
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE77 uniEA9A
 Colour: ffff
 EndChar
 
@@ -95393,7 +95265,7 @@ SplineSet
  89 204 68 163 61 80 c 0
  60 43 58 6 57 -30 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7D uniEE5E
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAA4 u1CF3F
 Colour: ffff
 EndChar
 
@@ -95448,8 +95320,7 @@ SplineSet
  272 -9 l 1
  284 118 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7D uniEE60
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEB46 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3B
 Colour: ffff
 EndChar
 
@@ -95522,7 +95393,7 @@ SplineSet
  629.948 503 647.948 472 652.948 409 c 4
  653.948 399 653.948 388 653.948 375 c 4xa0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEAA6 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF61 u1CF3E
 Colour: ffff
 EndChar
 
@@ -95588,7 +95459,7 @@ SplineSet
  1060 710 l 5
  1082 718 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC6 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF66 u1CF3D
 Colour: ffff
 EndChar
 
@@ -95673,7 +95544,7 @@ SplineSet
  572.622 172.5 l 5
  572.622 172.5 547.622 166.5 518.622 153.5 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC3 uniEE5E
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAA8 u1CF3F
 Colour: ffff
 EndChar
 
@@ -95750,7 +95621,7 @@ SplineSet
  89 203 68 162 61 79 c 0
  60 42 58 5 57 -31 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC3 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF62 u1CF3E
 Colour: ffff
 EndChar
 
@@ -95760,7 +95631,6 @@ Width: 1000
 VWidth: 999
 Flags: H
 LayerCount: 3
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC4 uniEE5E
 Colour: ffff
 EndChar
 
@@ -95824,7 +95694,7 @@ SplineSet
  89 206 68 165 61 82 c 0
  60 45 58 8 57 -28 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC4 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF63 u1CF3D
 Colour: ffff
 EndChar
 
@@ -95896,7 +95766,7 @@ SplineSet
  588 493 l 1
 EndSplineSet
 Kerns2: 764 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 749 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEECE uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF77 u1CF3D
 Colour: ffff
 EndChar
 
@@ -96413,7 +96283,7 @@ SplineSet
  616 336.44 634 305.44 639 242.44 c 4
  640 232.44 640 221.44 640 208.44 c 4xa0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEECD uniEE5E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3E
 Colour: ffff
 EndChar
 
@@ -96846,7 +96716,7 @@ SplineSet
  503 264 l 5
  511 367 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEECD uniEE5A
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3B
 Colour: ffff
 EndChar
 
@@ -96898,7 +96768,7 @@ SplineSet
  776 208 l 5
  776 208 751.422 202.879 723.122 189.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE9A uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF94 u1CF3F
 Colour: ffff
 EndChar
 
@@ -96967,7 +96837,7 @@ SplineSet
  611 208 l 1
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEECD uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3F
 Colour: ffff
 EndChar
 
@@ -97037,7 +96907,7 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEEC uniEE50
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9D u1CF30
 Colour: ffff
 EndChar
 
@@ -97112,7 +96982,7 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEEC uniEE51
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9D u1CF31
 Colour: ffff
 EndChar
 
@@ -97558,7 +97428,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 Kerns2: 223 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 222 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 206 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 190 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1" 187 -135 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE50
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF30
 Colour: ffff
 EndChar
 
@@ -98010,7 +97880,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE51
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF31
 Colour: ffff
 EndChar
 
@@ -98527,7 +98397,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE5E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3E
 Colour: ffff
 EndChar
 
@@ -98972,7 +98842,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE5A
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3B
 Colour: ffff
 EndChar
 
@@ -99424,7 +99294,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE50 uniEE5A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3B u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3B
 Colour: ffff
 EndChar
 
@@ -99883,6 +99754,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF31
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB41 u1CF3B
 Colour: ffff
 EndChar
 
@@ -99959,7 +99832,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 Kerns2: 764 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 745 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 743 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 619 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 618 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 607 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1" 226 -100 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3D
 Colour: ffff
 EndChar
 
@@ -100014,7 +99887,7 @@ SplineSet
  218 551 213 481 207 450 c 0
  198 406 178 366 144 366 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE7A uniEE59
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF3A
 Colour: ffff
 EndChar
 
@@ -100070,7 +99943,9 @@ SplineSet
  219 558 212 472 207 450 c 0
  196 394 175 366 144 366 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEA9C uniEE59
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF82
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9C u1CF3A
 Colour: ffff
 EndChar
 
@@ -100126,7 +100001,7 @@ SplineSet
  786 554 l 5
  808 562 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC5 uniEE5E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF64 u1CF3D
 Colour: ffff
 EndChar
 
@@ -100190,7 +100065,7 @@ SplineSet
  831 278 l 5
  831 278 806.422 272.879 778.122 259.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC5 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF64 u1CF3F
 Colour: ffff
 EndChar
 
@@ -100272,7 +100147,7 @@ SplineSet
  971 359 l 5
  971 359 946.422 353.879 918.122 340.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC6 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF3F
 Colour: ffff
 EndChar
 
@@ -100445,8 +100320,8 @@ SplineSet
  776 208 l 5
  776 208 751.422 202.879 723.122 189.659 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF99 u1CF3F
 LCarets2: 1 0
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE60
 Colour: ffff
 EndChar
 
@@ -100521,7 +100396,7 @@ SplineSet
  731 485 l 1
  753 493 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEE8 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF99 u1CF3D
 Colour: ffff
 EndChar
 
@@ -100582,7 +100457,6 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -100652,7 +100526,6 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE70 uniEEE4
 Colour: ffff00
 EndChar
 
@@ -100715,7 +100588,6 @@ SplineSet
  251 271 l 5
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -100784,7 +100656,6 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE75 uniEEE4
 Colour: ffff00
 EndChar
 
@@ -100856,7 +100727,6 @@ SplineSet
  60 43 58 6 57 -30 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE78 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -100923,7 +100793,6 @@ SplineSet
  60 43 58 6 57 -30 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7A uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101004,7 +100873,6 @@ SplineSet
  653.948 399 653.948 388 653.948 375 c 0xa0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE7D uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101136,7 +101004,6 @@ SplineSet
  198 406 178 366 144 366 c 4
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEEC3 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101210,7 +101077,6 @@ SplineSet
  60 45 58 8 57 -28 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEEC4 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101414,7 +101280,6 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE84 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101663,7 +101528,6 @@ SplineSet
  470 178.4 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE8F uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101909,7 +101773,6 @@ SplineSet
  600 272 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9A uniEEE3
 Colour: ffff00
 EndChar
 
@@ -101982,7 +101845,6 @@ SplineSet
  460 577 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9D uniEEE3
 Colour: ffff00
 EndChar
 
@@ -102081,7 +101943,6 @@ SplineSet
  600 272 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak Composition-1" uniEE9C uniEEE3
 Colour: ffff00
 EndChar
 
@@ -102125,7 +101986,7 @@ SplineSet
  731 485 l 5
  753 493 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE9A uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF94 u1CF3D
 Colour: ffff
 EndChar
 
@@ -102134,7 +101995,6 @@ Encoding: 61398 61398 655
 Width: 1000
 Flags: H
 LayerCount: 3
-Ligature2: "'ccmp' Priznak Composition-1" uniEEF3 uniEEE3
 Colour: ffff00
 EndChar
 
@@ -102390,7 +102250,7 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEEC uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9D u1CF3F
 Colour: ffff
 EndChar
 
@@ -102480,7 +102340,7 @@ SplineSet
  568 72 l 1
  568 72 543 66 514 53 c 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEED uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9E u1CF3F
 Colour: ffff
 EndChar
 
@@ -110654,7 +110514,8 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE91 uniEE50
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE91 uniEE50
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF8A u1CF30
 Colour: ffff
 EndChar
 
@@ -121148,7 +121009,7 @@ SplineSet
  542 397 560 366 565 303 c 0
  566 293 566 282 566 269 c 0xa0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE70 uniEE5E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3E
 Colour: ffff
 EndChar
 
@@ -121210,7 +121071,7 @@ SplineSet
  588 493 l 1
 EndSplineSet
 Kerns2: 754 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 751 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 226 -110 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEECD uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3D
 Colour: ffff
 EndChar
 
@@ -121294,7 +121155,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEF3 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3F
 Colour: ffff
 EndChar
 
@@ -121353,7 +121214,7 @@ SplineSet
  565 481 l 5
  587 489 l 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE72 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF52 u1CF3D
 Colour: ffff
 EndChar
 
@@ -121419,7 +121280,7 @@ SplineSet
  610 205 l 5
  610 205 585.422 199.879 557.122 186.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE72 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF52 u1CF3F
 Colour: ffff
 EndChar
 
@@ -121473,7 +121334,7 @@ SplineSet
  731 485 l 1
  753 493 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE9D uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF98 u1CF3D
 Colour: ffff
 EndChar
 
@@ -121535,7 +121396,7 @@ SplineSet
  776 208 l 5
  776 208 751.422 202.879 723.122 189.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE9D uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF98 u1CF3F
 Colour: ffff
 EndChar
 
@@ -121583,7 +121444,7 @@ SplineSet
  588 493 l 5
 EndSplineSet
 Kerns2: 764 -75 "'ss01' Style Set 1 Demestvenny Ligatures-1" 749 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEED2 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7B u1CF3D
 Colour: ffff
 EndChar
 
@@ -121638,7 +121499,7 @@ SplineSet
  611 208 l 5
  611 208 586.422 202.879 558.122 189.659 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEED2 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7B u1CF3F
 Colour: ffff
 EndChar
 
@@ -121704,7 +121565,7 @@ SplineSet
  716 260 l 5
  716 260 691 254 662 241 c 5
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEEC2 uniEE60
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF3F
 Colour: ffff
 EndChar
 
@@ -121755,7 +121616,7 @@ SplineSet
  199 361 144 352 113 289 c 1
  125 416 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE74 uniEE51
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF31
 Colour: ffff
 EndChar
 
@@ -121819,7 +121680,8 @@ SplineSet
  199 361 144 352 113 289 c 1
  125 416 l 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEA6D uniEE51
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA76 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF31
 Colour: ffff
 EndChar
 
@@ -121881,7 +121743,7 @@ SplineSet
  588 493 l 1
 EndSplineSet
 Kerns2: 764 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1" 267 -80 "'ss01' Style Set 1 Demestvenny Ligatures-1"
-Ligature2: "'ccmp' Precomposed Neumes-1" uniEE84 uniEE5D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF73 u1CF3D
 Colour: ffff
 EndChar
 
@@ -121946,7 +121808,7 @@ SplineSet
  723 92 l 1
  723 92 698 86 669 73 c 1
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEA6D uniEE60
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF3F
 Colour: ffff
 EndChar
 
@@ -122024,7 +121886,7 @@ SplineSet
  723 92 l 1
  723 92 698 86 669 73 c 1
 EndSplineSet
-Ligature2: "'ccmp' Second Round of Demestvenny Ligs-1" uniEA6E uniEE60
+Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEA6E u1CF3F
 Colour: ffff
 EndChar
 
@@ -122105,7 +121967,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEB38 uniEE50
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB38 u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3D
 Colour: ffff
 EndChar
 
@@ -122191,7 +122054,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEB38 uniEE51
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB38 u1CF31
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB41 u1CF3E
 Colour: ffff
 EndChar
 
@@ -122280,7 +122144,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEB39 uniEE50
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB39 u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3F
 Colour: ffff
 EndChar
 
@@ -122374,7 +122239,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "'ccmp' Precomposed Neumes 2-1" uniEB39 uniEE51
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB39 u1CF31
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB41 u1CF3F
 Colour: ffff
 EndChar
 
@@ -122570,7 +122436,6 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'ccmp' Priznak-based Compositions-1" uniEF6C uniEEE2
 Colour: ffff00
 EndChar
 
@@ -122587,6 +122452,8 @@ Fore
 Refer: 37 9676 S 1 0 0 1 0 0 2
 Refer: 160 60928 N 1 0 0 1 90 167 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF03 u1CF1F
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE03 uniEE1F
 EndChar
 
 StartChar: u1CF01
@@ -122602,6 +122469,8 @@ Fore
 Refer: 37 9676 N 1 0 0 1 0 0 2
 Refer: 161 60929 N 1 0 0 1 66 155.623 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF04 u1CF1F
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE04 uniEE1F
 EndChar
 
 StartChar: u1CF02
@@ -122799,6 +122668,8 @@ Fore
 Refer: 37 9676 N 1 0 0 1 0 0 2
 Refer: 235 60944 N 1 0 0 1 104 152.222 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF02 u1CF1F
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE02 uniEE1F
 EndChar
 
 StartChar: u1CF11
@@ -122814,6 +122685,8 @@ Fore
 Refer: 37 9676 N 1 0 0 1 0 0 2
 Refer: 172 60945 N 1 0 0 1 76 158 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF06 u1CF1F
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE06 uniEE1F
 EndChar
 
 StartChar: u1CF12
@@ -122843,6 +122716,8 @@ Fore
 Refer: 37 9676 N 1 0 0 1 0 0 2
 Refer: 173 60947 N 1 0 0 1 84 155 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF07 u1CF1F
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE07 uniEE1F
 EndChar
 
 StartChar: u1CF14
@@ -122872,6 +122747,8 @@ Fore
 Refer: 37 9676 N 1 0 0 1 0 0 2
 Refer: 174 60949 N 1 0 0 1 86 153.223 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF08 u1CF1F
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE08 uniEE1F
 EndChar
 
 StartChar: u1CF16
@@ -123283,6 +123160,7 @@ SplineSet
  182 1 176 3 171 16 c 1
 EndSplineSet
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF5D u1CF30
 EndChar
 
 StartChar: u1CF61
@@ -123296,6 +123174,7 @@ LayerCount: 3
 Fore
 Refer: 742 61123 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF5D u1CF31
 EndChar
 
 StartChar: u1CF62
@@ -123309,6 +123188,7 @@ LayerCount: 3
 Fore
 Refer: 743 61124 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF5D u1CF32
 EndChar
 
 StartChar: u1CF63
@@ -123544,6 +123424,7 @@ LayerCount: 3
 Fore
 Refer: 231 61057 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF6F u1CF3B
 EndChar
 
 StartChar: u1CF71
@@ -123847,6 +123728,7 @@ LayerCount: 3
 Fore
 Refer: 201 61070 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF88 u1CF86
 EndChar
 
 StartChar: u1CF88
@@ -124767,6 +124649,7 @@ LayerCount: 3
 Fore
 Refer: 218 61099 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CFC2 u1CF94
 EndChar
 
 StartChar: u1CFC4
@@ -124805,6 +124688,7 @@ LayerCount: 3
 Fore
 Refer: 228 61103 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF88 u1CFC5
 EndChar
 
 StartChar: u1CFC7
@@ -125067,6 +124951,7 @@ LayerCount: 3
 Fore
 Refer: 187 61046 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF56 u1CF31
 EndChar
 
 StartChar: u1CF59
@@ -125079,6 +124964,7 @@ LayerCount: 3
 Fore
 Refer: 741 61122 N 1 0 0 1 0 0 2
 Validated: 32769
+Ligature2: "Canonical Composition (ccmp)-1" u1CF56 u1CF32
 EndChar
 
 StartChar: u1CF5A
@@ -125189,7 +125075,8 @@ StartChar: uniEA67
 Encoding: 60007 60007 1017
 Width: 625
 VWidth: 999
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
 AnchorPoint: "Shaidur" 3 395 basechar 0
 AnchorPoint: "Otsechka" 620 379 basechar 0
 AnchorPoint: "Borzaya" 475 115 basechar 0
@@ -125236,6 +125123,7 @@ SplineSet
  565 481 l 5
  587 489 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF3D
 Colour: ffff
 EndChar
 
@@ -125298,6 +125186,7 @@ SplineSet
  610 205 l 1
  610 205 585.422 199.879 557.122 186.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF3F
 Colour: ffff
 EndChar
 
@@ -125343,6 +125232,7 @@ SplineSet
  199 361 144 352 113 289 c 1
  125 416 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF30
 Colour: ffff
 EndChar
 
@@ -125393,6 +125283,8 @@ SplineSet
  199 361 144 352 113 289 c 1
  125 416 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA70 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6C u1CF30
 Colour: ffff
 EndChar
 
@@ -125451,6 +125343,8 @@ SplineSet
  199 361 144 352 113 289 c 1
  125 416 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA70 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF30
 Colour: ffff
 EndChar
 
@@ -125668,6 +125562,7 @@ SplineSet
  443 532 l 1
  513 592 584 646 600 646 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF67 u1CF3D
 Colour: ffff
 EndChar
 
@@ -125701,6 +125596,7 @@ SplineSet
  42 123 160 268 249 358 c 0
  327 437 493 576 519 576 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA57 u1CF3D
 Colour: ffff
 EndChar
 
@@ -125731,6 +125627,7 @@ SplineSet
  42 123 160 268 249 358 c 0
  327 437 493 576 519 576 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA57 u1CF3F
 Colour: ffff
 EndChar
 
@@ -125791,6 +125688,7 @@ SplineSet
  130 313.98 75 304.98 44 241.98 c 5
  56 368.98 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF30
 Colour: ffff
 EndChar
 
@@ -125856,6 +125754,8 @@ SplineSet
  566 485 l 1
  588 493 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAD4 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAD0 u1CF30
 Colour: ffff
 EndChar
 
@@ -125929,6 +125829,8 @@ SplineSet
  611 208 l 1
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAD4 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAD1 u1CF30
 Colour: ffff
 EndChar
 
@@ -126015,6 +125917,7 @@ SplineSet
  882 320 877 267 862 226 c 4
  847 186 823 156 792 156 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9A u1CF26
 Colour: ffff
 EndChar
 
@@ -126084,6 +125987,7 @@ SplineSet
  437 569 l 1
  460 577 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9D u1CF3D
 Colour: ffff
 EndChar
 
@@ -126165,6 +126069,7 @@ SplineSet
  568 72 l 1
  568 72 543 66 514 53 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9E u1CF30
 Colour: ffff
 EndChar
 
@@ -126300,6 +126205,7 @@ SplineSet
  736 208 l 5
  736 208 711.422 202.879 683.122 189.659 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3F
 Colour: ffff
 EndChar
 
@@ -126362,6 +126268,8 @@ SplineSet
  485.5 633.94 481.5 600.94 474.5 567.94 c 0
  463.5 511.94 442.5 483.94 411.5 483.94 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3A u1CF30
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF30 u1CF3A
 Colour: ffff
 EndChar
 
@@ -126497,6 +126405,8 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3E
 Colour: ffff
 EndChar
 
@@ -126568,6 +126478,7 @@ SplineSet
  920 634 l 5
  942 642 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB1 u1CF3D
 Colour: ffff
 EndChar
 
@@ -126597,6 +126508,7 @@ SplineSet
  237 187 265 192 277 192 c 0
  310 192 303 152 319 90 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CFC7
 Colour: ffff
 EndChar
 
@@ -126629,6 +126541,7 @@ SplineSet
  98 256 103 166 70 166 c 0
  46 166 25 172 25 197 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CFC7
 Colour: ffff
 EndChar
 
@@ -126672,6 +126585,7 @@ SplineSet
  98 256 103 166 70 166 c 0
  46 166 25 172 25 197 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6B u1CFC7
 Colour: ffff
 EndChar
 
@@ -126703,17 +126617,19 @@ SplineSet
  98 256 103 166 70 166 c 0
  46 166 25 172 25 197 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7E u1CFC7
 Colour: ffff
 EndChar
 
 StartChar: uniEB4D
 Encoding: 60237 60237 1046
 Width: 560
-Flags: HW
+Flags: W
+HStem: 22 59<103.102 167.133> 109 60<302.545 366.688> 124 58<28.0256 89.0892> 210 61<227.581 291.406> 341 57<81.5202 342.118>
 LayerCount: 3
 Fore
 SplineSet
-506 109 m 0
+506 109 m 0xd8
  475 109 462 130 454 153 c 0
  449 169 449 187 448 194 c 0
  438 274 330 341 270 341 c 0
@@ -126722,7 +126638,7 @@ SplineSet
  45 382 147 398 214 398 c 0
  366 398 494 339 531 172 c 0
  532 167 534 158 534 147 c 0
- 534 129 529 109 506 109 c 0
+ 534 129 529 109 506 109 c 0xd8
 135 22 m 0
  116 22 99 40 99 61 c 0
  99 70 103 78 112 81 c 0
@@ -126732,7 +126648,7 @@ SplineSet
  369 123 364 114 354 109 c 0
  266 74 229 54 145 22 c 0
  142 21 138 22 135 22 c 0
-59 124 m 0
+59 124 m 0xb8
  40 124 25 140 25 162 c 0
  25 171 28 179 35 182 c 0
  144 224 158 231 251 268 c 0
@@ -126740,15 +126656,18 @@ SplineSet
  279 271 294 255 294 236 c 0
  294 225 289 215 278 210 c 0
  192 175 155 155 70 124 c 0
- 66 122 62 124 59 124 c 0
+ 66 122 62 124 59 124 c 0xb8
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF88 u1CFC7
 Colour: ffff
 EndChar
 
 StartChar: uniEB4E
 Encoding: 60238 60238 1047
 Width: 550
-Flags: HW
+Flags: W
+HStem: 83 34<345.31 373.137> 210 49<109.084 353.861>
+VStem: 441 84<53 140.003>
 LayerCount: 3
 Fore
 SplineSet
@@ -126902,6 +126821,7 @@ SplineSet
  527 116 l 5
  527 116 502 110 473 97 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA89 u1CF3F
 Colour: ffff
 EndChar
 
@@ -126947,34 +126867,35 @@ AnchorPoint: "Shaidur" 20 255 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-182 16 m 1
- 185 47 197 118 197 157 c 0
- 197 225 179 259 142 259 c 0
- 89 259 59 207 50 103 c 0
- 47 54 45 18 44 -6 c 0
- 43 -35 45 -53 31 -53 c 0
- 28 -53 25 -49 22 -41 c 1
- 22 -14 l 2
- 22 237 65 363 151 363 c 0
- 202 363 228 328 228 257 c 0
- 228 192.692 215.5 92 202 14 c 0
- 201.829 13.0146 201 13 200 12 c 0
- 193 1 187 3 182 16 c 1
-271 257 m 1
- 278 276 294 294 321 310 c 1
- 334 443 l 1
- 357 451 l 1
- 344 322 l 1
- 353 326 361 329 369 330 c 2
- 396 337 l 1
- 386 213 l 1
- 366 208 358 207 332 194 c 1
- 324 113 318 50 313 5 c 1
- 290 0 l 1
- 308 181 l 1
- 285 166 268 149 259 130 c 1
- 271 257 l 1
+182 16 m 5
+ 185 47 197 118 197 157 c 4
+ 197 225 179 259 142 259 c 4
+ 89 259 59 207 50 103 c 4
+ 47 54 45 18 44 -6 c 4
+ 43 -35 45 -53 31 -53 c 4
+ 28 -53 25 -49 22 -41 c 5
+ 22 -14 l 6
+ 22 237 65 363 151 363 c 4
+ 202 363 228 328 228 257 c 4
+ 228 192.692 215.5 92 202 14 c 4
+ 201.829 13.0146 201 13 200 12 c 4
+ 193 1 187 3 182 16 c 5
+271 257 m 5
+ 278 276 294 294 321 310 c 5
+ 334 443 l 5
+ 357 451 l 5
+ 344 322 l 5
+ 353 326 361 329 369 330 c 6
+ 396 337 l 5
+ 386 213 l 5
+ 366 208 358 207 332 194 c 5
+ 324 113 318 50 313 5 c 5
+ 290 0 l 5
+ 308 181 l 5
+ 285 166 268 149 259 130 c 5
+ 271 257 l 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF82
 Colour: ffff
 EndChar
 
@@ -127046,6 +126967,7 @@ SplineSet
  89 204 68 163 61 80 c 0
  60 43 58 6 57 -30 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3E
 Colour: ffff
 EndChar
 
@@ -127108,6 +127030,7 @@ SplineSet
  436.622 92.5 l 5
  436.622 92.5 411.622 86.5 382.622 73.5 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3F
 Colour: ffff
 EndChar
 
@@ -127179,6 +127102,7 @@ SplineSet
  691 278 l 5
  691 278 666.422 272.879 638.122 259.659 c 5
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF63 u1CF3F
 Colour: ffff
 EndChar
 
@@ -127252,6 +127176,7 @@ SplineSet
  914 635 l 1
  936 643 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF3D
 Colour: ffff
 EndChar
 
@@ -127325,6 +127250,7 @@ SplineSet
  786 632 839 678 902 730 c 0
  965 782 1002 808 1015 808 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF66 u1CF3F
 Colour: ffff
 EndChar
 
@@ -127401,6 +127327,7 @@ SplineSet
  328 215 273 206 242 143 c 1
  256 269 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF68 u1CF3D
 Colour: ffff
 EndChar
 
@@ -127479,6 +127406,7 @@ SplineSet
  921 635 l 1
  943 643 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF69 u1CF3D
 Colour: ffff
 EndChar
 
@@ -127567,6 +127495,8 @@ SplineSet
  611 208 l 1
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEACB u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEACA u1CF30
 Colour: ffff
 EndChar
 
@@ -127861,16 +127791,18 @@ EndChar
 StartChar: uniEA14
 Encoding: 59924 59924 1109
 Width: 0
-Flags: HW
+Flags: W
+HStem: 124 19<-116.91 -69.055> 236 22<-121.103 -70.4012> 275 22<-340.697 -319.055> 340 25<-208.957 -166.153> 433 21<-188.926 -164.338> 452 21G<-189 -187.5> 569 27<-240.681 -191.853>
+VStem: -399 33<319.971 431.735> -240 27<368.378 425.572> -189 32<489.582 567.57> -172 39<149.914 231.304> -159 29<369.597 429.643> -56 38<148.101 229.245> -38 34<272.899 367.072>
 LayerCount: 3
 Fore
 SplineSet
--399 375 m 0
+-399 375 m 0xfbc0
  -399 456 -268 596 -195 596 c 0
  -162 596 -157 578 -157 548 c 0
- -157 519 -189 452 -189 452 c 1
+ -157 519 -189 452 -189 452 c 1xf7c0
  -186 453 -181 454 -176 454 c 0
- -157 454 -130 445 -130 414 c 0
+ -157 454 -130 445 -130 414 c 0xfb90
  -130 409 -130 403 -132 397 c 0
  -142 360 -168 340 -201 340 c 0
  -226 340 -240 356 -240 380 c 0
@@ -127883,20 +127815,20 @@ SplineSet
  -322 294 -319 290 -319 285 c 0
  -319 280 -323 275 -332 275 c 0
  -333 275 -335 276 -337 276 c 0
- -377 284 -399 321 -399 375 c 0
--159 407 m 0
+ -377 284 -399 321 -399 375 c 0xfbc0
+-159 407 m 0xfb90
  -159 425 -174 433 -186 433 c 0
  -192 433 -197 431 -199 427 c 0
  -202 421 -207 411 -212 396 c 0
  -213 394 -213 392 -213 390 c 0
  -213 378 -202 365 -188 365 c 0
- -164 365 -159 391 -159 407 c 0
+ -164 365 -159 391 -159 407 c 0xfb90
 -39 414 m 1
  -36 414 l 2
  -32 414 -32 412 -29 407 c 0
  -19 388 -4 320 -4 283 c 0
  -4 278 -18 272 -28 272 c 0
- -33 272 -37 274 -38 277 c 0
+ -33 272 -37 274 -38 277 c 0xf384
  -48 301 -51 331 -53 350 c 0
  -54 361 -54 372 -58 369 c 0
  -90 350 -109 312 -132 278 c 0
@@ -127905,7 +127837,7 @@ SplineSet
 -100 124 m 0
  -136 124 -172 146 -172 187 c 0
  -172 227 -136 258 -87 258 c 0
- -56 258 -18 241 -18 192 c 0
+ -56 258 -18 241 -18 192 c 0xf3a8
  -18 153 -54 124 -100 124 c 0
 -95 236 m 0
  -121 236 -133 215 -133 192 c 0
@@ -127913,6 +127845,7 @@ SplineSet
  -67 143 -56 164 -56 187 c 0
  -56 211 -70 236 -95 236 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF24 u1CF27
 Colour: ffff00
 EndChar
 
@@ -134421,7 +134354,9 @@ EndChar
 StartChar: uniEB50
 Encoding: 60240 60240 1232
 Width: 1090
-Flags: HW
+Flags: W
+HStem: 0 21G<34.0417 42.5> 460 21G<807.105 828> 683 123<961.157 1026.36>
+VStem: 1006 23<297 352.324>
 LayerCount: 3
 Fore
 SplineSet
@@ -134480,59 +134415,12 @@ SplineSet
  977 683 942 660 906 633 c 1
  949 605 l 1
 EndSplineSet
-Colour: ffff
-EndChar
-
-StartChar: uniEB51
-Encoding: 60241 60241 1233
-Width: 755
-VWidth: 999
-Flags: W
-HStem: 557 126<625.898 694.284>
-LayerCount: 3
-Fore
-SplineSet
-24 97 m 1
- 30 115 42 131 60 144 c 0
- 78 157 95 166 110 170 c 2
- 133 177 l 1
- 123 53 l 1
- 100 45 89 42 60 24 c 0
- 39 11 23 -6 12 -29 c 1
- 24 97 l 1
-88 353 m 1
- 94 371 106 387 124 400 c 0
- 142 413 159 422 174 426 c 2
- 197 433 l 1
- 187 309 l 1
- 164 301 153 298 124 280 c 0
- 103 267 87 250 76 227 c 1
- 88 353 l 1
-667 683 m 0
- 680 683 694 672 712 651 c 0
- 729 631 738 614 738 600 c 0
- 738 599 738 599 738 598 c 1
- 723 480 l 1
- 717 509 701 533 675 553 c 0
- 672 556 667 557 662 557 c 0
- 646 557 619 543 580 514 c 0
- 541 485 496 446 445 396 c 0
- 394 346 339 288 278 222 c 0
- 217 156 184 117 178 106 c 1
- 189 213 l 1
- 197 229 226 267 274 326 c 0
- 322 385 369 436 414 481 c 1
- 435 691 l 1
- 458 699 l 1
- 438 504 l 1
- 471 535 515 572 568 616 c 0
- 621 660 654 683 667 683 c 0
-EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB5 u1CF3D
 Colour: ffff
 EndChar
 
 StartChar: uniEB52
-Encoding: 60242 60242 1234
+Encoding: 60242 60242 1233
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134540,7 +134428,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB53
-Encoding: 60243 60243 1235
+Encoding: 60243 60243 1234
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134548,7 +134436,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB54
-Encoding: 60244 60244 1236
+Encoding: 60244 60244 1235
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134556,7 +134444,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB55
-Encoding: 60245 60245 1237
+Encoding: 60245 60245 1236
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134564,7 +134452,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB56
-Encoding: 60246 60246 1238
+Encoding: 60246 60246 1237
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134572,7 +134460,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB57
-Encoding: 60247 60247 1239
+Encoding: 60247 60247 1238
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134580,7 +134468,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB58
-Encoding: 60248 60248 1240
+Encoding: 60248 60248 1239
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134588,7 +134476,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB59
-Encoding: 60249 60249 1241
+Encoding: 60249 60249 1240
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134596,7 +134484,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5A
-Encoding: 60250 60250 1242
+Encoding: 60250 60250 1241
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134604,7 +134492,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB5B
-Encoding: 60251 60251 1243
+Encoding: 60251 60251 1242
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134612,7 +134500,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEF5C
-Encoding: 61276 61276 1244
+Encoding: 61276 61276 1243
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134620,7 +134508,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF5D
-Encoding: 61277 61277 1245
+Encoding: 61277 61277 1244
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134628,7 +134516,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF5E
-Encoding: 61278 61278 1246
+Encoding: 61278 61278 1245
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134636,7 +134524,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF5F
-Encoding: 61279 61279 1247
+Encoding: 61279 61279 1246
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -134644,7 +134532,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEFE0
-Encoding: 61408 61408 1248
+Encoding: 61408 61408 1247
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134652,7 +134540,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF81
-Encoding: 61313 61313 1249
+Encoding: 61313 61313 1248
 Width: 360
 VWidth: 999
 Flags: W
@@ -134708,7 +134596,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFE2
-Encoding: 61410 61410 1250
+Encoding: 61410 61410 1249
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134716,7 +134604,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF83
-Encoding: 61315 61315 1251
+Encoding: 61315 61315 1250
 Width: 550
 VWidth: 999
 Flags: W
@@ -134786,7 +134674,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF65
-Encoding: 61285 61285 1252
+Encoding: 61285 61285 1251
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134794,7 +134682,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFE5
-Encoding: 61413 61413 1253
+Encoding: 61413 61413 1252
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134802,7 +134690,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF69
-Encoding: 61289 61289 1254
+Encoding: 61289 61289 1253
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134810,7 +134698,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFE7
-Encoding: 61415 61415 1255
+Encoding: 61415 61415 1254
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134818,7 +134706,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFE8
-Encoding: 61416 61416 1256
+Encoding: 61416 61416 1255
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134826,7 +134714,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFE9
-Encoding: 61417 61417 1257
+Encoding: 61417 61417 1256
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134834,7 +134722,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF6E
-Encoding: 61294 61294 1258
+Encoding: 61294 61294 1257
 Width: 650
 VWidth: 999
 Flags: W
@@ -134907,7 +134795,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF8B
-Encoding: 61323 61323 1259
+Encoding: 61323 61323 1258
 Width: 805
 VWidth: 999
 Flags: W
@@ -134990,7 +134878,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFEC
-Encoding: 61420 61420 1260
+Encoding: 61420 61420 1259
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -134998,7 +134886,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFED
-Encoding: 61421 61421 1261
+Encoding: 61421 61421 1260
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135006,7 +134894,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFEE
-Encoding: 61422 61422 1262
+Encoding: 61422 61422 1261
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -135014,7 +134902,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFEF
-Encoding: 61423 61423 1263
+Encoding: 61423 61423 1262
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -135022,7 +134910,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF90
-Encoding: 61328 61328 1264
+Encoding: 61328 61328 1263
 Width: 705
 VWidth: 999
 Flags: W
@@ -135087,7 +134975,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFB1
-Encoding: 61361 61361 1265
+Encoding: 61361 61361 1264
 Width: 790
 VWidth: 999
 Flags: HW
@@ -135162,7 +135050,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFF2
-Encoding: 61426 61426 1266
+Encoding: 61426 61426 1265
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135170,7 +135058,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFF3
-Encoding: 61427 61427 1267
+Encoding: 61427 61427 1266
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135178,7 +135066,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFB4
-Encoding: 61364 61364 1268
+Encoding: 61364 61364 1267
 Width: 790
 VWidth: 0
 Flags: W
@@ -135250,7 +135138,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF95
-Encoding: 61333 61333 1269
+Encoding: 61333 61333 1268
 Width: 1120
 VWidth: 999
 Flags: W
@@ -135334,7 +135222,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFF6
-Encoding: 61430 61430 1270
+Encoding: 61430 61430 1269
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135342,7 +135230,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFB7
-Encoding: 61367 61367 1271
+Encoding: 61367 61367 1270
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135350,7 +135238,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF98
-Encoding: 61336 61336 1272
+Encoding: 61336 61336 1271
 Width: 705
 VWidth: 0
 Flags: HW
@@ -135430,7 +135318,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFD9
-Encoding: 61401 61401 1273
+Encoding: 61401 61401 1272
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135438,7 +135326,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF7A
-Encoding: 61306 61306 1274
+Encoding: 61306 61306 1273
 Width: 850
 Flags: W
 HStem: 0 21G<32.0417 40.5> 145 196
@@ -135529,7 +135417,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFFB
-Encoding: 61435 61435 1275
+Encoding: 61435 61435 1274
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135537,7 +135425,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFFC
-Encoding: 61436 61436 1276
+Encoding: 61436 61436 1275
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135545,7 +135433,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFFD
-Encoding: 61437 61437 1277
+Encoding: 61437 61437 1276
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -135553,7 +135441,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFFE
-Encoding: 61438 61438 1278
+Encoding: 61438 61438 1277
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -135561,7 +135449,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFDF
-Encoding: 61407 61407 1279
+Encoding: 61407 61407 1278
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -135569,7 +135457,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEC04
-Encoding: 60420 60420 1280
+Encoding: 60420 60420 1279
 Width: 999
 Flags: HW
 LayerCount: 3
@@ -135608,7 +135496,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC05
-Encoding: 60421 60421 1281
+Encoding: 60421 60421 1280
 Width: 999
 Flags: HW
 LayerCount: 3
@@ -135663,7 +135551,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC06
-Encoding: 60422 60422 1282
+Encoding: 60422 60422 1281
 Width: 999
 Flags: HW
 LayerCount: 3
@@ -135707,7 +135595,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC07
-Encoding: 60423 60423 1283
+Encoding: 60423 60423 1282
 Width: 973
 Flags: HW
 LayerCount: 3
@@ -135765,7 +135653,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC08
-Encoding: 60424 60424 1284
+Encoding: 60424 60424 1283
 Width: 1103
 Flags: HW
 LayerCount: 3
@@ -135815,7 +135703,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC09
-Encoding: 60425 60425 1285
+Encoding: 60425 60425 1284
 Width: 1103
 Flags: HW
 LayerCount: 3
@@ -135885,7 +135773,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC0A
-Encoding: 60426 60426 1286
+Encoding: 60426 60426 1285
 Width: 1103
 Flags: HW
 LayerCount: 3
@@ -135962,7 +135850,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC0B
-Encoding: 60427 60427 1287
+Encoding: 60427 60427 1286
 Width: 1135
 Flags: HW
 LayerCount: 3
@@ -136011,7 +135899,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC0C
-Encoding: 60428 60428 1288
+Encoding: 60428 60428 1287
 Width: 1135
 Flags: HW
 LayerCount: 3
@@ -136065,7 +135953,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC0D
-Encoding: 60429 60429 1289
+Encoding: 60429 60429 1288
 Width: 1135
 Flags: HW
 LayerCount: 3
@@ -136130,7 +136018,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC0E
-Encoding: 60430 60430 1290
+Encoding: 60430 60430 1289
 Width: 1239
 Flags: HW
 LayerCount: 3
@@ -136202,7 +136090,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC0F
-Encoding: 60431 60431 1291
+Encoding: 60431 60431 1290
 Width: 1259
 Flags: HW
 LayerCount: 3
@@ -136272,7 +136160,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC10
-Encoding: 60432 60432 1292
+Encoding: 60432 60432 1291
 Width: 1259
 Flags: HW
 LayerCount: 3
@@ -136345,7 +136233,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC12
-Encoding: 60434 60434 1293
+Encoding: 60434 60434 1292
 Width: 400
 Flags: HW
 LayerCount: 3
@@ -136375,7 +136263,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC17
-Encoding: 60439 60439 1294
+Encoding: 60439 60439 1293
 Width: 500
 Flags: HW
 LayerCount: 3
@@ -136416,7 +136304,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC18
-Encoding: 60440 60440 1295
+Encoding: 60440 60440 1294
 Width: 665
 Flags: HW
 LayerCount: 3
@@ -136467,7 +136355,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC19
-Encoding: 60441 60441 1296
+Encoding: 60441 60441 1295
 Width: 850
 Flags: HW
 LayerCount: 3
@@ -136534,7 +136422,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC1A
-Encoding: 60442 60442 1297
+Encoding: 60442 60442 1296
 Width: 645
 Flags: HW
 LayerCount: 3
@@ -136581,7 +136469,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC1B
-Encoding: 60443 60443 1298
+Encoding: 60443 60443 1297
 Width: 690
 Flags: HW
 LayerCount: 3
@@ -136628,7 +136516,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC1C
-Encoding: 60444 60444 1299
+Encoding: 60444 60444 1298
 Width: 270
 Flags: HW
 LayerCount: 3
@@ -136659,7 +136547,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC1D
-Encoding: 60445 60445 1300
+Encoding: 60445 60445 1299
 Width: 445
 Flags: HW
 LayerCount: 3
@@ -136700,7 +136588,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC1E
-Encoding: 60446 60446 1301
+Encoding: 60446 60446 1300
 Width: 425
 Flags: HW
 LayerCount: 3
@@ -136737,7 +136625,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC1F
-Encoding: 60447 60447 1302
+Encoding: 60447 60447 1301
 Width: 475
 Flags: HW
 LayerCount: 3
@@ -136774,7 +136662,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC20
-Encoding: 60448 60448 1303
+Encoding: 60448 60448 1302
 Width: 762
 Flags: HW
 LayerCount: 3
@@ -136823,7 +136711,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC21
-Encoding: 60449 60449 1304
+Encoding: 60449 60449 1303
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -136831,7 +136719,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC22
-Encoding: 60450 60450 1305
+Encoding: 60450 60450 1304
 Width: 695
 Flags: HW
 LayerCount: 3
@@ -136876,7 +136764,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC23
-Encoding: 60451 60451 1306
+Encoding: 60451 60451 1305
 Width: 902
 Flags: HW
 LayerCount: 3
@@ -136926,7 +136814,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC24
-Encoding: 60452 60452 1307
+Encoding: 60452 60452 1306
 Width: 934
 Flags: HW
 LayerCount: 3
@@ -136986,7 +136874,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC25
-Encoding: 60453 60453 1308
+Encoding: 60453 60453 1307
 Width: 899
 Flags: HW
 LayerCount: 3
@@ -137047,7 +136935,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC26
-Encoding: 60454 60454 1309
+Encoding: 60454 60454 1308
 Width: 1065
 Flags: W
 HStem: 259 104<107.162 189.023>
@@ -137122,7 +137010,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC27
-Encoding: 60455 60455 1310
+Encoding: 60455 60455 1309
 Width: 1070
 Flags: HW
 LayerCount: 3
@@ -137183,7 +137071,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC28
-Encoding: 60456 60456 1311
+Encoding: 60456 60456 1310
 Width: 321
 VWidth: 750
 Flags: HW
@@ -137223,7 +137111,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC29
-Encoding: 60457 60457 1312
+Encoding: 60457 60457 1311
 Width: 322
 VWidth: 750
 Flags: W
@@ -137283,7 +137171,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC2A
-Encoding: 60458 60458 1313
+Encoding: 60458 60458 1312
 Width: 321
 VWidth: 750
 Flags: W
@@ -137342,7 +137230,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC2B
-Encoding: 60459 60459 1314
+Encoding: 60459 60459 1313
 Width: 603
 VWidth: 750
 Flags: W
@@ -137426,7 +137314,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC2C
-Encoding: 60460 60460 1315
+Encoding: 60460 60460 1314
 Width: 651
 VWidth: 750
 Flags: W
@@ -137499,7 +137387,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC2D
-Encoding: 60461 60461 1316
+Encoding: 60461 60461 1315
 Width: 705
 Flags: HW
 LayerCount: 3
@@ -137542,7 +137430,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC2E
-Encoding: 60462 60462 1317
+Encoding: 60462 60462 1316
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137550,7 +137438,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEC2F
-Encoding: 60463 60463 1318
+Encoding: 60463 60463 1317
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137558,7 +137446,7 @@ Colour: ff00
 EndChar
 
 StartChar: uniEF51
-Encoding: 61265 61265 1319
+Encoding: 61265 61265 1318
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137566,7 +137454,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF52
-Encoding: 61266 61266 1320
+Encoding: 61266 61266 1319
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137574,7 +137462,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF53
-Encoding: 61267 61267 1321
+Encoding: 61267 61267 1320
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137582,7 +137470,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF54
-Encoding: 61268 61268 1322
+Encoding: 61268 61268 1321
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137590,7 +137478,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF55
-Encoding: 61269 61269 1323
+Encoding: 61269 61269 1322
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137598,7 +137486,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF56
-Encoding: 61270 61270 1324
+Encoding: 61270 61270 1323
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137606,7 +137494,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF58
-Encoding: 61272 61272 1325
+Encoding: 61272 61272 1324
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137614,7 +137502,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF59
-Encoding: 61273 61273 1326
+Encoding: 61273 61273 1325
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137622,7 +137510,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF5A
-Encoding: 61274 61274 1327
+Encoding: 61274 61274 1326
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137630,7 +137518,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEF5B
-Encoding: 61275 61275 1328
+Encoding: 61275 61275 1327
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137638,7 +137526,7 @@ Colour: ffffff
 EndChar
 
 StartChar: uniEA18
-Encoding: 59928 59928 1329
+Encoding: 59928 59928 1328
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137646,7 +137534,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEA19
-Encoding: 59929 59929 1330
+Encoding: 59929 59929 1329
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137654,7 +137542,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEA1A
-Encoding: 59930 59930 1331
+Encoding: 59930 59930 1330
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137662,7 +137550,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEA1B
-Encoding: 59931 59931 1332
+Encoding: 59931 59931 1331
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137670,7 +137558,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEA0F
-Encoding: 59919 59919 1333
+Encoding: 59919 59919 1332
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137678,7 +137566,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniEC40
-Encoding: 60480 60480 1334
+Encoding: 60480 60480 1333
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137686,7 +137574,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC41
-Encoding: 60481 60481 1335
+Encoding: 60481 60481 1334
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137694,7 +137582,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC42
-Encoding: 60482 60482 1336
+Encoding: 60482 60482 1335
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137702,7 +137590,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC43
-Encoding: 60483 60483 1337
+Encoding: 60483 60483 1336
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137710,7 +137598,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC44
-Encoding: 60484 60484 1338
+Encoding: 60484 60484 1337
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137718,7 +137606,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC4C
-Encoding: 60492 60492 1339
+Encoding: 60492 60492 1338
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137726,7 +137614,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC4D
-Encoding: 60493 60493 1340
+Encoding: 60493 60493 1339
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137734,7 +137622,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC4E
-Encoding: 60494 60494 1341
+Encoding: 60494 60494 1340
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137742,7 +137630,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC4F
-Encoding: 60495 60495 1342
+Encoding: 60495 60495 1341
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137750,7 +137638,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC51
-Encoding: 60497 60497 1343
+Encoding: 60497 60497 1342
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137758,7 +137646,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC52
-Encoding: 60498 60498 1344
+Encoding: 60498 60498 1343
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137766,7 +137654,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC53
-Encoding: 60499 60499 1345
+Encoding: 60499 60499 1344
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137774,7 +137662,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC54
-Encoding: 60500 60500 1346
+Encoding: 60500 60500 1345
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137782,7 +137670,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC55
-Encoding: 60501 60501 1347
+Encoding: 60501 60501 1346
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137790,7 +137678,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC56
-Encoding: 60502 60502 1348
+Encoding: 60502 60502 1347
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137798,7 +137686,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC57
-Encoding: 60503 60503 1349
+Encoding: 60503 60503 1348
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137806,7 +137694,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC58
-Encoding: 60504 60504 1350
+Encoding: 60504 60504 1349
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137814,7 +137702,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC59
-Encoding: 60505 60505 1351
+Encoding: 60505 60505 1350
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137822,7 +137710,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC5A
-Encoding: 60506 60506 1352
+Encoding: 60506 60506 1351
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137830,7 +137718,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC5B
-Encoding: 60507 60507 1353
+Encoding: 60507 60507 1352
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137838,7 +137726,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC5C
-Encoding: 60508 60508 1354
+Encoding: 60508 60508 1353
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137846,7 +137734,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC5D
-Encoding: 60509 60509 1355
+Encoding: 60509 60509 1354
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137854,7 +137742,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC5E
-Encoding: 60510 60510 1356
+Encoding: 60510 60510 1355
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137862,7 +137750,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC5F
-Encoding: 60511 60511 1357
+Encoding: 60511 60511 1356
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137870,7 +137758,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC30
-Encoding: 60464 60464 1358
+Encoding: 60464 60464 1357
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137878,7 +137766,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC31
-Encoding: 60465 60465 1359
+Encoding: 60465 60465 1358
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137886,7 +137774,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC32
-Encoding: 60466 60466 1360
+Encoding: 60466 60466 1359
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137894,7 +137782,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC33
-Encoding: 60467 60467 1361
+Encoding: 60467 60467 1360
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137902,7 +137790,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC34
-Encoding: 60468 60468 1362
+Encoding: 60468 60468 1361
 Width: 1000
 VWidth: 750
 Flags: H
@@ -137911,7 +137799,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC35
-Encoding: 60469 60469 1363
+Encoding: 60469 60469 1362
 Width: 1000
 VWidth: 750
 Flags: H
@@ -137920,7 +137808,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC36
-Encoding: 60470 60470 1364
+Encoding: 60470 60470 1363
 Width: 1000
 VWidth: 750
 Flags: H
@@ -137929,7 +137817,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC37
-Encoding: 60471 60471 1365
+Encoding: 60471 60471 1364
 Width: 1000
 VWidth: 750
 Flags: H
@@ -137938,7 +137826,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC38
-Encoding: 60472 60472 1366
+Encoding: 60472 60472 1365
 Width: 1000
 VWidth: 750
 Flags: H
@@ -137947,7 +137835,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC39
-Encoding: 60473 60473 1367
+Encoding: 60473 60473 1366
 Width: 1000
 Flags: H
 LayerCount: 3
@@ -137955,7 +137843,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC3A
-Encoding: 60474 60474 1368
+Encoding: 60474 60474 1367
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137963,7 +137851,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC3B
-Encoding: 60475 60475 1369
+Encoding: 60475 60475 1368
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137971,7 +137859,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC3C
-Encoding: 60476 60476 1370
+Encoding: 60476 60476 1369
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137979,7 +137867,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC3D
-Encoding: 60477 60477 1371
+Encoding: 60477 60477 1370
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137987,7 +137875,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC3E
-Encoding: 60478 60478 1372
+Encoding: 60478 60478 1371
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -137995,7 +137883,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEC3F
-Encoding: 60479 60479 1373
+Encoding: 60479 60479 1372
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -138003,7 +137891,7 @@ Colour: ff0000
 EndChar
 
 StartChar: uniEF63
-Encoding: 61283 61283 1374
+Encoding: 61283 61283 1373
 Width: 625
 VWidth: 999
 Flags: W
@@ -138074,7 +137962,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF72
-Encoding: 61298 61298 1375
+Encoding: 61298 61298 1374
 Width: 400
 Flags: HW
 AnchorPoint: "Oblachko" 103 537 basechar 0
@@ -138123,7 +138011,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEF75
-Encoding: 61301 61301 1376
+Encoding: 61301 61301 1375
 Width: 665
 VWidth: 0
 Flags: HW
@@ -138209,7 +138097,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEA8F
-Encoding: 60047 60047 1377
+Encoding: 60047 60047 1376
 Width: 1000
 VWidth: 0
 LayerCount: 3
@@ -138217,7 +138105,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAA0
-Encoding: 60064 60064 1378
+Encoding: 60064 60064 1377
 Width: 360
 Flags: W
 HStem: 9 196 255 104<91.4019 174.778>
@@ -138259,11 +138147,12 @@ SplineSet
  195.829 9.01465 195 9 194 8 c 0
  187 -3 181 -1 176 12 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF33
 Colour: ffff
 EndChar
 
 StartChar: uniEAA1
-Encoding: 60065 60065 1379
+Encoding: 60065 60065 1378
 Width: 475
 VWidth: 0
 Flags: HW
@@ -138297,7 +138186,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEAB7
-Encoding: 60087 60087 1380
+Encoding: 60087 60087 1379
 Width: 705
 VWidth: 0
 Flags: W
@@ -138357,11 +138246,12 @@ SplineSet
  443 532 l 1
  513 592 584 646 600 646 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF67 u1CF3F
 Colour: ffff
 EndChar
 
 StartChar: uni2713
-Encoding: 10003 10003 1381
+Encoding: 10003 10003 1380
 Width: 736
 Flags: HW
 LayerCount: 3
@@ -138403,6 +138293,14 @@ SplineSet
  445 523 475 563 509 603 c 0
  543 643 580 684 622 724 c 1
 EndSplineSet
+EndChar
+
+StartChar: uniEB51
+Encoding: 60241 60241 1381
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
