@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1537024253
+ModificationTime: 1537121089
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -951,12 +951,13 @@ EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60129 27 5
+WinInfo: 513 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -12938,7 +12939,7 @@ Flags: W
 LayerCount: 3
 EndChar
 
-StartChar: afii301
+StartChar: uni200D
 Encoding: 8205 8205 67
 Width: 817
 VWidth: 2048
@@ -58904,6 +58905,8 @@ SplineSet
  -465 573 -458 649 -439 690 c 0
  -421 730 -390 762 -352 768 c 0
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE50 uniEE58
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF30 u1CF39
 LCarets2: 1 0
 Colour: ff00
 EndChar
@@ -59123,6 +59126,8 @@ SplineSet
  -427 644 -420 720 -401 761 c 0
  -383 801 -352 833 -314 839 c 0
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE51 uniEE58
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF31 u1CF39
 LCarets2: 1 0
 Colour: ff00
 EndChar
@@ -59429,6 +59434,8 @@ SplineSet
  -395 696 -388 772 -369 813 c 0
  -351 853 -320 885 -282 891 c 0
 EndSplineSet
+Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE52 uniEE58
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF32 u1CF39
 LCarets2: 1 0
 Colour: ff00
 EndChar
@@ -82559,6 +82566,8 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF56 uniEA9C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC12 u1CF3C
 Colour: ff00
 EndChar
 
@@ -82595,6 +82604,7 @@ SplineSet
  275 306 l 1
  287 425 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF80
 Colour: ff00
 EndChar
 
@@ -82676,6 +82686,7 @@ SplineSet
  237 317 l 1
  249 444 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF81
 Colour: ff00
 EndChar
 
@@ -85154,6 +85165,7 @@ SplineSet
  671 613 703 571 703 548 c 0
  703 547 703 547 703 546 c 2
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF50
 Colour: ff00
 EndChar
 
@@ -135492,6 +135504,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF50
 Colour: ff00
 EndChar
 
@@ -135547,6 +135560,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC04 u1CF3A
 Colour: ff00
 EndChar
 
@@ -135591,6 +135605,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC04 u1CF30
 Colour: ff00
 EndChar
 
@@ -135649,6 +135664,8 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEC06 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEC05 u1CF30
 Colour: ff00
 EndChar
 
@@ -135699,6 +135716,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CFA9
 Colour: ff00
 EndChar
 
@@ -135769,6 +135787,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CFAA
 Colour: ff00
 EndChar
 
@@ -135895,6 +135914,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF50 u1CF30
 Colour: ff00
 EndChar
 
@@ -135949,6 +135969,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF54
 Colour: ff00
 EndChar
 
@@ -136014,6 +136035,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF39 u1CF54
 Colour: ff00
 EndChar
 
@@ -136086,6 +136108,7 @@ SplineSet
  751 710 751 671 751 594 c 4
  751 555 743 522 738 496 c 4
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CFAA
 Colour: ff00
 EndChar
 
@@ -136156,6 +136179,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC0E u1CF30
 Colour: ff00
 EndChar
 
@@ -136259,6 +136283,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF5C
 Colour: ff00
 EndChar
 
@@ -136300,6 +136325,7 @@ SplineSet
  237 102 244 196 244 197 c 0
  251 256 273 285 308 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5B u1CF5C
 Colour: ff00
 EndChar
 
@@ -136351,6 +136377,8 @@ SplineSet
  237 102 244 196 244 197 c 0
  251 256 273 285 308 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF5B uniEA9C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC17 u1CF3C
 Colour: ff00
 EndChar
 
@@ -136418,6 +136446,7 @@ SplineSet
  417 102 424 196 424 197 c 0
  431 256 453 285 488 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 3-1" u1CF88 uniEC18
 Colour: ff00
 EndChar
 
@@ -136465,6 +136494,7 @@ SplineSet
  237 102 244 196 244 197 c 0
  251 256 273 285 308 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5B u1CF80
 Colour: ff00
 EndChar
 
@@ -136543,6 +136573,7 @@ SplineSet
  22 102 29 196 29 197 c 0
  36 256 58 285 93 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF5C
 Colour: ff00
 EndChar
 
@@ -136584,6 +136615,8 @@ SplineSet
  22 102 29 196 29 197 c 0
  36 256 58 285 93 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF5D uniEA9C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC1C u1CF3C
 Colour: ff00
 EndChar
 
@@ -136621,6 +136654,7 @@ SplineSet
  22 102 29 196 29 197 c 0
  36 256 58 285 93 285 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF80
 Colour: ff00
 EndChar
 
@@ -136707,6 +136741,7 @@ SplineSet
  26.4844 -53 30.4844 -35 30.4844 -22 c 0
  30.4844 88 41.4844 304 133.483 304 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF5D uniEC13
 Colour: ff00
 EndChar
 
@@ -136760,6 +136795,7 @@ SplineSet
  26.4844 -53 30.4844 -35 30.4844 -22 c 0
  30.4844 88 41.4844 304 133.483 304 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF58
 Colour: ff00
 EndChar
 
@@ -136810,6 +136846,7 @@ SplineSet
  30 -14 l 2
  30 124 44 363 159 363 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF73
 Colour: ff00
 EndChar
 
@@ -136870,6 +136907,8 @@ SplineSet
  30 -14 l 2
  30 124 44 363 159 363 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF60 uniEACA
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC23 u1CF3F
 Colour: ff00
 EndChar
 
@@ -137006,6 +137045,7 @@ SplineSet
  30 -14 l 2
  30 124 44 363 159 363 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CFAA
 Colour: ff00
 EndChar
 
@@ -137067,6 +137107,7 @@ SplineSet
  947.103 635.436 l 1
  913 310 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF56
 Colour: ff00
 EndChar
 
@@ -137107,6 +137148,7 @@ SplineSet
  282 135 388 268 477 358 c 0
  555 437 721 576 747 576 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF76
 Colour: ff00
 EndChar
 
@@ -137167,6 +137209,7 @@ SplineSet
  75 194 78 192 80 190 c 0
  102 170 111 153 126 117 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7E uni200D u1CF82
 Colour: ff00
 EndChar
 
@@ -137226,6 +137269,7 @@ SplineSet
  156 204 172 206 184 206 c 0
  191 206 196 205 196 199 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF82 uni200D u1CF7E
 Colour: ff00
 EndChar
 
@@ -137310,6 +137354,7 @@ SplineSet
  157 196 159 194 162 192 c 0
  184 172 193 155 208 119 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF7E uni200D uniEB0D
 Colour: ff00
 EndChar
 
@@ -137383,6 +137428,7 @@ SplineSet
  263 130 270 118 284 97 c 1
  288 114 293 151 300 208 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF84 uni200D u1CF53
 Colour: ff00
 EndChar
 
@@ -137426,6 +137472,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF88 u1CF58
 Colour: ff00
 EndChar
 
