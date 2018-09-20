@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1537380811
+ModificationTime: 1537456168
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -959,7 +959,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 270 27 9
+WinInfo: 405 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -48583,6 +48583,8 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB85 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB84 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50616,6 +50618,7 @@ SplineSet
  14 30 18 59 25 94 c 4
  36 150 57 178 88 178 c 4xd480
 EndSplineSet
+Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF41
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -50938,7 +50941,6 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xd480
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF41
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -67556,6 +67558,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
+Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF41
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -67682,7 +67685,6 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 4
  175.5 39.5 183 117 182 190 c 4
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF41
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -68006,6 +68008,8 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xd480
 EndSplineSet
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB8F u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB8E u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -70156,6 +70160,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF41
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -70286,6 +70291,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -85066,6 +85072,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB87 u1CF43
 LCarets2: 1 0
 Colour: fff24a
 EndChar
@@ -128075,6 +128082,8 @@ SplineSet
  65 214 28 169 16 145 c 5
  28 271 l 6
 EndSplineSet
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBA7 u1CF40
+Ligature2: "Znamenny Priznakification-1" u1CF82 u1CF40 u1CF41
 Colour: fff24a
 EndChar
 
@@ -128124,6 +128133,7 @@ SplineSet
  65 214 28 169 16 145 c 1
  28 271 l 2
 EndSplineSet
+Ligature2: "Znamenny Priznakification-1" u1CF82 u1CF40 u1CF42
 Ligature2: "Znamenny Priznakification-1" u1CF82 u1CF42
 Colour: fff24a
 EndChar
@@ -128176,6 +128186,7 @@ SplineSet
  176.5 442.602 l 5
  198.5 450.602 l 5
 EndSplineSet
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBA9 u1CF40
 Colour: fff24a
 EndChar
 
@@ -128222,7 +128233,6 @@ SplineSet
  64 6 55 37 60 96 c 0
  63.7236 135.565 75.9912 213.732 75.9912 213.732 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF83 u1CF41
 Colour: fff24a
 EndChar
 
@@ -128272,7 +128282,6 @@ SplineSet
  64 6 55 37 60 96 c 0
  63.7236 135.565 75.9912 213.732 75.9912 213.732 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF83 u1CF42
 Colour: fff24a
 EndChar
 
