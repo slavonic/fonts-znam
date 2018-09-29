@@ -38,6 +38,11 @@ MezenetsUnicode-web.zip:
 	zip -j $@ MezenetsUnicode.otf MezenetsUnicode.ttf MezenetsUnicode.eot MezenetsUnicode.woff MezenetsUnicode.woff2 README ../css/fonts.css
 	rm -f README
 
+test:
+	(cd tests; xelatex --interaction=nonstopmode gsub.tex)
+	(cd tests; xelatex --interaction=nonstopmode gsub.tex)
+	(cd tests; convert -density 200 -limit memory 512MiB gsub.pdf baseline/%0d.png)
+
 clean:
 	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt
-
+	rm -f tests/*.aux tests/*.log tests/*.pdf
