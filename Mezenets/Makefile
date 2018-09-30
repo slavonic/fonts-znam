@@ -38,11 +38,24 @@ MezenetsUnicode-web.zip:
 	zip -j $@ MezenetsUnicode.otf MezenetsUnicode.ttf MezenetsUnicode.eot MezenetsUnicode.woff MezenetsUnicode.woff2 README ../css/fonts.css
 	rm -f README
 
-test:
-	(cd tests; xelatex --interaction=nonstopmode gsub.tex)
-	(cd tests; xelatex --interaction=nonstopmode gsub.tex)
-	(cd tests; convert -density 200 -limit memory 512MiB gsub.pdf baseline/%0d.png)
+baseline:
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="baseline/%d.png" gsub.pdf; cd ..;)
+
+test: test-result.pdf
+
+test-result.pdf:
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; cd ..;)
+	mkdir -p tests/result
+	$(foreach f, $(wildcard tests/*.png), compare $(f) $(subst tests, tests/baseline, $(f)) -compose src $(subst tests, tests/result, $(f)); echo 'Done';)
+	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
+	rm -fr tests/result
+	rm -f tests/*.png
 
 clean:
 	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt
+	rm -fr tests/result
 	rm -f tests/*.aux tests/*.log tests/*.pdf
