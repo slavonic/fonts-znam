@@ -961,7 +961,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 837 27 9
+WinInfo: 486 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -100691,10 +100691,9 @@ SplineSet
  196 394 175 366 144 366 c 0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9F u1CF3A
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF82
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9C u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF3F
 Colour: ffff
 EndChar
 
@@ -131729,8 +131728,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Post-composition Priznakification-1" uniEAD0 u1CF44
 Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3D
+Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF44
 Colour: ffff00
 EndChar
 
@@ -136897,6 +136896,7 @@ SplineSet
  206.612 79.0399 226.452 60.5845 235.513 51.2188 c 0
 EndSplineSet
 Validated: 3105
+LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF45
 Colour: ffff00
 EndChar
@@ -137254,9 +137254,8 @@ SplineSet
  716 684 696 644 662 644 c 0
 EndSplineSet
 Validated: 3109
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEC06 u1CF3A
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEC05 u1CF30
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB1 u1CF3A u1CF30
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB1 u1CF30 u1CF3A
 Colour: ff00
 EndChar
 
