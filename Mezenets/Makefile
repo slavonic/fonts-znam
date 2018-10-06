@@ -48,8 +48,8 @@ test: test-result.pdf
 test-result.pdf:
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; cd ..;)
-	mkdir tests/result
+	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; mkdir result; cd ..;)
+
 	$(foreach f, $(wildcard tests/*.png), compare $(f) $(subst tests, tests/baseline, $(f)) -compose src $(subst tests, tests/result, $(f)); echo 'Done';)
 	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
 	rm -fr tests/result
