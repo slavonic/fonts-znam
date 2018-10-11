@@ -64,13 +64,13 @@ MarkAttachClasses: 1
 DEI: 91125
 ContextPos2: class "'kern' Horizontal Kerning with Shaidur Marks-1" 4 4 4 2
   Class: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  Class: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA74 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   Class: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
   BClass: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  BClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  BClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA74 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   BClass: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
   FClass: 183 uniEE00 uniEE01 uniEE02 uniEE03 uniEE04 uniEE05 uniEE06 uniEE07 uniEE08 uniEE09 uniEE0A uniEE0B uniEE0C uniEE0D uniEE0E uniEE10 uniEE11 uniEE12 uniEE13 uniEE14 uniEE15 uniEE16 uniEE17
-  FClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA71 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
+  FClass: 1751 uni25CC uniEE75EE5A uniEA61 uniEE78EE5A uniEA9B uniEE7AEE53 uniEE7EEE5A uniEE87EE53 uniEE87EE55 uniEA68 uniEAF9 uniEE87EE8D uniEE8FEE50 uniEE8FEE51 uniEE8FEE50EE58 uniEE8FEE51EE58 uniEE90EE50 uniEE93EE50 uniEA74 uniEE93EE50EE55 uniEE98EE50 uniEB66 uniEA81 uniEA82 uniEA83 uniEB6A uniEA85 uniEA86 uniEA87 uniEA88 uniEA89 uniEB70 uniEA8B uniEA8C uniEA8D uniEB74 uniEC03 uniEB76 uniEA91 uniEA92 uniEA93 uniEA94 uniEA95 uniEA96 uniEA97 uniEA98 uniEA99 uniEA9A uniEA9B uniEA9C uniEA9D uniEAA0 uniEAA1 uniEB86 uniEAA5 uniEAA7 uniEAA8 uniEAA3 uniEAA9 uniEAAB uniEAAC uniEAAD uniEAAE uniEAB3 uniEB8A uniEAB5 uniEAB6 uniEC11 uniEAB9 uniEABA uniEABB uniEABC uniEABD uniEAC0 uniEAC1 uniEAC2 uniEB91 uniEAC5 uniEAC6 uniEAC7 uniEAC8 uniEACA uniEACB uniEB94 uniEACE uniEB96 uniEAD0 uniEAD1 uniEAD2 uniEAD3 uniEAD4 uniEB9E uniEAD8 uniEAD9 uniEADA uniEBA2 uniEADC uniEADD uniEADE uniEBA6 uniEAE0 uniEAE1 uniEBAF uniEAE3 uniEAE5 uniEBB2 uniEAE7 uniEAE8 uniEAE9 uniEBB0 uniEAEB uniEAEC uniEBB3 uniEAEE uniEAEF uniEBB6 uniEAF2 uniEBC6 uniEAF4 uniEBC8 uniEAF6 uniEAF8 uniEA6A uniEBB9 uniEAFB uniEBBB uniEAFE uniEAFF uniEB00 uniEB01 uniEB03 uniEB04 uniEB05 uniEB06 uniEBC4 uniEB08 uniEB09 uniEBCE uniEBD4 uniEB0D uniEB0E uniEB0F uniEBD8 uniEB11 uniEBDA uniEB14 uniEB15 uniEB17 uniEB18 uniEB19 uniEBE7 uniEBEB uniEB1E uniEBEF uniEE70 uniEE71 uniEE72 uniEE73 uniEE74 uniEE75 uniEE76 uniEE77 uniEE78 uniEE79 uniEE7A uniEE7B uniEE7C uniEE7D uniEE7E uniEE7F uniEE80 uniEE81 uniEE82 uniEE83 uniEE84 uniEE85 uniEE86 uniEE87 uniEE88 uniEE89 uniEE8A uniEE8B uniEE8C uniEE8D uniEE8E uniEE8F uniEE90 uniEE91 uniEE92 uniEE93 uniEE94 uniEE98 uniEE9A uniEE9B uniEE9C uniEE9D uniEE9E uniEE9F uniEEA0 uniEEA1 uniEEA2 uniEEA3 uniEEA4 uniEEA5 uniEEAA uniEEAB uniEEAC uniEEAD uniEEAE uniEEAF
   FClass: 95 uniEE50 uniEE51 uniEE52 uniEE53 uniEE54 uniEE55 uniEE56 uniEE57 uniEE58 uniEE59 uniEE5A uniEE5B
  2 0 0
   ClsList: 2 1
@@ -960,7 +960,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60237 27 9
+WinInfo: 60075 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -88990,8 +88990,8 @@ Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF42
 Colour: fff24a
 EndChar
 
-StartChar: uniEB28
-Encoding: 60200 60200 555
+StartChar: uniEB2B
+Encoding: 60203 60203 555
 Width: 790
 VWidth: 999
 Flags: W
@@ -89065,10 +89065,9 @@ SplineSet
  286 415.98 l 1
 EndSplineSet
 Validated: 3073
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB2C
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB25 u1CF30
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB29 u1CF3F
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB2C
 Colour: ffff
 EndChar
 
@@ -89151,8 +89150,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF77 u1CF3F
 Colour: ffff
 EndChar
 
-StartChar: uniEB29
-Encoding: 60201 60201 557
+StartChar: uniEB2C
+Encoding: 60204 60204 557
 Width: 990
 VWidth: 999
 Flags: W
@@ -90253,8 +90252,8 @@ Validated: 3105
 Colour: ffff
 EndChar
 
-StartChar: uniEB27
-Encoding: 60199 60199 562
+StartChar: uniEB2A
+Encoding: 60202 60202 562
 Width: 790
 VWidth: 999
 Flags: W
@@ -90320,10 +90319,9 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3077
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB2B
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB24 u1CF30
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB29 u1CF3D
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB2B
 Colour: ffff
 EndChar
 
@@ -90796,8 +90794,8 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC9 u1CF30
 Colour: ffff
 EndChar
 
-StartChar: uniEB2B
-Encoding: 60203 60203 569
+StartChar: uniEB27
+Encoding: 60199 60199 569
 Width: 790
 VWidth: 999
 Flags: W
@@ -90990,8 +90988,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7B u1CF30
 Colour: ffff
 EndChar
 
-StartChar: uniEB2A
-Encoding: 60202 60202 572
+StartChar: uniEB26
+Encoding: 60198 60198 572
 Width: 790
 VWidth: 999
 Flags: W
@@ -91058,8 +91056,8 @@ Validated: 3073
 Colour: ffff
 EndChar
 
-StartChar: uniEB2C
-Encoding: 60204 60204 573
+StartChar: uniEB28
+Encoding: 60200 60200 573
 Width: 810
 VWidth: 999
 Flags: W
@@ -97433,8 +97431,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3F
 Colour: ffff
 EndChar
 
-StartChar: uniEB26
-Encoding: 60198 60198 614
+StartChar: uniEB29
+Encoding: 60201 60201 614
 Width: 790
 VWidth: 999
 Flags: W
@@ -97498,9 +97496,8 @@ SplineSet
  286 415.98 l 1
 EndSplineSet
 Validated: 3073
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB2A
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9D u1CF30
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB2A
 Colour: ffff
 EndChar
 
@@ -126003,8 +126000,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF3F
 Colour: ffff
 EndChar
 
-StartChar: uniEA70
-Encoding: 60016 60016 1019
+StartChar: uniEA73
+Encoding: 60019 60019 1019
 Width: 625
 VWidth: 0
 Flags: W
@@ -126046,14 +126043,13 @@ SplineSet
  125 416 l 1
 EndSplineSet
 Validated: 3105
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA73
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF30
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA73
 Colour: ffff
 EndChar
 
-StartChar: uniEA71
-Encoding: 60017 60017 1020
+StartChar: uniEA74
+Encoding: 60020 60020 1020
 Width: 625
 VWidth: 0
 Flags: W
@@ -126097,15 +126093,14 @@ SplineSet
  125 416 l 1
 EndSplineSet
 Validated: 3105
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA74
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA70 u1CF3D
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6C u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA73 u1CF3D
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA74
 Colour: ffff
 EndChar
 
-StartChar: uniEA72
-Encoding: 60018 60018 1021
+StartChar: uniEA75
+Encoding: 60021 60021 1021
 Width: 650
 VWidth: 0
 Flags: W
@@ -126156,15 +126151,14 @@ SplineSet
  125 416 l 1
 EndSplineSet
 Validated: 3105
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA75
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA70 u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA73 u1CF3F
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA75
 Colour: ffff
 EndChar
 
-StartChar: uniEA73
-Encoding: 60019 60019 1022
+StartChar: uniEA70
+Encoding: 60016 60016 1022
 Width: 625
 VWidth: 0
 Flags: W
@@ -126209,8 +126203,8 @@ Validated: 3105
 Colour: ffff
 EndChar
 
-StartChar: uniEA74
-Encoding: 60020 60020 1023
+StartChar: uniEA71
+Encoding: 60017 60017 1023
 Width: 625
 VWidth: 0
 Flags: W
@@ -126257,8 +126251,8 @@ Validated: 3105
 Colour: ffff
 EndChar
 
-StartChar: uniEA75
-Encoding: 60021 60021 1024
+StartChar: uniEA72
+Encoding: 60018 60018 1024
 Width: 650
 VWidth: 0
 Flags: W
@@ -126804,8 +126798,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9D u1CF3D
 Colour: ffff
 EndChar
 
-StartChar: uniEB30
-Encoding: 60208 60208 1035
+StartChar: uniEB31
+Encoding: 60209 60209 1035
 Width: 790
 Flags: W
 HStem: 0 21G<196.869 198 442.89 446.5> 451 125<644.474 710.206>
@@ -126881,14 +126875,13 @@ SplineSet
  568 72 543 66 514 53 c 1
 EndSplineSet
 Validated: 3073
-AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB31
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9E u1CF30
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB31
 Colour: ffff
 EndChar
 
-StartChar: uniEB31
-Encoding: 60209 60209 1036
+StartChar: uniEB30
+Encoding: 60208 60208 1036
 Width: 790
 Flags: W
 HStem: 0 21G<196.869 198 442.89 446.5> 451 125<644.474 710.206>
