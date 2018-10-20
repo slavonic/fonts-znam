@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1539865429
+ModificationTime: 1540041904
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -959,7 +959,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60075 27 9
+WinInfo: 60048 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -92353,62 +92353,10 @@ EndChar
 
 StartChar: uniEB14
 Encoding: 60180 60180 581
-Width: 790
+Width: 1000
 VWidth: 0
-Flags: W
-HStem: 90 315 209 21G<515.89 522> 547 125<626.658 694.284>
-VStem: 384 226
-AnchorPoint: "Podtinka" 11.5 -31 basechar 0
-AnchorPoint: "Zevok" 674 759 basechar 0
-AnchorPoint: "Udarka" 724 420 basechar 0
-AnchorPoint: "Kupnaya" 531 23 basechar 0
-AnchorPoint: "Kachka" 426 666 basechar 0
-AnchorPoint: "Lomka" 695 206 basechar 0
-AnchorPoint: "Tikhaya" 116 203.1 basechar 0
-AnchorPoint: "Oblachko" 424 665 basechar 0
-AnchorPoint: "Podchashie" 584 129 basechar 0
-AnchorPoint: "Zaderzhka" 772 479.9 basechar 0
-AnchorPoint: "Tonal" 343 511 basechar 0
-AnchorPoint: "Podvertka" 723 420 basechar 0
-AnchorPoint: "Borzaya" 0 200.6 basechar 0
-AnchorPoint: "Otsechka" 771 481 basechar 0
-AnchorPoint: "Shaidur" 192.996 560.619 basechar 0
+Flags: H
 LayerCount: 3
-Fore
-SplineSet
-106 247 m 5x30
- 127 308 215 327 215 327 c 5
- 205 203 l 5
- 205 203 125 184 94 121 c 5
- 106 247 l 5x30
-42 -9 m 5
- 63 52 151 71 151 71 c 5
- 141 -53 l 5
- 141 -53 61 -72 30 -135 c 5
- 42 -9 l 5
-684 576 m 4
- 697 576 711 566 729 545 c 4
- 746 525 753 508 753 494 c 4
- 753 493 753 493 753 492 c 5
- 740 374 l 5
- 734 402 718 426 691 447 c 4
- 688 450 683 451 678 451 c 4
- 677 451 l 4
- 660 451 635 439 603 414 c 4
- 559 381 512 340 461 290 c 4
- 410 240 355 182 295 116 c 4
- 235 50 201 11 195 0 c 5
- 205 107 l 5
- 213 122 240 157 285 212 c 4
- 383 332 447 396 571 498 c 4
- 634 550 671 576 684 576 c 4
-460 159 m 5
- 481 220 544 228 544 228 c 5
- 534 104 l 5
- 534 104 479 95 448 32 c 5
- 460 159 l 5
-EndSplineSet
-Validated: 3073
 Colour: ffff
 EndChar
 
@@ -120445,7 +120393,7 @@ StartChar: uniEEE7
 Encoding: 61159 61159 792
 Width: 790
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "Podtinka" 11.5 -31 basechar 0
 AnchorPoint: "Zevok" 674 759 basechar 0
@@ -120465,39 +120413,38 @@ AnchorPoint: "Shaidur" 192.996 560.619 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-106 247 m 5
- 127 308 215 327 215 327 c 5
- 205 203 l 5
- 205 203 125 184 94 121 c 5
- 106 247 l 5
-42 -9 m 5
- 63 52 151 71 151 71 c 5
- 141 -53 l 5
- 141 -53 61 -72 30 -135 c 5
- 42 -9 l 5
-684 576 m 4
- 697 576 711 566 729 545 c 4
- 746 525 753 508 753 494 c 4
- 753 493 753 493 753 492 c 5
- 740 374 l 5
- 734 402 718 426 691 447 c 4
- 688 450 683 451 678 451 c 4
- 677 451 l 4
- 660 451 635 439 603 414 c 4
- 559 381 512 340 461 290 c 4
- 410 240 355 182 295 116 c 4
- 235 50 201 11 195 0 c 5
- 205 107 l 5
- 213 122 240 157 285 212 c 4
- 383 332 447 396 571 498 c 4
- 634 550 671 576 684 576 c 4
-340 59.4004 m 5
- 361 120.4 424 129.4 424 129.4 c 5
- 414 5.40039 l 5
- 414 5.40039 359 -3.59961 328 -66.5996 c 5
- 340 59.4004 l 5
+386 99 m 5
+ 407 160 470 168 470 168 c 5
+ 460 44 l 5
+ 460 44 405 35 374 -28 c 5
+ 386 99 l 5
+106 247 m 1
+ 127 308 215 327 215 327 c 1
+ 205 203 l 1
+ 205 203 125 184 94 121 c 1
+ 106 247 l 1
+42 -9 m 1
+ 63 52 151 71 151 71 c 1
+ 141 -53 l 1
+ 141 -53 61 -72 30 -135 c 1
+ 42 -9 l 1
+684 576 m 0
+ 697 576 711 566 729 545 c 0
+ 746 525 753 508 753 494 c 0
+ 753 493 753 493 753 492 c 1
+ 740 374 l 1
+ 734 402 718 426 691 447 c 0
+ 688 450 683 451 678 451 c 0
+ 677 451 l 0
+ 660 451 635 439 603 414 c 0
+ 559 381 512 340 461 290 c 0
+ 410 240 355 182 295 116 c 0
+ 235 50 201 11 195 0 c 1
+ 205 107 l 1
+ 213 122 240 157 285 212 c 0
+ 383 332 447 396 571 498 c 0
+ 634 550 671 576 684 576 c 0
 EndSplineSet
-Validated: 3073
 Layer: 2
 SplineSet
 665 681 m 128,-1,1
@@ -124783,12 +124730,11 @@ StartChar: u1CF97
 Encoding: 118679 118679 942
 Width: 790
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 LayerCount: 3
 Fore
 Refer: 792 61159 N 1 0 0 1 0 0 2
-Validated: 32769
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB14
 EndChar
 
@@ -127014,12 +126960,17 @@ StartChar: uniEB36
 Encoding: 60214 60214 1039
 Width: 750
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
 LayerCount: 3
 Fore
 SplineSet
+346 99 m 1
+ 367 160 430 168 430 168 c 1
+ 420 44 l 1
+ 420 44 365 35 334 -28 c 1
+ 346 99 l 1
 644 576 m 0
  657 576 671 566 689 545 c 0
  706 525 713 508 713 494 c 0
@@ -127049,13 +127000,7 @@ SplineSet
  29 217 30 226 35 234 c 2
  100 327 l 2
  101 329 103 330 106 330 c 0
-293 42.9805 m 5
- 314 103.98 377 111.98 377 111.98 c 5
- 367 -12.0195 l 5
- 367 -12.0195 312 -21.0195 281 -84.0195 c 5
- 293 42.9805 l 5
 EndSplineSet
-Validated: 3073
 Colour: ffff
 EndChar
 
@@ -133672,7 +133617,7 @@ StartChar: uniEBDD
 Encoding: 60381 60381 1194
 Width: 790
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "Shaidur" 192.996 560.619 basechar 0
 AnchorPoint: "Otsechka" 771 481 basechar 0
@@ -133692,13 +133637,18 @@ AnchorPoint: "Podtinka" 11.5 -31 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-123 401 m 5
- 145 409 l 5
- 131.864 285.209 l 5
- 165.474 316.307 215 327 215 327 c 5
- 205 203 l 5
- 205 203 125 184 94 121 c 5
- 123 401 l 5
+386 99 m 5
+ 407 160 470 168 470 168 c 5
+ 460 44 l 5
+ 460 44 405 35 374 -28 c 5
+ 386 99 l 5
+123 401 m 1
+ 145 409 l 1
+ 131.864 285.209 l 1
+ 165.474 316.307 215 327 215 327 c 1
+ 205 203 l 1
+ 205 203 125 184 94 121 c 1
+ 123 401 l 1
 42 -9 m 1
  63 52 151 71 151 71 c 1
  141 -53 l 1
@@ -133720,13 +133670,8 @@ SplineSet
  213 122 240 157 285 212 c 0
  383 332 447 396 571 498 c 0
  634 550 671 576 684 576 c 0
-338 42.9805 m 1
- 359 103.98 422 111.98 422 111.98 c 1
- 412 -12.0195 l 1
- 412 -12.0195 357 -21.0195 326 -84.0195 c 1
- 338 42.9805 l 1
 EndSplineSet
-Validated: 3073
+LCarets2: 1 0 
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBDE
 Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF41
 Colour: fff24a
@@ -133736,7 +133681,7 @@ StartChar: uniEBDE
 Encoding: 60382 60382 1195
 Width: 790
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "Shaidur" 192.996 560.619 basechar 0
 AnchorPoint: "Otsechka" 771 481 basechar 0
@@ -133756,13 +133701,18 @@ AnchorPoint: "Podtinka" 11.5 -31 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-194.777 321.023 m 5
- 205 426 l 5
- 227 434 l 5
- 205 203 l 5
- 205 203 125 184 94 121 c 5
- 106 247 l 5
- 120.584 289.363 167.482 311.47 194.777 321.023 c 5
+386 99 m 5
+ 407 160 470 168 470 168 c 5
+ 460 44 l 5
+ 460 44 405 35 374 -28 c 5
+ 386 99 l 5
+194.777 321.023 m 1
+ 205 426 l 1
+ 227 434 l 1
+ 205 203 l 1
+ 205 203 125 184 94 121 c 1
+ 106 247 l 1
+ 120.584 289.363 167.482 311.47 194.777 321.023 c 1
 42 -9 m 1
  63 52 151 71 151 71 c 1
  141 -53 l 1
@@ -133784,13 +133734,7 @@ SplineSet
  213 122 240 157 285 212 c 0
  383 332 447 396 571 498 c 0
  634 550 671 576 684 576 c 0
-338 42.9805 m 1
- 359 103.98 422 111.98 422 111.98 c 1
- 412 -12.0195 l 1
- 412 -12.0195 357 -21.0195 326 -84.0195 c 1
- 338 42.9805 l 1
 EndSplineSet
-Validated: 3073
 Colour: fff24a
 EndChar
 
@@ -133798,7 +133742,7 @@ StartChar: uniEBDF
 Encoding: 60383 60383 1196
 Width: 790
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "Shaidur" 192.996 560.619 basechar 0
 AnchorPoint: "Otsechka" 771 481 basechar 0
@@ -133818,6 +133762,11 @@ AnchorPoint: "Podtinka" 11.5 -31 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+386 99 m 5
+ 407 160 470 168 470 168 c 5
+ 460 44 l 5
+ 460 44 405 35 374 -28 c 5
+ 386 99 l 5
 684 576 m 4
  697 576 711 566 729 545 c 4
  731.57 541.977 733.911 539.022 736.034 536.136 c 5
@@ -133845,13 +133794,8 @@ SplineSet
  141 -53 l 1
  141 -53 61 -72 30 -135 c 1
  42 -9 l 1
-338 42.9805 m 1
- 359 103.98 422 111.98 422 111.98 c 1
- 412 -12.0195 l 1
- 412 -12.0195 357 -21.0195 326 -84.0195 c 1
- 338 42.9805 l 1
 EndSplineSet
-Validated: 3073
+LCarets2: 1 0 
 Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF42
 Colour: fff24a
 EndChar
