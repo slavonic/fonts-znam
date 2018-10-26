@@ -961,7 +961,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 182 26 9
+WinInfo: 286 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -131194,8 +131194,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3D
 Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF44
+Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3D
 Colour: ffff00
 EndChar
 
@@ -131259,8 +131259,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Post-composition Priznakification-1" uniEAD0 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniEFA1 u1CF3D
+Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
 Colour: ffff00
 EndChar
 
