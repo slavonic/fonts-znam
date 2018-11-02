@@ -16,14 +16,14 @@ woffMinor: 1
 LayerCount: 3
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-Layer: 2 1 "TTF"  0
+Layer: 2 1 "TTF"  1
 XUID: [1021 1004 1038049950 1172439]
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1541031398
+ModificationTime: 1541160376
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -957,7 +957,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 61230 26 9
+WinInfo: 60996 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -13982,39 +13982,39 @@ Width: 0
 VWidth: 999
 GlyphClass: 4
 Flags: W
-HStem: -4 94<-405.665 -333.337>
-VStem: -441 31<44 147.966> -297 10<174.868 198.647>
-AnchorPoint: "Podchashie" -352 194 mark 0
+HStem: 0 94<-138.665 -66.337>
+VStem: -174 31<48 151.966> -30 10<178.868 202.647>
+AnchorPoint: "Podchashie" -93 200 mark 0
 LayerCount: 3
 Fore
 SplineSet
--287 182 m 0
- -287 107 -314 -4 -376 -4 c 0
- -419 -4 -441 20 -441 68 c 0
- -441 97 -433 130 -418 169 c 0
- -411 184 -408 173 -409 158 c 0
- -410 149 -410 140 -410 130 c 0
- -410 107 -392 90 -367 90 c 0
- -333 90 -303 159 -297 190 c 0
- -296 196 -294 199 -290 199 c 0
- -288 199 -287 193 -287 182 c 0
+-20 186 m 4
+ -20 111 -47 0 -109 0 c 4
+ -152 0 -174 24 -174 72 c 4
+ -174 101 -166 134 -151 173 c 4
+ -144 188 -141 177 -142 162 c 4
+ -143 153 -143 144 -143 134 c 4
+ -143 111 -125 94 -100 94 c 4
+ -66 94 -36 163 -30 194 c 4
+ -29 200 -27 203 -23 203 c 4
+ -21 203 -20 197 -20 186 c 4
 EndSplineSet
 Layer: 2
 SplineSet
--376 -4 m 0,0,1
- -441 -4 -441 -4 -441 68 c 0,2,3
- -441 111 -441 111 -418 169 c 0,4,5
- -413 179 -413 179 -410.5 175.5 c 128,-1,6
- -408 172 -408 172 -409 158.5 c 128,-1,7
- -410 145 -410 145 -410 130.5 c 128,-1,8
- -410 116 -410 116 -399 103 c 128,-1,9
- -388 90 -388 90 -367 90 c 128,-1,10
- -346 90 -346 90 -324.5 123.5 c 128,-1,11
- -303 157 -303 157 -297 190 c 0,12,13
- -296 199 -296 199 -290 199 c 0,14,15
- -287 199 -287 199 -287 182 c 0,16,17
- -287 119 -287 119 -306 66 c 0,18,19
- -332 -4 -332 -4 -376 -4 c 0,0,1
+-109 0 m 4,0,1
+ -174 0 -174 0 -174 72 c 4,2,3
+ -174 115 -174 115 -151 173 c 4,4,5
+ -146 183 -146 183 -143.5 179.5 c 132,-1,6
+ -141 176 -141 176 -142 162.5 c 132,-1,7
+ -143 149 -143 149 -143 134.5 c 132,-1,8
+ -143 120 -143 120 -132 107 c 132,-1,9
+ -121 94 -121 94 -100 94 c 132,-1,10
+ -79 94 -79 94 -57.5 127.5 c 132,-1,11
+ -36 161 -36 161 -30 194 c 4,12,13
+ -29 203 -29 203 -23 203 c 4,14,15
+ -20 203 -20 203 -20 186 c 4,16,17
+ -20 123 -20 123 -39 70 c 4,18,19
+ -65 0 -65 0 -109 0 c 4,0,1
 EndSplineSet
 Colour: ffc259
 EndChar
@@ -15975,6 +15975,7 @@ GlyphClass: 2
 Flags: W
 HStem: 137 134<231.788 297.641>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16056,6 +16057,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16126,6 +16128,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<32.0417 40.5> 281 134<264.827 330.563>
 VStem: 236 10<227.683 248.65> 337 27<154.973 325.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16193,6 +16196,7 @@ GlyphClass: 2
 Flags: W
 HStem: 206 108<82.3961 151.009>
 VStem: 24 27<-42.8409 141.765> 158 32<41.3 254>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16347,6 +16351,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16445,6 +16450,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16536,34 +16542,35 @@ GlyphClass: 2
 Flags: W
 HStem: 0 106<51.5524 150.3>
 VStem: 20 34<107.47 184.16> 62 26<388.5 491.999> 80 11<490.513 513.981> 185 22<149.369 256>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-21 50 m 4xe8
- 21 52 20 64 20 66 c 4
- 20 91 26 168 33 185 c 4
- 35 189 38 191 43 191 c 4
- 50 191 54 189 54 184 c 4
- 54 177 49 155 49 147 c 4
- 49 120 60 106 82 106 c 4
- 122 106 185 138 185 176 c 4
- 185 191 181 206 171 220 c 4
- 161 234 148 247 131 262 c 4
- 114 277 102 291 95 302 c 4
- 73 335 62 370 62 407 c 4xe8
- 62 429 73 494 80 507 c 4
- 80 512 82 514 86 514 c 4
- 89 514 91 511 91 508 c 6
- 91 507 l 5xd8
- 89 498 88 487 88 474 c 4
- 88 433 126 387 149 358 c 4
- 164 340 174 327 181 318 c 4
- 195 300 207 272 207 240 c 4
- 207 164 205 113 200 88 c 4
- 193 57 182 33 155 18 c 4
- 139 9 110 0 84 0 c 4
- 48 0 24 18 21 50 c 4xe8
+21 50 m 0xe8
+ 21 52 20 64 20 66 c 0
+ 20 91 26 168 33 185 c 0
+ 35 189 38 191 43 191 c 0
+ 50 191 54 189 54 184 c 0
+ 54 177 49 155 49 147 c 0
+ 49 120 60 106 82 106 c 0
+ 122 106 185 138 185 176 c 0
+ 185 191 181 206 171 220 c 0
+ 161 234 148 247 131 262 c 0
+ 114 277 102 291 95 302 c 0
+ 73 335 62 370 62 407 c 0xe8
+ 62 429 73 494 80 507 c 0
+ 80 512 82 514 86 514 c 0
+ 89 514 91 511 91 508 c 2
+ 91 507 l 1xd8
+ 89 498 88 487 88 474 c 0
+ 88 433 126 387 149 358 c 0
+ 164 340 174 327 181 318 c 0
+ 195 300 207 272 207 240 c 0
+ 207 164 205 113 200 88 c 0
+ 193 57 182 33 155 18 c 0
+ 139 9 110 0 84 0 c 0
+ 48 0 24 18 21 50 c 0xe8
 EndSplineSet
 Layer: 2
 SplineSet
@@ -16606,6 +16613,7 @@ GlyphClass: 2
 Flags: W
 HStem: -7 21G<149 172.258>
 VStem: 25 270
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16678,6 +16686,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<24.0417 40.5714 193.121 208.857>
 VStem: 22 243
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16756,6 +16765,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -16796,6 +16806,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<64.0087 84>
 VStem: 16 177
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -16973,6 +16984,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17029,6 +17041,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.144>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17099,6 +17112,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17119,16 +17133,16 @@ SplineSet
  48 122 75 157 120 212 c 0
  218 332 282 396 406 498 c 0
  469 550 506 576 519 576 c 0
-239 127.6 m 5
- 260 188.6 323 196.6 323 196.6 c 5
- 313 72.5996 l 5
- 313 72.5996 258 63.5996 227 0.599609 c 5
- 239 127.6 l 5
-369 246.6 m 5
- 390 307.6 453 315.6 453 315.6 c 5
- 443 191.6 l 5
- 443 191.6 388 182.6 357 119.6 c 5
- 369 246.6 l 5
+239 127.6 m 1
+ 260 188.6 323 196.6 323 196.6 c 1
+ 313 72.5996 l 1
+ 313 72.5996 258 63.5996 227 0.599609 c 1
+ 239 127.6 l 1
+369 246.6 m 1
+ 390 307.6 453 315.6 453 315.6 c 1
+ 443 191.6 l 1
+ 443 191.6 388 182.6 357 119.6 c 1
+ 369 246.6 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -17175,6 +17189,7 @@ GlyphClass: 2
 Flags: W
 HStem: -4 47<153.416 216.758> 3 73<578 635.7> 322 81<483.486 609.356> 329 75<150.465 265.879>
 VStem: 20 71<115.362 264.116> 668 64<109.396 265.284>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17258,6 +17273,7 @@ GlyphClass: 2
 Flags: W
 HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442>
 VStem: 183 19<492.423 522.491> 298 27<462.636 537.411>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17360,6 +17376,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 VStem: 30 185
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17413,6 +17430,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 VStem: 23 154
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -17463,6 +17481,7 @@ GlyphClass: 2
 Flags: W
 HStem: -4 112<124.008 169.548>
 VStem: 68 49<48.5 209.314> 117 52<367.678 508> 117 36<360.356 425.472>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -17551,6 +17570,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 VStem: 31 40<290 399.582> 155 40<118.412 215>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -17614,6 +17634,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17678,6 +17699,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<196.869 198 446.024 466> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17763,6 +17785,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17870,6 +17893,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<240 260>
 VStem: 30 309
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -17945,6 +17969,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18026,6 +18051,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 VStem: 30 271
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18084,6 +18110,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<405 426> 137 134<232.569 297.563>
 VStem: 203 10<83.7422 104.195> 304 27<10.9733 144>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18197,6 +18224,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18302,6 +18330,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18372,6 +18401,7 @@ GlyphClass: 2
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18478,6 +18508,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 15G<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 275.483>
 VStem: 112 9<2.02298 16.4071> 113 31<19.5513 135> 272 9<26.023 40.4071> 273 31<43.5513 159> 348 34<46.8179 282.938>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -18567,6 +18598,7 @@ GlyphClass: 2
 Flags: W
 HStem: -6 27G<178.5 185.5 345.123 376.553> 371 125<35 109.883>
 VStem: 182 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -18597,6 +18629,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: -7 21G<149 172.258 476.869 478> 451 125<924.474 990.206>
+AnchorPoint: "Podchashie" 813 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18666,12 +18699,23 @@ Width: 625
 VWidth: 999
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<31.8692 33> 67 94<354.335 426.663> 451 125<479.474 545.206>
-VStem: 319 31<115 218.966> 463 10<245.868 269.647>
+HStem: 0 21G<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
+VStem: 300 31<94 197.966> 444 10<224.868 248.647>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+454 232 m 0
+ 454 157 427 46 365 46 c 0
+ 322 46 300 70 300 118 c 0
+ 300 147 308 180 323 219 c 0
+ 330 234 333 223 332 208 c 0
+ 331 199 331 190 331 180 c 0
+ 331 157 349 140 374 140 c 0
+ 408 140 438 209 444 240 c 0
+ 445 246 447 249 451 249 c 0
+ 453 249 454 243 454 232 c 0
 519 576 m 0
  532 576 546 566 564 545 c 0
  581 525 588 508 588 494 c 0
@@ -18688,16 +18732,6 @@ SplineSet
  48 122 75 157 120 212 c 0
  218 332 282 396 406 498 c 0
  469 550 506 576 519 576 c 0
-473 253 m 0
- 473 178 446 67 384 67 c 0
- 341 67 319 91 319 139 c 0
- 319 168 327 201 342 240 c 0
- 349 255 352 244 351 229 c 0
- 350 220 350 211 350 201 c 0
- 350 178 368 161 393 161 c 0
- 427 161 457 230 463 261 c 0
- 464 267 466 270 470 270 c 0
- 472 270 473 264 473 253 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -18741,6 +18775,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18803,6 +18838,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<32.0417 40.5> 451 125<569.049 637.264>
+AnchorPoint: "Podchashie" 503 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18874,6 +18910,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 30 169
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18913,6 +18950,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -18986,6 +19024,7 @@ GlyphClass: 2
 Flags: W
 HStem: 206 108<69.6788 136.817>
 VStem: 10 27<-42.8159 141.02> 144 32<48.7511 257>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -19064,34 +19103,35 @@ GlyphClass: 2
 Flags: W
 HStem: 0 21G<179.5 182.5> 30 106<367.552 466.3> 84 94<51.6637 112.37> 108 94<211.664 272.37>
 VStem: 116 31<26.8191 78.9965> 116 8<3.52825 14.6724> 276 31<50.8191 102.996> 276 8<27.5282 38.6724> 336 34<137.47 214.16> 378 26<418.5 521.999> 396 11<520.513 543.981> 501 22<179.369 286>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-337 80 m 4xc0d0
- 337 82 336 94 336 96 c 4
- 336 121 342 198 349 215 c 4
- 351 219 354 221 359 221 c 4
- 366 221 370 219 370 214 c 4
- 370 207 365 185 365 177 c 4
- 365 150 376 136 398 136 c 4
- 438 136 501 168 501 206 c 4
- 501 221 497 236 487 250 c 4
- 477 264 464 277 447 292 c 4
- 430 307 418 321 411 332 c 4
- 389 365 378 400 378 437 c 4xc0d0
- 378 459 389 524 396 537 c 4
- 396 542 398 544 402 544 c 4
- 405 544 407 541 407 538 c 6
- 407 537 l 5xc0b0
- 405 528 404 517 404 504 c 4
- 404 463 442 417 465 388 c 4
- 480 370 490 357 497 348 c 4
- 511 330 523 302 523 270 c 4
- 523 194 521 143 516 118 c 4
- 509 87 498 63 471 48 c 4
- 455 39 426 30 400 30 c 4
- 364 30 340 48 337 80 c 4xc0d0
+337 80 m 0xc0d0
+ 337 82 336 94 336 96 c 0
+ 336 121 342 198 349 215 c 0
+ 351 219 354 221 359 221 c 0
+ 366 221 370 219 370 214 c 0
+ 370 207 365 185 365 177 c 0
+ 365 150 376 136 398 136 c 0
+ 438 136 501 168 501 206 c 0
+ 501 221 497 236 487 250 c 0
+ 477 264 464 277 447 292 c 0
+ 430 307 418 321 411 332 c 0
+ 389 365 378 400 378 437 c 0xc0d0
+ 378 459 389 524 396 537 c 0
+ 396 542 398 544 402 544 c 0
+ 405 544 407 541 407 538 c 2
+ 407 537 l 1xc0b0
+ 405 528 404 517 404 504 c 0
+ 404 463 442 417 465 388 c 0
+ 480 370 490 357 497 348 c 0
+ 511 330 523 302 523 270 c 0
+ 523 194 521 143 516 118 c 0
+ 509 87 498 63 471 48 c 0
+ 455 39 426 30 400 30 c 0
+ 364 30 340 48 337 80 c 0xc0d0
 251 202 m 0x9290
  286 202 307 176 307 142 c 0x9290
  307 104 299 67 284 30 c 0
@@ -19336,6 +19376,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -19384,20 +19425,21 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-239 127.6 m 5
- 260 188.6 323 196.6 323 196.6 c 5
- 313 72.5996 l 5
- 313 72.5996 258 63.5996 227 0.599609 c 5
- 239 127.6 l 5
-369 246.6 m 5
- 390 307.6 453 315.6 453 315.6 c 5
- 443 191.6 l 5
- 443 191.6 388 182.6 357 119.6 c 5
- 369 246.6 l 5
+239 127.6 m 1
+ 260 188.6 323 196.6 323 196.6 c 1
+ 313 72.5996 l 1
+ 313 72.5996 258 63.5996 227 0.599609 c 1
+ 239 127.6 l 1
+369 246.6 m 1
+ 390 307.6 453 315.6 453 315.6 c 1
+ 443 191.6 l 1
+ 443 191.6 388 182.6 357 119.6 c 1
+ 369 246.6 l 1
 519 576 m 0
  544 576 588 521 588 494 c 0
  588 494 588 493 588 492 c 2
@@ -19427,6 +19469,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<235.5 247.5> 450 126<678.494 746.2>
+AnchorPoint: "Podchashie" 578 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -19473,6 +19516,7 @@ GlyphClass: 2
 Flags: W
 HStem: -6 21G<178.5 185.5> 371 125<35 110.225>
 VStem: 182 35<48.6146 286.634>
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -19514,6 +19558,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<35.5 47.5> 450 126<478.494 546.2>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -19569,6 +19614,7 @@ GlyphClass: 2
 Flags: W
 HStem: 0 106<49.7806 150.57>
 VStem: 20 29<108.904 171.804> 62 26<379.5 491.847> 80 11<490.513 513.987> 185 22<148.28 255.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -19993,6 +20039,7 @@ GlyphClass: 2
 Flags: W
 HStem: -6 21G<178.5 185.5 347.75 379.569> 371 125<35 109.883>
 VStem: 182 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -20030,6 +20077,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -21019,6 +21067,7 @@ GlyphClass: 2
 Flags: W
 HStem: 1 21G<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
 VStem: 121 18<269.004 304.991> 283 43<102.263 295.725>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -23681,6 +23730,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -24436,6 +24486,7 @@ GlyphClass: 2
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -24507,6 +24558,7 @@ GlyphClass: 2
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 651 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -24611,6 +24663,7 @@ GlyphClass: 2
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -24683,6 +24736,7 @@ GlyphClass: 2
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -24815,6 +24869,7 @@ GlyphClass: 2
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -27624,6 +27679,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -27928,6 +27984,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -28173,6 +28230,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -28271,6 +28329,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29195,6 +29254,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29230,6 +29290,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29262,6 +29323,7 @@ Encoding: 60266 60266 193
 Width: 625
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29300,6 +29362,7 @@ Encoding: 60267 60267 194
 Width: 625
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29337,6 +29400,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<40.0168 55.5> 450 126<484.736 553.73>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29381,6 +29445,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<40.0168 55.5> 451 125<486.678 550.644>
 VStem: 585 22<548 625>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29427,6 +29492,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29470,6 +29536,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29511,6 +29578,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29558,6 +29626,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29687,6 +29756,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -29705,6 +29775,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29753,6 +29824,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29799,6 +29871,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 24 176
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29829,6 +29902,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 7 193
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -29862,6 +29936,7 @@ GlyphClass: 3
 Flags: W
 HStem: -6 27G<82.0455 90.5 397.5 404.5> 300 60<21.6389 97.3965> 371 125<254 328.883>
 VStem: 401 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30014,6 +30089,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30051,6 +30127,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 40.5> 281 134<265.827 331.563>
 VStem: 237 10<227.683 248.65> 338 27<154.973 325.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30092,6 +30169,7 @@ Width: 420
 Flags: W
 HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984>
 VStem: 22 22<-52.7908 139.562> 182 20<15.3987 75.8317> 197 31<83.6916 292.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -30175,6 +30253,7 @@ Width: 385
 Flags: W
 HStem: 0 21G<32.0417 40.5> 281 134<265.827 331.563>
 VStem: 237 10<227.683 248.65> 338 27<154.973 325.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30299,6 +30378,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30487,6 +30567,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30517,6 +30598,7 @@ GlyphClass: 3
 Flags: W
 HStem: -4 94<42.3348 114.663> 371 125<35 109.883>
 VStem: 7 31<44 147.966> 151 10<174.868 198.647> 182 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -30662,6 +30744,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -30863,6 +30946,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -30985,6 +31069,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -31094,6 +31179,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -31198,6 +31284,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -31476,6 +31563,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -31570,6 +31658,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -31660,6 +31749,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -31684,6 +31774,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -31727,6 +31818,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -31769,6 +31861,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 0 200
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -31801,6 +31894,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 10 190
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -32120,6 +32214,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -32430,6 +32525,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -32826,6 +32922,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -32877,6 +32974,7 @@ Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -32910,6 +33008,7 @@ Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -33227,6 +33326,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -33687,6 +33787,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -34046,6 +34147,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -34206,6 +34308,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -34333,6 +34436,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -34605,6 +34709,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -34755,6 +34860,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -34995,6 +35101,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -35386,6 +35493,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -35757,6 +35865,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -36005,6 +36114,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -36167,6 +36277,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -36208,6 +36319,7 @@ GlyphClass: 3
 Flags: W
 HStem: -3 94<266.335 338.663>
 VStem: 231 31<45 148.966> 375 10<175.868 199.647>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -36356,6 +36468,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -36681,6 +36794,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -37013,6 +37127,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -37072,6 +37187,7 @@ Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -37353,6 +37469,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -37592,6 +37709,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -37799,6 +37917,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -37958,6 +38077,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -38138,6 +38258,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -38309,6 +38430,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -38536,6 +38658,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -38760,6 +38883,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -38963,6 +39087,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -39178,6 +39303,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -39380,6 +39506,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -47820,6 +47947,7 @@ VWidth: 999
 Flags: W
 HStem: -6 21G<178.5 185.5> 371 125<35 109.883>
 VStem: 182 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -47852,6 +47980,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -47887,6 +48016,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -47919,6 +48049,7 @@ Encoding: 60268 60268 291
 Width: 625
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -47958,6 +48089,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -47995,6 +48127,7 @@ Width: 360
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 10 324
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -48133,6 +48266,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -48254,6 +48388,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -48288,6 +48423,7 @@ Width: 420
 Flags: W
 HStem: -6 21G<178.5 185.5 347.75 379.569> 371 125<35 109.883>
 VStem: 182.091 34.909<48.6146 282.933>
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -48452,6 +48588,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -48566,6 +48703,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -48850,6 +48988,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -49137,6 +49276,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -49421,6 +49561,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -49702,6 +49843,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -49911,6 +50053,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -50275,6 +50418,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -50387,6 +50531,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -50737,6 +50882,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -50896,6 +51042,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51012,6 +51159,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51128,6 +51276,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51231,6 +51380,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51329,6 +51479,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51454,6 +51605,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51562,6 +51714,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51665,6 +51818,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -51921,6 +52075,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -52154,6 +52309,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -52370,6 +52526,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -52580,6 +52737,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -52853,6 +53011,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -53102,6 +53261,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -53427,6 +53587,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -53743,6 +53904,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -53906,6 +54068,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -54030,6 +54193,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -54153,6 +54317,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -54261,6 +54426,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -54364,6 +54530,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -54583,6 +54750,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -54795,6 +54963,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -55001,6 +55170,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -55196,6 +55366,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -55323,6 +55494,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -55442,6 +55614,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -55832,6 +56005,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -56262,6 +56436,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -56478,6 +56653,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -56721,6 +56897,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -57044,6 +57221,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -57295,6 +57473,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -57611,6 +57790,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -57891,6 +58071,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -58168,6 +58349,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -58553,6 +58735,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -59090,6 +59273,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -59529,6 +59713,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -60099,6 +60284,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -60320,6 +60506,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -60416,6 +60603,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -60485,6 +60673,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -60556,6 +60745,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -60655,6 +60845,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -60785,6 +60976,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -60892,6 +61084,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -61050,6 +61243,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -61385,6 +61579,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -61680,6 +61875,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -61909,6 +62105,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -61960,6 +62157,7 @@ GlyphClass: 3
 Flags: W
 HStem: 121 134<247.788 313.641>
 VStem: 219 10<67.3571 88.9895> 227 118<123.656 234.711> 309 18<-41.8192 10.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62094,6 +62292,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62251,6 +62450,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62433,6 +62633,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62484,6 +62685,7 @@ GlyphClass: 3
 Flags: W
 HStem: 137 134<382.788 448.641>
 VStem: 354 10<83.3571 104.99> 362 118<139.656 250.711> 444 18<-25.8192 26.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62533,6 +62735,7 @@ Width: 585
 Flags: W
 HStem: -6 26G<32.0417 40.5 329.5 336.5 495.75 527.569> 371 125<186 260.883>
 VStem: 333 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62578,6 +62781,7 @@ Encoding: 60436 60436 365
 Width: 520
 Flags: W
 HStem: 0 21G<32.0417 40.5 305.344 320 465.344 480>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62619,6 +62823,7 @@ Encoding: 60437 60437 366
 Width: 520
 Flags: W
 HStem: 0 21G<32.0417 40.5 433.344 448>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62657,6 +62862,7 @@ Encoding: 60438 60438 367
 Width: 525
 Flags: W
 HStem: 0 21G<32.0417 40.5 302.905 306>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -62800,6 +63006,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -63615,6 +63822,7 @@ Width: 400
 Flags: W
 HStem: 0 21G<160 178> 187 37<34 96 294 374.672>
 VStem: 164 36<15.3334 95.6665>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -63650,6 +63858,7 @@ Width: 280
 Flags: W
 HStem: -10 21G<30 33.3334 160 163.333>
 VStem: 40 83<90.8228 272.145> 170 83<91.8837 271.797>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -63694,6 +63903,7 @@ Width: 134
 Flags: W
 HStem: 0 21G<32.0417 48.5714>
 VStem: 30 74
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -63713,6 +63923,7 @@ Width: 162
 Flags: W
 HStem: 0 21G<60.0417 76.5714>
 VStem: 30 102
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -63736,6 +63947,7 @@ Width: 145
 Flags: W
 HStem: 0 21G<43.0417 59.5714>
 VStem: 30 85
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -63758,6 +63970,7 @@ Encoding: 59995 59995 415
 Width: 186
 Flags: W
 VStem: 30 126
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -63779,6 +63992,7 @@ Width: 184
 Flags: W
 HStem: 0 21G<32.0367 48.5714>
 VStem: 30 124
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -63800,6 +64014,7 @@ Width: 214
 Flags: W
 HStem: 0 21G<62.9792 79.5089>
 VStem: 30 154.938
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -63826,6 +64041,7 @@ Encoding: 59998 59998 418
 Width: 259
 Flags: W
 VStem: 30 199
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -63939,6 +64155,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64097,6 +64314,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -64402,6 +64620,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64452,6 +64671,7 @@ Encoding: 60171 60171 423
 Width: 560
 VWidth: 0
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64487,6 +64707,7 @@ VWidth: 0
 Flags: W
 HStem: -3 94<266.335 338.663>
 VStem: 231 31<45 148.966> 275.5 31<616.44 741.402> 375 10<175.868 199.647> 392.5 14<729.468 807.695>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64545,6 +64766,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64601,6 +64823,7 @@ VWidth: 0
 Flags: W
 HStem: 137 134<382.788 448.641>
 VStem: 275.5 31<616.44 741.402> 354 10<83.3571 104.99> 362 118<139.656 250.711> 392.5 14<729.468 807.695> 444 18<-25.8192 26.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64665,6 +64888,7 @@ Width: 725
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5 564.905 568.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64729,6 +64953,7 @@ Width: 785
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -64964,6 +65189,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -64994,6 +65220,7 @@ Width: 250
 Flags: W
 HStem: -4 94<42.3348 114.663> 371 125<35 109.883>
 VStem: 7 31<44 147.966> 151 10<174.868 198.647> 182 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -65029,6 +65256,7 @@ Width: 450
 VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -65085,6 +65313,7 @@ Width: 740
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 40.5> 506 107<612.342 667.173>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -65492,6 +65721,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -65827,6 +66057,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -65885,6 +66116,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -65944,6 +66176,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.279>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66001,6 +66234,7 @@ Width: 990
 Flags: W
 HStem: 204 108<90.0564 157.9> 601 126<835.958 902.814> 650 20G<593.252 625>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66093,6 +66327,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66156,6 +66391,7 @@ VWidth: 0
 Flags: W
 HStem: 204 108<90.0564 157.9> 520 126<699.958 766.984>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66224,6 +66460,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66481,6 +66718,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66689,6 +66927,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -66910,6 +67149,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -67121,6 +67361,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -67420,6 +67661,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 578 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -67698,6 +67940,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 503 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -67741,6 +67984,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -67911,6 +68155,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 813 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -68157,6 +68402,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 813 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -68223,6 +68469,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -68286,6 +68533,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -68350,6 +68598,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -68578,6 +68827,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -68938,6 +69188,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69294,6 +69545,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69365,6 +69617,7 @@ Encoding: 60148 60148 468
 Width: 253
 Flags: W
 VStem: 20.5117 212
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -69395,6 +69648,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396>
 VStem: 688 23<67 122.325>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69713,6 +69967,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 503 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69783,6 +70038,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69830,6 +70086,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69874,6 +70131,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396>
 VStem: 688 23<67 122.325>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69927,6 +70185,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -69986,6 +70245,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70036,6 +70296,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70086,6 +70347,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70429,6 +70691,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 578 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70474,6 +70737,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: -0.459961 21G<196.869 198> 450.54 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70535,6 +70799,7 @@ Width: 810
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70604,6 +70869,7 @@ VWidth: 999
 Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 125.5 31<526.44 651.402> 208 31<40 149.301> 242.5 14<639.468 717.695> 328 10<168.655 199.288>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -70805,6 +71071,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71005,6 +71272,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71210,6 +71478,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71278,6 +71547,7 @@ Width: 900
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 156 94<763.47 834.291> 450 126<639.722 709.078>
 VStem: 727 31<258.759 307.922> 871 10<331.849 358.288>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71359,6 +71629,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71392,6 +71663,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71434,6 +71706,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71918,6 +72191,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -71965,6 +72239,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -72018,6 +72293,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
 VStem: 572 23<64 119.325>
+AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -72062,6 +72338,7 @@ Width: 700
 VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -72314,6 +72591,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -72639,6 +72917,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -73081,6 +73360,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -73418,6 +73698,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -73799,6 +74080,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -73850,6 +74132,7 @@ Width: 990
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 40.5> 599 125<829.049 897.258>
+AnchorPoint: "Podchashie" 730 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74232,6 +74515,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74316,6 +74600,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74379,6 +74664,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74421,6 +74707,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56> 369 134<557.618 619.339>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254> 616.948 18<156.037 220.723> 627.948 26<200.36 381.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74481,6 +74768,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.69>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74548,6 +74836,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74620,6 +74909,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817> 441 134<685.67 747.391>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253> 745 18<228.037 292.723> 756 26<272.36 453.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74692,6 +74982,7 @@ VWidth: 999
 Flags: W
 HStem: 206 108<88.6072 156.817> 522 125<560.145 626.608>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -74741,6 +75032,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -75246,6 +75538,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -75676,6 +75969,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -75725,6 +76019,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -75781,6 +76076,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -75835,6 +76131,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -75886,6 +76183,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -76311,6 +76609,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -76746,6 +77045,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -77246,6 +77546,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -77687,6 +77988,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -78121,6 +78423,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -78563,6 +78866,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -78646,6 +78950,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.074>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -78708,6 +79013,7 @@ Width: 240
 Flags: W
 HStem: 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.12241 113.039 595.333 612> 164 32<44.8708 261.5> 208 10<558.188 601.288>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -78752,6 +79058,7 @@ Width: 420
 Flags: W
 HStem: 0 21G<287.832 308> 206 108<89.0884 157.009>
 VStem: 30 27<-42.8409 141.32> 88 31<409.5 541.261> 120 6<580.439 584> 151 25<3.12936 102.75 595.333 612> 164 32<41.8438 254> 208 11<555.188 601.96>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -78813,6 +79120,7 @@ VWidth: 999
 Flags: W
 HStem: 206 108<88.6072 156.817> 522 125<700.145 766.608>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -78870,6 +79178,7 @@ VWidth: 999
 Flags: W
 HStem: 206 108<88.6072 156.817> 522 125<700.145 766.608>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -78934,6 +79243,7 @@ Width: 995
 Flags: W
 HStem: 205 108<88.6072 156.817> 602 125<840.145 906.578>
 VStem: 30 27<-43.8219 138.404> 151 24<8 95.4724> 164 32<48.3647 255>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79009,6 +79319,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79077,6 +79388,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79144,6 +79456,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: -0.459961 21G<196.869 198> 450.54 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79205,6 +79518,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79249,6 +79563,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 451 125<478.606 545.281>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79304,6 +79619,7 @@ Encoding: 61290 61290 541
 Width: 360
 VWidth: 999
 Flags: W
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79349,6 +79665,7 @@ Encoding: 61292 61292 542
 Width: 500
 VWidth: 999
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79403,6 +79720,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 55.0195 54.9645<123.467 156.19> 204 108<88.6072 156.56> 286 134<418.67 480.391>
 VStem: 30 27<-45.8219 138.118> 151 24<0.0722885 37.9214> 164 32<107.924 254> 478 18<73.0371 137.723> 489 26<117.36 298.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79465,6 +79783,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 55.0195 54.9645<123.467 156.19> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 151 24<0.0722885 37.9214> 164 32<107.924 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79521,6 +79840,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 369 134<557.618 619.339>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 247.561> 616.948 18<156.037 220.723> 627.948 26<200.36 381.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79587,6 +79907,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 246.628>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79642,6 +79963,7 @@ Width: 240
 Flags: W
 HStem: 54.8637 55.1203<123.467 156.321> 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.05412 37.2296 106.25 116.974> 164 32<107.501 261.5> 208 10<558.188 601.288>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -79698,6 +80020,7 @@ VWidth: 999
 Flags: W
 HStem: 55.1694 54.8146<123.249 155.965> 206 108<88.6072 156.817> 522 125<700.145 766.462>
 VStem: 30 27<-42.8159 139.404> 151 24<3.43066 38.2427> 164 32<107.128 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79761,6 +80084,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 683 125<975.145 1041.46>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 246.628>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79832,6 +80156,7 @@ VWidth: 0
 Flags: W
 HStem: 54.7541 55.2299<124.156 156.546> 205 108<90.0564 157.9> 520 126<559.958 616.877>
 VStem: 30 27<-43.8865 138.488> 151 24<0.217152 38.3287> 164 32<107.527 260.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79895,6 +80220,7 @@ Width: 240
 VWidth: 0
 Flags: W
 VStem: 30 185
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79934,6 +80260,7 @@ VWidth: 0
 Flags: W
 HStem: -12 27G<333 337.5 421.5 428.5> 151 134<265.663 329.256> 371 125<278 352.883>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5> 425 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -79997,6 +80324,7 @@ VWidth: 0
 Flags: W
 HStem: -12 21G<32.0417 40.5 333 337.5 421.5 428.5 587.75 619.569> 151 134<265.663 329.256> 371 125<278 352.883>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5> 425 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -80060,6 +80388,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80133,6 +80462,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80185,6 +80515,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80257,6 +80588,7 @@ Encoding: 61368 61368 558
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80337,6 +80669,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80386,6 +80719,7 @@ Encoding: 61370 61370 560
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80471,6 +80805,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80528,6 +80863,7 @@ Width: 1088
 VWidth: 999
 Flags: W
 HStem: 460 21G<807.105 828> 683 123<961.157 1025.99>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80611,6 +80947,7 @@ Encoding: 61382 61382 564
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80671,6 +81008,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80726,6 +81064,7 @@ Encoding: 60207 60207 566
 Width: 810
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.109>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -80795,6 +81134,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -81406,6 +81746,7 @@ GlyphClass: 2
 Flags: W
 HStem: 65 134<60.4374 124.588> 89 134<222.437 286.588>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -81556,6 +81897,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206>
 VStem: 30 10<35.0276 56.65> 131 27<-37.0267 133.5>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -81632,6 +81974,7 @@ VWidth: 999
 Flags: W
 HStem: 57 134<58.8267 123.21> 611 125<645.494 712.462>
 VStem: 30 10<0.0497856 24.65> 131 27<-69.119 101.5>
+AnchorPoint: "Podchashie" 550 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -81725,23 +82068,24 @@ VWidth: 999
 Flags: W
 HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 614 125<814.302 882.462>
 VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
+AnchorPoint: "Podchashie" 710 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-101 170 m 0xbe
- 139 170 158 125 158 36 c 0
- 158 -14 151 -66 138 -120 c 0
- 137 -125 133 -127 128 -127 c 0
- 124 -127 119 -122 120 -117 c 0
- 127 -66 131 -33 131 -19 c 0
- 131 15 118 33 92 36 c 1
- 86 36 l 2
- 63 36 48 20 40 -11 c 0
- 39 -16 38 -19 35 -20 c 0
- 32 -21 30 -20 30 -17 c 0
- 30 -13 37 82 37 82 c 1
- 44 141 66 170 101 170 c 0xbe
+101 170 m 4xbe
+ 139 170 158 125 158 36 c 4
+ 158 -14 151 -66 138 -120 c 4
+ 137 -125 133 -127 128 -127 c 4
+ 124 -127 119 -122 120 -117 c 4
+ 127 -66 131 -33 131 -19 c 4
+ 131 15 118 33 92 36 c 5
+ 86 36 l 6
+ 63 36 48 20 40 -11 c 4
+ 39 -16 38 -19 35 -20 c 4
+ 32 -21 30 -20 30 -17 c 4
+ 30 -13 37 82 37 82 c 5
+ 44 141 66 170 101 170 c 4xbe
 856 739 m 0
  869 739 884 729 901 708 c 0
  917 688 923 671 923 657 c 0
@@ -81756,29 +82100,29 @@ SplineSet
  508 436 557 491 593 528 c 0
  629 565 679 610 742 662 c 0
  805 714 843 739 856 739 c 0
-448 157 m 1
- 436 32 l 1
- 359 106 l 1
- 371 232 l 1
- 448 157 l 1
-330 341 m 1
- 318 216 l 1
- 242 290 l 1
- 253 416 l 1
- 330 341 l 1
-269 194 m 0x7e
- 307 194 326 149 326 60 c 0
- 326 10 319 -42 306 -96 c 0
- 305 -101 301 -103 296 -103 c 0
- 292 -103 287 -98 288 -93 c 0
- 295 -42 299 -9 299 5 c 0
- 299 39 286 57 260 60 c 1
- 254 60 l 2
- 231 60 216 44 208 13 c 0
- 207 8 206 5 203 4 c 0
- 200 3 198 4 198 7 c 0
- 198 11 205 106 205 106 c 1
- 212 165 234 194 269 194 c 0x7e
+448 157 m 5
+ 436 32 l 5
+ 359 106 l 5
+ 371 232 l 5
+ 448 157 l 5
+330 341 m 5
+ 318 216 l 5
+ 242 290 l 5
+ 253 416 l 5
+ 330 341 l 5
+269 194 m 4x7e
+ 307 194 326 149 326 60 c 4
+ 326 10 319 -42 306 -96 c 4
+ 305 -101 301 -103 296 -103 c 4
+ 292 -103 287 -98 288 -93 c 4
+ 295 -42 299 -9 299 5 c 4
+ 299 39 286 57 260 60 c 5
+ 254 60 l 6
+ 231 60 216 44 208 13 c 4
+ 207 8 206 5 203 4 c 4
+ 200 3 198 4 198 7 c 4
+ 198 11 205 106 205 106 c 5
+ 212 165 234 194 269 194 c 4x7e
 EndSplineSet
 Layer: 2
 SplineSet
@@ -81853,6 +82197,7 @@ Width: 485
 Flags: W
 HStem: 137 134<359.788 425.641>
 VStem: 331 10<83.3571 104.99> 339 118<139.656 250.711> 421 18<-25.8192 26.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -81936,6 +82281,7 @@ VWidth: 999
 Flags: W
 HStem: -4 112<338.794 405.126>
 VStem: 260 144<434.189 500.122> 302 130<23.4466 106.874>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82043,6 +82389,7 @@ VWidth: 0
 Flags: W
 HStem: -2 21G<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588>
 VStem: 203 11<82.051 103.404> 304 27<10.9824 181.5> 365 11<106.051 127.404> 466 27<34.9824 205.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82095,6 +82442,7 @@ GlyphClass: 2
 Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 208 31<40 149.301> 328 10<168.655 199.288>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82166,6 +82514,7 @@ VWidth: 0
 Flags: W
 HStem: 37 94<404.253 464.991> 73 134<231.788 297.641>
 VStem: 203 10<19.3571 40.9895> 211 118<75.6563 186.711> 293 18<-89.8192 -37.7153> 370 31<80 189.301> 490 11<204.499 239.569>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82262,6 +82611,7 @@ Width: 835
 VWidth: 999
 Flags: W
 HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923>
+AnchorPoint: "Podchashie" 583 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82333,6 +82683,7 @@ Width: 960
 Flags: W
 HStem: 0 21G<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 703 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82433,6 +82784,7 @@ Width: 960
 Flags: W
 HStem: 0 21G<367.042 382.083 557.89 571.5> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 703 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82499,6 +82851,7 @@ VWidth: 999
 Flags: W
 HStem: -1 21G<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 703 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82601,6 +82954,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 297.042 312.083> 451 125<743.289 809.923>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 643 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82700,6 +83054,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<207.042 222.083> 89 134<58.8267 124.563> 451 125<653.289 719.923>
 VStem: 30 10<36.1421 56.65> 131 27<-37.0267 133.5>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82776,6 +83131,7 @@ VWidth: 999
 Flags: W
 HStem: 86 134<58.8267 124.563> 616 107<624.342 679.088>
 VStem: 30 10<33.1421 53.65> 131 27<-40.0267 130.5>
+AnchorPoint: "Podchashie" 530 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -82870,6 +83226,7 @@ VWidth: 999
 Flags: W
 HStem: 111 104<140.5 249.089> 220 78<334.5 408.652>
 VStem: 188 88<64.5 188.066> 292 69<266.5 346.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -82945,6 +83302,7 @@ Width: 975
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 40.5> 599 125<829.049 897.264>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83044,6 +83402,7 @@ VWidth: 999
 Flags: W
 HStem: 2 90<71.5 161.5> 249 85<430.5 535.941>
 VStem: 25 84<56 147> 484 86<191.5 291>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83110,6 +83469,7 @@ VWidth: 999
 Flags: W
 HStem: 99 90<238.5 328.5> 346 85<597.5 702.941>
 VStem: 192 84<153 244> 651 86<288.5 388>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83158,6 +83518,7 @@ Width: 645
 Flags: W
 HStem: 256 60<174.288 437.515>
 VStem: 540 80<42.3234 152.785>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83203,6 +83564,7 @@ Width: 675
 VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -83274,6 +83636,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965>
 VStem: 12 234
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -83331,6 +83694,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83414,6 +83778,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83494,6 +83859,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83587,6 +83953,7 @@ VWidth: 999
 Flags: W
 HStem: 206 108<88.6072 156.817> 522 125<560.145 626.462>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83665,6 +84032,7 @@ VWidth: 999
 Flags: W
 HStem: 206 108<88.6072 156.817> 522 125<700.145 766.462>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83758,6 +84126,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.46>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83883,6 +84252,7 @@ VWidth: 0
 Flags: W
 HStem: 206 108<88.6072 156.817> 520 126<559.958 616.877>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -83982,6 +84352,7 @@ VWidth: 0
 Flags: W
 HStem: 204 108<90.0564 157.9> 520 126<699.958 756.877>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -84092,6 +84463,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -84162,6 +84534,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -84262,6 +84635,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -84375,6 +84749,7 @@ Encoding: 61136 61136 659
 Width: 625
 VWidth: 999
 Flags: W
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -84473,29 +84848,30 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-519 576 m 4
- 544 576 590 520 590 494 c 6
- 590 492 l 5
- 575 374 l 5
- 569 402 553 426 526 447 c 4
- 523 450 518 450 513 450 c 4
- 497 450 469 436 430 407 c 4
- 340 340 220 221 71 48 c 6
- 30 0 l 5
- 42 123 l 5
- 117 215 183 290 240 349 c 5
- 262 569 l 5
- 285 577 l 5
- 264 373 l 5
- 281 389 299 406 318 424 c 5
- 334 585 l 5
- 357 593 l 5
- 342 445 l 5
- 442 532 501 576 519 576 c 4
+519 576 m 0
+ 544 576 590 520 590 494 c 2
+ 590 492 l 1
+ 575 374 l 1
+ 569 402 553 426 526 447 c 0
+ 523 450 518 450 513 450 c 0
+ 497 450 469 436 430 407 c 0
+ 340 340 220 221 71 48 c 2
+ 30 0 l 1
+ 42 123 l 1
+ 117 215 183 290 240 349 c 1
+ 262 569 l 1
+ 285 577 l 1
+ 264 373 l 1
+ 281 389 299 406 318 424 c 1
+ 334 585 l 1
+ 357 593 l 1
+ 342 445 l 1
+ 442 532 501 576 519 576 c 0
 237 121.6 m 1
  258 182.6 321 190.6 321 190.6 c 1
  311 66.5996 l 1
@@ -84519,29 +84895,30 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-519 576 m 4
- 544 576 590 520 590 494 c 6
- 590 492 l 5
- 575 374 l 5
- 569 402 553 426 526 447 c 4
- 523 450 518 450 513 450 c 4
- 497 450 469 436 430 407 c 4
- 340 340 220 221 71 48 c 6
- 30 0 l 5
- 42 123 l 5
- 117 215 183 290 240 349 c 5
- 262 569 l 5
- 285 577 l 5
- 264 373 l 5
- 281 389 299 406 318 424 c 5
- 334 585 l 5
- 357 593 l 5
- 342 445 l 5
- 442 532 501 576 519 576 c 4
+519 576 m 0
+ 544 576 590 520 590 494 c 2
+ 590 492 l 1
+ 575 374 l 1
+ 569 402 553 426 526 447 c 0
+ 523 450 518 450 513 450 c 0
+ 497 450 469 436 430 407 c 0
+ 340 340 220 221 71 48 c 2
+ 30 0 l 1
+ 42 123 l 1
+ 117 215 183 290 240 349 c 1
+ 262 569 l 1
+ 285 577 l 1
+ 264 373 l 1
+ 281 389 299 406 318 424 c 1
+ 334 585 l 1
+ 357 593 l 1
+ 342 445 l 1
+ 442 532 501 576 519 576 c 0
 175 59.4004 m 1
  196 120.4 259 129.4 259 129.4 c 1
  249 5.40039 l 1
@@ -84569,6 +84946,7 @@ Encoding: 61140 61140 662
 Width: 815
 Flags: W
 HStem: 0 15.5996G<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20G<426.269 458>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -84679,6 +85057,7 @@ Width: 300
 Flags: W
 HStem: 0 21G<85.9048 89>
 VStem: 20 253
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -87412,6 +87791,7 @@ VWidth: 999
 Flags: W
 HStem: 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20G<593.252 625>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -87537,6 +87917,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<195.056 196> 451 126<640.898 709.284>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -87619,6 +88000,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -87714,6 +88096,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -87813,6 +88196,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -87939,6 +88323,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -88085,6 +88470,7 @@ Encoding: 61176 61176 675
 Width: 975
 Flags: W
 HStem: 0 21G<32.0417 40.5> 602 125<828.157 884.865> 654 20G<591.252 623>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -88202,6 +88588,7 @@ Width: 1088
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5> 460 21G<807.105 828> 683 123<961.157 1025.99>
+AnchorPoint: "Podchashie" 886 484 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -88379,6 +88766,7 @@ Width: 430
 VWidth: 999
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -88424,6 +88812,7 @@ Width: 804
 VWidth: 999
 Flags: W
 HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923>
+AnchorPoint: "Podchashie" 583 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97065,53 +97454,66 @@ EndChar
 
 StartChar: uniEEB8
 Encoding: 61112 61112 694
-Width: 960
+Width: 925
 VWidth: 799
 Flags: W
-HStem: 0 21G<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
-VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 590 107<794.342 849.088>
+VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
+AnchorPoint: "Podchashie" 700 370 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-263 223 m 0xbf
- 301 223 320 178 320 89 c 0
- 320 39 313 -13 300 -67 c 0
- 299 -72 296 -74 291 -74 c 0
- 287 -74 282 -69 283 -64 c 0
- 290 -17 293 15 293 34 c 0
- 293 68 280 86 255 89 c 1
- 248 89 l 2
- 226 89 211 73 203 42 c 0
- 202 37 199 34 195 33 c 0
- 192 32 191 34 192 39 c 0
- 198 126 199 223 263 223 c 0xbf
-101 199 m 0xdf
- 139 199 158 154 158 65 c 0
- 158 15 151 -37 138 -91 c 0
- 137 -96 134 -98 129 -98 c 0
- 125 -98 120 -93 121 -88 c 0
- 128 -41 131 -9 131 10 c 0
- 131 44 118 62 93 65 c 1
- 86 65 l 2
- 64 65 49 49 41 18 c 0
- 40 13 37 10 33 9 c 0
- 30 8 29 10 30 15 c 0
- 36 102 37 199 101 199 c 0xdf
-854 576 m 0
- 879 576 923 521 923 494 c 0
- 923 494 923 493 923 492 c 2
- 910 374 l 1
- 904 402 888 426 861 447 c 0
- 858 450 853 451 848 451 c 0
- 832 451 804 436 765 407 c 0
- 680 344 560 224 406 48 c 1
- 365 0 l 1
- 414 480 l 1
- 440 496 l 1
- 405 162 l 1
- 503 283 615 395 741 498 c 0
- 803 550 841 576 854 576 c 0
+888 630 m 2x3e
+ 879 528 l 1
+ 874 550 861 570 840 587 c 0
+ 837 589 834 590 829 590 c 0
+ 816 590 794 578 763 555 c 0
+ 690 500 593 403 471 263 c 1
+ 435 224 l 1
+ 466 549 l 1
+ 494 566 l 1
+ 475 366 l 1
+ 556 466 646 556 744 636 c 0
+ 793 677 824 697 834 697 c 0
+ 853 697 888 655 888 632 c 0
+ 888 631 888 631 888 630 c 2x3e
+101 170 m 0xbe
+ 139 170 158 125 158 36 c 0
+ 158 -14 151 -66 138 -120 c 0
+ 137 -125 133 -127 128 -127 c 0
+ 124 -127 119 -122 120 -117 c 0
+ 127 -66 131 -33 131 -19 c 0
+ 131 15 118 33 92 36 c 1
+ 86 36 l 2
+ 63 36 48 20 40 -11 c 0
+ 39 -16 38 -19 35 -20 c 0
+ 32 -21 30 -20 30 -17 c 0
+ 30 -13 37 82 37 82 c 1
+ 44 141 66 170 101 170 c 0xbe
+448 157 m 1
+ 436 32 l 1
+ 359 106 l 1
+ 371 232 l 1
+ 448 157 l 1
+330 341 m 1
+ 318 216 l 1
+ 242 290 l 1
+ 253 416 l 1
+ 330 341 l 1
+269 194 m 0x7e
+ 307 194 326 149 326 60 c 0
+ 326 10 319 -42 306 -96 c 0
+ 305 -101 301 -103 296 -103 c 0
+ 292 -103 287 -98 288 -93 c 0
+ 295 -42 299 -9 299 5 c 0
+ 299 39 286 57 260 60 c 1
+ 254 60 l 2
+ 231 60 216 44 208 13 c 0
+ 207 8 206 5 203 4 c 0
+ 200 3 198 4 198 7 c 0
+ 198 11 205 106 205 106 c 1
+ 212 165 234 194 269 194 c 0x7e
 EndSplineSet
 Layer: 2
 SplineSet
@@ -97223,6 +97625,7 @@ Width: 985
 Flags: W
 HStem: 205 108<88.6072 156.817> 602 125<840.145 906.462>
 VStem: 30 27<-43.8219 138.404> 151 24<8 95.4724> 164 32<48.3647 255>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97331,6 +97734,7 @@ Encoding: 61115 61115 697
 Width: 1105
 Flags: W
 HStem: 0 21G<32.0417 40.5> 681 125<959.575 1027.46>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97442,6 +97846,7 @@ Encoding: 61116 61116 698
 Width: 1010
 Flags: W
 HStem: 0 21G<32.0417 40.5> 672 107<878.981 934.403>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97536,6 +97941,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97626,6 +98032,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97743,6 +98150,7 @@ Encoding: 61161 61161 701
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -97869,6 +98277,7 @@ Encoding: 61162 61162 702
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98011,6 +98420,7 @@ Encoding: 61165 61165 703
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98122,6 +98532,7 @@ Encoding: 61166 61166 704
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98235,6 +98646,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98346,6 +98758,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98492,29 +98905,30 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-519 576 m 4
- 544 576 590 520 590 494 c 6
- 590 492 l 5
- 575 374 l 5
- 569 402 553 426 526 447 c 4
- 523 450 518 450 513 450 c 4
- 497 450 469 436 430 407 c 4
- 340 340 220 221 71 48 c 6
- 30 0 l 5
- 42 123 l 5
- 117 215 183 290 240 349 c 5
- 262 569 l 5
- 285 577 l 5
- 264 373 l 5
- 281 389 299 406 318 424 c 5
- 334 585 l 5
- 357 593 l 5
- 342 445 l 5
- 442 532 501 576 519 576 c 4
+519 576 m 0
+ 544 576 590 520 590 494 c 2
+ 590 492 l 1
+ 575 374 l 1
+ 569 402 553 426 526 447 c 0
+ 523 450 518 450 513 450 c 0
+ 497 450 469 436 430 407 c 0
+ 340 340 220 221 71 48 c 2
+ 30 0 l 1
+ 42 123 l 1
+ 117 215 183 290 240 349 c 1
+ 262 569 l 1
+ 285 577 l 1
+ 264 373 l 1
+ 281 389 299 406 318 424 c 1
+ 334 585 l 1
+ 357 593 l 1
+ 342 445 l 1
+ 442 532 501 576 519 576 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -98661,6 +99075,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 263 134<469.67 531.391> 451 125<478.289 544.923>
 VStem: 529 18<50.0371 114.723> 540 26<94.3604 275.5>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98705,6 +99120,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98753,6 +99169,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.105>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98821,6 +99238,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.351>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98863,6 +99281,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.351>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98913,6 +99332,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: -0.459961 21G<196.869 198> 450.54 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -98969,6 +99389,7 @@ Width: 810
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99032,6 +99453,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.518>
 VStem: 523 23<68 123.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99080,6 +99502,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 15.5996G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.549>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99135,6 +99558,7 @@ Width: 750
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99192,6 +99616,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99244,6 +99669,7 @@ Width: 650
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99308,6 +99734,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99346,6 +99773,7 @@ Width: 763
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99411,6 +99839,7 @@ Width: 875
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99490,6 +99919,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.074>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99558,6 +99988,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.074>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99631,6 +100062,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.105>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99705,6 +100137,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.105>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99783,6 +100216,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -99831,6 +100265,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -99886,6 +100321,7 @@ Width: 500
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -100498,6 +100934,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100510,6 +100947,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 20<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100522,6 +100960,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0168 47.5> 451 125<478.289 545.144>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100534,6 +100973,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100546,6 +100986,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100558,6 +100999,7 @@ Width: 675
 VWidth: 0
 Flags: W
 HStem: 0 21<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100571,6 +101013,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100608,6 +101051,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100623,6 +101067,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<158 163> 203 108<88.6072 156.817>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100638,6 +101083,7 @@ VWidth: 0
 Flags: W
 HStem: 203 108<88.6072 156.817> 519 125<560.145 626.462>
 VStem: 30 27<-45.8159 136.404> 164 32<45.7511 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100651,6 +101097,7 @@ VWidth: 0
 Flags: W
 HStem: 203 108<88.6072 156.817> 519 125<700.145 766.462>
 VStem: 30 27<-45.8159 136.404> 164 32<45.7511 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100664,6 +101111,7 @@ VWidth: 0
 Flags: W
 HStem: 203 108<88.6072 156.817> 600 125<840.145 906.462>
 VStem: 30 27<-45.8219 136.404> 151 24<6 93.4724> 164 32<46.3647 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100677,6 +101125,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.46>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100690,6 +101139,7 @@ VWidth: 0
 Flags: W
 HStem: 203 108<88.6072 156.817> 517 126<559.958 616.877>
 VStem: 30 27<-45.8159 136.404> 164 32<45.7511 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100703,6 +101153,7 @@ VWidth: 0
 Flags: W
 HStem: 204 108<90.0564 157.9> 520 126<699.958 756.877>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100716,6 +101167,7 @@ VWidth: 0
 Flags: W
 HStem: 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20<593.252 625>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100729,6 +101181,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817> 456 21G<813.151 834> 681 125<971.871 1039.35>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100803,6 +101256,7 @@ VWidth: 999
 Flags: W
 HStem: 65 134<60.4374 124.588> 89 134<222.437 286.588>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100816,6 +101270,7 @@ VWidth: 0
 Flags: W
 HStem: 111 104<140.5 249.089> 220 78<334.5 408.652>
 VStem: 188 88<64.5 188.066> 292 69<266.5 346.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -100829,6 +101284,7 @@ VWidth: 0
 Flags: W
 HStem: 0 15<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 275.483>
 VStem: 112 9<2.02298 16.4071> 113 31<19.5513 135> 272 9<26.023 40.4071> 273 31<43.5513 159> 348 34<46.8179 282.938>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -100842,6 +101298,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<179.5 182.5> 30 106<367.552 466.3> 84 94<51.6637 112.37> 108 94<211.664 272.37>
 VStem: 116 8<3.52825 14.6724> 116 31<26.8191 78.9965> 276 8<27.5282 38.6724> 276 31<50.8191 102.996> 336 34<137.47 214.16> 378 26<418.5 521.999> 396 11<520.513 543.981> 501 22<179.369 286>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
@@ -100855,6 +101312,7 @@ VWidth: 0
 Flags: W
 HStem: 0 106<51.5524 150.3>
 VStem: 20 34<107.47 184.16> 62 26<388.5 491.999> 80 11<490.513 513.981> 185 22<149.369 256>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -100868,6 +101326,7 @@ VWidth: 0
 Flags: W
 HStem: 0 106<49.7806 150.57>
 VStem: 20 29<108.904 171.804> 62 26<379.5 491.847> 80 11<490.513 513.987> 185 22<148.28 255.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -100881,8 +101340,9 @@ Encoding: 118641 118641 811
 Width: 625
 VWidth: 0
 Flags: W
-HStem: 0 21<31.8692 33> 67 94<354.335 426.663> 451 125<479.474 545.206>
-VStem: 319 31<115 218.966> 463 10<245.868 269.647>
+HStem: 0 21<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
+VStem: 300 31<94 197.966> 444 10<224.868 248.647>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100895,6 +101355,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100907,6 +101368,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100919,6 +101381,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100931,6 +101394,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21.5996<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100943,10 +101407,11 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
-Refer: 656 61133 N 1 0 0 1 0 0 2
+Refer: 656 61133 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1CF77
@@ -100955,6 +101420,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100967,6 +101433,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100978,6 +101445,7 @@ Encoding: 118649 118649 819
 Width: 625
 VWidth: 0
 Flags: W
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -100990,6 +101458,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101002,6 +101471,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101014,6 +101484,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101026,6 +101497,7 @@ Width: 815
 VWidth: 0
 Flags: W
 HStem: 0 15.5996<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20<426.269 458>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101039,6 +101511,7 @@ VWidth: 0
 Flags: W
 HStem: 1 247
 VStem: 20 220
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101053,6 +101526,7 @@ VWidth: 0
 Flags: W
 HStem: 1 21<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
 VStem: 121 18<269.004 304.991> 283 43<102.263 295.725>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101067,6 +101541,7 @@ VWidth: 0
 Flags: W
 HStem: 1 21G<216.344 231>
 VStem: 20 253
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101097,6 +101572,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<85.9048 89>
 VStem: 20 253
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101110,6 +101586,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<64.0087 84>
 VStem: 16 177
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -101123,6 +101600,7 @@ VWidth: 0
 Flags: W
 HStem: -4 112<124.008 169.548>
 VStem: 68 49<48.5 209.314> 117 36<360.356 425.472> 117 52<367.678 508>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -101136,6 +101614,7 @@ Width: 233
 VWidth: 0
 Flags: W
 VStem: 31 40<290 399.582> 155 40<118.412 215>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -101149,6 +101628,7 @@ VWidth: 0
 Flags: W
 HStem: -4 47<153.416 216.758> 3 73<578 635.7> 322 81<483.486 609.356> 329 75<150.465 265.879>
 VStem: 20 71<115.362 264.116> 668 64<109.396 265.284>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101162,6 +101642,7 @@ Width: 200
 VWidth: 0
 Flags: W
 VStem: 23 154
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -101176,6 +101657,7 @@ VWidth: 0
 Flags: W
 HStem: 454 21<302.5 307.5> 545 117<210.931 296.442>
 VStem: 183 19<492.423 522.491> 298 27<462.636 537.411>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101190,6 +101672,7 @@ Width: 240
 VWidth: 0
 Flags: W
 VStem: 30 185
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101203,6 +101686,7 @@ VWidth: 0
 Flags: W
 HStem: 137 134<231.788 297.641>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101216,6 +101700,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<240 260>
 VStem: 30 309
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101229,6 +101714,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<405 426> 137 134<232.569 297.563>
 VStem: 203 10<83.7422 104.195> 304 27<10.9733 144>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101242,6 +101728,7 @@ VWidth: 0
 Flags: W
 HStem: 0 9G<238 259 469 473.5> 162 134<402.569 467.563>
 VStem: 373 10<108.742 129.195> 474 27<35.9733 169>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101297,6 +101784,7 @@ Width: 325
 VWidth: 0
 Flags: W
 VStem: 30 271
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101310,6 +101798,7 @@ VWidth: 0
 Flags: W
 HStem: 137 134<359.788 425.641>
 VStem: 331 10<83.3571 104.99> 339 118<139.656 250.711> 421 18<-25.8192 26.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101323,6 +101812,7 @@ VWidth: 0
 Flags: W
 HStem: -4 112<338.794 405.126>
 VStem: 260 144<434.189 500.122> 302 130<23.4466 106.874>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101336,6 +101826,7 @@ VWidth: 0
 Flags: W
 HStem: -2 21<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588>
 VStem: 203 11<82.051 103.404> 304 27<10.9824 181.5> 365 11<106.051 127.404> 466 27<34.9824 205.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101349,6 +101840,7 @@ VWidth: 0
 Flags: W
 HStem: 37 94<404.253 464.991> 73 134<231.788 297.641>
 VStem: 203 10<19.3571 40.9895> 211 118<75.6563 186.711> 293 18<-89.8192 -37.7153> 370 31<80 189.301> 490 11<204.499 239.569>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101362,6 +101854,7 @@ VWidth: 0
 Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 208 31<40 149.301> 328 10<168.655 199.288>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101373,6 +101866,7 @@ Encoding: 118675 118675 845
 Width: 625
 VWidth: 0
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101408,6 +101902,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101420,6 +101915,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198 446.024 466> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101432,6 +101928,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101444,6 +101941,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101456,6 +101954,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101468,6 +101967,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101480,6 +101980,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<194.869 196> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101492,6 +101993,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<194.869 196 420.89 434.5> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101504,6 +102006,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21<195.056 196> 451 126<640.898 709.284>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101516,6 +102019,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101528,6 +102032,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101540,6 +102045,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101552,6 +102058,7 @@ Width: 990
 VWidth: 0
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101564,6 +102071,7 @@ Width: 990
 VWidth: 0
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101577,6 +102085,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206>
 VStem: 30 10<35.0276 56.65> 131 27<-37.0267 133.5>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101590,6 +102099,7 @@ VWidth: 0
 Flags: W
 HStem: 57 134<58.8267 123.21> 611 125<645.494 712.462>
 VStem: 30 10<0.0497856 24.65> 131 27<-69.119 101.5>
+AnchorPoint: "Podchashie" 550 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101603,6 +102113,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101616,6 +102127,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101629,6 +102141,7 @@ VWidth: 0
 Flags: W
 HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 614 125<814.302 882.462>
 VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
+AnchorPoint: "Podchashie" 710 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101642,6 +102155,7 @@ VWidth: 0
 Flags: W
 HStem: -1 22<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101655,6 +102169,7 @@ VWidth: 0
 Flags: W
 HStem: -1 22<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101668,6 +102183,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101681,6 +102197,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101694,6 +102211,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101707,6 +102225,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101720,6 +102239,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101733,6 +102253,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101746,6 +102267,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 641 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101758,6 +102280,7 @@ Width: 715
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 451 125<569.049 637.264>
+AnchorPoint: "Podchashie" 503 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101770,6 +102293,7 @@ Width: 975
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 599 125<829.049 897.264>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101782,6 +102306,7 @@ Width: 1105
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 681 125<959.575 1027.46>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101794,6 +102319,7 @@ Width: 1010
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 672 107<878.981 934.403>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101806,6 +102332,7 @@ Width: 975
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 602 125<828.157 884.865> 654 20<591.252 623>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101818,6 +102345,7 @@ Width: 1105
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 460 21<807.105 828> 683 123<961.157 1025.99>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101830,6 +102358,7 @@ Width: 835
 VWidth: 0
 Flags: W
 HStem: 0 21<242.042 257.083> 451 125<688.289 754.923>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101842,6 +102371,7 @@ Width: 835
 VWidth: 0
 Flags: W
 HStem: 0 21<242.042 257.083> 451 125<688.289 754.923>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101855,6 +102385,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<207.042 222.083> 89 134<58.8267 124.563> 451 125<653.289 719.923>
 VStem: 30 10<36.1421 56.65> 131 27<-37.0267 133.5>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101868,6 +102399,7 @@ VWidth: 0
 Flags: W
 HStem: 86 134<58.8267 124.563> 616 107<624.342 679.088>
 VStem: 30 10<33.1421 53.65> 131 27<-40.0267 130.5>
+AnchorPoint: "Podchashie" 530 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101881,6 +102413,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101894,6 +102427,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<367.042 382.083 557.89 571.5> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101907,6 +102441,7 @@ VWidth: 0
 Flags: W
 HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 606 107<819.776 879.997>
 VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101972,6 +102507,7 @@ VWidth: 0
 Flags: W
 HStem: -1 21<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101985,6 +102521,7 @@ VWidth: 0
 Flags: W
 HStem: -7 315 -1 21<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 112 21<687.89 694> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 556 226
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -101999,6 +102536,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31<30 33.5 160 163.5 297.042 312.083> 451 125<743.289 809.923>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
+AnchorPoint: "Podchashie" 651 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102012,6 +102550,7 @@ VWidth: 0
 Flags: W
 HStem: 2 90<71.5 161.5> 249 85<430.5 535.941>
 VStem: 25 84<56 147> 484 86<191.5 291>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102025,6 +102564,7 @@ VWidth: 0
 Flags: W
 HStem: 99 90<238.5 328.5> 346 85<597.5 702.941>
 VStem: 192 84<153 244> 651 86<288.5 388>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102038,6 +102578,7 @@ VWidth: 0
 Flags: W
 HStem: -7 21<149 172.258>
 VStem: 25 270
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102051,6 +102592,7 @@ Width: 1070
 VWidth: 0
 Flags: W
 HStem: -7 21<149 172.258 476.869 478> 451 125<924.474 990.206>
+AnchorPoint: "Podchashie" 813 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102066,6 +102608,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<24.0417 40.5714 193.121 208.857>
 VStem: 22 243
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102079,6 +102622,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21<35.5 47.5> 450 126<478.494 546.2>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102091,6 +102635,7 @@ Width: 825
 VWidth: 0
 Flags: W
 HStem: 0 21<235.5 247.5> 450 126<678.494 746.2>
+AnchorPoint: "Podchashie" 583 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102106,6 +102651,7 @@ VWidth: 0
 Flags: W
 HStem: 256 60<174.288 437.515>
 VStem: 540 80<42.3234 152.785>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102179,14 +102725,14 @@ EndChar
 StartChar: u1CF35
 Encoding: 118581 118581 903
 Width: 0
-VWidth: 0
+VWidth: 999
 Flags: W
-HStem: -215 94<21.335 93.663>
-VStem: -14 31<-167 -63.034> 130 10<-36.132 -12.353>
-AnchorPoint: "Podchashie" 71 -23 mark 0
+HStem: 0 94<-138.665 -66.337>
+VStem: -174 31<48 151.966> -30 10<178.868 202.647>
+AnchorPoint: "Podchashie" -93 200 mark 0
 LayerCount: 3
 Fore
-Refer: 87 61013 N 1 0 0 1 427 -211 2
+Refer: 87 61013 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u1CF36
@@ -102319,6 +102865,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5>
 VStem: 30 169
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102331,6 +102878,7 @@ Width: 500
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102345,6 +102893,7 @@ Width: 650
 VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102360,6 +102909,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<82.0455 90.5> 300 60<21.6389 97.3965>
 VStem: 12 234
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102373,6 +102923,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5> 281 134<264.827 330.563>
 VStem: 236 10<227.683 248.65> 337 27<154.973 325.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102386,6 +102937,7 @@ VWidth: 0
 Flags: W
 HStem: -6 21<178.5 185.5> 371 125<35 110.225>
 VStem: 182 35<48.6146 286.634>
+AnchorPoint: "Podchashie" 200 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -102399,6 +102951,7 @@ VWidth: 0
 Flags: W
 HStem: 259 104<96.4066 180.778>
 VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 78.3868> 197 31<85.9516 292.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102412,6 +102965,7 @@ VWidth: 0
 Flags: W
 HStem: 206 108<82.3961 151.009>
 VStem: 24 27<-42.8409 141.765> 158 32<41.3 254>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102425,6 +102979,7 @@ VWidth: 0
 Flags: W
 HStem: 206 108<69.6788 136.817>
 VStem: 10 27<-42.8159 141.02> 144 32<48.7511 257>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102438,6 +102993,7 @@ Width: 150
 Flags: W
 HStem: -10 21G<30 33.3334>
 VStem: 40 83<90.8228 272.145>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102468,6 +103024,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102508,6 +103065,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102556,6 +103114,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102605,6 +103164,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102656,6 +103216,7 @@ Width: 650
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102715,6 +103276,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102763,6 +103325,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102813,6 +103376,7 @@ Width: 650
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102879,6 +103443,7 @@ VWidth: 0
 Flags: W
 HStem: 205 108<90.0564 157.9> 520 126<559.958 626.984>
 VStem: 30 27<-43.8865 138.488> 151 24<0.217152 103.645> 164 32<50.0424 260.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102940,6 +103505,7 @@ Encoding: 60102 60102 935
 Width: 625
 Flags: W
 HStem: 0 21G<31.9512 48.4818>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -102966,6 +103532,7 @@ Encoding: 60103 60103 936
 Width: 625
 Flags: W
 HStem: 0 21G<31.9512 48.4818>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103001,6 +103568,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103050,6 +103618,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103102,6 +103671,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103162,6 +103732,7 @@ Width: 900
 Flags: W
 HStem: 0 21G<194.869 196> 156 94<763.47 834.291> 450 126<639.722 709.078>
 VStem: 727 31<258.759 307.922> 871 10<331.849 358.288>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103238,6 +103809,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396>
 VStem: 688 23<67 122.325>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103284,6 +103856,7 @@ Encoding: 60208 60208 942
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103347,6 +103920,7 @@ Encoding: 60209 60209 943
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103411,6 +103985,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.279>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103467,6 +104042,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069> 354.5 31<526.44 651.402> 471.5 14<639.468 717.695>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103535,6 +104111,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103584,6 +104161,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156 732 736.5> 202.44 134<666.67 728.391> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069> 726 18<-10.5225 54.1635> 737 26<33.8008 214.94>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103661,6 +104239,7 @@ Width: 960
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 40.5> 599 125<829.049 897.258>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103718,6 +104297,7 @@ Width: 645
 Flags: W
 HStem: 22 98<346.399 408.628> 256 60<176.859 429.77>
 VStem: 208 111<91.5816 180.609>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103752,6 +104332,7 @@ Width: 645
 Flags: W
 HStem: 111 104<260.964 369.553> 256 60<176.859 429.77>
 VStem: 308.464 88<64.5 188.066>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103789,6 +104370,7 @@ Width: 645
 Flags: W
 HStem: 81 104<130.964 239.553 340.964 449.553> 256 60<176.859 429.77>
 VStem: 178.464 88<34.5 158.066> 388.464 88<34.5 158.066>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103836,6 +104418,7 @@ Encoding: 60236 60236 952
 Width: 645
 Flags: W
 HStem: 256 60<176.859 429.77>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103871,6 +104454,7 @@ Encoding: 60237 60237 953
 Width: 560
 Flags: W
 HStem: 22 59<103.102 167.133> 109 60<302.545 366.688> 124 58<28.0256 89.0892> 210 61<227.581 291.406> 341 57<81.5202 342.118>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -103915,6 +104499,7 @@ Width: 550
 Flags: W
 HStem: 83 34<345.31 373.137> 210 49<109.084 353.861>
 VStem: 441 84<53 140.003>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104004,6 +104589,7 @@ Width: 555
 VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -104082,6 +104668,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984>
 VStem: 22 22<-52.7908 139.562> 182 20<15.3987 75.8317> 197 31<83.6916 292.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104134,6 +104721,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56> 286 134<418.67 480.391>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254> 478 18<73.0371 137.723> 489 26<117.36 298.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104185,6 +104773,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104235,6 +104824,7 @@ VWidth: 999
 Flags: W
 HStem: 206 108<88.6072 156.817> 522 125<560.145 626.608>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104292,6 +104882,7 @@ Width: 970
 Flags: W
 HStem: 205 108<88.6072 156.817> 602 125<840.145 906.578>
 VStem: 30 27<-43.8219 138.404> 151 24<8 95.4724> 164 32<48.3647 255>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104353,6 +104944,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.61>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104430,6 +105022,7 @@ VWidth: 0
 Flags: W
 HStem: 204 108<90.0564 157.9> 520 126<699.958 766.984>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104490,6 +105083,7 @@ Width: 970
 Flags: W
 HStem: 204 108<90.0564 157.9> 601 126<835.958 902.782> 650 20G<593.252 625>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5> 931.54 0.460022<525.031 527.036>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104589,6 +105183,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -104894,6 +105489,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105046,6 +105642,7 @@ Width: 385
 Flags: W
 HStem: 0 21G<32.0417 40.5> 281 134<265.827 331.563>
 VStem: 237 10<227.683 248.65> 338 27<154.973 325.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105088,6 +105685,7 @@ Width: 385
 Flags: W
 HStem: 0 21G<32.0417 40.5> 281 134<265.827 331.563>
 VStem: 237 10<227.683 248.65> 338 27<154.973 325.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105131,6 +105729,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<64.0087 84>
 VStem: 16 177
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105164,6 +105763,7 @@ Width: 215
 VWidth: 999
 Flags: W
 HStem: 0 21G<64.0087 112>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105202,6 +105802,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<64.0087 84> 430.602 20G<176.5 195.905>
 VStem: 171.363 27.137<378.768 442.602>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105236,6 +105837,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<64.0087 112> 430.602 20G<176.5 195.905>
 VStem: 171.363 27.137<378.768 442.602>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105270,6 +105872,7 @@ Encoding: 60331 60331 1023
 Width: 229
 Flags: W
 VStem: 10 199
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105304,6 +105907,7 @@ Width: 229
 Flags: W
 HStem: 434.602 20G<166.5 185.216>
 VStem: 10 199
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105338,6 +105942,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105374,6 +105979,7 @@ Width: 225
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105407,6 +106013,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<38.2252 40.5>
 VStem: 30 170
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105436,6 +106043,7 @@ VWidth: 0
 Flags: W
 HStem: -12 21G<333 337.5> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105488,6 +106096,7 @@ Width: 360
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 52>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105522,6 +106131,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105579,6 +106189,7 @@ Width: 380
 Flags: W
 HStem: -6 21G<312.5 320> 371 125<170 243.449>
 VStem: 306 23<-5.97693 73.2259> 317 35<41.2233 285.929>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105631,6 +106242,7 @@ VWidth: 0
 Flags: W
 HStem: -12 21G<32.0417 40.5 333 337.5 421.5 428.5> 151 134<265.663 329.256> 371 125<278 352.883>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5> 425 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105685,6 +106297,7 @@ VWidth: 0
 Flags: W
 HStem: -12 34G<333 337.5 563.344 578> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105753,6 +106366,7 @@ VWidth: 0
 Flags: W
 HStem: -12 21G<32.0417 40.5 333 337.5 563.344 578> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105811,6 +106425,7 @@ Width: 850
 Flags: W
 HStem: -12 32G<513 517.5 601.5 608.5 767.75 799.569> 151 134<445.663 509.256> 371 125<458 532.883>
 VStem: 417 10<97.6833 118.65> 518 27<24.9733 195.5> 605 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105906,6 +106521,7 @@ VWidth: 999
 Flags: W
 HStem: 371 125<35 109.883>
 VStem: 182 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -105946,6 +106562,7 @@ VWidth: 999
 Flags: W
 HStem: 259 104<96.4066 180.778>
 VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 47.3533> 197 31<114.68 292.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -105985,6 +106602,7 @@ Width: 255
 VWidth: 999
 Flags: W
 VStem: 22 22<-52.9434 137.433> 182.75 19.25<4.59036 78.3868> 197 31<85.9516 286.414>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106020,6 +106638,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 55.0195 54.9645<123.467 156.19> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 151 24<0.0722885 37.9214> 164 32<107.924 254>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106067,6 +106686,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 247.561>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106118,6 +106738,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 54.9459 55.0381<123.467 156.221> 203 108<88.6072 156.817>
 VStem: 30 27<-45.8219 136.404> 151 24<0.430664 37.9182> 164 32<107.823 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106178,6 +106799,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 54.9459 55.0381<123.467 156.221> 203 108<88.6072 156.817> 441 134<685.67 747.391>
 VStem: 30 27<-45.8219 136.404> 151 24<0.430664 37.9182> 164 32<107.823 253> 745 18<228.037 292.723> 756 26<272.36 453.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106252,6 +106874,7 @@ Width: 420
 Flags: W
 HStem: 0 21G<287.832 308> 54.8637 55.1203<123.467 156.321> 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.05412 37.2296 106.25 116.974> 164 32<107.501 261.5> 208 10<558.188 601.288>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -106321,6 +106944,7 @@ VWidth: 999
 Flags: W
 HStem: 55.1694 54.8146<123.249 155.965> 206 108<88.6072 156.817> 522 125<560.145 626.462>
 VStem: 30 27<-42.8159 139.404> 151 24<3.43066 38.2427> 164 32<107.128 257>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106377,6 +107001,7 @@ VWidth: 999
 Flags: W
 HStem: 522 125<700.145 766.462>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 250.664>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106433,6 +107058,7 @@ Width: 985
 Flags: W
 HStem: 55.2056 54.7784<123.234 155.92> 205 108<88.6072 156.817> 602 125<840.145 906.462>
 VStem: 30 27<-43.8219 138.404> 151 24<8 37.6686> 164 32<108.158 255>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106502,6 +107128,7 @@ Width: 985
 Flags: W
 HStem: 602 125<840.145 906.462>
 VStem: 30 27<-43.8219 138.404> 151 24<8 95.4724> 164 32<48.3647 248.57>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106567,6 +107194,7 @@ VWidth: 0
 Flags: W
 HStem: 54.6659 55.3181<124.195 156.577> 204 108<90.0564 157.9> 520 126<699.958 756.877>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 38.2333> 164 32<107.431 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106636,6 +107264,7 @@ VWidth: 0
 Flags: W
 HStem: 520 126<699.958 756.877>
 VStem: 30 27<-44.8865 137.489> 151 24<0.226078 102.645> 164 32<49.0424 251.003>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106700,6 +107329,7 @@ VWidth: 999
 Flags: W
 HStem: 54.6659 55.3181<124.195 156.577> 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20G<593.252 625>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 38.2333> 164 32<107.431 259.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106774,6 +107404,7 @@ VWidth: 999
 Flags: W
 HStem: 601 126<835.958 892.761> 650 20G<593.252 625>
 VStem: 30 27<-44.8865 137.489> 151 24<0.226078 102.645> 164 32<49.0424 251.003>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106843,6 +107474,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 54.9459 55.0381<123.467 156.221> 203 108<88.6072 156.817> 457 21G<812.935 834> 681 126<972.958 1029.53>
 VStem: 30 27<-45.8219 136.404> 151 24<0.430664 37.9182> 164 32<107.823 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -106927,6 +107559,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 457 21G<812.935 834> 681 126<972.958 1029.53>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 246.628>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107013,6 +107646,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107071,6 +107705,7 @@ VWidth: 0
 Flags: W
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.279>
 VStem: 523 23<68 123.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107133,6 +107768,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.279>
 VStem: 523 23<68 123.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107183,6 +107819,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.279>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107251,6 +107888,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.279>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107315,6 +107953,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107364,6 +108003,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: -5.40039 21G<226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107437,6 +108077,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107495,6 +108136,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107542,6 +108184,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107613,6 +108256,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107673,6 +108317,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107734,6 +108379,7 @@ Encoding: 61369 61369 1072
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107802,6 +108448,7 @@ Encoding: 61371 61371 1073
 Width: 790
 Flags: W
 HStem: 0 15.2803G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107883,6 +108530,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -107944,6 +108592,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108010,6 +108659,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108081,6 +108731,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108140,6 +108791,7 @@ Encoding: 61379 61379 1079
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108213,6 +108865,7 @@ Encoding: 61380 61380 1080
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108275,6 +108928,7 @@ Encoding: 61381 61381 1081
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108346,6 +109000,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108420,6 +109075,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108512,6 +109168,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<90.0405 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108568,6 +109225,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<90.0405 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108636,6 +109294,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<90.0405 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108714,6 +109373,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<154.869 156 380.89 394.5> 450 126<599.722 669.078>
 VStem: 40 83<90.0405 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108803,6 +109463,7 @@ Width: 715
 VWidth: 0
 Flags: W
 HStem: 451 125<569.049 637.264>
+AnchorPoint: "Podchashie" 503 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108860,6 +109521,7 @@ Width: 975
 VWidth: 0
 Flags: W
 HStem: 599 125<829.049 897.264>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -108929,6 +109591,7 @@ Width: 1105
 VWidth: 999
 Flags: W
 HStem: 681 125<959.575 1027.46>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109120,6 +109783,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109170,6 +109834,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109217,6 +109882,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109265,6 +109931,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109325,6 +109992,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109382,6 +110050,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109441,6 +110110,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109502,6 +110172,7 @@ VWidth: 999
 Flags: W
 HStem: -48 58<150.193 194.26> 0 21G<356.869 358> 44 114<64.6637 123.943 224.585 286.193> 451 125<804.474 870.206>
 VStem: 30 130<45.4168 111.819> 30 10<-64.8594 -32.4668> 288 9<-36.977 -22.0985> 289 31<-18.5259 116>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109559,6 +110230,7 @@ VWidth: 999
 Flags: W
 HStem: -48 58<150.193 194.26> 0 21G<356.869 358> 44 114<64.6637 123.943 224.585 286.193> 451 125<804.474 870.206>
 VStem: 30 130<45.4168 111.819> 30 10<-64.8594 -32.4668> 288 9<-36.977 -22.0985> 289 31<-18.5259 116>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109613,6 +110285,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109684,6 +110357,7 @@ VWidth: 999
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109746,6 +110420,7 @@ VWidth: 999
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
+AnchorPoint: "Podchashie" 701 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109818,6 +110493,7 @@ VWidth: 999
 Flags: W
 HStem: -7 21G<149 172.258 476.869 478> 451 125<924.474 990.206>
 VStem: 374 111<201.189 283.386>
+AnchorPoint: "Podchashie" 813 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109894,6 +110570,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 55.0195 54.9645<123.467 156.19> 204 108<88.6072 156.56> 369 134<557.618 619.339>
 VStem: 30 27<-45.8219 138.118> 151 24<0.0722885 37.9214> 164 32<107.924 254> 616.948 18<156.037 220.723> 627.948 26<200.36 381.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -109964,6 +110641,7 @@ Width: 240
 VWidth: 0
 Flags: W
 VStem: -98 313
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110013,6 +110691,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21.5996G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110122,6 +110801,7 @@ Encoding: 61396 61396 1128
 Width: 975
 Flags: W
 HStem: 602 125<828.157 884.865> 654 20G<591.252 623>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110216,6 +110896,7 @@ VWidth: 999
 Flags: W
 HStem: -48 58<150.193 194.26> 0 21G<356.869 358> 44 114<64.6637 123.943 224.585 286.193> 451 125<804.474 870.206>
 VStem: 30 130<45.4168 111.819> 30 10<-64.8594 -32.4668> 288 9<-36.977 -22.0985> 289 31<-18.5259 116>
+AnchorPoint: "Podchashie" 703 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110268,6 +110949,7 @@ VWidth: 0
 Flags: W
 HStem: 121 134<417.788 483.641>
 VStem: 94 111<297.4 377.377> 389 10<67.3571 88.9895> 397 118<123.656 234.711> 479 18<-41.8192 10.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110316,6 +110998,7 @@ VWidth: 0
 Flags: W
 HStem: 121 134<417.788 483.641>
 VStem: 389 10<67.3571 88.9895> 397 118<123.656 234.711> 479 18<-41.8192 10.2847>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110401,6 +111084,7 @@ Width: 1090
 Flags: W
 HStem: 0 21G<34.0417 42.5> 460 21G<807.105 828> 683 123<961.157 1026.36>
 VStem: 1006 23<297 352.324>
+AnchorPoint: "Podchashie" 890 470 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110472,6 +111156,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<90.1848 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110529,6 +111214,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110592,6 +111278,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.074>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110660,6 +111347,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.105>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110734,6 +111422,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156 732 736.5> 202.44 134<666.67 728.391> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069> 726 18<-10.5225 54.1635> 737 26<33.8008 214.94>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110812,6 +111501,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110881,6 +111571,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.396>
 VStem: 525 23<67 122.325>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110918,6 +111609,7 @@ Width: 640
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.108>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -110964,6 +111656,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111004,6 +111697,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Podchashie" 513 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111103,6 +111797,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 247.561>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111152,6 +111847,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<159 165> 286 134<418.67 480.391>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 247.561> 478 18<73.0371 137.723> 489 26<117.36 298.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111208,6 +111904,7 @@ Width: 225
 VWidth: 999
 Flags: W
 VStem: -86 286
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111257,6 +111954,7 @@ VWidth: 0
 Flags: W
 HStem: -12 21G<32.0417 40.5 333 337.5> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -111320,6 +112018,7 @@ Encoding: 61294 61294 1164
 Width: 650
 VWidth: 999
 Flags: W
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111380,6 +112079,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 441 134<685.67 747.391>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 246.628> 745 18<228.037 292.723> 756 26<272.36 453.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111481,6 +112181,7 @@ VWidth: 999
 Flags: W
 HStem: 522 125<560.145 626.462>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 250.664>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111530,6 +112231,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111607,6 +112309,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111665,6 +112368,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<158 163> 54.9459 55.0381<123.467 156.221> 203 108<88.6072 156.817> 683 125<975.145 1041.46>
 VStem: 30 27<-45.8219 136.404> 151 24<0.430664 37.9182> 164 32<107.823 253>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111754,6 +112458,7 @@ VWidth: 0
 Flags: W
 HStem: 520 126<559.958 616.877>
 VStem: 30 27<-44.8865 137.489> 151 24<0.226078 102.645> 164 32<49.0424 251.003>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111819,6 +112524,7 @@ Width: 850
 Flags: W
 HStem: -12 33G<212.042 220.5 513 517.5 601.5 608.5 767.75 799.569> 151 134<445.663 509.256> 371 125<458 532.883>
 VStem: 417 10<97.6833 118.65> 518 27<24.9733 195.5> 605 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111933,6 +112639,7 @@ Encoding: 60420 60420 1186
 Width: 999
 Flags: W
 HStem: 0 21G<32.0417 52>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -111977,6 +112684,7 @@ Width: 999
 Flags: W
 HStem: 0 21G<32.0417 52>
 VStem: 645 31<737 860.787> 674 9<895.715 910.801> 765 10<883.249 928.288>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112034,6 +112742,7 @@ Encoding: 60422 60422 1188
 Width: 999
 Flags: W
 HStem: 0 21G<32.0417 52>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112083,6 +112792,7 @@ Width: 973
 Flags: W
 HStem: 0 21G<32.0417 52>
 VStem: 605 31<687 810.787> 634 9<845.715 860.801> 725 10<833.249 878.288>
+AnchorPoint: "Podchashie" 750 410 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112145,6 +112855,7 @@ Width: 1103
 Flags: W
 HStem: 0 21G<32.0417 52>
 VStem: 513 102<393.875 553.298>
+AnchorPoint: "Podchashie" 890 470 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112200,6 +112911,7 @@ Width: 1103
 Flags: W
 HStem: 0 21G<32.0417 52> 655.641 124.629<962.876 1019.58>
 VStem: 524.767 90.233<393.55 543.486>
+AnchorPoint: "Podchashie" 890 470 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112275,6 +112987,7 @@ Width: 1103
 Flags: W
 HStem: 0 21G<32.0417 52> 665.97 21G<787.701 801.296>
 VStem: 513 102<393.875 553.298>
+AnchorPoint: "Podchashie" 890 470 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112348,6 +113061,7 @@ Encoding: 60427 60427 1193
 Width: 1135
 Flags: W
 HStem: 0 21G<32.0417 52> 683 21G<1091.5 1095.35>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112401,6 +113115,7 @@ Encoding: 60428 60428 1194
 Width: 1135
 Flags: W
 HStem: 0 21G<32.0417 52> 683 21G<1091.5 1095.35>
+AnchorPoint: "Podchashie" 860 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112462,6 +113177,7 @@ Width: 1135
 Flags: W
 HStem: 0 21G<32.0417 52> 683 21G<1091.5 1095.35>
 VStem: 325 13<433.586 464.272> 487 31<528.348 568.154>
+AnchorPoint: "Podchashie" 910 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112534,6 +113250,7 @@ Width: 1239
 Flags: W
 HStem: 0 21G<32.0417 52>
 VStem: 649 102<473.875 633.298>
+AnchorPoint: "Podchashie" 1020 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112611,6 +113328,7 @@ Width: 1259
 Flags: W
 HStem: 0 21G<32.0417 52>
 VStem: 649 102<473.875 633.298>
+AnchorPoint: "Podchashie" 1050 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112693,6 +113411,7 @@ Width: 1259
 Flags: W
 HStem: 0 21G<32.0417 52>
 VStem: 649 102<473.875 633.298>
+AnchorPoint: "Podchashie" 1050 490 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112769,6 +113488,7 @@ Width: 400
 Flags: W
 HStem: -6 21G<32.0417 40.5 329.5 336.5> 371 125<186 260.883>
 VStem: 333 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112804,6 +113524,7 @@ Width: 500
 Flags: W
 HStem: -12 33G<32.0417 40.5 333 337.5 421.5 428.5> 151 134<265.663 329.256> 371 125<278 352.883>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5> 425 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112850,6 +113571,7 @@ Width: 665
 Flags: W
 HStem: -12 32G<32.0417 40.5 333 337.5 421.5 428.5 587.75 619.569> 151 134<265.663 329.256> 371 125<278 352.883>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5> 425 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112907,6 +113629,7 @@ Width: 850
 Flags: W
 HStem: -12 32G<212.042 220.5 513 517.5 601.5 608.5 767.75 799.569> 151 134<445.663 509.256> 371 125<458 532.883>
 VStem: 417 10<97.6833 118.65> 518 27<24.9733 195.5> 605 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -112979,6 +113702,7 @@ Width: 645
 Flags: W
 HStem: -12 34G<32.0417 40.5 333 337.5 563.344 578> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113032,6 +113756,7 @@ Width: 690
 Flags: W
 HStem: -12 30G<32.0417 40.5 333 337.5 475.344 490 635.344 650> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113082,6 +113807,7 @@ Width: 270
 Flags: W
 HStem: -12 27G<118 122.5 206.5 213.5> 151 134<50.6633 114.256> 371 125<63 137.883>
 VStem: 22 10<97.6833 118.65> 123 27<24.9733 195.5> 210 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -113118,6 +113844,7 @@ Width: 445
 Flags: W
 HStem: -12 32G<118 122.5 206.5 213.5 372.75 404.569> 151 134<50.6633 114.256> 371 125<63 137.883>
 VStem: 22 10<97.6833 118.65> 123 27<24.9733 195.5> 210 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -113165,6 +113892,7 @@ Width: 425
 Flags: W
 HStem: -12 34G<118 122.5 348.344 363> 151 134<50.6633 114.256>
 VStem: 22 10<97.6833 118.65> 123 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113208,6 +113936,7 @@ Width: 475
 Flags: W
 HStem: -12 30G<118 122.5 265.344 280 425.344 440> 151 134<50.6633 114.256>
 VStem: 22 10<97.6833 118.65> 123 27<24.9733 195.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113248,6 +113977,7 @@ Width: 762
 Flags: W
 HStem: -6 26G<232.042 252 512.5 520 681.123 710.5> 196 108<89.8128 157.627> 371 125<370 443.449>
 VStem: 30.4844 26<-52.7947 129.488> 506 23<-5.97693 73.2259> 517 35<41.2233 285.929>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113309,6 +114039,7 @@ Width: 695
 Flags: W
 HStem: 0 21G<232.042 240.5> 196 108<89.8128 157.627>
 VStem: 30.4844 26<-52.7947 129.488>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113359,6 +114090,7 @@ Width: 902
 Flags: W
 HStem: 0 13G<310.951 327.482 497.905 511.5> 259 104<107.162 189.023>
 VStem: 30 21<-52.7917 126.715> 205 31<90.4963 235.924>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113414,6 +114146,7 @@ Width: 934
 Flags: W
 HStem: 0 21G<310.951 327.482 497.905 511.5> 259 104<107.162 189.023>
 VStem: 30 21<-52.7917 126.715> 205 31<90.4963 235.924>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113480,6 +114213,7 @@ Width: 899
 Flags: W
 HStem: 0 21G<311.056 314.5> 259 104<107.162 189.023>
 VStem: 30 21<-52.7917 126.715> 205 31<90.4963 235.924> 504 31<527 650.787> 533 9<685.715 700.801> 624 10<673.249 718.288>
+AnchorPoint: "Podchashie" 663 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113542,6 +114276,7 @@ Width: 1065
 Flags: W
 HStem: 259 104<106.866 189.023> 735.671 124.629<924.08 980.779>
 VStem: 30 21<-52.7917 148.272> 205 31<90.4963 235.924> 485.767 90.233<473.55 623.486>
+AnchorPoint: "Podchashie" 854 570 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113620,6 +114355,7 @@ Width: 1070
 Flags: W
 HStem: 205 108<88.6072 156.817> 602 125<840.145 906.135>
 VStem: 30 27<-43.8219 138.404> 151 24<8 95.4724> 164 32<48.3647 255>
+AnchorPoint: "Podchashie" 743 405 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113687,6 +114423,7 @@ VWidth: 750
 Flags: W
 HStem: -6 27G<184.5 192 261.869 264.822> 371 125<42 115.449> 438 20G<402.269 433.933>
 VStem: 178 23<-5.97693 73.2259> 189 35<41.2233 285.929>
+AnchorPoint: "Podchashie" 556 199.17 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -113734,6 +114471,7 @@ VWidth: 750
 Flags: W
 HStem: -2 21G<51 52.5 223 225>
 VStem: 0 128<65.9763 132.567>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113796,6 +114534,7 @@ VWidth: 750
 Flags: W
 HStem: -3 21G<49 55.5>
 VStem: 44 24<-2.35369 46.7067>
+AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -113858,6 +114597,7 @@ VWidth: 750
 Flags: W
 HStem: 0 21G<131.5 134 304 306.5>
 VStem: 80 129<66.4277 131.652> 252 130<67.9763 130.979>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -113944,6 +114684,7 @@ VWidth: 750
 Flags: W
 HStem: 0 21G<242.5 246> 552 80<587.704 617.173> 555 91<502.518 548.086 589.44 617.173> 649 20G<358.5 363>
 VStem: 212 51<97.9778 192.877> 212 32<224 274.417> 300 44<144.672 208 238 327.601>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -114017,6 +114758,7 @@ Encoding: 60461 60461 1222
 Width: 705
 Flags: W
 HStem: 0 21G<232.042 240.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -114848,6 +115590,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 450 126<471.313 535.97>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -114904,6 +115647,7 @@ Width: 400
 Flags: W
 HStem: -6 21G<32.0417 52 332.5 340> 371 125<190 263.449>
 VStem: 326 23<-5.97693 73.2259> 337 35<41.2233 285.929>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
@@ -114944,6 +115688,7 @@ VWidth: 0
 Flags: W
 HStem: -12 32G<333 337.5 421.5 428.5 587.75 619.569> 151 134<265.663 329.256> 371 125<278 352.883>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5> 425 35<48.6146 282.933>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -115024,6 +115769,7 @@ Width: 360
 Flags: W
 HStem: 255 104<91.4019 174.778>
 VStem: 16 22<-56.7908 135.562> 176 20<11.3987 71.8317> 191 31<79.6916 288.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -115059,6 +115805,7 @@ VWidth: 0
 Flags: W
 HStem: 166 108<90.0564 157.172>
 VStem: 30 27<-82.8837 99.4883>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -115096,6 +115843,7 @@ VWidth: 0
 Flags: W
 HStem: 205 108<90.0564 157.9> 520 126<559.958 626.984>
 VStem: 30 27<-43.8865 138.488> 151 24<0.217152 103.645> 164 32<50.0424 260.5>
+AnchorPoint: "Podchashie" 400 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
@@ -115205,6 +115953,7 @@ Width: 620
 Flags: W
 HStem: 0 21G<32.0561 35.5>
 VStem: 225 31<527 650.787> 254 9<685.715 700.801> 345 10<673.249 718.288>
+AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
