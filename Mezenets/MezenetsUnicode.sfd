@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1541468667
+ModificationTime: 1541510199
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -957,7 +957,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 118560 26 9
+WinInfo: 118482 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -16357,6 +16357,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -16405,7 +16406,7 @@ Encoding: 61061 61061 98
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -16457,6 +16458,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 370 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -16868,7 +16870,7 @@ StartChar: uniEE71
 Encoding: 61041 61041 104
 Width: 625
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
 TtInstrs:
 SVTCA[y-axis]
@@ -16997,6 +16999,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 352 1 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -17053,8 +17056,9 @@ Encoding: 61042 61042 105
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.144>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -17125,8 +17129,9 @@ Encoding: 61060 61060 106
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 370 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -17654,8 +17659,9 @@ Encoding: 61043 61043 113
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -18733,9 +18739,10 @@ Encoding: 61058 61058 126
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
 VStem: 300 31<94 197.966> 444 10<224.868 248.647>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 375 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -18809,8 +18816,9 @@ Encoding: 61059 61059 127
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 426 101 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -18987,8 +18995,9 @@ Encoding: 61044 61044 130
 Width: 625
 VWidth: 999
 GlyphClass: 3
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -19466,8 +19475,9 @@ Encoding: 61062 61062 134
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 370 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -33146,7 +33156,7 @@ StartChar: uniEB97
 Encoding: 60311 60311 231
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -33427,6 +33437,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -33471,7 +33482,7 @@ StartChar: uniEB98
 Encoding: 60312 60312 232
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -33889,6 +33900,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -33940,7 +33952,7 @@ EndChar
 StartChar: uniEB9B
 Encoding: 60315 60315 233
 Width: 625
-Flags: W
+Flags: HW
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
 TtInstrs:
 SVTCA[y-axis]
@@ -34250,6 +34262,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -35250,7 +35263,7 @@ StartChar: uniEB99
 Encoding: 60313 60313 239
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -35602,6 +35615,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -35650,7 +35664,7 @@ EndChar
 StartChar: uniEB9A
 Encoding: 60314 60314 240
 Width: 625
-Flags: W
+Flags: HW
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
 TtInstrs:
 SVTCA[y-axis]
@@ -35975,6 +35989,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -49180,7 +49195,7 @@ StartChar: uniEB92
 Encoding: 60306 60306 300
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 67 94<354.335 426.663> 451 125<479.474 545.206>
 VStem: 319 31<115 218.966> 463 10<245.868 269.647>
 TtInstrs:
@@ -49418,6 +49433,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -49465,7 +49481,7 @@ StartChar: uniEB93
 Encoding: 60307 60307 301
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 67 94<354.335 426.663> 451 125<479.474 545.206>
 VStem: 319 31<115 218.966> 463 10<245.868 269.647>
 TtInstrs:
@@ -49704,6 +49720,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -49748,7 +49765,7 @@ StartChar: uniEB94
 Encoding: 60308 60308 302
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -49987,6 +50004,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -50029,7 +50047,7 @@ StartChar: uniEB95
 Encoding: 60309 60309 303
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -50198,6 +50216,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -50237,7 +50256,7 @@ StartChar: uniEB96
 Encoding: 60310 60310 304
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
 TtInstrs:
 SVTCA[y-axis]
@@ -50564,6 +50583,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -64987,9 +65007,10 @@ StartChar: uniEA77
 Encoding: 60023 60023 425
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -65631,7 +65652,7 @@ EndChar
 StartChar: uniEB9C
 Encoding: 60316 60316 440
 Width: 625
-Flags: W
+Flags: HW
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
 TtInstrs:
 SVTCA[y-axis]
@@ -65953,6 +65974,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -65996,7 +66018,7 @@ EndChar
 StartChar: uniEB9D
 Encoding: 60317 60317 441
 Width: 625
-Flags: W
+Flags: HW
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
 TtInstrs:
 SVTCA[y-axis]
@@ -66290,6 +66312,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 385 70 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -66697,8 +66720,9 @@ StartChar: uniEACA
 Encoding: 60106 60106 452
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -68228,8 +68252,9 @@ StartChar: uniEACE
 Encoding: 60110 60110 459
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -68781,8 +68806,9 @@ StartChar: uniEAD9
 Encoding: 60121 60121 463
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 22 basechar 0
 AnchorPoint: "Podchashie" 388 -25 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -70294,8 +70320,9 @@ StartChar: uniEACB
 Encoding: 60107 60107 474
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -70343,8 +70370,9 @@ StartChar: uniEACC
 Encoding: 60108 60108 475
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -70444,8 +70472,9 @@ StartChar: uniEADA
 Encoding: 60122 60122 477
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 408 55 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -70505,8 +70534,9 @@ StartChar: uniEADE
 Encoding: 60126 60126 478
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -71900,8 +71930,9 @@ Encoding: 60000 60000 491
 Width: 625
 VWidth: 999
 GlyphClass: 3
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -71935,8 +71966,9 @@ StartChar: uniEA62
 Encoding: 60002 60002 492
 Width: 650
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -71978,9 +72010,10 @@ StartChar: uniEA6C
 Encoding: 60012 60012 493
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -72026,7 +72059,7 @@ StartChar: uniEA6B
 Encoding: 60011 60011 494
 Width: 670
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
 TtInstrs:
 SVTCA[y-axis]
@@ -72467,6 +72500,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -72514,8 +72548,9 @@ StartChar: uniEA6D
 Encoding: 60013 60013 495
 Width: 650
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -72568,9 +72603,10 @@ StartChar: uniEA7A
 Encoding: 60026 60026 496
 Width: 675
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
 VStem: 572 23<64 119.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 408 202 basechar 0
 AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -72615,8 +72651,9 @@ StartChar: uniEA7B
 Encoding: 60027 60027 497
 Width: 700
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 408 202 basechar 0
 AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -75324,8 +75361,9 @@ StartChar: uniEAD8
 Encoding: 60120 60120 516
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 22 basechar 0
 AnchorPoint: "Podchashie" 388 -25 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -75383,7 +75421,7 @@ StartChar: uniEAD2
 Encoding: 60114 60114 517
 Width: 665
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: -10.5596 31.5596G<31.8692 33 609 613.5> 202.44 134<543.67 605.391> 450 126<476.722 546.078>
 VStem: 603 18<-10.5225 54.1635> 614 26<33.8008 214.94>
 TtInstrs:
@@ -75833,6 +75871,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 455 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -75891,7 +75930,7 @@ StartChar: uniEAD3
 Encoding: 60115 60115 518
 Width: 650
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
 TtInstrs:
 SVTCA[y-axis]
@@ -76265,6 +76304,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -76372,8 +76412,9 @@ StartChar: uniEAD1
 Encoding: 60113 60113 520
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -79832,8 +79873,9 @@ StartChar: uniEF60
 Encoding: 61280 61280 539
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 451 125<478.289 544.923>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -79878,8 +79920,9 @@ StartChar: uniEF62
 Encoding: 61282 61282 540
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 451 125<478.606 545.281>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -80846,8 +80889,9 @@ StartChar: uniEFCA
 Encoding: 61386 61386 557
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 535 43 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -81474,8 +81518,9 @@ StartChar: uniEFC8
 Encoding: 61384 61384 567
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -81989,7 +82034,7 @@ GlyphClass: 4
 Flags: W
 HStem: 505 134<-186.33 -124.609>
 VStem: -127 18<292.037 356.723> -116 26<336.36 517.5>
-AnchorPoint: "Omet" -142 662 mark 0
+AnchorPoint: "Omet" -170 550 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -84835,8 +84880,9 @@ StartChar: uniEECD
 Encoding: 61133 61133 656
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -84907,8 +84953,9 @@ StartChar: uniEECE
 Encoding: 61134 61134 657
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 402 51 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -85009,8 +85056,9 @@ StartChar: uniEECF
 Encoding: 61135 61135 658
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 416 69 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -85125,7 +85173,8 @@ StartChar: uniEED0
 Encoding: 61136 61136 659
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 400 37 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -85224,8 +85273,9 @@ StartChar: uniEED2
 Encoding: 61138 61138 660
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 57 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -85272,8 +85322,9 @@ StartChar: uniEED3
 Encoding: 61139 61139 661
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 396 61 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -85324,9 +85375,10 @@ EndChar
 StartChar: uniEED4
 Encoding: 61140 61140 662
 Width: 815
-Flags: W
+Flags: HW
 HStem: 0 15.5996G<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20G<426.269 458>
-AnchorPoint: "Tochka" 515 325 basechar 0
+AnchorPoint: "Tochka" 675 455 basechar 0
+AnchorPoint: "Omet" 735 430 basechar 0
 AnchorPoint: "Podchashie" 394 77 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
@@ -99046,8 +99098,9 @@ StartChar: uniEEF0
 Encoding: 61168 61168 705
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99159,8 +99212,9 @@ StartChar: uniEEF1
 Encoding: 61169 61169 706
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 533 43 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99307,8 +99361,9 @@ StartChar: uniEED1
 Encoding: 61137 61137 708
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99477,9 +99532,10 @@ StartChar: uniEA61
 Encoding: 60001 60001 723
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 263 134<469.67 531.391> 451 125<478.289 544.923>
 VStem: 529 18<50.0371 114.723> 540 26<94.3604 275.5>
+AnchorPoint: "Omet" 625 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99524,8 +99580,9 @@ StartChar: uniEAD0
 Encoding: 60112 60112 724
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99643,9 +99700,10 @@ StartChar: uniEA64
 Encoding: 60004 60004 726
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.351>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99688,8 +99746,9 @@ StartChar: uniEA65
 Encoding: 60005 60005 727
 Width: 650
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.351>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99862,9 +99921,10 @@ StartChar: uniEADC
 Encoding: 60124 60124 730
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.518>
 VStem: 523 23<68 123.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -99913,8 +99973,9 @@ StartChar: uniEADD
 Encoding: 60125 60125 731
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 15.5996G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.549>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -100029,8 +100090,9 @@ StartChar: uniEA76
 Encoding: 60022 60022 733
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -100083,8 +100145,9 @@ StartChar: uniEA78
 Encoding: 60024 60024 734
 Width: 650
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -100149,8 +100212,9 @@ Encoding: 60105 60105 735
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -100189,8 +100253,9 @@ StartChar: uniEA6E
 Encoding: 60014 60014 736
 Width: 763
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -100256,8 +100321,9 @@ StartChar: uniEA6F
 Encoding: 60015 60015 737
 Width: 875
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -100638,8 +100704,9 @@ StartChar: uniEF64
 Encoding: 61284 61284 742
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -101359,8 +101426,9 @@ StartChar: u1CF50
 Encoding: 118608 118608 788
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101373,8 +101441,9 @@ StartChar: u1CF51
 Encoding: 118609 118609 789
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 20<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 342 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101387,8 +101456,9 @@ StartChar: u1CF52
 Encoding: 118610 118610 790
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<32.0168 47.5> 451 125<478.289 545.144>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101401,8 +101471,9 @@ StartChar: u1CF53
 Encoding: 118611 118611 791
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101415,8 +101486,9 @@ StartChar: u1CF54
 Encoding: 118612 118612 792
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101429,8 +101501,9 @@ StartChar: u1CF55
 Encoding: 118613 118613 793
 Width: 675
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 408 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101789,9 +101862,10 @@ StartChar: u1CF71
 Encoding: 118641 118641 811
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
 VStem: 300 31<94 197.966> 444 10<224.868 248.647>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 375 0 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101804,8 +101878,9 @@ StartChar: u1CF72
 Encoding: 118642 118642 812
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101818,8 +101893,9 @@ StartChar: u1CF73
 Encoding: 118643 118643 813
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101832,8 +101908,9 @@ StartChar: u1CF74
 Encoding: 118644 118644 814
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101846,8 +101923,9 @@ StartChar: u1CF75
 Encoding: 118645 118645 815
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21.5996<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101860,8 +101938,9 @@ StartChar: u1CF76
 Encoding: 118646 118646 816
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101874,8 +101953,9 @@ StartChar: u1CF77
 Encoding: 118647 118647 817
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101888,8 +101968,9 @@ StartChar: u1CF78
 Encoding: 118648 118648 818
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101902,7 +101983,8 @@ StartChar: u1CF79
 Encoding: 118649 118649 819
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101915,8 +101997,9 @@ StartChar: u1CF7A
 Encoding: 118650 118650 820
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101929,8 +102012,9 @@ StartChar: u1CF7B
 Encoding: 118651 118651 821
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101943,8 +102027,9 @@ StartChar: u1CF7C
 Encoding: 118652 118652 822
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 535 300 basechar 0
 AnchorPoint: "Tochka" 535 325 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -101957,8 +102042,9 @@ StartChar: u1CF7D
 Encoding: 118653 118653 823
 Width: 815
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 15.5996<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20<426.269 458>
+AnchorPoint: "Omet" 735 430 basechar 0
 AnchorPoint: "Tochka" 675 455 basechar 0
 AnchorPoint: "Podchashie" 390 75 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -102553,8 +102639,9 @@ StartChar: u1CFA0
 Encoding: 118688 118688 858
 Width: 990
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -102567,8 +102654,9 @@ StartChar: u1CFA1
 Encoding: 118689 118689 859
 Width: 990
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 530 45 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103585,9 +103673,10 @@ StartChar: uniEA67
 Encoding: 60007 60007 924
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103628,8 +103717,9 @@ StartChar: uniEA68
 Encoding: 60008 60008 925
 Width: 650
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103678,8 +103768,9 @@ StartChar: uniEA70
 Encoding: 60016 60016 926
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103728,9 +103819,10 @@ StartChar: uniEA71
 Encoding: 60017 60017 927
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103782,8 +103874,9 @@ StartChar: uniEA72
 Encoding: 60018 60018 928
 Width: 650
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103843,8 +103936,9 @@ StartChar: uniEA73
 Encoding: 60019 60019 929
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103892,9 +103986,10 @@ StartChar: uniEA74
 Encoding: 60020 60020 930
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -103945,8 +104040,9 @@ StartChar: uniEA75
 Encoding: 60021 60021 931
 Width: 650
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -104076,8 +104172,9 @@ EndChar
 StartChar: uniEAC6
 Encoding: 60102 60102 935
 Width: 625
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 48.4818>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -104104,8 +104201,9 @@ EndChar
 StartChar: uniEAC7
 Encoding: 60103 60103 936
 Width: 625
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 48.4818>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -104141,8 +104239,9 @@ StartChar: uniEAD4
 Encoding: 60116 60116 937
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -104192,8 +104291,9 @@ StartChar: uniEAD5
 Encoding: 60117 60117 938
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -104246,8 +104346,9 @@ StartChar: uniEAD6
 Encoding: 60118 60118 939
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -105783,8 +105884,9 @@ StartChar: uniEACD
 Encoding: 60109 60109 979
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -106090,8 +106192,9 @@ StartChar: uniEB5C
 Encoding: 60252 60252 1012
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 529 41 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -106551,8 +106654,9 @@ StartChar: uniEF61
 Encoding: 61281 61281 1025
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -108284,8 +108388,9 @@ StartChar: uniEFA0
 Encoding: 61344 61344 1057
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 386 67 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -108343,9 +108448,10 @@ StartChar: uniEFA2
 Encoding: 61346 61346 1058
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.279>
 VStem: 523 23<68 123.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -108407,9 +108513,10 @@ StartChar: uniEFA3
 Encoding: 61347 61347 1059
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.279>
 VStem: 523 23<68 123.325>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -108460,8 +108567,9 @@ StartChar: uniEFA4
 Encoding: 61348 61348 1060
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.279>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -108530,8 +108638,9 @@ StartChar: uniEFA5
 Encoding: 61349 61349 1061
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.279>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Podchashie" 388 65 basechar 0
 AnchorPoint: "Tochka" 378 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -108596,8 +108705,9 @@ StartChar: uniEFA7
 Encoding: 61351 61351 1063
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 450 126<477.126 546.369>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -108647,8 +108757,9 @@ StartChar: uniEFA8
 Encoding: 61352 61352 1064
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5.40039 21G<226.89 240.5> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 380 65 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -109659,8 +109770,9 @@ StartChar: uniEFC7
 Encoding: 61383 61383 1082
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 543 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -109735,8 +109847,9 @@ StartChar: uniEFC9
 Encoding: 61385 61385 1083
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 531 43 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -111374,8 +111487,9 @@ StartChar: uniEFA1
 Encoding: 61345 61345 1118
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21.5996G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 384 73 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -112265,9 +112379,10 @@ StartChar: uniEB58
 Encoding: 60248 60248 1146
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.396>
 VStem: 525 23<67 122.325>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -112305,8 +112420,9 @@ StartChar: uniEB59
 Encoding: 60249 60249 1147
 Width: 640
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.108>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 378 202 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -112353,8 +112469,9 @@ StartChar: uniEB5A
 Encoding: 60250 60250 1148
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -112395,8 +112512,9 @@ StartChar: uniEB5B
 Encoding: 60251 60251 1149
 Width: 990
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+AnchorPoint: "Omet" 895 430 basechar 0
 AnchorPoint: "Tochka" 835 455 basechar 0
 AnchorPoint: "Podchashie" 529 41 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -116337,8 +116455,9 @@ StartChar: uniEF63
 Encoding: 61283 61283 1280
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 450 126<471.313 535.97>
+AnchorPoint: "Omet" 515 300 basechar 0
 AnchorPoint: "Tochka" 515 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -116705,9 +116824,10 @@ EndChar
 StartChar: uniEB51
 Encoding: 60241 60241 1288
 Width: 620
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0561 35.5>
 VStem: 225 31<527 650.787> 254 9<685.715 700.801> 345 10<673.249 718.288>
+AnchorPoint: "Omet" 485 300 basechar 0
 AnchorPoint: "Tochka" 485 325 basechar 0
 AnchorPoint: "Podchashie" 378 245 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
