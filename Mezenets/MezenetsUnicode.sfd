@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1542058818
+ModificationTime: 1542059643
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -957,7 +957,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 118482 26 9
+WinInfo: 59800 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -41404,21 +41404,21 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "TonalRange" -375 500 mark 0
+AnchorPoint: "TonalRange" -395 480 mark 0
 LayerCount: 3
 Fore
 SplineSet
--381 769 m 4
- -335 776 -301 747 -300 709 c 4
- -299 675 -308 646 -319 621 c 4
- -322 613 -332 611 -331 625 c 4
- -330 635 -331 638 -331 648 c 4
- -331 670 -358 679 -393 667 c 4
- -445 649 -471 584 -480 543 c 4
- -481 537 -486 534 -489 534 c 4
- -492 534 -493 536 -493 540 c 4
- -494 574 -487 650 -468 691 c 4
- -450 731 -419 763 -381 769 c 4
+-381 769 m 0
+ -335 776 -301 747 -300 709 c 0
+ -299 675 -308 646 -319 621 c 0
+ -322 613 -332 611 -331 625 c 0
+ -330 635 -331 638 -331 648 c 0
+ -331 670 -358 679 -393 667 c 0
+ -445 649 -471 584 -480 543 c 0
+ -481 537 -486 534 -489 534 c 0
+ -492 534 -493 536 -493 540 c 0
+ -494 574 -487 650 -468 691 c 0
+ -450 731 -419 763 -381 769 c 0
 -409 516 m 1
  -399 545 -370 576 -341 581 c 1
  -325 585 l 1
@@ -42224,7 +42224,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "TonalRange" -375 500 mark 0
+AnchorPoint: "TonalRange" -395 480 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -42491,17 +42491,17 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "TonalRange" -375 500 mark 0
+AnchorPoint: "TonalRange" -395 480 mark 0
 LayerCount: 3
 Fore
 SplineSet
--335 461 m 5
- -370 455 -409 421 -425 389 c 5
- -413 515 l 5
- -403.762 541.791 -374.307 569.436 -347.618 579.011 c 5
- -339 670 l 5
- -316 681 l 5
- -335 461 l 5
+-335 461 m 1
+ -370 455 -409 421 -425 389 c 1
+ -413 515 l 1
+ -403.762 541.791 -374.307 569.436 -347.618 579.011 c 1
+ -339 670 l 1
+ -316 681 l 1
+ -335 461 l 1
 -669 277 m 1
  -659 306 -630 336 -601 343 c 2
  -585 347 l 1
