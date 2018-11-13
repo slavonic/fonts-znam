@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1542059643
+ModificationTime: 1542108200
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -957,7 +957,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 59800 26 9
+WinInfo: 118482 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -14133,28 +14133,29 @@ Encoding: 61017 61017 90
 Width: 0
 GlyphClass: 4
 Flags: W
-HStem: 462 253
-VStem: 37 31<504.5 629.462> 154 14<617.528 695.755>
+HStem: 550 253
+VStem: -171 31<592.5 717.462> -54 14<705.528 783.755>
+AnchorPoint: "Flexion" -70 640 mark 0
 AnchorPoint: "Sorochya" 92 453 mark 0
 LayerCount: 3
 Fore
 SplineSet
-94 462 m 0
- 59 462 37 487 37 522 c 0
- 37 539 40 565 46 598 c 0
- 55 647 63 675 70 680 c 0
- 73 683 75 679 75 670 c 0
- 70 623 68 600 68 599 c 0
- 68 576 76 562 91 557 c 1
- 107 707 l 1
- 129 715 l 1
- 113 558 l 1
- 124 562 133 571 138 586 c 0
- 148 616 150 626 154 659 c 0
- 156 675 155 697 164 697 c 0
- 167 697 168 680 168 646 c 0
- 168 612 164 579 157 546 c 0
- 146 490 125 462 94 462 c 0
+-114 550 m 0
+ -149 550 -171 575 -171 610 c 0
+ -171 627 -168 653 -162 686 c 0
+ -153 735 -145 763 -138 768 c 0
+ -135 771 -133 767 -133 758 c 0
+ -138 711 -140 688 -140 687 c 0
+ -140 664 -132 650 -117 645 c 1
+ -101 795 l 1
+ -79 803 l 1
+ -95 646 l 1
+ -84 650 -75 659 -70 674 c 0
+ -60 704 -58 714 -54 747 c 0
+ -52 763 -53 785 -44 785 c 0
+ -41 785 -40 768 -40 734 c 0
+ -40 700 -44 667 -51 634 c 0
+ -62 578 -83 550 -114 550 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -105955,12 +105956,12 @@ AnchorPoint: "Zaderzhka" 20 440 mark 0
 LayerCount: 3
 Fore
 SplineSet
-49 515 m 1
- 59 544 88 574 117 581 c 2
- 133 585 l 1
- 123 461 l 1
- 88 455 53 421 37 389 c 1
- 49 515 l 1
+49 515 m 5
+ 59 544 88 574 117 581 c 6
+ 133 585 l 5
+ 123 461 l 5
+ 88 455 53 421 37 389 c 5
+ 49 515 l 5
 EndSplineSet
 EndChar
 
@@ -106113,12 +106114,12 @@ Encoding: 118586 118586 908
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 486 253
-VStem: -27 31<528.5 653.462> 90 14<641.528 719.755>
-AnchorPoint: "Sorochya" 30 482 mark 0
+HStem: 454 253
+VStem: 40 31<496.5 621.462> 157 14<609.528 687.755>
+AnchorPoint: "Zaderzhka" 20 440 mark 0
 LayerCount: 3
 Fore
-Refer: 90 61017 N 1 0 0 1 -64 24 2
+Refer: 90 61017 S 1 0 0 1 211 -96 2
 EndChar
 
 StartChar: u1CF3B
