@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1542594606
+ModificationTime: 1542634384
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -976,7 +976,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 59826 26 9
+WinInfo: 59904 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -13957,11 +13957,11 @@ AnchorPoint: "Zaderzhka" 20 440 mark 0
 LayerCount: 3
 Fore
 SplineSet
-104 602 m 5
- 80 361 l 5
- 58 355 l 5
- 82 594 l 5
- 104 602 l 5
+104 602 m 1
+ 80 361 l 1
+ 58 355 l 1
+ 82 594 l 1
+ 104 602 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -16904,6 +16904,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 270 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -16914,7 +16915,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 270 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -17665,6 +17665,7 @@ VWidth: 999
 GlyphClass: 2
 Flags: W
 VStem: 23 154
+AnchorPoint: "Zaderzhka" 220 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -17675,7 +17676,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 210 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
@@ -19382,7 +19382,7 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -19886,6 +19886,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -19896,7 +19897,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -20062,6 +20062,7 @@ GlyphClass: 2
 Flags: W
 HStem: -6 21G<178.5 185.5> 371 125<35 110.225>
 VStem: 182 35<48.6146 286.634>
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -20072,7 +20073,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -21673,6 +21673,7 @@ GlyphClass: 2
 Flags: W
 HStem: 1 21G<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
 VStem: 121 18<269.004 304.991> 283 43<102.263 295.725>
+AnchorPoint: "Zaderzhka" 350 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -21683,7 +21684,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 350 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -23229,32 +23229,32 @@ AnchorPoint: "Borzaya" 70 155 mark 0
 LayerCount: 3
 Fore
 SplineSet
--199 75 m 4xfe
- -199 156 -68 296 5 296 c 4
- 38 296 43 278 43 248 c 4
- 43 219 11 152 11 152 c 5xfe
- 14 153 19 154 24 154 c 4
- 43 154 70 145 70 114 c 4xfd
- 70 109 70 103 68 97 c 4
- 58 60 32 40 -1 40 c 4
- -26 40 -40 56 -40 80 c 4
- -40 86 -39 92 -37 99 c 4
- -17 157 11 203 11 239 c 4
- 11 253 7 269 -12 269 c 4
- -27 269 -67 237 -80 227 c 4
- -119 196 -166 139 -166 86 c 4
- -166 34 -144 5 -128 -3 c 4
- -122 -6 -119 -10 -119 -15 c 4
- -119 -20 -123 -25 -132 -25 c 4
- -133 -25 -135 -24 -137 -24 c 4
- -177 -16 -199 21 -199 75 c 4xfe
-41 107 m 4xfd
- 41 125 26 133 14 133 c 4
- 8 133 3 131 1 127 c 4
- -2 121 -7 111 -12 96 c 4
- -13 94 -13 92 -13 90 c 4
- -13 78 -2 65 12 65 c 4
- 36 65 41 91 41 107 c 4xfd
+-199 75 m 0xfe
+ -199 156 -68 296 5 296 c 0
+ 38 296 43 278 43 248 c 0
+ 43 219 11 152 11 152 c 1xfe
+ 14 153 19 154 24 154 c 0
+ 43 154 70 145 70 114 c 0xfd
+ 70 109 70 103 68 97 c 0
+ 58 60 32 40 -1 40 c 0
+ -26 40 -40 56 -40 80 c 0
+ -40 86 -39 92 -37 99 c 0
+ -17 157 11 203 11 239 c 0
+ 11 253 7 269 -12 269 c 0
+ -27 269 -67 237 -80 227 c 0
+ -119 196 -166 139 -166 86 c 0
+ -166 34 -144 5 -128 -3 c 0
+ -122 -6 -119 -10 -119 -15 c 0
+ -119 -20 -123 -25 -132 -25 c 0
+ -133 -25 -135 -24 -137 -24 c 0
+ -177 -16 -199 21 -199 75 c 0xfe
+41 107 m 0xfd
+ 41 125 26 133 14 133 c 0
+ 8 133 3 131 1 127 c 0
+ -2 121 -7 111 -12 96 c 0
+ -13 94 -13 92 -13 90 c 0
+ -13 78 -2 65 12 65 c 0
+ 36 65 41 91 41 107 c 0xfd
 EndSplineSet
 Layer: 2
 SplineSet
@@ -23304,8 +23304,8 @@ Width: 0
 VWidth: 999
 GlyphClass: 4
 Flags: W
-HStem: 284 23<-92.8736 -45.1939>
-VStem: -126 29<309.539 358.81>
+HStem: 134 23<-61.8736 -14.1939>
+VStem: -95 29<159.539 208.81>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -23486,30 +23486,30 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Borzaya" 70 155 mark 0
 LayerCount: 3
 Fore
 SplineSet
--225 60 m 0
- -225 66 -223 73 -213 87 c 0
- -204 100 -169 156 -127 202 c 0
- -103 229 -60 278 -45 290 c 1
- -45 290 -56 284 -75 284 c 0
- -103 284 -126 299 -126 323 c 0
- -126 325 -126 326 -126 328 c 1
- -123 343 -116 363 -101 363 c 0
- -97 363 -94 361 -94 356 c 0
- -94 349 -97 342 -97 336 c 0
- -97 318 -89 307 -72 307 c 0
- -20 307 -13 328 9 350 c 0
- 12 353 16 354 19 354 c 0
- 25 354 34 349 34 341 c 0
- 34 334 25 326 15 316 c 0
- -31 271 -87 213 -131 157 c 0
- -147 137 -191 76 -201 56 c 0
- -205 49 -210 46 -215 46 c 0
- -221 46 -225 52 -225 60 c 0
+-194 -90 m 4
+ -194 -84 -192 -77 -182 -63 c 4
+ -173 -50 -138 6 -96 52 c 4
+ -72 79 -29 128 -14 140 c 5
+ -14 140 -25 134 -44 134 c 4
+ -72 134 -95 149 -95 173 c 4
+ -95 175 -95 176 -95 178 c 5
+ -92 193 -85 213 -70 213 c 4
+ -66 213 -63 211 -63 206 c 4
+ -63 199 -66 192 -66 186 c 4
+ -66 168 -58 157 -41 157 c 4
+ 11 157 18 178 40 200 c 4
+ 43 203 47 204 50 204 c 4
+ 56 204 65 199 65 191 c 4
+ 65 184 56 176 46 166 c 4
+ 0 121 -56 63 -100 7 c 4
+ -116 -13 -160 -74 -170 -94 c 4
+ -174 -101 -179 -104 -184 -104 c 4
+ -190 -104 -194 -98 -194 -90 c 4
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 -94 356 m 1,0,-1
@@ -30760,6 +30760,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 24 176
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -30770,7 +30771,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -30803,6 +30803,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 7 193
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -30813,7 +30814,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -31118,6 +31118,7 @@ Width: 420
 Flags: W
 HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984>
 VStem: 22 22<-52.7908 139.562> 182 20<15.3987 75.8317> 197 31<83.6916 292.5>
+AnchorPoint: "Zaderzhka" 420 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -31128,7 +31129,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 430 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -31351,6 +31351,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -31361,7 +31362,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -31552,6 +31552,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -31562,7 +31563,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -31753,6 +31753,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 300 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -31763,7 +31764,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 310 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -31967,6 +31967,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -31977,7 +31978,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -32102,6 +32102,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -32112,7 +32113,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -32224,6 +32224,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 285 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -32234,7 +32235,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -32341,6 +32341,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 245 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -32351,7 +32352,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -32842,6 +32842,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -32852,7 +32853,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 225 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -32990,6 +32990,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 0 200
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -33000,7 +33001,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -33035,6 +33035,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 10 190
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -33045,7 +33046,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -35557,6 +35557,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 340 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -35567,7 +35568,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 350 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -35697,6 +35697,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 380 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -35707,7 +35708,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 380 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -35982,6 +35982,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 295 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -35992,7 +35993,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 295 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -36145,6 +36145,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 295 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -36155,7 +36156,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 295 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -36398,6 +36398,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 270 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -36408,7 +36409,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 280 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -37447,6 +37447,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 340 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -37457,7 +37458,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 350 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -37622,6 +37622,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 270 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -37632,7 +37633,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 280 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -37837,6 +37837,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 320 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -37847,7 +37848,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 310 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -50255,6 +50255,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -50265,7 +50266,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -50382,6 +50382,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -50392,7 +50393,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -52294,6 +52294,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 335 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -52304,7 +52305,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 335 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -62926,7 +62926,7 @@ EndChar
 
 StartChar: uniEAE7
 Encoding: 60135 60135 350
-Width: 194
+Width: 195
 Flags: W
 VStem: 20 154
 TtInstrs:
@@ -62964,6 +62964,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 205 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -62974,7 +62975,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 205 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -63303,6 +63303,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 295 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -63313,7 +63314,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 295 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -63423,6 +63423,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 270 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -63433,7 +63434,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 280 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -63594,6 +63594,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 215 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -63604,7 +63605,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 205 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -67262,6 +67262,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 490 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -67272,7 +67273,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 530 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -67915,6 +67915,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -67925,7 +67926,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -82699,6 +82699,7 @@ Width: 240
 Flags: W
 HStem: 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.12241 113.039 595.333 612> 164 32<44.8708 261.5> 208 10<558.188 601.288>
+AnchorPoint: "Zaderzhka" 240 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -82709,7 +82710,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -82756,6 +82756,7 @@ Width: 420
 Flags: W
 HStem: 0 21G<287.832 308> 206 108<89.0884 157.009>
 VStem: 30 27<-42.8409 141.32> 88 31<409.5 541.261> 120 6<580.439 584> 151 25<3.12936 102.75 595.333 612> 164 32<41.8438 254> 208 11<555.188 601.96>
+AnchorPoint: "Zaderzhka" 420 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -82766,7 +82767,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 430 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -105879,8 +105879,8 @@ Encoding: 118565 118565 774
 Width: 0
 VWidth: 999
 Flags: W
-HStem: 284 23<-92.8736 -45.1939>
-VStem: -126 29<309.539 358.81>
+HStem: 134 23<-61.8736 -14.1939>
+VStem: -95 29<159.539 208.81>
 LayerCount: 3
 Fore
 Refer: 156 60981 N 1 0 0 1 0 0 2
@@ -107074,6 +107074,7 @@ VWidth: 0
 Flags: W
 HStem: 1 247
 VStem: 20 220
+AnchorPoint: "Zaderzhka" 270 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -107084,7 +107085,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 270 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -107301,6 +107301,7 @@ Width: 200
 VWidth: 0
 Flags: W
 VStem: 23 154
+AnchorPoint: "Zaderzhka" 220 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -107311,7 +107312,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 210 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -109476,6 +109476,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21<32.0417 40.5>
 VStem: 30 169
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -109486,7 +109487,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -109608,6 +109608,7 @@ VWidth: 0
 Flags: W
 HStem: -6 21<178.5 185.5> 371 125<35 110.225>
 VStem: 182 35<48.6146 286.634>
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -109618,7 +109619,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 183 0 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -109634,6 +109634,7 @@ VWidth: 0
 Flags: W
 HStem: 259 104<96.4066 180.778>
 VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 78.3868> 197 31<85.9516 292.5>
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -109644,7 +109645,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -111757,6 +111757,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984>
 VStem: 22 22<-52.7908 139.562> 182 20<15.3987 75.8317> 197 31<83.6916 292.5>
+AnchorPoint: "Zaderzhka" 430 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -111767,7 +111768,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 440 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -113295,6 +113295,7 @@ Width: 225
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 40.5>
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -113305,7 +113306,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -113341,6 +113341,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<38.2252 40.5>
 VStem: 30 170
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -113351,7 +113352,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -113957,6 +113957,7 @@ VWidth: 999
 Flags: W
 HStem: 371 125<35 109.883>
 VStem: 182 35<48.6146 282.933>
+AnchorPoint: "Zaderzhka" 250 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -113967,7 +113968,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 260 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 180 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -114010,6 +114010,7 @@ VWidth: 999
 Flags: W
 HStem: 259 104<96.4066 180.778>
 VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 47.3533> 197 31<114.68 292.5>
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -114020,7 +114021,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -114062,6 +114062,7 @@ Width: 255
 VWidth: 999
 Flags: W
 VStem: 22 22<-52.9434 137.433> 182.75 19.25<4.59036 78.3868> 197 31<85.9516 286.414>
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -114072,7 +114073,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -120312,6 +120312,7 @@ Width: 225
 VWidth: 999
 Flags: W
 VStem: -86 286
+AnchorPoint: "Zaderzhka" 225 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 180 60 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -120322,7 +120323,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 235 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
@@ -124765,6 +124765,7 @@ Width: 360
 Flags: W
 HStem: 255 104<91.4019 174.778>
 VStem: 16 22<-56.7908 135.562> 176 20<11.3987 71.8317> 191 31<79.6916 288.5>
+AnchorPoint: "Zaderzhka" 360 180 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
@@ -124775,7 +124776,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 370 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" 0 500 basechar 0
