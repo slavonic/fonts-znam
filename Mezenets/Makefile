@@ -43,6 +43,10 @@ baseline:
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
 	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="baseline/%d.png" gsub.pdf; cd ..;)
 
+azbuka:
+	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
+	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
+
 test: test-result.pdf
 
 test-result.pdf:
