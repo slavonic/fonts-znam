@@ -47,6 +47,12 @@ azbuka:
 	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
 	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
 
+demestvenny:
+	(cd tests; lilypond-book --output out --pdf demestvenny.tex)
+	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
+	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
+	(cd tests; mv out/demestvenny.pdf ./)
+
 test: test-result.pdf
 
 test-result.pdf:
@@ -61,4 +67,5 @@ test-result.pdf:
 clean:
 	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt
 	rm -fr tests/result
+	rm -fr tests/out
 	rm -f tests/*.aux tests/*.log tests/*.pdf
