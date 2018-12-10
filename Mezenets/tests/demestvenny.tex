@@ -1,6 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage{fontspec,luacolor}
 \usepackage{longtable}
+\usepackage{array}
 \usepackage{ruby}
 \usepackage{comment}
 \usepackage{pdflscape}
@@ -9,6 +10,7 @@
 \setromanfont{Linux Libertine O}
 \newfontfamily{\mood}[Path=../../,Extension=.otf,Scale=MatchUppercase]{MezenetsUnicode}
 \newfontfamily{\mono}[Scale=1.0]{Liberation Mono}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}% hides column
 
 \definecolor{kinovar}{rgb}{0.80,0.03,0.01}
 \newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
@@ -60,11 +62,12 @@
 \catcode`\active\def{\cuKinovar{\detokenize{}}}%
 
 \begin{document}
-\begin{landscape}
+%\begin{landscape}
 \noindent (1) = G.~Pozhidayeva, \emph{Leksikologiya Demestvennogo Peniya} \\
 \noindent (2) = L.~Kalashnikov, \emph{Azbuka Demestvennogo Peniya}.
 
-\begin{longtable}{ccp{2.5in}lp{2.5in}l}
+%\begin{longtable}{ccp{2.5in}lp{2.5in}l}
+\begin{longtable}{ccp{2.5in}lp{2in}H}
 \hline
 {\scriptsize (1)} & {\scriptsize (2) } & {\scriptsize Name } &  {\scriptsize Appearance} & {\scriptsize Encoding} & {\scriptsize Meaning}  \\
 \hline
@@ -985,5 +988,5 @@
 \new Voice { a'4( bes a4 bes c bes a2)}
 \end{lilypond}\\
 \end{longtable}
-\end{landscape}
+%\end{landscape}
 \end{document}
