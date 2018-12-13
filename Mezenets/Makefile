@@ -1,3 +1,5 @@
+NUMBERS = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
 all: MezenetsUnicode.zip
 
 MezenetsUnicode.zip:
@@ -59,7 +61,7 @@ test-result.pdf:
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
 	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; mkdir -p result; cd ..;)
-	$(foreach f, $(shell ls tests/*.png), compare $(f) $(subst tests, tests/baseline, $(f)) -compose src $(subst tests, tests/result, $(f)); echo 'Done';)
+	$(foreach f, $(NUMBERS), compare tests/$(f).png tests/baseline/$(f).png -compose src tests/result/$(f).png; echo 'Done';)
 	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
 	rm -fr tests/result
 	rm -f tests/*.png
