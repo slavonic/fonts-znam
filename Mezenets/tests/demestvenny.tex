@@ -1,0 +1,992 @@
+\documentclass[12pt]{article}
+\usepackage{fontspec,luacolor}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{ruby}
+\usepackage{comment}
+\usepackage{pdflscape}
+
+\defaultfontfeatures{Ligatures=TeX}
+\setromanfont{Linux Libertine O}
+\newfontfamily{\mood}[Path=../../,Extension=.otf,Scale=MatchUppercase]{MezenetsUnicode}
+\newfontfamily{\mono}[Scale=1.0]{Liberation Mono}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}% hides column
+
+\definecolor{kinovar}{rgb}{0.80,0.03,0.01}
+\newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
+\catcode`𜼀\active\def𜼀{\cuKinovar{\detokenize{𜼀}}}%
+\catcode`𜼁\active\def𜼁{\cuKinovar{\detokenize{𜼁}}}%
+\catcode`𜼂\active\def𜼂{\cuKinovar{\detokenize{𜼂}}}%
+\catcode`𜼃\active\def𜼃{\cuKinovar{\detokenize{𜼃}}}%
+\catcode`𜼄\active\def𜼄{\cuKinovar{\detokenize{𜼄}}}%
+\catcode`𜼅\active\def𜼅{\cuKinovar{\detokenize{𜼅}}}%
+\catcode`𜼆\active\def𜼆{\cuKinovar{\detokenize{𜼆}}}%
+\catcode`𜼇\active\def𜼇{\cuKinovar{\detokenize{𜼇}}}%
+\catcode`𜼈\active\def𜼈{\cuKinovar{\detokenize{𜼈}}}%
+\catcode`𜼉\active\def𜼉{\cuKinovar{\detokenize{𜼉}}}%
+\catcode`𜼊\active\def𜼊{\cuKinovar{\detokenize{𜼊}}}%
+\catcode`𜼋\active\def𜼋{\cuKinovar{\detokenize{𜼋}}}%
+\catcode`𜼌\active\def𜼌{\cuKinovar{\detokenize{𜼌}}}%
+\catcode`𜼍\active\def𜼍{\cuKinovar{\detokenize{𜼍}}}%
+\catcode`𜼎\active\def𜼎{\cuKinovar{\detokenize{𜼎}}}%
+\catcode`𜼐\active\def𜼐{\cuKinovar{\detokenize{𜼐}}}%
+\catcode`𜼑\active\def𜼑{\cuKinovar{\detokenize{𜼑}}}%
+\catcode`𜼒\active\def𜼒{\cuKinovar{\detokenize{𜼒}}}%
+\catcode`𜼓\active\def𜼓{\cuKinovar{\detokenize{𜼓}}}%
+\catcode`𜼔\active\def𜼔{\cuKinovar{\detokenize{𜼔}}}%
+\catcode`𜼕\active\def𜼕{\cuKinovar{\detokenize{𜼕}}}%
+\catcode`𜼖\active\def𜼖{\cuKinovar{\detokenize{𜼖}}}%
+\catcode`𜼗\active\def𜼗{\cuKinovar{\detokenize{𜼗}}}%
+\catcode`𜼘\active\def𜼘{\cuKinovar{\detokenize{𜼘}}}%
+\catcode`𜼙\active\def𜼙{\cuKinovar{\detokenize{𜼙}}}%
+\catcode`𜼚\active\def𜼚{\cuKinovar{\detokenize{𜼚}}}%
+\catcode`𜼛\active\def𜼛{\cuKinovar{\detokenize{𜼛}}}%
+\catcode`𜼜\active\def𜼜{\cuKinovar{\detokenize{𜼜}}}%
+\catcode`𜼝\active\def𜼝{\cuKinovar{\detokenize{𜼝}}}%
+\catcode`𜼞\active\def𜼞{\cuKinovar{\detokenize{𜼞}}}%
+\catcode`𜼟\active\def𜼟{\cuKinovar{\detokenize{𜼟}}}%
+\catcode`𜼠\active\def𜼠{\cuKinovar{\detokenize{𜼠}}}%
+\catcode`𜼡\active\def𜼡{\cuKinovar{\detokenize{𜼡}}}%
+\catcode`𜼢\active\def𜼢{\cuKinovar{\detokenize{𜼢}}}%
+\catcode`𜼣\active\def𜼣{\cuKinovar{\detokenize{𜼣}}}%
+\catcode`𜼤\active\def𜼤{\cuKinovar{\detokenize{𜼤}}}%
+\catcode`𜼥\active\def𜼥{\cuKinovar{\detokenize{𜼥}}}%
+\catcode`𜼦\active\def𜼦{\cuKinovar{\detokenize{𜼦}}}%
+\catcode`𜼧\active\def𜼧{\cuKinovar{\detokenize{𜼧}}}%
+\catcode`𜼨\active\def𜼨{\cuKinovar{\detokenize{𜼨}}}%
+\catcode`𜼩\active\def𜼩{\cuKinovar{\detokenize{𜼩}}}%
+\catcode`𜼪\active\def𜼪{\cuKinovar{\detokenize{𜼪}}}%
+\catcode`𜼫\active\def𜼫{\cuKinovar{\detokenize{𜼫}}}%
+\catcode`𜼬\active\def𜼬{\cuKinovar{\detokenize{𜼬}}}%
+\catcode`𜼭\active\def𜼭{\cuKinovar{\detokenize{}}}%
+\catcode`\active\def{\cuKinovar{\detokenize{}}}%
+
+\begin{document}
+%\begin{landscape}
+\noindent (1) = G.~Pozhidayeva, \emph{Leksikologiya Demestvennogo Peniya} \\
+\noindent (2) = L.~Kalashnikov, \emph{Azbuka Demestvennogo Peniya}.
+
+%\begin{longtable}{ccp{2.5in}lp{2.5in}l}
+\begin{longtable}{ccp{2.5in}lp{2in}H}
+\hline
+{\scriptsize (1)} & {\scriptsize (2) } & {\scriptsize Name } &  {\scriptsize Appearance} & {\scriptsize Encoding} & {\scriptsize Meaning}  \\
+\hline
+\endfirsthead
+\multicolumn{6}{c}{\scriptsize Continued from previous page} \\
+\hline
+{\scriptsize (1)} & {\scriptsize (2) } & {\scriptsize Name } &  {\scriptsize Appearance} & {\scriptsize Encoding} & {\scriptsize Meaning}  \\
+\hline
+\endhead
+\hline
+\endlastfoot
+\hline
+\multicolumn{6}{c}{\scriptsize Continued on next page} \\
+\hline
+\endfoot
+{\small 1} & {\small 78} & {\small Vrakhiya Mrachnaya} & {\mood \normalsize 𜽤𜼇 } & \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & 
+\begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g1)}
+\end{lilypond}\\
+{\small 2} & {\small 78} & {\small Vrakhiya Mrachnaya with Tikhaya Mark} & {\mood \normalsize 𜽤𜼇𜼣 } & \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f g1)}
+\end{lilypond}\\
+{\small 3} & {\small 80} & {\small Vrakhiya Mrachnaya with Kryzh} & {\mood \normalsize 𜽤𜼿𜼃𜼅𜼣 } & \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx03}{\mood \large ◌𜼃} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c2( d e d)}
+\end{lilypond}\\
+{\small 4} & {\small 66} & {\small Golubchik} & {\mood \normalsize 𜽠𜼅𜼆 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f)}
+\end{lilypond}\\
+{\small 5} & {\small 76} & {\small Golubchik with Kryzh and Borzaya Mark} & {\mood \normalsize 𜽠𜼿𜼉𜼤 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a4 g)}
+\end{lilypond}\\
+{\small 6} & {\small 77} & {\small Golubchik with Two Kryzhy and Borzaya Mark} & {\mood \normalsize 𜽠𜼿𜼿𜼇𜼤 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g f e)}
+\end{lilypond}\\
+{\small 7} & {\small 82} & {\small Golubchik Svetly} & {\mood \normalsize 𜽡𜼇 } & \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f g)}
+\end{lilypond}\\
+{\small 8} & {\small 85} & {\small Golubchik Svetlokryzhny} & {\mood \normalsize 𜽡𜼿𜼆𜼈𜼇 } & \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g a g)}
+\end{lilypond}\\
+{\small 9} & {\small 86} & {\small Golubchik Tresvetly} & {\mood \normalsize 𜽢𜼅𜼈 } & \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f g a)}
+\end{lilypond}\\
+{\small 10} & {\small 87} & {\small Golubchik Tresvetly with Sorochya Nozhka} & {\mood \normalsize 𜽢𜼺𜼅𜼈 } & \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g a)}
+\end{lilypond}\\
+{\small 11} & {\small 88} & {\small Golubchik Tresvetly with Kryzh} & {\mood \normalsize 𜽢𜼿𜼅𜼈𜼇 } & \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f g a g)}
+\end{lilypond}\\
+{\small 12} & {\small 73} & {\small Golubchik Ometny with Borzaya Mark} & {\mood \normalsize 𜽠𜼾𜼉𜼊 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'4( c8[ bes])}
+\end{lilypond}\\
+{\small 13} & {\small 89} & {\small Golubchik Tresvetloometny with Udarka} & {\mood \normalsize 𜽢𜼾𜼅𜼈𜼥 } & \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f g a4 g)}
+\end{lilypond}\\
+{\small 14} & {\small 27} & {\small Zanozhek} & {\mood \normalsize 𜽕𜼈 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a1)}
+\end{lilypond}\\
+{\small 15} & {\small 29} & {\small Zanozhek with Kryzh} & {\mood \normalsize 𜽕𜼿𜼇𜼈𜼇 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a2 g)}
+\end{lilypond}\\
+{\small 16} & {\small 31} & {\small Zanozhek Ometny} & {\mood \normalsize 𜽕𜼽𜼄𜼇𜼢𜼈 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d4( g1 g4 a1)}
+\end{lilypond}\\
+{\small 17} & {\small 35} & {\small Zanozhek and Stopitsa with Palka Vozdernutaya} & {\mood \normalsize 𜽕𜼈𜽖𜽜𜼼 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a2. g4)}
+\end{lilypond}\\
+{\small 18} & {\small 36} & {\small Zanozhek and Stopitsa with Slozhitiye s Kryzhem} & {\mood \normalsize 𜽕𜼈𜽖𜾁𜼢 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a2. f4)}
+\end{lilypond}\\
+{\small 19} & {\small 34} & {\small Zanozhek Mrachny} & {\mood \normalsize 𜽕𜼰𜼈 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a2. g4)}
+\end{lilypond}\\
+{\small 20} & {\small 65} & {\small Zapyataya} & {\mood \normalsize 𜽝𜼇 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2}
+\end{lilypond}\\
+{\small 21} & {\small } & {\small Zapyataya with Borzaya Mark} & {\mood \normalsize 𜽝𜼆𜼤 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4}
+\end{lilypond}\\
+{\small 22} & {\small 91} & {\small Zapyataya with Palka Vozdernutaya} & {\mood \normalsize 𜽝𜽜𜼼𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( e4 f)}
+\end{lilypond}\\
+{\small 23} & {\small } & {\small Zapyataya with Palka Vozdernutatya and Borzaya} & {\mood \normalsize 𜽝𜼆𜼤𜽜𜼼 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e8[ f])}
+\end{lilypond}\\
+{\small 24} & {\small } & {\small Zapyataya with Palka Vozdernutaya and Borzaya Mark} & {\mood \normalsize 𜽝𜼆𜼤𜽜𜼼 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e8[ f])}
+\end{lilypond}\\
+{\small 25} & {\small 218} & {\small Zapyataya with Klyuch Zakryty and Udarka} & {\mood \normalsize 𜽝𜼇𜽶𜼻𜼈𜼥 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f2)}
+\end{lilypond}\\
+{\small 26} & {\small 219} & {\small Zapyataya with Klyuch Ometny and Udarka} & {\mood \normalsize 𜽝𜼇𜽶𜼾𜼈𜼥 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f2)}
+\end{lilypond}\\
+{\small 27} & {\small 223} & {\small Zapyataya and Klyuch with Stopitsa and Udarka} & {\mood \normalsize 𜽝𜼆𜽶𜼈𜼥𜽖 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g8[ f] e2)}
+\end{lilypond}\\
+{\small 28} & {\small 228} & {\small Zapyataya and Klyuch with Kryzh and Udarka} & {\mood \normalsize 𜽝𜼇𜽶𜼿𜼈𜼥𜼅 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f4 e)}
+\end{lilypond}\\
+{\small 29} & {\small 227} & {\small Zapyataya and Klyuch with Palka and Borzaya Mark} & {\mood \normalsize 𜽝𜽶𜼊𜽜𜼈𜼤 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( c8[ bes] a2)}
+\end{lilypond}\\
+{\small 30} & {\small 224} & {\small Zapyataya and Klyuch with Udarka and Statya} & {\mood \normalsize 𜽝𜼇𜽶𜼈𜼥𜾈𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f1)}
+\end{lilypond}\\
+{\small 31} & {\small 220} & {\small Zapyataya and Klyuch and Kryuk} & {\mood \normalsize 𜽝𜼇𜽶𜼥𜼈𜽐 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f1)}
+\end{lilypond}\\
+{\small 32} & {\small 222} & {\small Zapyataya and Klyuch and Kryuk Mrachny} & {\mood \normalsize 𜽝𜼇𜽶𜼈𜼥𜽐𜼰 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f2. e4)}
+\end{lilypond}\\
+{\small 33} & {\small 221} & {\small Zapyataya and Klyuch and Kryuk with Podchashie} & {\mood \normalsize 𜽝𜼇𜽶𜼈𜼥𜽐𜼵 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f2 e)}
+\end{lilypond}\\
+{\small 34} & {\small } & {\small Zapyataya and Klyuch with Borzaya Mark and Skameitsa Dvoyechelnonepostoyannaya with Sorochiya Nozhka} & {\mood \normalsize 𜽝𜼇𜽶𜼽𜼈𜼤𜽼𜼺 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxD3}{\mood \large 𜽼} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f4 e f g)}
+\end{lilypond}\\
+{\small 35} & {\small 230} & {\small Zapyataya and Klyuch with Borzaya Mark and Skameitsa Dvoyechelnonepostoyannaya with Podvertka} & {\mood \normalsize 𜽝𜼇𜽶𜼽𜼈𜼥𜽼𜼺 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xxD3}{\mood \large 𜽼} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f4 e f g)}
+\end{lilypond}\\
+{\small 36} & {\small 229} & {\small Zapyataya and Klyuch Ometny and Skameitsa Klyuchenepostoyannaya} & {\mood \normalsize 𜽝𜼇𜽶𜼽𜼈𜼥𜽸𜼺𜼩 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xxCF}{\mood \large 𜽸} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx39}{\mood \large ◌𜼩}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a8[ g] f4 e f g)}
+\end{lilypond}\\
+{\small 37} & {\small } & {\small Zapyataya and Kryuk and Stopitsa with Palka} & {\mood \normalsize 𜽝𜼄𜽐𜽖𜼆𜼢𜽜𜼅 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d4( f1 f4 e1)}
+\end{lilypond}\\
+{\small 38} & {\small 172} & {\small Zapyataya and Kryuk Klyuchevoy} & {\mood \normalsize 𜽝𜽔𜼉 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4. (a8 bes2)}
+\end{lilypond}\\
+{\small 39} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy Zakryty} & {\mood \normalsize 𜽝𜼉𜽔𜼻𜼈 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4. (a8 bes2 a)}
+\end{lilypond}\\
+{\small 40} & {\small 180} & {\small Zapyataya and Kryuk Klyuchevoy and Kryuk} & {\mood \normalsize 𜽝𜽔𜽐𜼊 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4. (bes8 c1)}
+\end{lilypond}\\
+{\small 41} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy and Kryuk and Stopitsa and Slozhitiye with Kryzh} & {\mood \normalsize 𜽝𜼆𜽔𜽐𜽖𜼈𜾁 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (g8 a1 a2. g4)}
+\end{lilypond}\\
+{\small 42} & {\small 181} & {\small Zapyataya and Kryuk Klyuchevoy and Kryuk Mrachny} & {\mood \normalsize 𜽝𜼅𜽔𜽐𜼰𜼇𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4. (f8 g2. f4)}
+\end{lilypond}\\
+{\small 43} & {\small 201} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Klyuch} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜼉𜼥𜽶 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4. (a8 bes[ a] g4)}
+\end{lilypond}\\
+{\small 44} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy and Kryuk Klyuchevoy} & {\mood \normalsize 𜽝𜽔𜽔𜼉𜼥 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4. (a8 bes[ a] g4)}
+\end{lilypond}\\
+{\small 45} & {\small 196} & {\small Zapyataya and Two Kryuki Klyuchevyye and Stopitsa with Palka Vozdernutaya} & {\mood \normalsize 𜽝𜼆𜽔𜼈𜽔𜼢𜽖𜽜𜼼𜼅 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (g8 a2 a4 g f e)}
+\end{lilypond}\\
+{\small 46} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Klyuch} & {\mood \normalsize 𜽝𜼈𜽔𜼽𜼊𜼤𜽶 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4. (bes8 c2 c8[ bes] a4)}
+\end{lilypond}\\
+{\small 47} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Klyuch with Kryzh} & {\mood \normalsize 𜽝𜼉𜽔𜼽𜼊𜽶𜼿 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'4. (c8 d4. c8 bes4 a)}
+\end{lilypond}\\
+{\small 48} & {\small 186} & {\small Zapyataya and Kryuk Klyuchevoy and Stopitsa with Palka Vozdernutaya} & {\mood \normalsize 𜽝𜼆𜽔𜽖𜼈𜽜𜼼𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (g8 a2. g4)}
+\end{lilypond}\\
+{\small 49} & {\small 187} & {\small Zapyataya and Kryuk Klyuchevoy and Slozhitiye with Kryzh} & {\mood \normalsize 𜽝𜼅𜽔𜼈𜾁𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4. (f8 g2. f4)}
+\end{lilypond}\\
+{\small 50} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy and Stopitsa with Kryzh} & {\mood \normalsize 𜽝𜽔𜼈𜽖𜼿𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (g8 a2. g4)}
+\end{lilypond}\\
+{\small 51} & {\small } & {\small Zapyataya and Kryuk Klyuchevoy and Stopitsa with Slozhitiye s Kryzhem} & {\mood \normalsize 𜽝𜼅𜽔𜼈𜽖𜾁𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4. (f8 g2. e4)}
+\end{lilypond}\\
+{\small 54} & {\small 174} & {\small Zapyataya and Kryuk Mrachnoklyuchevoy} & {\mood \normalsize 𜽝𜼆𜽔𜼰𜼉 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (g8 a4 bes)}
+\end{lilypond}\\
+{\small 55} & {\small 176} & {\small Zapyataya and Kryuk Mrachnoklyuchevoy with Kryzh} & {\mood \normalsize 𜽝𜼆𜽔𜼿𜼰𜼈 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (g8 a4 bes a2)}
+\end{lilypond}\\
+{\small 56} & {\small 145} & {\small Zapyataya with Strela Povodnaya} & {\mood \normalsize 𜽝𜼆𜾘𜼇 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx9D}{\mood \large 𜾘} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( e4 f g2)}
+\end{lilypond}\\
+{\small 57} & {\small 210} & {\small Klyuch with Udarka} & {\mood \normalsize 𜽶𜼈𜼥 } & \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'8([ g] f4)}
+\end{lilypond}\\
+{\small 58} & {\small 212} & {\small Klyuch Mrachny (with Udarka)} & {\mood \normalsize 𜽶𜼰𜼈𜼥 } & \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'8([ g] f4 g2)}
+\end{lilypond}\\
+{\small 59} & {\small 213} & {\small Klyuch with Kryzh (with Udarka)} & {\mood \normalsize 𜽶𜼿𜼈𜼅𜼥 } & \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g f e)}
+\end{lilypond}\\
+{\small 60} & {\small } & {\small Kryzh} & {\mood \normalsize 𜾂𜼄 } & \ruby{\mono \tiny  1xx89}{\mood \large 𜾂} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d\breve}
+\end{lilypond}\\
+{\small 61} & {\small 7} & {\small Kryuk} & {\mood \normalsize 𜽐𜼄 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d1}
+\end{lilypond}\\
+{\small 62} & {\small 16} & {\small Kryuk with Sorochiya Nozhka} & {\mood \normalsize 𜽐𜼺𜼇 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2}
+\end{lilypond}\\
+{\small 63} & {\small 7} & {\small Kryuk with Kryzh} & {\mood \normalsize 𜽐𜼿𜼇𜼆 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( f)}
+\end{lilypond}\\
+{\small 64} & {\small 10} & {\small Kryuk with Stopitsa} & {\mood \normalsize 𜽐𜼆𜽖𜼢 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( f4)}
+\end{lilypond}\\
+{\small 65} & {\small } & {\small Kryuk with Stopitsa and Slozhitiya with Kryzh} & {\mood \normalsize  } &  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( a2. f4)}
+\end{lilypond}\\
+{\small 66} & {\small 14} & {\small Kryuk Mrachny} & {\mood \normalsize 𜽐𜼰𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2.( g4)}
+\end{lilypond}\\
+{\small 67} & {\small 16} & {\small Kryuk Svetly} & {\mood \normalsize 𜽐𜼱𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a)}
+\end{lilypond}\\
+{\small 68} & {\small 20} & {\small Kryuk Svetly with Kryzh} & {\mood \normalsize 𜽐𜼿𜼱𜼱𜼇𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g f)}
+\end{lilypond}\\
+{\small 69} & {\small 18} & {\small Kryuk Svetly with Stopitsa} & {\mood \normalsize 𜽐𜼱𜼆𜽖 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d2( e f)}
+\end{lilypond}\\
+{\small 70} & {\small 24} & {\small Kryuk Svetly with Palka} & {\mood \normalsize 𜽐𜼱𜼈𜼢𜽜𜼇 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( a4 g1)}
+\end{lilypond}\\
+{\small 71} & {\small 17} & {\small Kryuk Tresvetly} & {\mood \normalsize 𜽐𜼲𜼉 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx52}{\mood \large ◌𜼲} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes)}
+\end{lilypond}\\
+{\small 72} & {\small 17} & {\small Kryuk Tresvetly with Palka} & {\mood \normalsize 𜽐𜼲𜼉𜽜 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx52}{\mood \large ◌𜼲} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes1)}
+\end{lilypond}\\
+{\small 73} & {\small 9} & {\small Kryuk Ometny} & {\mood \normalsize 𜽐𜼽𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a)}
+\end{lilypond}\\
+{\small 74} & {\small } & {\small Kryuk Svetloometny} & {\mood \normalsize 𜽐𜼽𜼱𜼈𜼢𜼇 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( a4 g)}
+\end{lilypond}\\
+{\small 75} & {\small 153} & {\small Kryuk Klyuchevoy} & {\mood \normalsize 𜽔𜼆 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d8([ e] f4)}
+\end{lilypond}\\
+{\small 76} & {\small 157} & {\small Kryuk Klyuchevoy with Kryzh} & {\mood \normalsize 𜽔𜼿𜼈 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a2 g)}
+\end{lilypond}\\
+{\small 77} & {\small 158} & {\small Kryuk Klyuchevoy with Kryzh and Borzaya} & {\mood \normalsize 𜽔𜼿𜼈𜼇𜼤 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f8([ g] a4 g2)}
+\end{lilypond}\\
+{\small 78} & {\small 159} & {\small Kryuk Klyuchevoy with Two Kryzhy} & {\mood \normalsize 𜽔𜼿𜼿𜼉𜼤 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'8([ a] bes4 a g)}
+\end{lilypond}\\
+{\small 79} & {\small 162} & {\small Kryuk Klyuchevoy with Stopitsa} & {\mood \normalsize 𜽔𜼆𜼢𜽖 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( f4)}
+\end{lilypond}\\
+{\small 80} & {\small 163} & {\small Kryuk Klyuchevoy with Kryuk} & {\mood \normalsize 𜽔𜼆𜼈𜽐 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f8([ g] a1)}
+\end{lilypond}\\
+{\small 81} & {\small 166} & {\small Kryuk Klyuchevoy with Kryuk Mrachny} & {\mood \normalsize 𜽔𜼆𜼈𜼢𜼇𜽐𜼰 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f8([ g] a2 g1)}
+\end{lilypond}\\
+{\small 82} & {\small } & {\small Mechik} & {\mood \normalsize 𜾩𜼇 } & \ruby{\mono \tiny  1xxA5}{\mood \large 𜾩} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( f8)}
+\end{lilypond}\\
+{\small 83} & {\small 232} & {\small Mechik Klyuchevoy} & {\mood \normalsize 𜾪𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( f8)}
+\end{lilypond}\\
+{\small 84} & {\small 234} & {\small Mechik Klyuchevoy Zakryty} & {\mood \normalsize 𜾪𜼻𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2)}
+\end{lilypond}\\
+{\small 85} & {\small 237} & {\small Mechik Klyuchevoy with Kryzh} & {\mood \normalsize 𜾪𜼿𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( f8 e4 d)}
+\end{lilypond}\\
+{\small 86} & {\small 242} & {\small Mechik Klyuchevoy with Stopitsa} & {\mood \normalsize 𜾪𜽖𜼊 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2)}
+\end{lilypond}\\
+{\small 87} & {\small 252} & {\small Mechik Klyuchevoy with Stopitsa with Slozhitiye Zakrytoye} & {\mood \normalsize 𜾪𜼈𜽖𜼇𜽜𜼼 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( f8 e4 d)}
+\end{lilypond}\\
+{\small 88} & {\small 245} & {\small Mechik Klyuchevoy Ometny} & {\mood \normalsize 𜾪𜼾𜼆 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4.( e8 d2)}
+\end{lilypond}\\
+{\small 89} & {\small 240} & {\small Mechik Klyuchevoy with Palka} & {\mood \normalsize 𜾪𜼆𜽜𜼄 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4. (e8 d1)}
+\end{lilypond}\\
+{\small 90} & {\small 248} & {\small Mechik Klyuchevoy with Kryuk} & {\mood \normalsize 𜾪𜼈𜽐 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f1)}
+\end{lilypond}\\
+{\small 91} & {\small 247} & {\small Mechik Klyuchevoy with Podchashie} & {\mood \normalsize 𜾪𜼆𜽐𜼵𜼃 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx03}{\mood \large ◌𜼃}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4.( e8 d2 c)}
+\end{lilypond}\\
+{\small 92} & {\small 250} & {\small Mechik Klyuchevoy with Podchashie and Kryuk} & {\mood \normalsize 𜾪𜼈𜽐𜼵𜽐𜼆 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2 e f1)}
+\end{lilypond}\\
+{\small 93} & {\small 249} & {\small Mechik Klyuchevoy and Kryuk Mrachny} & {\mood \normalsize 𜾪𜼈𜽐𜼰 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2. e4)}
+\end{lilypond}\\
+{\small 94} & {\small } & {\small Mechik Klyuchevoy and Kryuk Klyuchevoy} & {\mood \normalsize 𜾪𜽔𜼈𜼄 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f[ e] d4)}
+\end{lilypond}\\
+{\small 95} & {\small } & {\small Mechik Klyuchevoy, Zapyataya and Kryuk Klyuchevoy with Sorochiya Nozhka} & {\mood \normalsize 𜾪𜼽𜼈𜼆𜽝𜽔𜼺𜼆𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( f8 e4. f8 g4)}
+\end{lilypond}\\
+{\small 96} & {\small 296} & {\small Mechik Klyuchevoy Ometny and Klyuch} & {\mood \normalsize 𜾪𜼽𜼈𜽶𜼅 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4. e8 d2)}
+\end{lilypond}\\
+{\small 97} & {\small 285} & {\small Mechik Klyuchevoy and Perevodka Nepostoyannaya} & {\mood \normalsize 𜾪𜼈𜽙𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxC2}{\mood \large 𜽙} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 98} & {\small 286} & {\small Mechik Klyuchevoy and Perevodka Nepostoyannoometnaya} & {\mood \normalsize 𜾪𜼈𜽙𜼾𜼆𜼥 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxC2}{\mood \large 𜽙} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 99} & {\small } & {\small Mechik Klyuchevoy and Perevodka Tresvetloometnaya} & {\mood \normalsize 𜾪𜽙𜼾𜼈𜼆𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xxC2}{\mood \large 𜽙} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g8[ f])}
+\end{lilypond}\\
+{\small 100} & {\small } & {\small Mechik Klyuchevoy and Skameitsa Dvoyechelnaya with Podvertka} & {\mood \normalsize 𜾪𜼽𜼈𜼆𜽻𜼆𜼇𜼦 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xxD2}{\mood \large 𜽻} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 101} & {\small 266} & {\small Mechik Klyuchevoy and Skameitsa Dvoyechelnaya Nepostoyannaya with Podvertka} & {\mood \normalsize 𜾪𜼽𜼈𜼥𜽼𜼇𜼥𜼦 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xxD3}{\mood \large 𜽼} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 102} & {\small 265} & {\small Mechik Klyuchevoy and Skameitsa Dvoyechelnaya Nepostoyannaya with Sorochiya Nozhka} & {\mood \normalsize 𜾪𜼽𜼈𜼥𜽼𜼺𜼥 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xxD3}{\mood \large 𜽼} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 103} & {\small 291} & {\small Mechik Klyuchevoy Ometny and Golubchik Tresvetly} & {\mood \normalsize 𜾪𜼽𜼆𜽢𜼄𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4.( e8 d2 e f g)}
+\end{lilypond}\\
+{\small 104} & {\small 292} & {\small Mechik Klyuchevoy Ometny and Golubchik Tresvetloometny} & {\mood \normalsize 𜾪𜼽𜼈𜽢𜼾𜼆𜼉𜼥 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2 g a bes4 a)}
+\end{lilypond}\\
+{\small 105} & {\small 254} & {\small Mechik Mrachnoklyuchevoy Zakryty} & {\mood \normalsize 𜾪𜼰𜼻𜼈 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 g)}
+\end{lilypond}\\
+{\small 106} & {\small 246} & {\small Mechik Mrachnoklyuchevoy Ometny} & {\mood \normalsize 𜾪𜼾𜼰𜼈 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 a2 g)}
+\end{lilypond}\\
+{\small 107} & {\small } & {\small Mechik Mrachnoklyuchevoy with Kryzh} & {\mood \normalsize 𜾪𜼰𜼿𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( g4. f8 e4 d)}
+\end{lilypond}\\
+{\small 108} & {\small } & {\small Mechik Mrachnoklyuchevoy with Palka} & {\mood \normalsize 𜾪𜼰𜼇𜼢𜽜𜼅 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( g4. f8 e1)}
+\end{lilypond}\\
+{\small 109} & {\small } & {\small Mechik Svetloklyuchevoy Zakryty} & {\mood \normalsize 𜾪𜼱𜼻𜼈 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( a4. g8 f4 g)}
+\end{lilypond}\\
+{\small 110} & {\small } & {\small Mechik Klyuchenepostoyanny} & {\mood \normalsize 𜾬𜼇𜼆𜼇 } & \ruby{\mono \tiny  1xxF5}{\mood \large 𜾬} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( f4 e f g)}
+\end{lilypond}\\
+{\small 111} & {\small 261} & {\small Mechik Klyuchepovodny} & {\mood \normalsize 𜾫𜼈𜼆 } & \ruby{\mono \tiny  1xxF4}{\mood \large 𜾫} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4. (g8 f4 e f2)}
+\end{lilypond}\\
+{\small 112} & {\small 260} & {\small Mechik Klyuchepovodny with Podvertka} & {\mood \normalsize 𜾫𜼈𜼇𜼆𜼦 } & \ruby{\mono \tiny  1xxF4}{\mood \large 𜾫} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 113} & {\small 264} & {\small Mechik Klyuchevoy and Skametisa Klyuchenepostoyannaya with Sorochya Nozhka} & {\mood \normalsize 𜾪𜼽𜼈𜽸𜼺𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxCF}{\mood \large 𜽸} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 e f g)}
+\end{lilypond}\\
+{\small 114} & {\small 101} & {\small Osoka} & {\mood \normalsize 𜾱𜼈 } & \ruby{\mono \tiny  1xxBA}{\mood \large 𜾱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a1)}
+\end{lilypond}\\
+{\small 115} & {\small 103} & {\small Osoka with Kryzh} & {\mood \normalsize 𜾱𜼿𜼆𜼇𜼈 } & \ruby{\mono \tiny  1xxBA}{\mood \large 𜾱} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a2. g4)}
+\end{lilypond}\\
+{\small 116} & {\small 102} & {\small Osoka with Tikhaya} & {\mood \normalsize 𜾱𜼈𜼣 } & \ruby{\mono \tiny  1xxBA}{\mood \large 𜾱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g a1)}
+\end{lilypond}\\
+{\small 117} & {\small 5} & {\small Palka} & {\mood \normalsize 𜽜𜼇 } & \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1}
+\end{lilypond}\\
+{\small 118} & {\small 37} & {\small Paraklit} & {\mood \normalsize 𜽒𜼊 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1}
+\end{lilypond}\\
+{\small 119} & {\small 43} & {\small Paraklit and Stopitsa with Palka Vozdernutaya} & {\mood \normalsize 𜽒𜼈𜽖𜽜𜼼𜼢 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2.( g4)}
+\end{lilypond}\\
+{\small 120} & {\small 42} & {\small Paraklit and Stopitsa with Slozhitiye s Kryzhem} & {\mood \normalsize 𜽒𜼈𜽖𜾁𜼢 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2 (a2. f4)}
+\end{lilypond}\\
+{\small 121} & {\small 41} & {\small Paraklit Mrachny} & {\mood \normalsize 𜽒𜼰𜼉 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( a4)}
+\end{lilypond}\\
+{\small 122} & {\small 38} & {\small Paraklit with Podchashie} & {\mood \normalsize 𜽒𜼵𜼉 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( a)}
+\end{lilypond}\\
+{\small 123} & {\small 95} & {\small Perevodka} & {\mood \normalsize 𜽘𜼈 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a2)}
+\end{lilypond}\\
+{\small 124} & {\small 97} & {\small Perevodka with Sorochiya Nozhka} & {\mood \normalsize 𜽘𜼺𜼉 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a bes)}
+\end{lilypond}\\
+{\small 125} & {\small 99} & {\small Perevodka with Kryzh} & {\mood \normalsize 𜽘𜼿𜼈 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a g)}
+\end{lilypond}\\
+{\small 126} & {\small } & {\small Perevodka with Stopitsa and Kryzh} & {\mood \normalsize 𜽘𜼈𜽖𜼿𜼢 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a2. g4)}
+\end{lilypond}\\
+{\small 127} & {\small } & {\small Perevodka with Golubchik and Two Kryzhy} & {\mood \normalsize 𜽘𜼉𜽠𜼿𜼿𜼉𜼊𜼉𜼈 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a bes2 c4 bes a)}
+\end{lilypond}\\
+{\small 128} & {\small 98} & {\small Perevodka Ometnaya} & {\mood \normalsize 𜽘𜼾𜼆𜼇𜼆 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a g)}
+\end{lilypond}\\
+{\small 129} & {\small 109} & {\small Perevodka Tresvetloometnaya} & {\mood \normalsize 𜽙𜼾𜼆𜼇𜼆 } & \ruby{\mono \tiny  1xxC2}{\mood \large 𜽙} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f g f2)}
+\end{lilypond}\\
+{\small 130} & {\small 107} & {\small Perevodka Nepostoyannaya} & {\mood \normalsize 𜽙𜼆𜼇 } & \ruby{\mono \tiny  1xxC2}{\mood \large 𜽙} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f g)}
+\end{lilypond}\\
+{\small 131} & {\small 108} & {\small Perevodka Nepostoyannaya with Sorochiya Nozhka} & {\mood \normalsize 𜽙𜼺𜼄𜼆 } & \ruby{\mono \tiny  1xxC2}{\mood \large 𜽙} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d4( c d f)}
+\end{lilypond}\\
+{\small 132} & {\small 13} & {\small Podchashiye} & {\mood \normalsize 𜽐𜼵𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( g)}
+\end{lilypond}\\
+{\small 133} & {\small 14} & {\small Podchashiye Mrachnoye} & {\mood \normalsize 𜽐𜼰𜼵𜼉 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( bes a2)}
+\end{lilypond}\\
+{\small 134} & {\small 15} & {\small Podchashiye Mrachnoye s Palkoy} & {\mood \normalsize 𜽐𜼰𜼵𜼈𜼉𜽜𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( bes a1)}
+\end{lilypond}\\
+{\small 135} & {\small 26} & {\small Podchashiye Mrachnoye and Stopitsa with Slozhitye s Kryzhem} & {\mood \normalsize 𜽐𜼰𜼵𜼉𜽖𜾁 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( bes a2. f4)}
+\end{lilypond}\\
+{\small 136} & {\small 25} & {\small Podchashiye Mrachnoye and Kryuk Mrachny} & {\mood \normalsize 𜽐𜼉𜼰𜼵𜽐𜼰𜼰 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'4( c bes2. a4)}
+\end{lilypond}\\
+{\small 137} & {\small 19} & {\small Podchashiye Svetloye} & {\mood \normalsize 𜽐𜼱𜼵𜼉 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes a)}
+\end{lilypond}\\
+{\small 138} & {\small } & {\small Rog} & {\mood \normalsize 𜾃𜼄 } & \ruby{\mono \tiny  1xx8A}{\mood \large 𜾃} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d\breve}
+\end{lilypond}\\
+{\small 139} & {\small } & {\small Skameitsa} & {\mood \normalsize 𜽳𜼆 } & \ruby{\mono \tiny  1xx84}{\mood \large 𜽳} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f2)}
+\end{lilypond}\\
+{\small 140} & {\small 118} & {\small Skameitsa with Podvertka} & {\mood \normalsize 𜽳𜼈𜼦 } & \ruby{\mono \tiny  1xx84}{\mood \large 𜽳} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g a g)}
+\end{lilypond}\\
+{\small 141} & {\small 113} & {\small Skameitsa with Sorochiya Nozhka} & {\mood \normalsize 𜽳𜼺𜼇 } & \ruby{\mono \tiny  1xx84}{\mood \large 𜽳} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f g)}
+\end{lilypond}\\
+{\small 142} & {\small 122} & {\small Skameitsa Ometnaya and Mechik Klyuchevoy and Podchashiye} & {\mood \normalsize 𜽳𜼽𜼈𜼩𜽶𜽐𜼵 } & \ruby{\mono \tiny  1xx84}{\mood \large 𜽳} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx39}{\mood \large ◌𜼩} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g a4. g8 f2 e)}
+\end{lilypond}\\
+{\small 143} & {\small 114} & {\small Skameitsa Mrachnaya} & {\mood \normalsize 𜽳𜼰𜼆𜼇 } & \ruby{\mono \tiny  1xx84}{\mood \large 𜽳} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f g)}
+\end{lilypond}\\
+{\small 144} & {\small 115} & {\small Skameitsa Nepostoyannaya} & {\mood \normalsize 𜽴𜼇 } & \ruby{\mono \tiny  1xx85}{\mood \large 𜽴} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f g)}
+\end{lilypond}\\
+{\small 145} & {\small 117} & {\small Skameitsa Nepostoyannaya with Sorochiya Nozhka} & {\mood \normalsize 𜽴𜼺𜼇𜼈 } & \ruby{\mono \tiny  1xx85}{\mood \large 𜽴} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( f g a)}
+\end{lilypond}\\
+{\small 146} & {\small 119} & {\small Skameitsa Mrachnonepostoyannaya} & {\mood \normalsize 𜽴𜼰𜼆𜼈 } & \ruby{\mono \tiny  1xx85}{\mood \large 𜽴} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f8[ g] a4)}
+\end{lilypond}\\
+{\small 147} & {\small 215} & {\small Skameitsa Klyuchevaya} & {\mood \normalsize 𜽷𜼈𜼩 } & \ruby{\mono \tiny  1xxCE}{\mood \large 𜽷} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx39}{\mood \large ◌𜼩}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g f e f2)}
+\end{lilypond}\\
+{\small 148} & {\small 216} & {\small Skameitsa Klyuchevaya with Podvertka} & {\mood \normalsize 𜽷𜼈𜼦𜼩 } & \ruby{\mono \tiny  1xxCE}{\mood \large 𜽷} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦} \ruby{\mono \tiny  1xx39}{\mood \large ◌𜼩}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g a g)}
+\end{lilypond}\\
+{\small 149} & {\small } & {\small Skameitsa Dvoyechelnaya} & {\mood \normalsize 𜽻𜼇 } & \ruby{\mono \tiny  1xxD2}{\mood \large 𜽻} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( f g2)}
+\end{lilypond}\\
+{\small 150} & {\small 111} & {\small Skameitsa Dvoyechelnaya with Sorochiya Nozhka} & {\mood \normalsize 𜽻𜼺𜼇𜼆𜼇 } & \ruby{\mono \tiny  1xxD2}{\mood \large 𜽻} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( f g f)}
+\end{lilypond}\\
+{\small 151} & {\small 112} & {\small Skameitsa Dvoyechelnaya with Podvertka} & {\mood \normalsize 𜽻𜼈𜼇𜼦 } & \ruby{\mono \tiny  1xxD2}{\mood \large 𜽻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f g)}
+\end{lilypond}\\
+{\small 152} & {\small 124} & {\small Skameitsa Dvoyechelnaya with Omet and Mechik Klyuchevoy and Podchashie} & {\mood \normalsize 𜽻𜼽𜼆𜽶𜽐𜼵𜼃 } & \ruby{\mono \tiny  1xxD2}{\mood \large 𜽻} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx03}{\mood \large ◌𜼃}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f4. e8 d2 c)}
+\end{lilypond}\\
+{\small 153} & {\small 64} & {\small Slognya} & {\mood \normalsize 𜽛𜽜𜼼𜼉𜼤 } & \ruby{\mono \tiny  1xx77}{\mood \large 𜽛} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( a4 bes)}
+\end{lilypond}\\
+{\small 154} & {\small 6} & {\small Palka Vozdernutaya} & {\mood \normalsize 𜽜𜼼𜼅𜼆 } & \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f)}
+\end{lilypond}\\
+{\small 155} & {\small 6} & {\small Slozhitiye s Kryzhem} & {\mood \normalsize 𜾁𜼆 } & \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e)}
+\end{lilypond}\\
+{\small 156} & {\small 68} & {\small Sokolitse} & {\mood \normalsize 𜽝𜼺𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f1)}
+\end{lilypond}\\
+{\small 157} & {\small 70} & {\small Sokolitse and Palka Vozdernutaya} & {\mood \normalsize 𜽝𜼺𜼈𜽜𜼼𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a2. g4)}
+\end{lilypond}\\
+{\small 158} & {\small 71} & {\small Sokolitse and Slozhitiye s Kryzhem} & {\mood \normalsize 𜽝𜼺𜼈𜾁𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a2. g4)}
+\end{lilypond}\\
+{\small 159} & {\small } & {\small Stopitsa with Sorochya Nozhka} & {\mood \normalsize 𜽚𜼄𜼇 } & \ruby{\mono \tiny  1xxC1}{\mood \large 𜽚} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d4( g2)}
+\end{lilypond}\\
+{\small 160} & {\small 1} & {\small Statya} & {\mood \normalsize 𜾈𜼆 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f1}
+\end{lilypond}\\
+{\small 161} & {\small } & {\small Statya and Mechik Klyuchevoy} & {\mood \normalsize 𜾈𜼊𜾪 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c4. bes8)}
+\end{lilypond}\\
+{\small 162} & {\small 299} & {\small Statya and Mechik Klyuchevoy Zakryty} & {\mood \normalsize 𜾈𜼈𜾪𜼻𜼢 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a4. g8 f2)}
+\end{lilypond}\\
+{\small 163} & {\small } & {\small Statya and Mechik Klyuchevoy with Kryzh} & {\mood \normalsize 𜾈𜼇𜾪𜼿 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g4. f8 e4 d)}
+\end{lilypond}\\
+{\small 164} & {\small 302} & {\small Statya and Mechik Klyuchevoy with Stopitsa} & {\mood \normalsize 𜾈𜼊𜾪𜼢𜽖𜼈 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c4. bes8 a2)}
+\end{lilypond}\\
+{\small 165} & {\small 301} & {\small Statya and Mechik Klyuchevoy and Palka} & {\mood \normalsize 𜾈𜼇𜾪𜼢𜽜𜼄 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g4. f8 e2 d1)}
+\end{lilypond}\\
+{\small 166} & {\small } & {\small Statya and Mechik Klyuchevoy and Podchashie} & {\mood \normalsize 𜾈𜼈𜾪𜽐𜼵 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a4. g8 f2 e)}
+\end{lilypond}\\
+{\small 167} & {\small 300} & {\small Statya and Mechik Mrachnoklyuchevoy Zakryty} & {\mood \normalsize 𜾈𜼊𜾪𜼰𜼻𜼢𜼇 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c4. bes8 a4 bes)}
+\end{lilypond}\\
+{\small 168} & {\small 310} & {\small Statya and Mechik Mrachnoklyuchevoy Ometny} & {\mood \normalsize 𜾈𜼊𜾪𜼰𜼾𜼢𜼈 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c2 c4. bes8 a2)}
+\end{lilypond}\\
+{\small 169} & {\small 309} & {\small Statya and Mechik Mrachnoklyuchevoy with Palka} & {\mood \normalsize 𜾈𜼇𜾪𜼰𜼢𜽜𜼅 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g2 g4. f8 e1)}
+\end{lilypond}\\
+{\small 170} & {\small } & {\small Statya and Mechik Mrachnoklyuchevoy with Kryzh} & {\mood \normalsize 𜾈𜼈𜾪𜼰𜼿𜼢 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a2 a4. g8 f4 e)}
+\end{lilypond}\\
+{\small 171} & {\small 313} & {\small Statya and Mechik Mrachnoklyuchevoy and Kryuk} & {\mood \normalsize 𜾈𜼈𜾪𜼰𜼢𜽐 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a2 a4. g8 f1)}
+\end{lilypond}\\
+{\small 172} & {\small 315} & {\small Statya and Mechik Mrachnoklyuchevoy and Kryuk Mrachny} & {\mood \normalsize 𜾈𜼈𜾪𜼰𜼢𜽐𜼰 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a2 a4. g8 f2. e4)}
+\end{lilypond}\\
+{\small 173} & {\small 314} & {\small Statya and Mechik Mrachnoklyuchevoy and Podchashie} & {\mood \normalsize 𜾈𜼈𜾪𜼰𜼢𜽐𜼵 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a2 a4. g8 f2 e)}
+\end{lilypond}\\
+{\small 174} & {\small } & {\small Statya and Mechik Mrachnoklyuchevoy and Klyuch Mrachny with Kryzh} & {\mood \normalsize 𜾈𜼈𜾪𜼽𜽶𜼿𜼰 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a2 a4. g8 f4. e8 d4 c)}
+\end{lilypond}\\
+{\small 175} & {\small 312} & {\small Statya and Mechik Svetloklyuchevoy Zakryty} & {\mood \normalsize 𜾈𜼊𜾪𜼱𜼻𜼉 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c2 c4. bes8 a4 bes)}
+\end{lilypond}\\
+{\small 176} & {\small 2} & {\small Statya Mrachnaya} & {\mood \normalsize 𜾈𜼰𜼅 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( e4)}
+\end{lilypond}\\
+{\small 177} & {\small 3} & {\small Statya Mrachnaya Polukryzhnaya} & {\mood \normalsize 𜾊𜼰𜼆𜼅 } & \ruby{\mono \tiny  1xx91}{\mood \large 𜾊} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( e4)}
+\end{lilypond}\\
+{\small 180} & {\small 1} & {\small Statya Svetlaya} & {\mood \normalsize 𜾈𜼱𜼈 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1}
+\end{lilypond}\\
+{\small 181} & {\small } & {\small Statya Svetlaya and Mechik Klyuchevoy and Podchashie} & {\mood \normalsize 𜾈𜼱𜼈𜾪𜽐𜼵 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a4. g8 f2 e)}
+\end{lilypond}\\
+{\small 182} & {\small } & {\small Statya Svetlaya and Mechik Mrachnoklyuchevoy with Kryzh} & {\mood \normalsize 𜾈𜼱𜼊𜾪𜼰𜼿 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c2 c4. bes8 a4 g)}
+\end{lilypond}\\
+{\small 183} & {\small } & {\small Statya with Zapyataya} & {\mood \normalsize 𜾉𜼄𜼃 } & \ruby{\mono \tiny  1xx90}{\mood \large 𜾉} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx03}{\mood \large ◌𜼃}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d2( c)}
+\end{lilypond}\\
+{\small 184} & {\small 51} & {\small Stopitsa} & {\mood \normalsize 𜽖𜼅 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2}
+\end{lilypond}\\
+{\small 185} & {\small 47} & {\small Stoptisa with Borzaya Mark} & {\mood \normalsize 𜽖𜼈𜼤 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4}
+\end{lilypond}\\
+{\small 186} & {\small 47} & {\small Stopitsa with Udarka Mark} & {\mood \normalsize 𜽖𜼈𜼥 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4}
+\end{lilypond}\\
+{\small 187} & {\small 48} & {\small Stopitsa with Kryzh} & {\mood \normalsize 𜽖𜼿𜼆 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e)}
+\end{lilypond}\\
+{\small 188} & {\small } & {\small Stopitsa with Kryzh and Borzaya Mark} & {\mood \normalsize 𜽖𜼿𜼆𜼤 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f8[ e]}
+\end{lilypond}\\
+{\small 189} & {\small 54} & {\small Stopitsa with Two Kryzhy} & {\mood \normalsize 𜽖𜼿𜼿𜼈 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g f2)}
+\end{lilypond}\\
+{\small 190} & {\small 55} & {\small Stopitsa with Three Kryzhy} & {\mood \normalsize 𜽖𜼿𜼿𜼿𜼈 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g f e)}
+\end{lilypond}\\
+{\small 191} & {\small } & {\small Stopitsa with Palka} & {\mood \normalsize 𜽖𜼈𜽜 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g1)}
+\end{lilypond}\\
+{\small 192} & {\small 59} & {\small Stopitsa with Palka Vozdernutaya} & {\mood \normalsize 𜽖𜼆𜽜𜼼 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( e4 f)}
+\end{lilypond}\\
+{\small 193} & {\small 61} & {\small Stopitsa with Palka Vozdernutaya and Borzaya Mark} & {\mood \normalsize 𜽖𜼈𜼤𜽜𜼼 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( f8[ e])}
+\end{lilypond}\\
+{\small 194} & {\small 58} & {\small Stopitsa with Slozhitiye s Kryzhem} & {\mood \normalsize 𜽖𜼈𜾁𜼢 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxD6}{\mood \large 𜾁} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2.( f4)}
+\end{lilypond}\\
+{\small 195} & {\small 126} & {\small Strela} & {\mood \normalsize 𜾔𜼆 } & \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f1}
+\end{lilypond}\\
+{\small 196} & {\small 127} & {\small Strela with Sorochiya Nozhka} & {\mood \normalsize 𜾔𜼺𜼈 } & \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1}
+\end{lilypond}\\
+{\small 197} & {\small 147} & {\small Strela with Kryzh} & {\mood \normalsize 𜾔𜼿𜼆 } & \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2.( e4)}
+\end{lilypond}\\
+{\small 198} & {\small 139} & {\small Strela Mrachnaya} & {\mood \normalsize 𜾔𜼰𜼆𜼇 } & \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g1)}
+\end{lilypond}\\
+{\small 199} & {\small 149} & {\small Strela Mrachnokryzhnaya with Tikhaya Mark} & {\mood \normalsize 𜾔𜼿𜼰𜼈𜼢𜼣 } & \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a1 a4 g)}
+\end{lilypond}\\
+{\small 200} & {\small 150} & {\small Strela Svetlokryzhnaya} & {\mood \normalsize 𜾔𜼿𜼱𜼈𜼢𜼇 } & \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a1 a4 g1)}
+\end{lilypond}\\
+{\small 201} & {\small 128} & {\small Strela Tikhaya} & {\mood \normalsize 𜾜𜼇 } & \ruby{\mono \tiny  1xxE6}{\mood \large 𜾜} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g)}
+\end{lilypond}\\
+{\small 202} & {\small 141} & {\small Strela Mrachnotikhaya} & {\mood \normalsize 𜾕𜼰𜼇 } & \ruby{\mono \tiny  1xx9B}{\mood \large 𜾕} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g)}
+\end{lilypond}\\
+{\small 203} & {\small 142} & {\small Strela Povodnaya} & {\mood \normalsize 𜾘𜼇 } & \ruby{\mono \tiny  1xx9D}{\mood \large 𜾘} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g2)}
+\end{lilypond}\\
+{\small 204} & {\small 146} & {\small Strela Kryzhepovodnaya} & {\mood \normalsize 𜾘𜼿𜼇𜼆𜼇𜼆 } & \ruby{\mono \tiny  1xx9D}{\mood \large 𜾘} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( f g2 f)}
+\end{lilypond}\\
+{\small 205} & {\small 144} & {\small Strela Povodnaya with Stopitsa} & {\mood \normalsize 𜾘𜽖𜼄 } & \ruby{\mono \tiny  1xx9D}{\mood \large 𜾘} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d4( c d2 c1)}
+\end{lilypond}\\
+{\small 206} & {\small 143} & {\small Strela Povodnaya and Kryuk} & {\mood \normalsize 𜾘𜽐𜼅𜼆𜼇 } & \ruby{\mono \tiny  1xx9D}{\mood \large 𜾘} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f2 g1)}
+\end{lilypond}\\
+{\small 207} & {\small 138} & {\small Strela Polupovodnaya} & {\mood \normalsize 𜾗𜼆𜼅 } & \ruby{\mono \tiny  1xxE7}{\mood \large 𜾗} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e1)}
+\end{lilypond}\\
+{\small 208} & {\small 151} & {\small Strela Poyezdnaya} & {\mood \normalsize 𜾘𜼰𜼆 } & \ruby{\mono \tiny  1xx9D}{\mood \large 𜾘} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 e)}
+\end{lilypond}\\
+{\small 209} & {\small 129} & {\small Strela Dvoyechelnaya} & {\mood \normalsize 𜾝𜼇𜼈𜼉 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a4 bes)}
+\end{lilypond}\\
+{\small 210} & {\small 134} & {\small Strela Dvoyechelnaya with Kryzh} & {\mood \normalsize 𜾝𜼿𜼉𜼢𜼊𜼈 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2.( c4 a2)}
+\end{lilypond}\\
+{\small 211} & {\small 136} & {\small Strela Dvoyechelnaya with Kryzh and Sorochya Nozhka} & {\mood \normalsize 𜾝𜼿𜼺𜼆𜼢𜼇𜼆 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( f4 g f2)}
+\end{lilypond}\\
+{\small 212} & {\small 130} & {\small Strela Dvoyechelnaya with Stopitsa} & {\mood \normalsize 𜾝𜼄𜼢𜼆𜽖 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d2( d4 f2)}
+\end{lilypond}\\
+{\small 213} & {\small 131} & {\small Strela Dvoyechelnaya with Kryuk} & {\mood \normalsize 𜾝𜼉𜼢𜼊𜽐 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( bes4 c1)}
+\end{lilypond}\\
+{\small 214} & {\small 132} & {\small Strela Dvoyechelnaya with Podchashie} & {\mood \normalsize 𜾝𜼄𜼢𜼆𜽐𜼵 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d2.( f4 e2 d)}
+\end{lilypond}\\
+{\small 215} & {\small 133} & {\small Strela Dvoyechelnaya with Kryuk Mrachny} & {\mood \normalsize 𜾝𜼄𜼢𜼆𜽐𜼰 } & \ruby{\mono \tiny  1xxEC}{\mood \large 𜾝} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d2.( f4 f e)}
+\end{lilypond}\\
+{\small 216} & {\small 49} & {\small Chelyustka} & {\mood \normalsize 𜽛𜼅 } & \ruby{\mono \tiny  1xx77}{\mood \large 𜽛} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f)}
+\end{lilypond}\\
+{\small 217} & {\small } & {\small Chelyustka with Borzaya Mark} & {\mood \normalsize 𜽛𜼅𜼤 } & \ruby{\mono \tiny  1xx77}{\mood \large 𜽛} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e8[ f]}
+\end{lilypond}\\
+{\small } & {\small 13} & {\small Podchashiye with Gegenbogen} & {\mood \normalsize 𜽐𜼶𜼊 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx5F}{\mood \large ◌𜼶} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'2( g)}
+\end{lilypond}\\
+{\small } & {\small 23} & {\small Kryuk Svetloometny (non-combining)} & {\mood \normalsize 𜽐𜼱𜼾𜼈 } & \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a4 g)}
+\end{lilypond}\\
+{\small } & {\small 33} & {\small Zanozhek Svetly with Kryzh} & {\mood \normalsize 𜽕𜼿𜼱𜼇𜼆 } & \ruby{\mono \tiny  1xxC0}{\mood \large 𜽕} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx51}{\mood \large ◌𜼱} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g f)}
+\end{lilypond}\\
+{\small } & {\small 39} & {\small Paraklit with Gegenbogen} & {\mood \normalsize 𜽒𜼶𜼊 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx5F}{\mood \large ◌𜼶} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'2( g)}
+\end{lilypond}\\
+{\small } & {\small 40} & {\small Paraklit with Podchashie and Kryzh} & {\mood \normalsize 𜽒𜼿𜼵𜼉 } & \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( a g)}
+\end{lilypond}\\
+{\small } & {\small 67} & {\small Golubchik with Borzaya Mark} & {\mood \normalsize 𜽠𜼤 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f)}
+\end{lilypond}\\
+{\small } & {\small 69} & {\small Zapyataya and Kryuk} & {\mood \normalsize 𜽝𜽐𜼈 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a1)}
+\end{lilypond}\\
+{\small } & {\small 74} & {\small Golubchik with Palka} & {\mood \normalsize 𜽠𜽜𜼉 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2 (bes4 a)}
+\end{lilypond}\\
+{\small } & {\small 79} & {\small Vrakhiya Mrachnaya with Borzaya Mark} & {\mood \normalsize 𜽤𜼇𜼤 } & \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g1)}
+\end{lilypond}\\
+{\small } & {\small 83} & {\small Golubchik Svetly with Borzaya Mark} & {\mood \normalsize 𜽡𜼇𜼤 } & \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g)}
+\end{lilypond}\\
+{\small } & {\small 84} & {\small Golubchik Svetly with Sorochiya Nozhka} & {\mood \normalsize 𜽡𜼺𜼈 } & \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g a4)}
+\end{lilypond}\\
+{\small } & {\small 90} & {\small Golubchik Tresvetly with Palka} & {\mood \normalsize 𜽢𜽜𜼈𜼦 } & \ruby{\mono \tiny  1xxC4}{\mood \large 𜽢} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx36}{\mood \large ◌𜼦}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g2 a4 g)}
+\end{lilypond}\\
+{\small } & {\small 92} & {\small Zapyataya and Paraklit with Kryuk} & {\mood \normalsize 𜽝𜼈𜽒𜼊𜽐 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx72}{\mood \large 𜽒} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4 c1)}
+\end{lilypond}\\
+{\small } & {\small 93} & {\small Golubchik Svetly, Kryuk with Stopitsa and Palka} & {\mood \normalsize 𜽡𜼈𜼣𜽐𜼊𜽖𜽜𜼇 } & \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4) bes( c1) g4}
+\end{lilypond}\\
+{\small } & {\small 94} & {\small Golubchik Svetly, Dva v Chelnu with Kryuk and Palka} & {\mood \normalsize 𜽡𜼈𜼣𜽓𜼊𜽐𜼇𜽜 } & \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣} \ruby{\mono \tiny  1xx73}{\mood \large 𜽓} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4) bes( c1) g4}
+\end{lilypond}\\
+{\small } & {\small 96} & {\small Perevodka with Borzaya Mark} & {\mood \normalsize 𜽘𜼈𜼤 } & \ruby{\mono \tiny  1xx76}{\mood \large 𜽘} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( g a)}
+\end{lilypond}\\
+{\small } & {\small 110} & {\small Skameitsa Dvoyechelnaya} & {\mood \normalsize 𜽻𜼇 } & \ruby{\mono \tiny  1xxD2}{\mood \large 𜽻} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( f g2)}
+\end{lilypond}\\
+{\small } & {\small 123} & {\small Skameitsa and Mechik Klyuchevoy and Podchashiye and Kryuk} & {\mood \normalsize 𜽳𜼽𜼆𜼩𜽶𜽐𜼵𜼃𜽐 } & \ruby{\mono \tiny  1xx84}{\mood \large 𜽳} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx39}{\mood \large ◌𜼩} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx03}{\mood \large ◌𜼃} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f4( e f4. e8 d2 c d)}
+\end{lilypond}\\
+{\small } & {\small 137} & {\small Mechik} & {\mood \normalsize 𜾩𜼆 } & \ruby{\mono \tiny  1xxA5}{\mood \large 𜾩} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f1( e4)}
+\end{lilypond}\\
+{\small } & {\small 155} & {\small Kryuk Klyuchevoy with Sorochiya Nozhka} & {\mood \normalsize 𜽔𜼺𜼆 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d8([ e] f4)}
+\end{lilypond}\\
+{\small } & {\small 156} & {\small Kryuk Klyuchevoy with Borzaya Mark} & {\mood \normalsize 𜽔𜼉𜼤 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'8([ a] bes4)}
+\end{lilypond}\\
+{\small } & {\small 161} & {\small Kryuk Klyuchevoy with Three Kryzhy} & {\mood \normalsize 𜽔𜼿𜼇𜼿𜼿 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e4( f g2 f2 e)}
+\end{lilypond}\\
+{\small } & {\small 165} & {\small Kryuk Klyuchevoy with Podchashie} & {\mood \normalsize 𜽔𜼉𜽐𜼵 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a bes a)}
+\end{lilypond}\\
+{\small } & {\small 167} & {\small Kryuk Klyuchevoy Ometny with Mechik Klyuchevoy with Kryzh} & {\mood \normalsize 𜽔𜼽𜼉𜽶𜼿 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a bes2 a8 g1)}
+\end{lilypond}\\
+{\small } & {\small 168} & {\small Kryuk Klyuchevoy with Kryuk Klyuchevoy and Podchashie} & {\mood \normalsize 𜽔𜼆𜽔𜽐𜼵 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d4( e f2 e8 d2 c)}
+\end{lilypond}\\
+{\small } & {\small 169} & {\small Kryuk Klyuchevoy Ometny with Klyuch Ometny with Zapyataya and Klyuch and Statya} & {\mood \normalsize 𜽔𜼽𜼉𜼤𜽶𜼽𜽝𜼇𜽶𜼈𜼥𜾈𜼆 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( a8 bes8[ a] g2 a8[ g] f1)}
+\end{lilypond}\\
+{\small } & {\small 170} & {\small Kryuk Klyuchevoy Ometny with Klyuch with Zapyataya and Klyuch and Palka} & {\mood \normalsize 𜽔𜼽𜼉𜽶𜼽𜽝𜼇𜽶𜼈𜼥𜽜𜼆 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( a8 bes8[ a] g2 a8[ g] f1)}
+\end{lilypond}\\
+{\small } & {\small 171} & {\small Kryuk Klyuchevoy with Mechik Klyuchevoy with Zapyataya and Klyuch and Palka} & {\mood \normalsize 𜽔𜼽𜼉𜽶𜼽𜽝𜼇𜽶𜽜𜼆 } & \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4( a bes2. a4 g2) a2( g f1)}
+\end{lilypond}\\
+{\small } & {\small 173} & {\small Zapyataya and Klyuch and Stopitsa} & {\mood \normalsize 𜽝𜼆𜽔𜽖𜼇 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g8[ f] e4)}
+\end{lilypond}\\
+{\small } & {\small 179} & {\small Zapyataya and Kryuk Klyuchevoy and Sorochiya Nozhka} & {\mood \normalsize 𜽝𜼄𜽔𜼺𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { d2( e4 f)}
+\end{lilypond}\\
+{\small } & {\small 182} & {\small Zapyataya and Kryuk Klyuchevoy with Sorochiya Nozhka and Sokolitse} & {\mood \normalsize 𜽝𜼉𜽔𜼺𜼊𜽝𜼺𜼉 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( c4 bes g bes1)}
+\end{lilypond}\\
+{\small } & {\small 184} & {\small Zapyataya and Kryuk Klyuchevoy Ometny with Mechik Zakryty} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜼇𜽶𜼻 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g2 f4 e1)}
+\end{lilypond}\\
+{\small } & {\small 185} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Mechik Ometny and Golubchik Ometny} & {\mood \normalsize 𜽝𜼇𜽔𜼽𜽶𜼽𜽠𜼾 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a4 bes2 a4 g1) a4( g)}
+\end{lilypond}\\
+{\small } & {\small 188} & {\small Zapyataya and Two Kryuki Klyuchevyye and Kryzh} & {\mood \normalsize 𜽝𜼆𜽔𜼈𜽔𜼿𜼅 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( g4 a2. g4 f e)}
+\end{lilypond}\\
+{\small } & {\small 189} & {\small Zapyataya and Two Kryuki Klyuchevyye and Vrachia} & {\mood \normalsize 𜽝𜼅𜽔𜼇𜽔𜼽𜽤𜼇 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g2. f2 e2 f g1)}
+\end{lilypond}\\
+{\small } & {\small 190} & {\small Zapyataya and Kryuk Klyuchevoy and Mechik Klyuchevoy and Vrachia} & {\mood \normalsize 𜽝𜽔𜼽𜼇𜽶𜼽𜼅𜽤 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g2. f4 e2 f g1)}
+\end{lilypond}\\
+{\small } & {\small 191} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Mechik Klyuchevoy and Kryzh} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜼊𜽶𜼿𜼇 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4 c2. bes4 g f)}
+\end{lilypond}\\
+{\small } & {\small 192} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Mechik Mrachnoklyuchevoy Ometny and Zapyataya} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜽶𜼽𜼰𜼅𜽝𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g2 f4 e2 f)}
+\end{lilypond}\\
+{\small } & {\small 193} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Mechik Mrachnozakryty} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜼇𜽶𜼰𜼻𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g2 f4 e2 f)}
+\end{lilypond}\\
+{\small } & {\small 194} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Mechik Mrachnoklyuchevoy Ometny} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜼇𜽶𜼰𜼾𜼅𜼆 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { e2( f4 g2 f4 e2 f)}
+\end{lilypond}\\
+{\small } & {\small 195} & {\small Zapyataya and Kryuk Klyuchevoy and Mechik Klyuchevoy and Mechik Klyuchevoy Zakryty} & {\mood \normalsize 𜽝𜼈𜽔𜼽𜼊𜽶𜼽𜼈𜽶𜼻 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4 c1 bes4 a1 g2 f)}
+\end{lilypond}\\
+{\small } & {\small 197} & {\small Zapyataya and Kryuk Klyuchevoy and Mechik Klyuchevoy and Kryzh and Strela Mrachnaya} & {\mood \normalsize 𜽝𜼅𜽔𜼽𜼊𜼋𜽶𜼿𜼈𜾔𜼰𜼊 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx0B}{\mood \large ◌𜼋} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( c4 d2 c4 bes) a g4( c2)}
+\end{lilypond}\\
+{\small } & {\small 198} & {\small Zapyataya and Kryuk Klyuchevoy and Mechik Klyuchevoy and Sokolitse} & {\mood \normalsize 𜽝𜼉𜽔𜼽𜼊𜽶𜼈𜽝𜼺𜼊 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( c4 d2. c4 a g4 c2)}
+\end{lilypond}\\
+{\small } & {\small 199} & {\small Zapyataya and Kryuk Klyuchevoy with Sorochiya Nozhka} & {\mood \normalsize 𜽝𜼈𜽔𜼺𜼊 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4 c4 g4 a2)}
+\end{lilypond}\\
+{\small } & {\small 200} & {\small Zapyataya and Kryuk Mrachny} & {\mood \normalsize 𜽝𜼈𜽐𜼰𜼢 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4 c4 g4 a2. g4)}
+\end{lilypond}\\
+{\small } & {\small 203} & {\small Zapyataya and Kryuk Klyuchevoy and Klyuch with Kryzh and Zanozhek and Stopitsa with Sorochiya Nozhka} & {\mood \normalsize 𜽝𜼉𜽔𜼽𜼋𜽶𜼿𜼈𜽚 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0B}{\mood \large ◌𜼋} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxC1}{\mood \large 𜽚}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( a4 c2 c4 bes a4 g4 c2.)}
+\end{lilypond}\\
+{\small } & {\small 204} & {\small Zapyataya and Kryuk Klyuchevoy Ometny and Klyuch with Kryzh} & {\mood \normalsize 𜽝𜼈𜽔𜼽𜼊𜼥𜽶𜼿𜼇 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2( bes4 c8[ bes] a4 g)}
+\end{lilypond}\\
+{\small } & {\small 205} & {\small Stopitsa and Kryuk Klyuchevoy with Kryzh} & {\mood \normalsize 𜽖𜼇𜽔𜼿𜼉𜼈 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( g8[ a] bes4 a)}
+\end{lilypond}\\
+{\small } & {\small 206} & {\small Stopitsa with Otsechka and Kryuk Klyuchevoy Ometny and Klyuch Zakryty} & {\mood \normalsize 𜽖𜼴𜼈𜽔𜼽𜼉𜽶𜼻 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx54}{\mood \large ◌𜼴} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'8( g4 a bes2. a4 g2)}
+\end{lilypond}\\
+{\small } & {\small 207} & {\small Stopitsa with Otsecha and Kryuk Klyuchevoy Ometny and Klyuch Ometny and Zapyataya} & {\mood \normalsize 𜽖𜼴𜼈𜽔𜼽𜼉𜽶𜼽𜼇𜽝 } & \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx54}{\mood \large ◌𜼴} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'8( g4 a bes2. a4 g2)}
+\end{lilypond}\\
+{\small } & {\small 208} & {\small Palka and Kryuk Klyuchevoy with Kryzh} & {\mood \normalsize 𜽜𜼆𜽔𜼿𜼃 } & \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx03}{\mood \large ◌𜼃}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { f2( e8 d4 c)}
+\end{lilypond}\\
+{\small } & {\small 209} & {\small Statya and Kryuk Klyuchevoy with Golubchik Svetly} & {\mood \normalsize 𜾈𜼇𜽔𜼽𜽡𜼇 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xxC3}{\mood \large 𜽡} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g2. f4 e2 f g2)}
+\end{lilypond}\\
+{\small } & {\small 211} & {\small Klyuch Zakryty} & {\mood \normalsize 𜽶𜼻𜼈𜼥 } & \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g f2)}
+\end{lilypond}\\
+{\small } & {\small 214} & {\small Klyuch Ometny} & {\mood \normalsize 𜽶𜼾𜼈𜼥 } & \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( g f2)}
+\end{lilypond}\\
+{\small } & {\small 217} & {\small Zapyataya and Klyuch} & {\mood \normalsize 𜽝𜼉𜽶𜼊𜼥 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'2( c8[ bes])}
+\end{lilypond}\\
+{\small } & {\small 225} & {\small Zapyataya and Klyuch and Slozhitiye} & {\mood \normalsize 𜽝𜼇𜽶𜼈𜽾 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx87}{\mood \large 𜽾}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( g4 f f1)}
+\end{lilypond}\\
+{\small } & {\small 231} & {\small Zapyataya and Klyuch with Stopitsa and Palka Vozdernutaya and Stopitsa with Sorochiya Nozhka} & {\mood \normalsize 𜽝𜼇𜽶𜼈𜼥𜽖𜽜𜼼𜽚𜼇𜼤 } & \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx79}{\mood \large 𜽜𜼼} \ruby{\mono \tiny  1xxC1}{\mood \large 𜽚} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2( a4 g f4 e f2 g1)}
+\end{lilypond}\\
+{\small } & {\small 233} & {\small Mechik Mrachnoklyuchevoy} & {\mood \normalsize 𜾪𜼰𜼈𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 g1)}
+\end{lilypond}\\
+{\small } & {\small 235} & {\small Mechik Mrachnoklyuchevoy Zakryty} & {\mood \normalsize 𜾪𜼰𜼻𜼈 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f4 g2)}
+\end{lilypond}\\
+{\small } & {\small 251} & {\small Mechik Klyuchevoy with Podchashie and Stopitsa} & {\mood \normalsize 𜾪𜼇𜽐𜼵𜼄𜽖𜼆 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( f4 e4 d f2)}
+\end{lilypond}\\
+{\small } & {\small 253} & {\small Mechik Mrachoklyuchevoy Ometny} & {\mood \normalsize 𜾪𜼰𜼾𜼇𜼢 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g2. f4 e1)}
+\end{lilypond}\\
+{\small } & {\small 262} & {\small Mechik Klyuchevoy and Skameitsa Klyuchenepostoyannaya} & {\mood \normalsize 𜾪𜼽𜼈𜼆𜽸𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xxCF}{\mood \large 𜽸} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4. (g8 f4 e f4 g)}
+\end{lilypond}\\
+{\small } & {\small 263} & {\small Mechik Klyuchevoy and Skameitsa Klyuchenepostoyannaya} & {\mood \normalsize 𜾪𜼽𜼈𜽸𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxCF}{\mood \large 𜽸} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'2.( g4 f e f g)}
+\end{lilypond}\\
+{\small } & {\small 267} & {\small Mechik Klyuchevoy and Stopitsa with Sorochiya Nozhka} & {\mood \normalsize 𜾪𜼇𜽚𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxC1}{\mood \large 𜽚} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'2.( f4 e f4 g2.)}
+\end{lilypond}\\
+{\small } & {\small 269} & {\small Mechik Klyuchevoy Zakryty and Stopitsa with Sorochiya Nozhka} & {\mood \normalsize 𜾪𜼻𜼊𜽚𜼊 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxC1}{\mood \large 𜽚} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'2.( bes4 a2 g4 c2.)}
+\end{lilypond}\\
+{\small } & {\small 271} & {\small Mechik Klyuchevoy Ometny and Kryuk Klyuchevoy with Sorochiya Nozhka and Zapyataya and Kryuk} & {\mood \normalsize 𜾪𜼽𜼊𜽝𜼈𜽔𜼺𜼊𜽝𜼈𜽐 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 bes4 c g4 a2.)}
+\end{lilypond}\\
+{\small } & {\small 272} & {\small Mechik Klyuchevoy Ometny and Kryuk Klyuchevoy with Sorochiya Nozhka and Sokolitse} & {\mood \normalsize 𜾪𜼾𜼇𜼈𜽔𜼺𜼊𜽝𜼺𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 bes4 c g4 a2.)}
+\end{lilypond}\\
+{\small } & {\small 273} & {\small Mechik Klyuchevoy Ometny and Kryuk Klyuchevoy} & {\mood \normalsize 𜾪𜼾𜼇𜼈𜽔𜼺𜼊 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 bes4 c g4)}
+\end{lilypond}\\
+{\small } & {\small 274} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy with Kryuk} & {\mood \normalsize 𜾪𜼈𜽖𜼆𜽔𜼇𜽐 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2 e g1)}
+\end{lilypond}\\
+{\small } & {\small 275} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy with Podchashiye} & {\mood \normalsize 𜾪𜼈𜽖𜼆𜽔𜼇𜽐𜼵 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2 e4 f g4 f)}
+\end{lilypond}\\
+{\small } & {\small 276} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy with Kryuk Mrachny} & {\mood \normalsize 𜾪𜼈𜽖𜼆𜽔𜼈𜽐𜼰𜼢 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4.( g8 f2 e8[ g] a2 a4 g)}
+\end{lilypond}\\
+{\small } & {\small 277} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy with Kryuk Klyuchevoy Ometny} & {\mood \normalsize 𜾪𜼊𜽖𜼈𜽔𜼉𜼤𜽔𜼇𜼾 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 g4 a bes2. a8 g2)}
+\end{lilypond}\\
+{\small } & {\small 278} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy Ometny with Klyuch and Kryuk} & {\mood \normalsize 𜾪𜼊𜽖𜼈𜽔𜼽𜼉𜼤𜽶𜽐 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 g8[ a] bes4. a8 g2)}
+\end{lilypond}\\
+{\small } & {\small 279} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy Ometny with Klyuch and Podchashiye} & {\mood \normalsize 𜾪𜼊𜽖𜼈𜽔𜼽𜼉𜼤𜽶𜽐𜼵𜼆 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 g8[ a] bes4. a8 g4 f)}
+\end{lilypond}\\
+{\small } & {\small 280} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy Ometny with Klyuch Zakryty} & {\mood \normalsize 𜾪𜼊𜽖𜼈𜽔𜼽𜼉𜼤𜽶𜼻𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 g8[ a] bes4. a8 g2)}
+\end{lilypond}\\
+{\small } & {\small 283} & {\small Mechik Klyuchevoy with Stopitsa and Kryuk Klyuchevoy Ometny with Klyuch and Palka} & {\mood \normalsize 𜾪𜼊𜽖𜼈𜽔𜼽𜼉𜼤𜽶𜽜𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx75}{\mood \large 𜽖} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 g4 a bes2. a8 g2)}
+\end{lilypond}\\
+{\small } & {\small 284} & {\small Mechik Klyuchevoy Ometny and Kryuk Klyuchevoy Ometny with Klyuch and Palka} & {\mood \normalsize 𜾪𜼽𜼊𜼈𜽔𜼽𜼉𜼤𜽶𜽜𜼇 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx78}{\mood \large 𜽜} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'4.( bes8 a2 g4 a bes2. a8 g2)}
+\end{lilypond}\\
+{\small } & {\small 288} & {\small Mechik Klyuchevoy Ometny and Vrachia Mrachnaya} & {\mood \normalsize 𜾪𜼽𜼈𜽤𜼇𜼣 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx33}{\mood \large ◌𜼣}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'4.( f8 e2 f g1)}
+\end{lilypond}\\
+{\small } & {\small 297} & {\small Mechik Klyuchevoy Ometny and Klyuch and Strela Prostaya} & {\mood \normalsize 𜾪𜼾𜼉𜽶𜼇𜼈𜼥𜾔𜼆 } & \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx9A}{\mood \large 𜾔} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { bes'4.( a8 g2 a4 g f1)}
+\end{lilypond}\\
+{\small } & {\small 303} & {\small Statya and Klyuch Ometny and Kryuk Klyuchevoy with Sorochiya Nozhka} & {\mood \normalsize 𜾈𜽶𜼾𜼢𜼥𜽔𜼺𜼇 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g2 f8 e1 f4 g)}
+\end{lilypond}\\
+{\small } & {\small 304} & {\small Statya and Mechik Klyuchevoy Ometny and Klyuch Ometny} & {\mood \normalsize 𜾈𜼊𜾪𜼽𜼈𜽶𜼾𜼆 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c2 bes8 a4. g8 f2)}
+\end{lilypond}\\
+{\small } & {\small 305} & {\small Statya and Mechik Klyuchevoy Ometny and Klyuch Zakryty} & {\mood \normalsize 𜾈𜼈𜾪𜼽𜼢𜼆𜽶𜼻𜼅𜼄 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx06}{\mood \large ◌𜼆} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xx04}{\mood \large ◌𜼄}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a4. g8 f1 e8 d1)}
+\end{lilypond}\\
+{\small } & {\small 306} & {\small Statya and Mechik Klyuchevoy and Podchashie and Kryuk} & {\mood \normalsize 𜾈𜾪𜼢𜽐𜼵 𜽐𜼇 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx55}{\mood \large ◌𜼵} \ruby{\mono \tiny    20}{\mood \large ◌ } \ruby{\mono \tiny  1xx70}{\mood \large 𜽐} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'1( a4. g8 f1 e2 g1)}
+\end{lilypond}\\
+{\small } & {\small 307} & {\small Statya and Mechik Klyuchevoy and Vrachia Mrachnaya} & {\mood \normalsize 𜾈𜼇𜾪𜼽𜼅𜽤𜼇 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx05}{\mood \large ◌𜼅} \ruby{\mono \tiny  1xxC6}{\mood \large 𜽤} \ruby{\mono \tiny  1xx07}{\mood \large ◌𜼇}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { g'1( g4. f8 e2 f g1)}
+\end{lilypond}\\
+{\small } & {\small 308} & {\small Statya and Mechik Klyuchevoy Ometny and Kryuk Klyuchevoy with Sorochiya Nozhka} & {\mood \normalsize 𜾈𜼊𜾪𜼾𜼢𜼈𜽔𜼺𜼊 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈} \ruby{\mono \tiny  1xx74}{\mood \large 𜽔} \ruby{\mono \tiny  1xx59}{\mood \large ◌𜼺} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c2 bes8 a2 bes4 c)}
+\end{lilypond}\\
+{\small } & {\small 316} & {\small Statya and Mechik Mrachnoklyuchevoy and Mechik Klyuchevoy Zakryty} & {\mood \normalsize 𜾈𜼊𜾪𜼰𜼽𜼢𜽶𜼻𜼈 } & \ruby{\mono \tiny  1xx8F}{\mood \large 𜾈} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊} \ruby{\mono \tiny  1xxF3}{\mood \large 𜾪} \ruby{\mono \tiny  1xx50}{\mood \large ◌𜼰} \ruby{\mono \tiny  1xx5D}{\mood \large ◌𜼽} \ruby{\mono \tiny  1xx32}{\mood \large ◌𜼢} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx08}{\mood \large ◌𜼈}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { c'1( c2 c bes4 a1 g2 f)}
+\end{lilypond}\\
+{\small } & {\small 317} & {\small Golubchik with Kryzh and Golubchik Ometny and Zapyataya} & {\mood \normalsize 𜽠𜼿𜼉𜼤 𜽠𜼾𜼋𜼥 𜽝 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny    20}{\mood \large ◌ } \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx5E}{\mood \large ◌𜼾} \ruby{\mono \tiny  1xx0B}{\mood \large ◌𜼋} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny    20}{\mood \large ◌ } \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( bes a4 bes c bes a2)}
+\end{lilypond}\\
+{\small } & {\small 318} & {\small Golubchik with Kryzh and Zapyataya and Klyuch Ometny} & {\mood \normalsize 𜽠𜼿𜼉𜼤 𜽝𜼉𜽶𜼻𜼥𜼊 } & \ruby{\mono \tiny  1xx7D}{\mood \large 𜽠} \ruby{\mono \tiny  1xx60}{\mood \large ◌𜼿} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xx34}{\mood \large ◌𜼤} \ruby{\mono \tiny    20}{\mood \large ◌ } \ruby{\mono \tiny  1xx7A}{\mood \large 𜽝} \ruby{\mono \tiny  1xx09}{\mood \large ◌𜼉} \ruby{\mono \tiny  1xxCD}{\mood \large 𜽶} \ruby{\mono \tiny  1xx5A}{\mood \large ◌𜼻} \ruby{\mono \tiny  1xx35}{\mood \large ◌𜼥} \ruby{\mono \tiny  1xx0A}{\mood \large ◌𜼊}  & \begin[relative=1,notime,staffsize=12]{lilypond}
+\new Voice { a'4( bes a4 bes c bes a2)}
+\end{lilypond}\\
+\end{longtable}
+%\end{landscape}
+\end{document}

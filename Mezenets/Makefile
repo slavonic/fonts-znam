@@ -1,3 +1,5 @@
+NUMBERS = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
 all: MezenetsUnicode.zip
 
 MezenetsUnicode.zip:
@@ -38,6 +40,34 @@ MezenetsUnicode-web.zip:
 	zip -j $@ MezenetsUnicode.otf MezenetsUnicode.ttf MezenetsUnicode.eot MezenetsUnicode.woff MezenetsUnicode.woff2 README ../css/fonts.css
 	rm -f README
 
+baseline:
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="baseline/%d.png" gsub.pdf; cd ..;)
+
+azbuka:
+	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
+	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
+
+demestvenny:
+	(cd tests; lilypond-book --output out --pdf demestvenny.tex)
+	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
+	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
+	(cd tests; mv out/demestvenny.pdf ./)
+
+test: test-result.pdf
+
+test-result.pdf:
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
+	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; mkdir -p result; cd ..;)
+	$(foreach f, $(NUMBERS), compare tests/$(f).png tests/baseline/$(f).png -compose src tests/result/$(f).png; echo 'Done';)
+	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
+	rm -fr tests/result
+	rm -f tests/*.png
+
 clean:
 	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt
-
+	rm -fr tests/result
+	rm -fr tests/out
+	rm -f tests/*.aux tests/*.log tests/*.pdf
