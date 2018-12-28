@@ -3,8 +3,10 @@
 \usepackage{fontspec,luacolor}
 \usepackage{microtype}
 \usepackage{longtable}
+\usepackage{ruby}
 \defaultfontfeatures{Ligatures=TeX}
 \setromanfont{Linux Libertine O}
+\newfontfamily{\mono}[Scale=1.0]{Liberation Mono}
 \newfontfamily{\znam}[Path=../,Extension=.otf,Scale=MatchUppercase]{MezenetsUnicode}
 \definecolor{kinovar}{rgb}{0.80,0.03,0.01}
 \newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
@@ -66,150 +68,150 @@
 \hline
 No. & Neume & Comments & Variants\\
 \hline
-1 & \znam \Large 𜽐 &  & \\
-2 & \znam \Large 𜽐𜼴 &  & \\
-3 & \znam \Large 𜽐𜼳 &  & \\
-4 & \znam \Large 𜽑𜼱𜼧𜼇 &  & \\
-5 & \znam \Large 𜽐𜼱𜼵𜼆 &  & \\
-6 & \znam \Large 𜽐𜼱𜼦𜼆 &  & \\
-7 & \znam \Large 𜽒𜼆 &  & \\
-8 & \znam \Large 𜽒𜼴𜼆 &  & \\
-9 & \znam \Large 𜽒𜼳𜼆 &  & \\
-10 & \znam \Large 𜽒𜼵𜼆 &  & \\
-11 & \znam \Large 𜽒𜼦𜼆 &  & \\
-12 & \znam \Large 𜽝𜼃 &  & \\
-13 & \znam \Large 𜽝𜼴𜼃 &  & \\
-14 & \znam \Large 𜽝𜾂𜼃 &  & \\
-15 & \znam \Large 𜽖𜼆 &  & \\
-16 & \znam \Large 𜽖𜼴𜼆 &  & \\
-17 & \znam \Large 𜽗𜼆 &  & \\
-18 & \znam \Large 𜽔𜼆 &  & \\
-19 & \znam \Large 𜽛𜼆 &  & \\
-20 & \znam \Large 𜽱𜼱𜼆 &  & \\
-21 & \znam \Large 𜽜𜼆 &  & \\
-22 & \znam \Large 𜽜𜼴𜼆 &  & \\
-23 & \znam \Large 𜽜𜼦𜼆 & FIX: Position of Podvertka via anchor points. & \\
-24 & \znam \Large 𜽜𜼼 &  & \\
-25 & \znam \Large 𜽜𜼦𜼼𜼆𜼩 & FIX: Position of Podvertka via anchor points. & \\
-26 & \znam \Large 𜽲 𜽳𜼆 𜽴 &  & \\
-27 & \znam \Large 𜽵𜼆 &  & \\
-28 & \znam \Large 𜽳𜼤 &  & \\
-29 & \znam \Large 𜽳𜼣 &  & \\
-30 & \znam \Large 𜽳𜼳𜼣 &  & \\
-31 & \znam \Large 𜽭𜼈𜼤 &  & \\
-32 & \znam \Large 𜽘𜼤 &  & \\
-33 & \znam \Large 𜽘𜼧𜼅 &  & \\
-34 & \znam \Large 𜽘𜼦𜼧 &  & \\
-35 & \znam \Large 𜽘𜼅𜼥 & FIX: Position of Udarka  & \\
-36 & \znam \Large 𜽞 &  & \\
-37 & \znam \Large 𜽟𜼣 &  & 𜽠\\
-38 & \znam \Large 𜽯𜼆 &  & \\
-39 & \znam \Large 𜽯𜼧𜼅 &  & \\
-(39a) & \znam \Large 𜽯𜼫 &  & \\
-40 & \znam \Large 𜽰𜼅 &  & \\
-41 & \znam \Large 𜾈𜼃 &  & \\
-42 & \znam \Large 𜾉𜼃 &  & \znam 𜾋 \\
-43 & \znam \Large 𜾉𜼣𜼅 &  & \\
-44 & \znam \Large 𜾊𜼄 &  & \\
-45 & \znam \Large 𜾒𜼣𜼅 &  & \\
-46 & \znam \Large 𜾈𜼰𜼅 &  &  \\
-47 & \znam \Large 𜾔𜼆 &  & 𜾜\\
-48 & \znam \Large 𜾔𜼰𜼆𜼢 &  & \\
-49 & \znam \Large 𜾔𜼰𜼺𜼅𜼢𜼪 &  & \\
-50 & \znam \Large 𜾔𜼵𜼆 &  & \\
-51 & \znam \Large 𜾔𜼦𜼇𜼤 &  & \\
-52 & \znam \Large 𜾈𜼱𜼆 &  & \\
-53 & \znam \Large 𜾈𜼱𜼣𜼈 &  & \\
-54 & \znam \Large 𜾈𜼱𜼹𜼊𜼢 &  & \\
-55 & \znam \Large 𜾈𜼱𜼺𜼉 &  & \\
-56 & \znam \Large 𜾍𜼆𜼢 &  & \znam  𜾎\\
-57 & \znam \Large 𜾍𜼰𜼈𜼢 & & \znam  \\
-58 & \znam \Large 𜾍𜼰𜼄𜼣𜼢 & \\
-59 & \znam \Large 𜾂 &  & \\
-60 & \znam \Large 𜾃 &  & \\
-61 & \znam \Large 𜽾𜼆 &  & \znam   \\
-62 & \znam \Large 𜽾𜼆𜼨 &  & \znam   \\
-63 & \znam \Large 𜽾𜼳𜼆 &  & \znam   \\
-64 & \znam \Large 𜽾𜼦𜼆 & & \znam   \\
-65 & \znam \Large 𜽾𜼦𜼆𜼨 & & \znam   \\
-66 & \znam \Large 𜼆 & & \znam    \\
-67 & \znam \Large 𜼇𜼣 & & \znam  \\
-68 & \znam \Large 𜼦𜼇 &  & \znam  \\
-69 & \znam \Large 𜾒𜼰𜼇 & & \\
-70 & \znam \Large 𜽓𜼆𜼩 &  & \\
-71 & \znam \Large 𜽓𜼳𜼆𜼩 &  & \\
-72 & \znam \Large 𜽓𜼴𜼆𜼩 &  & \\
-73 & \znam \Large 𜽓𜼦𜼆𜼩 &  & \\
-74 & \znam \Large 𜽓𜼵𜼆𜼩 &  & \\
-75 & \znam \Large 𜿃𜼇𜼣𜼤 & & \\
-76 & \znam \Large 𜿃𜼰𜼹𜼇𜼣𜼤𜼢 &  & \\
-77 & \znam \Large 𜿂𜾉𜼆 &  & \\
-78 & \znam \Large 𜾰𜼇 &  & \\
-79 & \znam \Large 𜿄𜾉𜼇 &  & \\
-80 & \znam \Large 𜾩𜼆 &  & \\
-81 & \znam \Large 𜾕𜼰𜼣𜼆 &  & \\
-82 & \znam \Large 𜾕𜼳𜼰𜼣𜼆 &  & \\
-83 & \znam \Large 𜾕𜼰𜼹𜼆𜼣 &  & \\
-84 & \znam \Large 𜾖𜼰𜼆𜼣 &  & \\
-85 & \znam \Large 𜾖𜼰𜼳𜼆𜼣 &  & \\
-86 & \znam \Large 𜾖𜼰𜼆𜼤 &  & \\
-87 & \znam \Large 𜾖𜼰𜼳𜼆𜼤 &  & \\
-88 & \znam \Large 𜾖𜼰𜼺𜼇𜼤𜼪 &  & \\
-89 & \znam \Large 𜾖𜼰𜼹𜼇𜼣 & & \\
-90 & \znam \Large 𜾖𜼰𜼹𜼇𜼤 & & \\
-91 & \znam \Large 𜾖𜼰𜼹𜼆𜼣𜼢 & & \\
-92 & \znam \Large 𜾖𜼰𜼹𜼆𜼤𜼢 & & \\
-93 & \znam \Large 𜾘𜼆𜼤 &  & \\
-93a & \znam \Large 𜾘𜼅𜼥 &  & \\
-94 & \znam \Large 𜾘𜼆𜼣 &  & \\
-95 & \znam \Large 𜾘𜼳𜼆𜼤 &  & \\
-96 & \znam \Large 𜾘𜼦𜼆𜼤 &  & \\
-97 & \znam \Large 𜾔𜼱𜼇𜼤 &  & \\
-98 & \znam \Large 𜾔𜼳𜼱𜼇𜼤 &  & \\
-99 & \znam \Large 𜾔𜼱𜼺𜼇𜼤 &  & \\
-100 & \znam \Large 𜾔𜼱𜼦𜼇𜼤 &  & \\
-101 & \znam \Large 𜾔𜼱𜼵𜼇𜼤 &  & \\
-102 & \znam \Large 𜾔𜼱𜼇𜼣 &  & \\
-103 & \znam \Large 𜾔𜼳𜼱𜼇𜼣 &  & \\
-104 & \znam \Large 𜾔𜼱𜼵𜼇𜼣 &  & \\
-105 & \znam \Large 𜾕𜼱𜼇𜼣 &  & \\
-106 & \znam \Large 𜾕𜼱𜼳𜼇𜼣 &  & \\
-107 & \znam \Large 𜾘𜼰𜼇𜼤 &  & \\
-108 & \znam \Large 𜾤𜼁 &  & \\
-109 & \znam \Large 𜾤𜼄𜼤 &  & \\
-110 & \znam \Large 𜾤𜼆𜼩 &  & \\
-111 & \znam \Large 𜾤𜼳𜼆𜼩 &  & \\
-112 & \znam \Large 𜾤𜼦𜼆𜼩 &  & \\
-113 & \znam \Large 𜾤𜼵𜼆𜼩 &  & \\
-114 & \znam \Large 𜾤𜼺𜼆𜼩𜼪 &  & \\
-115 & \znam \Large 𜾤𜼱𜼈𜼤 &  & \\
-116 & \znam \Large 𜾥𜼳𜼆𜼤 &  & \\
-117 & \znam \Large 𜾤𜼱𜼦𜼈𜼤 &  & \\
-118 & \znam \Large 𜾤𜼱𜼵𜼈𜼤 &  & \\
-119 & \znam \Large 𜾤𜼱𜼺𜼇𜼤 &  & \\
-120 & \znam \Large 𜾥𜼆𜼣 &  & \\
-121 & \znam \Large 𜾤𜼱𜼳𜼈 &  & \\
-122 & \znam \Large 𜾧𜼱𜼈𜼤 &  & \znam \Large 𜾨\\
-123 & \znam \Large 𜾧𜼰𜼳𜼅𜼤 &  & \\
-124 & \znam \Large 𜾧𜼱𜼦𜼆𜼤 &  & \\
-125 & \znam \Large 𜾧𜼲𜼵𜼉𜼤 &  & \\
-126 & \znam \Large 𜾧𜼱𜼺𜼈𜼤 &  & \\
-127 & \znam \Large 𜾧𜼱𜼹𜼈𜼤 &  & \\
-128 & \znam \Large 𜾧𜼱𜼹𜼆𜼤𜼢 &  & \\
-129 & \znam \Large 𜾭𜼈𜼥 &  & \\
-130 & \znam \Large 𜾭𜼦𜼈𜼥 &  & \\
-131 & \znam \Large 𜾭𜼵𜼈𜼥 &  & \\
-132 & \znam \Large 𜾯𜼰𜼳𜼆𜼥 &  & \\
-133 & \znam \Large 𜾮𜼰𜼈𜼥 &  & \\
-134 & \znam \Large 𜿅 &  & \\
-135 & \znam \Large 𜿆𜼅𜼤 &  & \\
-136 & \znam \Large 𜾍𜼃𜼢 𜿆𜼅𜼤 &  & \\
-137 & \znam \Large 𜽮 &  & \\
-138 & \znam \Large 𜼴𜼇𜼥 &  & \\
-139 & \znam \Large 𜾄 &  & \\
-140 & \znam \Large 𜾒 &  & \\
-141 & \znam \Large 𜼢𜼣 & & \znam  \\
-142 & \znam \Large 𜾇 &  & \znam \Large 𜾆  \\
+1   &   \znam \Large 𜽐   & ~~\ruby{\mono \tiny 1CF50}{\znam \large 𜽐}  &   \\
+2   &   \znam \Large 𜽐𜼴   & ~~\ruby{\mono \tiny 1CF50}{\znam \large 𜽐} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴}  &   \\
+3   &   \znam \Large 𜽐𜼳   & ~~\ruby{\mono \tiny 1CF50}{\znam \large 𜽐} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳}  &   \\
+4   &   \znam \Large 𜽑𜼱𜼧𜼇   & ~~\ruby{\mono \tiny 1CF51}{\znam \large 𜽑} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF27}{\znam \large ◌𜼧} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇}  &   \\
+5   &   \znam \Large 𜽐𜼱𜼵𜼆   & ~~\ruby{\mono \tiny 1CF50}{\znam \large 𜽐} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+6   &   \znam \Large 𜽐𜼱𜼦𜼆   & ~~\ruby{\mono \tiny 1CF50}{\znam \large 𜽐} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+7   &   \znam \Large 𜽒𜼆   & ~~\ruby{\mono \tiny 1CF52}{\znam \large 𜽒} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+8   &   \znam \Large 𜽒𜼴𜼆   & ~~\ruby{\mono \tiny 1CF52}{\znam \large 𜽒} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+9   &   \znam \Large 𜽒𜼳𜼆   & ~~\ruby{\mono \tiny 1CF52}{\znam \large 𜽒} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+10   &   \znam \Large 𜽒𜼵𜼆   & ~~\ruby{\mono \tiny 1CF52}{\znam \large 𜽒} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+11   &   \znam \Large 𜽒𜼦𜼆   & ~~\ruby{\mono \tiny 1CF52}{\znam \large 𜽒} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+12   &   \znam \Large 𜽝𜼃   & ~~\ruby{\mono \tiny 1CF5D}{\znam \large 𜽝} ~~\ruby{\mono \tiny 1CF03}{\znam \large ◌𜼃}  &   \\
+13   &   \znam \Large 𜽝𜼴𜼃   & ~~\ruby{\mono \tiny 1CF5D}{\znam \large 𜽝} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴} ~~\ruby{\mono \tiny 1CF03}{\znam \large ◌𜼃}  &   \\
+14   &   \znam \Large 𜽝𜾂𜼃   & ~~\ruby{\mono \tiny 1CF5D}{\znam \large 𜽝} ~~\ruby{\mono \tiny 1CF82}{\znam \large 𜾂} ~~\ruby{\mono \tiny 1CF03}{\znam \large ◌𜼃}  &   \\
+15   &   \znam \Large 𜽖𜼆   & ~~\ruby{\mono \tiny 1CF56}{\znam \large 𜽖} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+16   &   \znam \Large 𜽖𜼴𜼆   & ~~\ruby{\mono \tiny 1CF56}{\znam \large 𜽖} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+17   &   \znam \Large 𜽗𜼆   & ~~\ruby{\mono \tiny 1CF57}{\znam \large 𜽗} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+18   &   \znam \Large 𜽔𜼆   & ~~\ruby{\mono \tiny 1CF54}{\znam \large 𜽔} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+19   &   \znam \Large 𜽛𜼆   & ~~\ruby{\mono \tiny 1CF5B}{\znam \large 𜽛} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+20   &   \znam \Large 𜽱𜼱𜼆   & ~~\ruby{\mono \tiny 1CF71}{\znam \large 𜽱} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+21   &   \znam \Large 𜽜𜼆   & ~~\ruby{\mono \tiny 1CF5C}{\znam \large 𜽜} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+22   &   \znam \Large 𜽜𜼴𜼆   & ~~\ruby{\mono \tiny 1CF5C}{\znam \large 𜽜} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+23   &   \znam \Large 𜽜𜼦𜼆   & ~~\ruby{\mono \tiny 1CF5C}{\znam \large 𜽜} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+24   &   \znam \Large 𜽜𜼼   & ~~\ruby{\mono \tiny 1CF5C}{\znam \large 𜽜} ~~\ruby{\mono \tiny 1CF3C}{\znam \large ◌𜼼}  &   \\
+25   &   \znam \Large 𜽜𜼦𜼼𜼆𜼩   & ~~\ruby{\mono \tiny 1CF5C}{\znam \large 𜽜} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF3C}{\znam \large ◌𜼼} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+26   &   \znam \Large 𜽲 𜽳𜼆 𜽴   & ~~\ruby{\mono \tiny 1CF72}{\znam \large 𜽲} ~~\ruby{\mono \tiny 1CF73}{\znam \large 𜽳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF74}{\znam \large 𜽴}  &   \\
+27   &   \znam \Large 𜽵𜼆   & ~~\ruby{\mono \tiny 1CF75}{\znam \large 𜽵} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+28   &   \znam \Large 𜽳𜼤   & ~~\ruby{\mono \tiny 1CF73}{\znam \large 𜽳} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+29   &   \znam \Large 𜽳𜼣   & ~~\ruby{\mono \tiny 1CF73}{\znam \large 𜽳} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+30   &   \znam \Large 𜽳𜼳𜼣   & ~~\ruby{\mono \tiny 1CF73}{\znam \large 𜽳} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+31   &   \znam \Large 𜽭𜼈𜼤   & ~~\ruby{\mono \tiny 1CF6D}{\znam \large 𜽭} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+32   &   \znam \Large 𜽘𜼤   & ~~\ruby{\mono \tiny 1CF58}{\znam \large 𜽘} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+33   &   \znam \Large 𜽘𜼧𜼅   & ~~\ruby{\mono \tiny 1CF58}{\znam \large 𜽘} ~~\ruby{\mono \tiny 1CF27}{\znam \large ◌𜼧} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅}  &   \\
+34   &   \znam \Large 𜽘𜼦𜼧   & ~~\ruby{\mono \tiny 1CF58}{\znam \large 𜽘} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF27}{\znam \large ◌𜼧}  &   \\
+35   &   \znam \Large 𜽘𜼅𜼥   & ~~\ruby{\mono \tiny 1CF58}{\znam \large 𜽘} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+36   &   \znam \Large 𜽞   & ~~\ruby{\mono \tiny 1CF5E}{\znam \large 𜽞}  &   \\
+37   &   \znam \Large 𜽟𜼣   & ~~\ruby{\mono \tiny 1CF5F}{\znam \large 𜽟} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   𜽠\\
+38   &   \znam \Large 𜽯𜼆   & ~~\ruby{\mono \tiny 1CF6F}{\znam \large 𜽯} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+39   &   \znam \Large 𜽯𜼧𜼅   & ~~\ruby{\mono \tiny 1CF6F}{\znam \large 𜽯} ~~\ruby{\mono \tiny 1CF27}{\znam \large ◌𜼧} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅}  &   \\
+(39a)   &   \znam \Large 𜽯𜼫   & ~~\ruby{\mono \tiny 1CF6F}{\znam \large 𜽯} ~~\ruby{\mono \tiny 1CF2B}{\znam \large ◌𜼫}  &   \\
+40   &   \znam \Large 𜽰𜼅   & ~~\ruby{\mono \tiny 1CF70}{\znam \large 𜽰} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅}  &   \\
+41   &   \znam \Large 𜾈𜼃   & ~~\ruby{\mono \tiny 1CF88}{\znam \large 𜾈} ~~\ruby{\mono \tiny 1CF03}{\znam \large ◌𜼃}  &   \\
+42   &   \znam \Large 𜾉𜼃   & ~~\ruby{\mono \tiny 1CF89}{\znam \large 𜾉} ~~\ruby{\mono \tiny 1CF03}{\znam \large ◌𜼃}  &   \\
+43   &   \znam \Large 𜾉𜼣𜼅   & ~~\ruby{\mono \tiny 1CF89}{\znam \large 𜾉} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅}  &   \\
+44   &   \znam \Large 𜾊𜼄   & ~~\ruby{\mono \tiny 1CF8A}{\znam \large 𜾊} ~~\ruby{\mono \tiny 1CF04}{\znam \large ◌𜼄}  &   \\
+45   &   \znam \Large 𜾒𜼣𜼅   & ~~\ruby{\mono \tiny 1CF92}{\znam \large 𜾒} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅}  &   \\
+46   &   \znam \Large 𜾈𜼰𜼅   & ~~\ruby{\mono \tiny 1CF88}{\znam \large 𜾈} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅}  &    \\
+47   &   \znam \Large 𜾔𜼆   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   𜾜\\
+48   &   \znam \Large 𜾔𜼰𜼆𜼢   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+49   &   \znam \Large 𜾔𜼰𜼺𜼅𜼢𜼪   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢} ~~\ruby{\mono \tiny 1CF2A}{\znam \large ◌𜼪}  &   \\
+50   &   \znam \Large 𜾔𜼵𜼆   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+51   &   \znam \Large 𜾔𜼦𜼇𜼤   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+52   &   \znam \Large 𜾈𜼱𜼆   & ~~\ruby{\mono \tiny 1CF88}{\znam \large 𜾈} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+53   &   \znam \Large 𜾈𜼱𜼣𜼈   & ~~\ruby{\mono \tiny 1CF88}{\znam \large 𜾈} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈}  &   \\
+54   &   \znam \Large 𜾈𜼱𜼹𜼊𜼢   & ~~\ruby{\mono \tiny 1CF88}{\znam \large 𜾈} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF0A}{\znam \large ◌𜼊} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+55   &   \znam \Large 𜾈𜼱𜼺𜼉   & ~~\ruby{\mono \tiny 1CF88}{\znam \large 𜾈} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF09}{\znam \large ◌𜼉}  &   \\
+56   &   \znam \Large 𜾍𜼆𜼢   & ~~\ruby{\mono \tiny 1CF8D}{\znam \large 𜾍} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &  \\
+57   &   \znam \Large 𜾍𜼰𜼈𜼢   & ~~\ruby{\mono \tiny 1CF8D}{\znam \large 𜾍} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+58   &   \znam \Large 𜾍𜼰𜼄𜼣𜼢   & ~~\ruby{\mono \tiny 1CF8D}{\znam \large 𜾍} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF04}{\znam \large ◌𜼄} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &  \\
+59   &   \znam \Large 𜾂   & ~~\ruby{\mono \tiny 1CF82}{\znam \large 𜾂}  &   \\
+60   &   \znam \Large 𜾃   & ~~\ruby{\mono \tiny 1CF83}{\znam \large 𜾃}  &   \\
+61   &   \znam \Large 𜽾𜼆   & ~~\ruby{\mono \tiny 1CF7E}{\znam \large 𜽾} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \znam   \\
+62   &   \znam \Large 𜽾𜼆𜼨   & ~~\ruby{\mono \tiny 1CF7E}{\znam \large 𜽾} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF28}{\znam \large ◌𜼨}  &   \znam   \\
+63   &   \znam \Large 𜽾𜼳𜼆   & ~~\ruby{\mono \tiny 1CF7E}{\znam \large 𜽾} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \znam   \\
+64   &   \znam \Large 𜽾𜼦𜼆   & ~~\ruby{\mono \tiny 1CF7E}{\znam \large 𜽾} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \znam   \\
+65   &   \znam \Large 𜽾𜼦𜼆𜼨   & ~~\ruby{\mono \tiny 1CF7E}{\znam \large 𜽾} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF28}{\znam \large ◌𜼨}  &   \znam   \\
+66   &   \znam \Large 𜽿𜼆  & ~~\ruby{\mono \tiny 1CF7F}{\znam \large 𜽿} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \znam     \\
+67   &   \znam \Large 𜽿𜼇𜼣   & ~~\ruby{\mono \tiny 1CF7F}{\znam \large 𜽿} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \znam  \\
+68   &   \znam \Large 𜽿𜼦𜼇   & ~~\ruby{\mono \tiny 1CF7F}{\znam \large 𜽿} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇}  &   \znam  \\
+69   &   \znam \Large 𜾒𜼰𜼇   & ~~\ruby{\mono \tiny 1CF92}{\znam \large 𜾒} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇}  &   \\
+70   &   \znam \Large 𜽓𜼆𜼩   & ~~\ruby{\mono \tiny 1CF53}{\znam \large 𜽓} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+71   &   \znam \Large 𜽓𜼳𜼆𜼩   & ~~\ruby{\mono \tiny 1CF53}{\znam \large 𜽓} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+72   &   \znam \Large 𜽓𜼴𜼆𜼩   & ~~\ruby{\mono \tiny 1CF53}{\znam \large 𜽓} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+73   &   \znam \Large 𜽓𜼦𜼆𜼩   & ~~\ruby{\mono \tiny 1CF53}{\znam \large 𜽓} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+74   &   \znam \Large 𜽓𜼵𜼆𜼩   & ~~\ruby{\mono \tiny 1CF53}{\znam \large 𜽓} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+75   &   \znam \Large 𜿃𜼇𜼣𜼤   & ~~\ruby{\mono \tiny 1CFC3}{\znam \large 𜿃} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+76   &   \znam \Large 𜿃𜼰𜼹𜼇𜼣𜼤𜼢   & ~~\ruby{\mono \tiny 1CFC3}{\znam \large 𜿃} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+77   &   \znam \Large 𜿂𜾉𜼆   & ~~\ruby{\mono \tiny 1CFC2}{\znam \large 𜿂} ~~\ruby{\mono \tiny 1CF89}{\znam \large 𜾉} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+78   &   \znam \Large 𜾰𜼇   & ~~\ruby{\mono \tiny 1CFB0}{\znam \large 𜾰} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇}  &   \\
+79   &   \znam \Large 𜿄𜾉𜼇   & ~~\ruby{\mono \tiny 1CFC4}{\znam \large 𜿄} ~~\ruby{\mono \tiny 1CF89}{\znam \large 𜾉} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇}  &   \\
+80   &   \znam \Large 𜾩𜼆   & ~~\ruby{\mono \tiny 1CFA9}{\znam \large 𜾩} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+81   &   \znam \Large 𜾕𜼰𜼣𜼆   & ~~\ruby{\mono \tiny 1CF95}{\znam \large 𜾕} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+82   &   \znam \Large 𜾕𜼳𜼰𜼣𜼆   & ~~\ruby{\mono \tiny 1CF95}{\znam \large 𜾕} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆}  &   \\
+83   &   \znam \Large 𜾕𜼰𜼹𜼆𜼣   & ~~\ruby{\mono \tiny 1CF95}{\znam \large 𜾕} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+84   &   \znam \Large 𜾖𜼰𜼆𜼣   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+85   &   \znam \Large 𜾖𜼰𜼳𜼆𜼣   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+86   &   \znam \Large 𜾖𜼰𜼆𜼤   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+87   &   \znam \Large 𜾖𜼰𜼳𜼆𜼤   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+88   &   \znam \Large 𜾖𜼰𜼺𜼇𜼤𜼪   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤} ~~\ruby{\mono \tiny 1CF2A}{\znam \large ◌𜼪}  &   \\
+89   &   \znam \Large 𜾖𜼰𜼹𜼇𜼣   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+90   &   \znam \Large 𜾖𜼰𜼹𜼇𜼤   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+91   &   \znam \Large 𜾖𜼰𜼹𜼆𜼣𜼢   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+92   &   \znam \Large 𜾖𜼰𜼹𜼆𜼤𜼢   & ~~\ruby{\mono \tiny 1CF96}{\znam \large 𜾖} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+93   &   \znam \Large 𜾘𜼆𜼤   & ~~\ruby{\mono \tiny 1CF98}{\znam \large 𜾘} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+93a   &   \znam \Large 𜾘𜼅𜼥   & ~~\ruby{\mono \tiny 1CF98}{\znam \large 𜾘} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+94   &   \znam \Large 𜾘𜼆𜼣   & ~~\ruby{\mono \tiny 1CF98}{\znam \large 𜾘} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+95   &   \znam \Large 𜾘𜼳𜼆𜼤   & ~~\ruby{\mono \tiny 1CF98}{\znam \large 𜾘} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+96   &   \znam \Large 𜾘𜼦𜼆𜼤   & ~~\ruby{\mono \tiny 1CF98}{\znam \large 𜾘} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+97   &   \znam \Large 𜾔𜼱𜼇𜼤   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+98   &   \znam \Large 𜾔𜼳𜼱𜼇𜼤   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+99   &   \znam \Large 𜾔𜼱𜼺𜼇𜼤   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+100   &   \znam \Large 𜾔𜼱𜼦𜼇𜼤   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+101   &   \znam \Large 𜾔𜼱𜼵𜼇𜼤   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+102   &   \znam \Large 𜾔𜼱𜼇𜼣   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+103   &   \znam \Large 𜾔𜼳𜼱𜼇𜼣   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+104   &   \znam \Large 𜾔𜼱𜼵𜼇𜼣   & ~~\ruby{\mono \tiny 1CF94}{\znam \large 𜾔} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+105   &   \znam \Large 𜾕𜼱𜼇𜼣   & ~~\ruby{\mono \tiny 1CF95}{\znam \large 𜾕} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+106   &   \znam \Large 𜾕𜼱𜼳𜼇𜼣   & ~~\ruby{\mono \tiny 1CF95}{\znam \large 𜾕} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+107   &   \znam \Large 𜾘𜼰𜼇𜼤   & ~~\ruby{\mono \tiny 1CF98}{\znam \large 𜾘} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+108   &   \znam \Large 𜾤𜼁   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF01}{\znam \large ◌𜼁}  &   \\
+109   &   \znam \Large 𜾤𜼄𜼤   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF04}{\znam \large ◌𜼄} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+110   &   \znam \Large 𜾤𜼆𜼩   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+111   &   \znam \Large 𜾤𜼳𜼆𜼩   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+112   &   \znam \Large 𜾤𜼦𜼆𜼩   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+113   &   \znam \Large 𜾤𜼵𜼆𜼩   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩}  &   \\
+114   &   \znam \Large 𜾤𜼺𜼆𜼩𜼪   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF29}{\znam \large ◌𜼩} ~~\ruby{\mono \tiny 1CF2A}{\znam \large ◌𜼪}  &   \\
+115   &   \znam \Large 𜾤𜼱𜼈𜼤   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+116   &   \znam \Large 𜾥𜼳𜼆𜼤   & ~~\ruby{\mono \tiny 1CFA5}{\znam \large 𜾥} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+117   &   \znam \Large 𜾤𜼱𜼦𜼈𜼤   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+118   &   \znam \Large 𜾤𜼱𜼵𜼈𜼤   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+119   &   \znam \Large 𜾤𜼱𜼺𜼇𜼤   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+120   &   \znam \Large 𜾥𜼆𜼣   & ~~\ruby{\mono \tiny 1CFA5}{\znam \large 𜾥} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \\
+121   &   \znam \Large 𜾤𜼱𜼳𜼈   & ~~\ruby{\mono \tiny 1CFA4}{\znam \large 𜾤} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈}  &   \\
+122   &   \znam \Large 𜾧𜼱𜼈𜼤   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \znam \Large 𜾨\\
+123   &   \znam \Large 𜾧𜼰𜼳𜼅𜼤   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+124   &   \znam \Large 𜾧𜼱𜼦𜼆𜼤   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+125   &   \znam \Large 𜾧𜼲𜼵𜼉𜼤   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF32}{\znam \large ◌𜼲} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF09}{\znam \large ◌𜼉} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+126   &   \znam \Large 𜾧𜼱𜼺𜼈𜼤   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF3A}{\znam \large ◌𜼺} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+127   &   \znam \Large 𜾧𜼱𜼹𜼈𜼤   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+128   &   \znam \Large 𜾧𜼱𜼹𜼆𜼤𜼢   & ~~\ruby{\mono \tiny 1CFA7}{\znam \large 𜾧} ~~\ruby{\mono \tiny 1CF31}{\znam \large ◌𜼱} ~~\ruby{\mono \tiny 1CF39}{\znam \large ◌𜼹} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢}  &   \\
+129   &   \znam \Large 𜾭𜼈𜼥   & ~~\ruby{\mono \tiny 1CFAD}{\znam \large 𜾭} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+130   &   \znam \Large 𜾭𜼦𜼈𜼥   & ~~\ruby{\mono \tiny 1CFAD}{\znam \large 𜾭} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+131   &   \znam \Large 𜾭𜼵𜼈𜼥   & ~~\ruby{\mono \tiny 1CFAD}{\znam \large 𜾭} ~~\ruby{\mono \tiny 1CF35}{\znam \large ◌𜼵} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+132   &   \znam \Large 𜾯𜼰𜼳𜼆𜼥   & ~~\ruby{\mono \tiny 1CFAF}{\znam \large 𜾯} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF33}{\znam \large ◌𜼳} ~~\ruby{\mono \tiny 1CF06}{\znam \large ◌𜼆} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+133   &   \znam \Large 𜾮𜼰𜼈𜼥   & ~~\ruby{\mono \tiny 1CFAE}{\znam \large 𜾮} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF08}{\znam \large ◌𜼈} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+134   &   \znam \Large 𜿅   & ~~\ruby{\mono \tiny 1CFC5}{\znam \large 𜿅}  &   \\
+135   &   \znam \Large 𜿆𜼅𜼤   & ~~\ruby{\mono \tiny 1CFC6}{\znam \large 𜿆} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+136   &   \znam \Large 𜾍𜼃𜼢 𜿆𜼅𜼤   & ~~\ruby{\mono \tiny 1CF8D}{\znam \large 𜾍} ~~\ruby{\mono \tiny 1CF03}{\znam \large ◌𜼃} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢} ~~\ruby{\mono \tiny 1CFC6}{\znam \large 𜿆} ~~\ruby{\mono \tiny 1CF05}{\znam \large ◌𜼅} ~~\ruby{\mono \tiny 1CF24}{\znam \large ◌𜼤}  &   \\
+137   &   \znam \Large 𜽮   & ~~\ruby{\mono \tiny 1CF6E}{\znam \large 𜽮}  &   \\
+138   &   \znam \Large 𜽿𜼴𜼇𜼥   & ~~\ruby{\mono \tiny 1CF7F}{\znam \large 𜽿} ~~\ruby{\mono \tiny 1CF34}{\znam \large ◌𜼴} ~~\ruby{\mono \tiny 1CF07}{\znam \large ◌𜼇} ~~\ruby{\mono \tiny 1CF25}{\znam \large ◌𜼥}  &   \\
+139   &   \znam \Large 𜾄   & ~~\ruby{\mono \tiny 1CF84}{\znam \large 𜾄}  &   \\
+140   &   \znam \Large 𜾒   & ~~\ruby{\mono \tiny 1CF92}{\znam \large 𜾒}  &   \\
+141   &   \znam \Large 𜾍𜼰𜼦𜼢𜼣   & ~~\ruby{\mono \tiny 1CF8D}{\znam \large 𜾍} ~~\ruby{\mono \tiny 1CF30}{\znam \large ◌𜼰} ~~\ruby{\mono \tiny 1CF26}{\znam \large ◌𜼦} ~~\ruby{\mono \tiny 1CF22}{\znam \large ◌𜼢} ~~\ruby{\mono \tiny 1CF23}{\znam \large ◌𜼣}  &   \znam  \\
+142   &   \znam \Large 𜾇   & ~~\ruby{\mono \tiny 1CF87}{\znam \large 𜾇}  &   \znam \Large 𜾆  \\
 \hline
 \end{longtable}
 \end{document}
