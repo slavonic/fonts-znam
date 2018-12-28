@@ -978,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 702 26 9
+WinInfo: 416 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -31848,10 +31848,7 @@ SplineSet
  152 196 154 199 158 199 c 0
  160 199 161 193 161 182 c 0
 EndSplineSet
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9B u1CF3C
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9C u1CF26
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Colour: ffff
 EndChar
 
@@ -68491,8 +68488,6 @@ SplineSet
  152 196 154 199 158 199 c 0
  160 199 161 193 161 182 c 0
 EndSplineSet
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF26
 Colour: ffff
 EndChar
 
@@ -127647,6 +127642,7 @@ SplineSet
  332 87 l 1
 EndSplineSet
 Refer: 100 61100 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFC2 u1CF89
 Colour: ff00
 EndChar

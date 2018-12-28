@@ -1,8 +1,10 @@
 \documentclass[12pt]{article}
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=20mm]{geometry}
 \usepackage{fontspec,luacolor}
+\usepackage{microtype}
 \usepackage{longtable}
 \defaultfontfeatures{Ligatures=TeX}
-%\setromanfont{Linux Libertine O}
+\setromanfont{Linux Libertine O}
 \newfontfamily{\znam}[Path=../,Extension=.otf,Scale=MatchUppercase]{MezenetsUnicode}
 \definecolor{kinovar}{rgb}{0.80,0.03,0.01}
 \newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
@@ -56,6 +58,10 @@
 
 \begin{document}
 
+\section{Znamenny Notation Neumes and Combinations}
+
+\noindent Based on: L.~F. Kalashnikov. \emph{Azbuka Tserkovnago Znamennago Peniya}. 3\textsuperscript{rd} rev. ed. Moscow, 1915.
+
 \begin{longtable}{ccp{3in}l}
 \hline
 No. & Neume & Comments & Variants\\
@@ -63,7 +69,7 @@ No. & Neume & Comments & Variants\\
 1 & \znam \Large 𜽐 &  & \\
 2 & \znam \Large 𜽐𜼴 &  & \\
 3 & \znam \Large 𜽐𜼳 &  & \\
-4 & \znam \Large 𜽑𜼱𜼧𜼇 & (See note on color change above.) & \\
+4 & \znam \Large 𜽑𜼱𜼧𜼇 &  & \\
 5 & \znam \Large 𜽐𜼱𜼵𜼆 &  & \\
 6 & \znam \Large 𜽐𜼱𜼦𜼆 &  & \\
 7 & \znam \Large 𜽒𜼆 &  & \\
@@ -73,7 +79,7 @@ No. & Neume & Comments & Variants\\
 11 & \znam \Large 𜽒𜼦𜼆 &  & \\
 12 & \znam \Large 𜽝𜼃 &  & \\
 13 & \znam \Large 𜽝𜼴𜼃 &  & \\
-14 & \znam \Large 𜽝𜾂𜼃 & Compose as [{\znam 𜽝 + 𜾂 = 𜽝𜾂}] with GSUB. & \\
+14 & \znam \Large 𜽝𜾂𜼃 &  & \\
 15 & \znam \Large 𜽖𜼆 &  & \\
 16 & \znam \Large 𜽖𜼴𜼆 &  & \\
 17 & \znam \Large 𜽗𜼆 &  & \\
@@ -82,9 +88,9 @@ No. & Neume & Comments & Variants\\
 20 & \znam \Large 𜽱𜼱𜼆 &  & \\
 21 & \znam \Large 𜽜𜼆 &  & \\
 22 & \znam \Large 𜽜𜼴𜼆 &  & \\
-23 & \znam \Large 𜽜𜼦𜼆 & Don’t use GSUB with this. Position the Podvertka via anchor points. & \\
-24 & \znam \Large 𜽜𜼼 & Compose as [{\znam 𜽜 + ◌𜼼 = 𜾂}] with GSUB. & \\
-25 & \znam \Large 𜽜𜼦𜼼𜼆𜼩 & Don’t include the Podvertka in the GSUB. Position the Podvertka with anchor points. & \\
+23 & \znam \Large 𜽜𜼦𜼆 & FIX: Position of Podvertka via anchor points. & \\
+24 & \znam \Large 𜽜𜼼 &  & \\
+25 & \znam \Large 𜽜𜼦𜼼𜼆𜼩 & FIX: Position of Podvertka via anchor points. & \\
 26 & \znam \Large 𜽲 𜽳𜼆 𜽴 &  & \\
 27 & \znam \Large 𜽵𜼆 &  & \\
 28 & \znam \Large 𜽳𜼤 &  & \\
@@ -92,68 +98,68 @@ No. & Neume & Comments & Variants\\
 30 & \znam \Large 𜽳𜼳𜼣 &  & \\
 31 & \znam \Large 𜽭𜼈𜼤 &  & \\
 32 & \znam \Large 𜽘𜼤 &  & \\
-33 & \znam \Large 𜽘𜼧𜼅 & A suggestion for \#33, 34 and 39, if there are display problems: Type the Lomka first and then the pitches can be added via mark-to-mark positioning. & \\
-34 & \znam \Large 𜽘𜼦𜼧 & (The Podvertka is red in Type B notation, and black in Type A notation.) Don’t use GSUB with this. & \\
-35 & \znam \Large 𜽘𜼅𜼥 &  & \\
+33 & \znam \Large 𜽘𜼧𜼅 &  & \\
+34 & \znam \Large 𜽘𜼦𜼧 &  & \\
+35 & \znam \Large 𜽘𜼅𜼥 & FIX: Position of Udarka  & \\
 36 & \znam \Large 𜽞 &  & \\
 37 & \znam \Large 𜽟𜼣 &  & 𜽠\\
 38 & \znam \Large 𜽯𜼆 &  & \\
 39 & \znam \Large 𜽯𜼧𜼅 &  & \\
 (39a) & \znam \Large 𜽯𜼫 &  & \\
-40 & \znam \Large 𜽰𜼅 & Should this be composed (enable anchor points {\znam 𜽯𜼻 }), or use GSUB to map to: 𜽰 ? & \\
+40 & \znam \Large 𜽰𜼅 &  & \\
 41 & \znam \Large 𜾈𜼃 &  & \\
-42 & \znam \Large 𜾉𜼃 & Compose as [{\znam 𜾈 + 𜽝 = 𜾉}] with GSUB. (?) & \znam 𜾋 \\
+42 & \znam \Large 𜾉𜼃 &  & \znam 𜾋 \\
 43 & \znam \Large 𜾉𜼣𜼅 &  & \\
-44 & \znam \Large 𜾊𜼄 & Compose as [{\znam 𜾈 + 𜾂 = 𜾊}] with GSUB. (?) & \\
+44 & \znam \Large 𜾊𜼄 &  & \\
 45 & \znam \Large 𜾒𜼣𜼅 &  & \\
-46 & \znam \Large 𜾈𜼰𜼅 & \znam (𜾈 + ◌𜼰 ) &  \\
+46 & \znam \Large 𜾈𜼰𜼅 &  &  \\
 47 & \znam \Large 𜾔𜼆 &  & 𜾜\\
 48 & \znam \Large 𜾔𜼰𜼆𜼢 &  & \\
 49 & \znam \Large 𜾔𜼰𜼺𜼅𜼢𜼪 &  & \\
 50 & \znam \Large 𜾔𜼵𜼆 &  & \\
 51 & \znam \Large 𜾔𜼦𜼇𜼤 &  & \\
-52 & \znam \Large 𜾈𜼱𜼆 & \znam (𜾈 + ◌𜼱 ) & \\
+52 & \znam \Large 𜾈𜼱𜼆 &  & \\
 53 & \znam \Large 𜾈𜼱𜼣𜼈 &  & \\
-54 & \znam \Large 𜾈𜼱𜼹𜼊𜼢 & \znam (𜾈 + ◌𜼱 + ◌𜼹 ) & \\
-55 & \znam \Large 𜾈𜼱𜼺𜼉 & \znam (𜾈 + ◌𜼱 + ◌𜼺 ) & \\
-56 & \znam \Large 𜾍𜼆𜼢 &  & 𜾎\\
-57 & \znam \Large 𜾍𜼰𜼈𜼢 & {\znam (𜾍 + ◌𜼰 ) } GSUB works correctly in LibreOffice Calc, but it doesn’t work in LibreOffice Writer. & \\
-58 & \znam \Large 𜾍𜼰𜼄𜼣𜼢 & {\znam (𜾍 + ◌𜼰 ) } Ditto & \\
+54 & \znam \Large 𜾈𜼱𜼹𜼊𜼢 &  & \\
+55 & \znam \Large 𜾈𜼱𜼺𜼉 &  & \\
+56 & \znam \Large 𜾍𜼆𜼢 &  & \znam  𜾎\\
+57 & \znam \Large 𜾍𜼰𜼈𜼢 & & \znam  \\
+58 & \znam \Large 𜾍𜼰𜼄𜼣𜼢 & \\
 59 & \znam \Large 𜾂 &  & \\
 60 & \znam \Large 𜾃 &  & \\
-61 & \znam \Large 𜽾𜼆 &  &  \\
-62 & \znam \Large 𜽾𜼆𜼨 &  &  \\
-63 & \znam \Large 𜽾𜼳𜼆 & \znam (𜽾 + ◌𜼳 ) &  \\
-64 & \znam \Large 𜽾𜼦𜼆 & {\znam (𜽾 + ◌𜼦 )} Add GSUB to  (?). Keep in mind that this can be composed in a number of different ways (including a variant with the Podvertka in red ink), especially in Type B notation, and it will be important to find ways to make this possible. This is a work item for later. &  \\
-65 & \znam \Large 𜽾𜼦𜼆𜼨 & {\znam (𜽾 + ◌𜼦 )} Ditto &  \\
-66 & \znam \Large 𜼆 & Should we use GSUB using {\znam 𜽾 + 𜽝 } to point to U+EAF1? Or will this foul things up for adding priznaki? &   \\
-67 & \znam \Large 𜼇𜼣 & Ditto & \znam  \\
-68 & \znam \Large 𜼦𜼇 & TODO: Remove GSUB to {\znam 𜼦  } because we need to have color separation. &  \\
-69 & \znam \Large 𜾒𜼰𜼇 & {\znam (𜾒 + ◌𜼰 )} GSUB seems to be working correctly in LibreOffice Calc and Writer. & \\
+61 & \znam \Large 𜽾𜼆 &  & \znam   \\
+62 & \znam \Large 𜽾𜼆𜼨 &  & \znam   \\
+63 & \znam \Large 𜽾𜼳𜼆 &  & \znam   \\
+64 & \znam \Large 𜽾𜼦𜼆 & & \znam   \\
+65 & \znam \Large 𜽾𜼦𜼆𜼨 & & \znam   \\
+66 & \znam \Large 𜼆 & & \znam    \\
+67 & \znam \Large 𜼇𜼣 & & \znam  \\
+68 & \znam \Large 𜼦𜼇 &  & \znam  \\
+69 & \znam \Large 𜾒𜼰𜼇 & & \\
 70 & \znam \Large 𜽓𜼆𜼩 &  & \\
 71 & \znam \Large 𜽓𜼳𜼆𜼩 &  & \\
 72 & \znam \Large 𜽓𜼴𜼆𜼩 &  & \\
 73 & \znam \Large 𜽓𜼦𜼆𜼩 &  & \\
 74 & \znam \Large 𜽓𜼵𜼆𜼩 &  & \\
-75 & \znam \Large 𜿃𜼇𜼣𜼤 & (Should this be composed?) & \\
-76 & \znam \Large 𜿃𜼰𜼹𜼇𜼣𜼤𜼢 & \znam (𜿃 + ◌𜼰 + ◌𜼹 ) & \\
-77 & \znam \Large 𜿂𜾉𜼆 & (composed) Fix position of pitch mark. & \\
+75 & \znam \Large 𜿃𜼇𜼣𜼤 & & \\
+76 & \znam \Large 𜿃𜼰𜼹𜼇𜼣𜼤𜼢 &  & \\
+77 & \znam \Large 𜿂𜾉𜼆 &  & \\
 78 & \znam \Large 𜾰𜼇 &  & \\
-79 & \znam \Large 𜿄𜾉𜼇 & (composed) Fix position of pitch mark. & \\
+79 & \znam \Large 𜿄𜾉𜼇 &  & \\
 80 & \znam \Large 𜾩𜼆 &  & \\
 81 & \znam \Large 𜾕𜼰𜼣𜼆 &  & \\
 82 & \znam \Large 𜾕𜼳𜼰𜼣𜼆 &  & \\
-83 & \znam \Large 𜾕𜼰𜼹𜼆𜼣 & \znam (𜾕 + ◌𜼰 + ◌𜼹 ) & \\
+83 & \znam \Large 𜾕𜼰𜼹𜼆𜼣 &  & \\
 84 & \znam \Large 𜾖𜼰𜼆𜼣 &  & \\
 85 & \znam \Large 𜾖𜼰𜼳𜼆𜼣 &  & \\
 86 & \znam \Large 𜾖𜼰𜼆𜼤 &  & \\
 87 & \znam \Large 𜾖𜼰𜼳𜼆𜼤 &  & \\
 88 & \znam \Large 𜾖𜼰𜼺𜼇𜼤𜼪 &  & \\
-89 & \znam \Large 𜾖𜼰𜼹𜼇𜼣 & \znam (𜾖 + ◌𜼰 + ◌𜼹 ) & \\
-90 & \znam \Large 𜾖𜼰𜼹𜼇𜼤 & Ditto & \\
-91 & \znam \Large 𜾖𜼰𜼹𜼆𜼣𜼢 & Ditto & \\
-92 & \znam \Large 𜾖𜼰𜼹𜼆𜼤𜼢 & Ditto & \\
-93 & \znam \Large 𜾘𜼆𜼤 &  & \znam 𜾗 𜾙\\
+89 & \znam \Large 𜾖𜼰𜼹𜼇𜼣 & & \\
+90 & \znam \Large 𜾖𜼰𜼹𜼇𜼤 & & \\
+91 & \znam \Large 𜾖𜼰𜼹𜼆𜼣𜼢 & & \\
+92 & \znam \Large 𜾖𜼰𜼹𜼆𜼤𜼢 & & \\
+93 & \znam \Large 𜾘𜼆𜼤 &  & \\
 93a & \znam \Large 𜾘𜼅𜼥 &  & \\
 94 & \znam \Large 𜾘𜼆𜼣 &  & \\
 95 & \znam \Large 𜾘𜼳𜼆𜼤 &  & \\
@@ -188,8 +194,8 @@ No. & Neume & Comments & Variants\\
 124 & \znam \Large 𜾧𜼱𜼦𜼆𜼤 &  & \\
 125 & \znam \Large 𜾧𜼲𜼵𜼉𜼤 &  & \\
 126 & \znam \Large 𜾧𜼱𜼺𜼈𜼤 &  & \\
-127 & \znam \Large 𜾧𜼱𜼹𜼈𜼤 & \znam \Large (𜾧 + ◌𜼱 + ◌𜼹 ) & \\
-128 & \znam \Large 𜾧𜼱𜼹𜼆𜼤𜼢 & Ditto & \\
+127 & \znam \Large 𜾧𜼱𜼹𜼈𜼤 &  & \\
+128 & \znam \Large 𜾧𜼱𜼹𜼆𜼤𜼢 &  & \\
 129 & \znam \Large 𜾭𜼈𜼥 &  & \\
 130 & \znam \Large 𜾭𜼦𜼈𜼥 &  & \\
 131 & \znam \Large 𜾭𜼵𜼈𜼥 &  & \\
@@ -202,7 +208,7 @@ No. & Neume & Comments & Variants\\
 138 & \znam \Large 𜼴𜼇𜼥 &  & \\
 139 & \znam \Large 𜾄 &  & \\
 140 & \znam \Large 𜾒 &  & \\
-141 & \znam \Large 𜼢𜼣 & {\znam (𜾍 + ◌𜼰 + ◌𜼦 )} TODO: Add GSUB to invoke {\znam  }. (This should be composed at the keyboard entry level, invoking GSUB, particularly because the Podvertka is sometimes red in Type B notation. In Type A notation the Podvertka is always black, but it is probably best to add it via anchor positioning, rather than a full GSUB that includes the Podvertka. We want our end users to have the option to add the Podvertka as red or black.) & \znam \\
+141 & \znam \Large 𜼢𜼣 & & \znam  \\
 142 & \znam \Large 𜾇 &  & \znam \Large 𜾆  \\
 \hline
 \end{longtable}
