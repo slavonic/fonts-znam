@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1546051104
+ModificationTime: 1546053126
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -978,7 +978,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1144 26 9
+WinInfo: 390 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -72011,7 +72011,7 @@ Encoding: 60200 60200 462
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -72031,19 +72031,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 723.602 409.674 m 1
  715.251 423.123 703.772 435.511 689 447 c 0
  686 450 681 450 676 450 c 0
@@ -72181,7 +72168,7 @@ Encoding: 60201 60201 464
 Width: 990
 VWidth: 999
 Flags: W
-HStem: 586 127<841.844 902.982> 645 20G<593.252 625> 664.4 21G<292.954 354.327>
+HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -72201,24 +72188,11 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5x20
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5x20
-106 247 m 1
+106 247 m 1x00
  127 308 215 327 215 327 c 1
  205 203 l 1
  205 203 125 184 94 121 c 1
- 106 247 l 1
+ 106 247 l 1x00
 42 -9 m 1
  63 52 151 71 151 71 c 1
  141 -53 l 1
@@ -73313,7 +73287,7 @@ Encoding: 60199 60199 469
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396>
 VStem: 688 23<67 122.325>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -73334,19 +73308,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 723.602 409.674 m 1
  715.251 423.123 703.772 435.511 689 447 c 0
  686 450 681 450 676 450 c 0
@@ -80412,7 +80373,7 @@ Encoding: 60198 60198 521
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -80432,19 +80393,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 682 576 m 0
  707 576 753 520 753 494 c 2
  753 492 l 1
@@ -106340,7 +106288,7 @@ Encoding: 61376 61376 743
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -106360,19 +106308,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 682 576 m 0
  707 576 753 520 753 494 c 2
  753 492 l 1
@@ -118119,7 +118054,7 @@ Encoding: 61375 61375 1076
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -118139,19 +118074,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 682 576 m 0
  707 576 753 520 753 494 c 2
  753 492 l 1
@@ -118213,7 +118135,7 @@ Encoding: 61377 61377 1077
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -118233,19 +118155,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 682 576 m 0
  707 576 753 520 753 494 c 2
  753 492 l 1
@@ -118312,7 +118221,7 @@ Encoding: 61378 61378 1078
 Width: 790
 VWidth: 999
 Flags: W
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 664.4 21G<292.954 354.327>
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -118332,19 +118241,6 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-359 664.4 m 5
- 286.287 686.419 l 5
- 230.862 634.458 l 5
- 213.574 708.438 l 5
- 140.862 730.458 l 5
- 196.287 782.419 l 5
- 179 856.4 l 5
- 251.713 834.381 l 5
- 307.138 886.342 l 5
- 324.426 812.362 l 5
- 397.138 790.342 l 5
- 341.713 738.381 l 5
- 359 664.4 l 5
 682 576 m 0
  707 576 753 520 753 494 c 2
  753 492 l 1
