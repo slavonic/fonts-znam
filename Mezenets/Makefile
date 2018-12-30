@@ -61,7 +61,7 @@ test-result.pdf:
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
 	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
 	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; mkdir -p result; cd ..;)
-	$(foreach f, $(NUMBERS), compare tests/$(f).png tests/baseline/$(f).png -compose src tests/result/$(f).png; echo 'Done';)
+	$(foreach f, $(NUMBERS), compare tests/$(f).png tests/baseline/$(f).png tests/result/$(f).png; echo 'Done';)
 	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
 	rm -fr tests/result
 	rm -f tests/*.png
