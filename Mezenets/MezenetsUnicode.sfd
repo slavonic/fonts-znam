@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1546295160
+ModificationTime: 1546296428
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1003,7 +1003,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 118534 26 9
+WinInfo: 61282 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -68627,7 +68627,7 @@ SplineSet
  224.823 289.823 336.437 401.356 455 498 c 4
  518 550 556 576 569 576 c 4
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEC03
@@ -68758,7 +68758,7 @@ SplineSet
  527 116 l 1
  527 116 502 110 473 97 c 1
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEA92
@@ -69577,7 +69577,7 @@ SplineSet
  394 -6 389.031 -1.21484 390 6 c 0
  394.5 39.5 402 117 401 190 c 0
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEAA8
@@ -69716,7 +69716,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3D
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEA96
@@ -77641,7 +77641,7 @@ SplineSet
  121.147 163.399 l 1
  224.823 289.823 336.437 401.356 455 498 c 0
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEAC0
@@ -79495,7 +79495,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF48
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB3A
@@ -80014,7 +80014,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3E
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB38
@@ -80091,7 +80091,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3D
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEAC1
@@ -101700,7 +101700,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFAA u1CF3F
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEA64
@@ -102628,7 +102628,7 @@ EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3D
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB38 u1CF48
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB3E
@@ -102717,7 +102717,7 @@ EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB39 u1CF48
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEF64
@@ -108052,7 +108052,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3F
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB35
@@ -108135,7 +108135,7 @@ EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3A u1CF30
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF30 u1CF3A
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB36
@@ -108199,7 +108199,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB3F
@@ -108292,7 +108292,7 @@ EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF48
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB46
@@ -108879,7 +108879,7 @@ SplineSet
  660 205 l 1
  660 205 635.422 199.879 607.122 186.659 c 1
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEA90
@@ -108934,7 +108934,7 @@ SplineSet
  415 228 l 1
  415 228 390 222 361 209 c 1
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEA9F
@@ -114404,7 +114404,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF44
-Colour: ffff00
+Colour: ff00ff
 EndChar
 
 StartChar: uniEFCD
@@ -114487,7 +114487,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF44
-Colour: ffff00
+Colour: ff00ff
 EndChar
 
 StartChar: uniEFCE
@@ -114580,7 +114580,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF44
-Colour: ffff00
+Colour: ff00ff
 EndChar
 
 StartChar: uniEFCF
@@ -114678,7 +114678,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Znamenny Priznakification-1" u1CFAC u1CF44
-Colour: ffff00
+Colour: ff00ff
 EndChar
 
 StartChar: uniEFD0
@@ -114760,7 +114760,7 @@ SplineSet
  343 332 407 396 531 498 c 0
  594 550 631 576 644 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: ff00ff
 EndChar
 
 StartChar: uniEFD1
@@ -115057,7 +115057,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFD8
@@ -115111,7 +115111,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFDA
@@ -115163,7 +115163,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFDB
@@ -115215,7 +115215,7 @@ SplineSet
  313 332 377 396 501 498 c 4
  564 550 601 576 614 576 c 4
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFDC
@@ -115273,7 +115273,7 @@ SplineSet
  51.2275 208.55 l 1
  -1 226.9 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFDD
@@ -115321,7 +115321,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFDE
@@ -115372,7 +115372,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEA1C
@@ -116461,7 +116461,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF86
@@ -116737,7 +116737,7 @@ SplineSet
  510 100 l 5
  493 96 474 90 455 81 c 5
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFE6
@@ -116800,7 +116800,7 @@ SplineSet
  421 433 463 469 515 512 c 0
  567 555 599 576 612 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFEB
@@ -116870,7 +116870,7 @@ SplineSet
  51.2275 208.55 l 1
  -1 226.9 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF0
@@ -116938,7 +116938,7 @@ SplineSet
  216 308.98 161 299.98 130 236.98 c 1
  142 363.98 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFE1
@@ -117010,7 +117010,7 @@ SplineSet
  455.5 633.94 451.5 600.94 444.5 567.94 c 0
  433.5 511.94 412.5 483.94 381.5 483.94 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFEA
@@ -117074,7 +117074,7 @@ SplineSet
  30 0 l 1
  80 491 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFD4
@@ -117554,7 +117554,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB58
@@ -117835,7 +117835,7 @@ SplineSet
  706 208 l 1
  706 208 681.422 202.879 653.122 189.659 c 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF81
@@ -117921,11 +117921,11 @@ AnchorPoint: "PitchMark" 0 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-104 496 m 5
- 94 386 67 133 56 28 c 5
- 30 0 l 5
- 79 480 l 5
- 104 496 l 5
+104 496 m 1
+ 94 386 67 133 56 28 c 1
+ 30 0 l 1
+ 79 480 l 1
+ 104 496 l 1
 316 99 m 1
  337 160 400 168 400 168 c 1
  390 44 l 1
@@ -117948,7 +117948,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF83
@@ -118084,7 +118084,7 @@ Encoding: 61413 61413 1117
 Width: 1000
 VWidth: 999
 LayerCount: 3
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF69
@@ -118209,7 +118209,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFE8
@@ -118275,7 +118275,7 @@ SplineSet
  103.964 496.644 103.928 496.287 103.892 495.931 c 2
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFE9
@@ -118339,7 +118339,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF6E
@@ -118574,7 +118574,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFED
@@ -118641,7 +118641,7 @@ SplineSet
  421 433 463 469 515 512 c 0
  567 555 599 576 612 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFEE
@@ -118714,7 +118714,7 @@ SplineSet
  706 208 l 1
  706 208 681.422 202.879 653.122 189.659 c 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFEF
@@ -118791,7 +118791,7 @@ SplineSet
  709 336.44 727 305.44 732 242.44 c 0
  733 232.44 733 221.44 733 208.44 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF90
@@ -119231,7 +119231,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEF7A
@@ -119402,7 +119402,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEC04
@@ -123269,7 +123269,7 @@ SplineSet
  156 496 l 1
  121 162 l 1
 EndSplineSet
-Colour: ffff
+Colour: 8040ff
 EndChar
 
 StartChar: uniEAA0
@@ -141484,7 +141484,7 @@ SplineSet
  216 308.98 161 299.98 130 236.98 c 1
  142 363.98 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF2
@@ -141562,7 +141562,7 @@ SplineSet
  216 308.98 161 299.98 130 236.98 c 1
  142 363.98 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF3
@@ -141644,7 +141644,7 @@ SplineSet
  709 336.44 727 305.44 732 242.44 c 0
  733 232.44 733 221.44 733 208.44 c 0
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF5
@@ -141717,7 +141717,7 @@ SplineSet
  604 217 549 208 518 145 c 5
  530 272 l 5
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF6
@@ -141803,7 +141803,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF7
@@ -141881,7 +141881,7 @@ SplineSet
  604 217 549 208 518 145 c 5
  530 272 l 5
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF8
@@ -141972,7 +141972,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEA6B
@@ -142260,7 +142260,7 @@ Encoding: 61428 61428 1604
 Width: 1000
 VWidth: 0
 LayerCount: 3
-Colour: ffff00
+Colour: 8040ff
 EndChar
 
 StartChar: uniEFF9
