@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1546294316
+ModificationTime: 1546295160
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1024,7 +1024,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Stacking"  "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya"  "'mark' Cinnabar Mark Positioning-1" "Zevok"  "'mark' Cinnabar Mark Positioning-1" "Kachka"  "'mark' Cinnabar Mark Positioning-1" "Lomka"  "'mark' Cinnabar Mark Positioning-1" "Podvertka"  "'mark' Cinnabar Mark Positioning-1" "Udarka"  "'mark' Cinnabar Mark Positioning-1" "Borzaya"  "'mark' Cinnabar Mark Positioning-1" "Tikhaya"  "'mark' Cinnabar Mark Positioning-1" "Auxiliary"  "'mark' Cinnabar Mark Positioning-1" "Podtinka"  "'mark' Black Mark Positioning-1" "Flexion"  "'mark' Black Mark Positioning-1" "PitchMark"  "'mark' Cinnabar Mark Positioning-1" "Podchashie"  "'mark' Black Mark Positioning-1" "TonalRange"  "'mark' Black Mark Positioning-1" "Omet"  "'mark' Black Mark Positioning-1" "Tochka"  "'mark' Black Mark Positioning-1" "Zaderzhka"  "'mark' Black Mark Positioning-1" 
-BeginChars: 1114112 1569
+BeginChars: 1114112 1608
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -16148,7 +16148,7 @@ Encoding: 61046 61046 94
 Width: 500
 VWidth: 999
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -19486,7 +19486,7 @@ Encoding: 61045 61045 129
 Width: 225
 VWidth: 999
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 40.5>
 VStem: 30 169
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -30729,7 +30729,7 @@ Encoding: 118615 118615 201
 Width: 360
 VWidth: 999
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 0 21<32.0417 40.5> 145 196
 VStem: 30 169 231 96
 TtInstrs:
@@ -80845,7 +80845,7 @@ StartChar: uniEF6A
 Encoding: 61290 61290 525
 Width: 360
 VWidth: 999
-Flags: HW
+Flags: W
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 360 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -80905,7 +80905,7 @@ StartChar: uniEF6C
 Encoding: 61292 61292 526
 Width: 500
 VWidth: 999
-Flags: HW
+Flags: W
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -81271,9 +81271,10 @@ EndChar
 StartChar: uniEF8C
 Encoding: 61324 61324 531
 Width: 240
-Flags: W
+Flags: HW
 HStem: 54.8637 55.1203<123.467 156.321> 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.05412 37.2296 106.25 116.974> 164 32<107.501 261.5> 208 10<558.188 601.288>
+AnchorPoint: "Zaderzhka" 240 180 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -81286,7 +81287,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 265 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -85517,7 +85517,7 @@ StartChar: uniEEC1
 Encoding: 61121 61121 631
 Width: 275
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965>
 VStem: 12 234
 AnchorPoint: "Podchashie" 160 0 basechar 0
@@ -85590,7 +85590,7 @@ StartChar: uniEEC2
 Encoding: 61122 61122 632
 Width: 650
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -102857,7 +102857,7 @@ StartChar: uniEF6D
 Encoding: 61293 61293 726
 Width: 500
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -107167,7 +107167,7 @@ StartChar: u1CF56
 Encoding: 118614 118614 896
 Width: 225
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<32.0417 40.5>
 VStem: 30 169
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -107195,7 +107195,7 @@ StartChar: u1CF58
 Encoding: 118616 118616 897
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<32.0417 40.5>
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -107224,7 +107224,7 @@ StartChar: u1CF59
 Encoding: 118617 118617 898
 Width: 650
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<32.0417 40.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107253,7 +107253,7 @@ StartChar: u1CF5A
 Encoding: 118618 118618 899
 Width: 275
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<82.0455 90.5> 300 60<21.6389 97.3965>
 VStem: 12 234
 AnchorPoint: "Podchashie" 160 0 basechar 0
@@ -107281,7 +107281,7 @@ StartChar: u1CF5B
 Encoding: 118619 118619 900
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<32.0417 40.5> 281 134<264.827 330.563>
 VStem: 236 10<227.683 248.65> 337 27<154.973 325.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -107667,8 +107667,8 @@ EndChar
 StartChar: uniEAC6
 Encoding: 60102 60102 911
 Width: 625
-Flags: HW
-HStem: 0 21G<31.9512 48.4818> 664.4 21G<292.954 354.327>
+Flags: W
+HStem: 0 21G<31.9512 48.4818>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -107708,8 +107708,8 @@ EndChar
 StartChar: uniEAC7
 Encoding: 60103 60103 912
 Width: 625
-Flags: HW
-HStem: 0 21G<31.9512 48.4818> 664.4 21G<292.954 354.327>
+Flags: W
+HStem: 0 21G<31.9512 48.4818>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -107988,8 +107988,8 @@ StartChar: uniEB34
 Encoding: 60212 60212 916
 Width: 770
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.279> 664.4 21G<292.954 354.327>
+Flags: W
+HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.279>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -110438,7 +110438,7 @@ StartChar: uniEF66
 Encoding: 61286 61286 995
 Width: 225
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -110485,7 +110485,7 @@ StartChar: uniEF67
 Encoding: 61287 61287 996
 Width: 225
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<38.2252 40.5>
 VStem: 30 170
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -110529,7 +110529,7 @@ StartChar: uniEF68
 Encoding: 61288 61288 997
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -12 21G<333 337.5> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -110597,7 +110597,7 @@ StartChar: uniEF6B
 Encoding: 61291 61291 998
 Width: 360
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 52>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 360 150 basechar 0
@@ -110646,7 +110646,7 @@ StartChar: uniEF6F
 Encoding: 61295 61295 999
 Width: 650
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -111573,6 +111573,7 @@ Width: 420
 Flags: W
 HStem: 0 21G<287.832 308> 54.8637 55.1203<123.467 156.321> 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.05412 37.2296 106.25 116.974> 164 32<107.501 261.5> 208 10<558.188 601.288>
+AnchorPoint: "Zaderzhka" 420 180 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -111585,7 +111586,6 @@ AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
 AnchorPoint: "Tochka" 430 325 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -113734,7 +113734,7 @@ StartChar: uniEFC1
 Encoding: 61377 61377 1046
 Width: 790
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -113820,7 +113820,7 @@ StartChar: uniEFC2
 Encoding: 61378 61378 1047
 Width: 790
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -114685,7 +114685,7 @@ StartChar: uniEFD0
 Encoding: 61392 61392 1058
 Width: 750
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<90.0405 272.069>
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -118027,7 +118027,7 @@ StartChar: uniEF65
 Encoding: 61285 61285 1116
 Width: 225
 VWidth: 999
-Flags: HW
+Flags: W
 VStem: -86 286
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -118091,7 +118091,7 @@ StartChar: uniEF69
 Encoding: 61289 61289 1118
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -12 21G<32.0417 40.5 333 337.5> 151 134<265.663 329.256>
 VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -118346,7 +118346,7 @@ StartChar: uniEF6E
 Encoding: 61294 61294 1122
 Width: 650
 VWidth: 999
-Flags: HW
+Flags: W
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -119331,7 +119331,6 @@ StartChar: uniEFFB
 Encoding: 61435 61435 1136
 Width: 1000
 VWidth: 999
-Flags: H
 LayerCount: 3
 Colour: ffff00
 EndChar
@@ -119339,7 +119338,6 @@ EndChar
 StartChar: uniEFFC
 Encoding: 61436 61436 1137
 Width: 1000
-Flags: H
 LayerCount: 3
 Colour: ffff00
 EndChar
@@ -119348,7 +119346,6 @@ StartChar: uniEFFD
 Encoding: 61437 61437 1138
 Width: 1000
 VWidth: 0
-Flags: H
 LayerCount: 3
 Colour: ffff00
 EndChar
@@ -141975,6 +141972,318 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEA6B
+Encoding: 60011 60011 1569
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEA70
+Encoding: 60016 60016 1570
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEA71
+Encoding: 60017 60017 1571
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEA72
+Encoding: 60018 60018 1572
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEA73
+Encoding: 60019 60019 1573
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEA74
+Encoding: 60020 60020 1574
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEA75
+Encoding: 60021 60021 1575
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEACB
+Encoding: 60107 60107 1576
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEACC
+Encoding: 60108 60108 1577
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEACD
+Encoding: 60109 60109 1578
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEACE
+Encoding: 60110 60110 1579
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEAD3
+Encoding: 60115 60115 1580
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEAD4
+Encoding: 60116 60116 1581
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEAD5
+Encoding: 60117 60117 1582
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEAD6
+Encoding: 60118 60118 1583
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEADA
+Encoding: 60122 60122 1584
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEADE
+Encoding: 60126 60126 1585
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB19
+Encoding: 60185 60185 1586
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB1A
+Encoding: 60186 60186 1587
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB2A
+Encoding: 60202 60202 1588
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB2B
+Encoding: 60203 60203 1589
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB2C
+Encoding: 60204 60204 1590
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB31
+Encoding: 60209 60209 1591
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB3B
+Encoding: 60219 60219 1592
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB40
+Encoding: 60224 60224 1593
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB41
+Encoding: 60225 60225 1594
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB42
+Encoding: 60226 60226 1595
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB43
+Encoding: 60227 60227 1596
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB44
+Encoding: 60228 60228 1597
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB53
+Encoding: 60243 60243 1598
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB54
+Encoding: 60244 60244 1599
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB55
+Encoding: 60245 60245 1600
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB56
+Encoding: 60246 60246 1601
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB57
+Encoding: 60247 60247 1602
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB5A
+Encoding: 60250 60250 1603
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEFF4
+Encoding: 61428 61428 1604
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEFF9
+Encoding: 61433 61433 1605
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEFFE
+Encoding: 61438 61438 1606
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff00
+EndChar
+
+StartChar: uniEFFF
+Encoding: 61439 61439 1607
+Width: 1000
+VWidth: 0
+LayerCount: 3
 Colour: ffff00
 EndChar
 EndChars
