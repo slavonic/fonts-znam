@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1546381736
+ModificationTime: 1546568088
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -66,7 +66,7 @@ DEI: 91125
 KernClass2: 2 2 "'kern' Demestvenny kerning - Newstyle" 
  205 uniEB26 uniEF60 uniEF61 uniEF63 uniEF64 uniEFA0 uniEFA1 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC5 uniEFC6 u1CF50 u1CF54 u1CF55 u1CF73 u1CF76 u1CF7A u1CF7B u1CF98 u1CF9D u1CF9F
  235 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEFD7 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
- 0 {} 0 {} 0 {} -127 {}
+ 0 {} 0 {} 0 {} -150 {}
 KernClass2: 5 5 "'kern' Demestvenny kerning - Oldstyle" 
  91 uniEB26 uniEF60 uniEF61 uniEFA7 uniEFBD uniEFBE uniEFBF uniEFC0 u1CF50 u1CF55 u1CF7A u1CF9D
  22 uniEF63 uniEF64 u1CF54
@@ -76,18 +76,18 @@ KernClass2: 5 5 "'kern' Demestvenny kerning - Oldstyle"
  37 uniEB38 uniEB39 uniEB3A u1CFAA u1CFAB
  31 uniEB3C uniEB3D uniEB3E uniEB3F
  6 u1CFA9
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} -433 {} -376 {} -489 {} 0 {} -126 {} -359 {} -325 {} -383 {} 0 {} -130 {} -299 {} -285 {} -307 {} 0 {} -124 {} -377 {} -341 {} -408 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -150 {} -150 {} -150 {} -150 {} 0 {} -150 {} -150 {} -150 {} -150 {} 0 {} -150 {} -150 {} -150 {} -150 {} 0 {} -150 {} -150 {} -150 {} -150 {}
 KernClass2: 2 2 "'kern' Demestvenny kerning - Newstyle Mechiki" 
  63 uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0
  251 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEFD7 uniEFDF uniEFE0 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
- 0 {} 0 {} 0 {} -127 {}
+ 0 {} 0 {} 0 {} -150 {}
 KernClass2: 2 5 "'kern' Demestvenny kerning - Oldstyle Mechiki" 
  22 uniEB3C uniEFCD u1CFAA
  147 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 u1CF50 u1CF54 u1CF56 u1CF59
  22 uniEB33 uniEB34 u1CFA9
  44 uniEB38 uniEB39 uniEB3A u1CFAA u1CFAB u1CFAC
  31 uniEB3C uniEB3D uniEB3E uniEB3F
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -127 {} -411 {} -382 {} -344 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -150 {} -150 {} -150 {} -150 {}
 ChainSub2: class "'ccmp' Medial Form of Ravno-1"  3 3 3 1
   Class: 6 u1CF22
   Class: 244 u1CF00 u1CF01 u1CF02 u1CF03 u1CF04 u1CF05 u1CF06 u1CF07 u1CF08 u1CF09 u1CF0A u1CF0B u1CF0C u1CF0D u1CF0E u1CF10 u1CF11 u1CF12 u1CF13 u1CF14 u1CF15 u1CF16 u1CF17 u1CF20 u1CF21 u1CF23 u1CF24 u1CF25 u1CF26 u1CF27 u1CF28 u1CF29 u1CF2A u1CF2B u1CF2C
@@ -997,8 +997,8 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss02' 1033 "Kalashnikov-style Mechiki" 
 OtfFeatName: 'ss01' 1033 "Demestvenny Kerning" 
+OtfFeatName: 'ss02' 1033 "Kalashnikov-style Mechiki" 
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -34424,7 +34424,7 @@ Encoding: 60157 60157 229
 Width: 430
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -34472,7 +34472,7 @@ Encoding: 60173 60173 230
 Width: 430
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -37963,7 +37963,7 @@ Encoding: 60168 60168 243
 Width: 430
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: -3 94<266.335 338.663>
 VStem: 231 31<45 148.966> 375 10<175.868 199.647>
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
@@ -38889,7 +38889,7 @@ Encoding: 60161 60161 247
 Width: 430
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -39506,7 +39506,7 @@ EndChar
 StartChar: uniEBCB
 Encoding: 60363 60363 250
 Width: 355
-Flags: HW
+Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 94 111<297.4 377.377> 208 31<40 149.301> 328 10<168.655 199.288>
 TtInstrs:
@@ -39716,7 +39716,7 @@ EndChar
 StartChar: uniEBCC
 Encoding: 60364 60364 251
 Width: 355
-Flags: HW
+Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 208 31<40 149.301> 328 10<168.655 199.288>
 TtInstrs:
@@ -39889,7 +39889,7 @@ StartChar: uniEBCD
 Encoding: 60365 60365 252
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 94<266.335 338.663>
 VStem: 94 111<297.4 377.377> 231 31<45 148.966> 375 10<175.868 199.647>
 TtInstrs:
@@ -40092,7 +40092,7 @@ StartChar: uniEBCE
 Encoding: 60366 60366 253
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 94<266.335 338.663>
 VStem: 231 31<45 148.966> 375 10<175.868 199.647>
 TtInstrs:
@@ -40273,7 +40273,7 @@ StartChar: uniEBCF
 Encoding: 60367 60367 254
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 94<266.335 338.663>
 VStem: 231 31<45 148.966> 375 10<175.868 199.647>
 TtInstrs:
@@ -40517,7 +40517,7 @@ StartChar: uniEBBD
 Encoding: 60349 60349 255
 Width: 350
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 137 134<231.788 297.641>
 VStem: 94 111<297.4 377.377> 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 TtInstrs:
@@ -40755,7 +40755,7 @@ StartChar: uniEBBE
 Encoding: 60350 60350 256
 Width: 350
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 137 134<231.788 297.641>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 TtInstrs:
@@ -40971,7 +40971,7 @@ StartChar: uniEBBF
 Encoding: 60351 60351 257
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 121 134<247.788 313.641>
 VStem: 94 111<297.4 377.377> 219 10<67.3571 88.9895> 227 118<123.656 234.711> 309 18<-41.8192 10.2847>
 TtInstrs:
@@ -41209,7 +41209,7 @@ StartChar: uniEBC0
 Encoding: 60352 60352 258
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 121 134<247.788 313.641>
 VStem: 219 10<67.3571 88.9895> 227 118<123.656 234.711> 309 18<-41.8192 10.2847>
 TtInstrs:
@@ -53085,7 +53085,7 @@ StartChar: uniEBB1
 Encoding: 60337 60337 307
 Width: 240
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 94 111<297.4 377.377>
 TtInstrs:
 SVTCA[y-axis]
@@ -53233,7 +53233,7 @@ StartChar: uniEBB2
 Encoding: 60338 60338 308
 Width: 240
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 30 197
 TtInstrs:
 SVTCA[y-axis]
@@ -53362,7 +53362,7 @@ StartChar: uniEBB3
 Encoding: 60339 60339 309
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 94 111<297.4 377.377>
 TtInstrs:
 SVTCA[y-axis]
@@ -53502,7 +53502,7 @@ StartChar: uniEBB4
 Encoding: 60340 60340 310
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -53615,7 +53615,7 @@ StartChar: uniEBB5
 Encoding: 60341 60341 311
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -53731,7 +53731,7 @@ StartChar: uniEBB6
 Encoding: 60342 60342 312
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 94 111<297.4 377.377>
 TtInstrs:
 SVTCA[y-axis]
@@ -53878,7 +53878,7 @@ StartChar: uniEBB7
 Encoding: 60343 60343 313
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -53996,7 +53996,7 @@ StartChar: uniEBB8
 Encoding: 60344 60344 314
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -54881,7 +54881,7 @@ StartChar: uniEBC1
 Encoding: 60353 60353 318
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 121 134<247.788 313.641>
 VStem: 219 10<67.3571 88.9895> 227 118<123.656 234.711> 309 18<-41.8192 10.2847>
 TtInstrs:
@@ -55098,7 +55098,7 @@ StartChar: uniEBC2
 Encoding: 60354 60354 319
 Width: 365
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<240 260>
 VStem: 94 111<297.4 377.377>
 TtInstrs:
@@ -55383,7 +55383,7 @@ StartChar: uniEBC3
 Encoding: 60355 60355 320
 Width: 365
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<240 260>
 VStem: 30 309
 TtInstrs:
@@ -55645,7 +55645,7 @@ StartChar: uniEBC4
 Encoding: 60356 60356 321
 Width: 525
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<405 426> 137 134<231.788 297.641>
 VStem: 94 111<297.4 377.377> 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 TtInstrs:
@@ -55999,7 +55999,7 @@ StartChar: uniEBC5
 Encoding: 60357 60357 322
 Width: 525
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<405 426> 137 134<231.788 297.641>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 TtInstrs:
@@ -56328,7 +56328,7 @@ StartChar: uniEBC6
 Encoding: 60358 60358 323
 Width: 350
 VWidth: 999
-Flags: HW
+Flags: W
 VStem: 94 111<297.4 377.377>
 TtInstrs:
 SVTCA[y-axis]
@@ -56488,7 +56488,7 @@ StartChar: uniEBC7
 Encoding: 60359 60359 324
 Width: 350
 VWidth: 999
-Flags: HW
+Flags: W
 VStem: 30 295
 TtInstrs:
 SVTCA[y-axis]
@@ -56625,7 +56625,7 @@ StartChar: uniEBC8
 Encoding: 60360 60360 325
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 94 111<297.4 377.377>
 TtInstrs:
 SVTCA[y-axis]
@@ -56772,7 +56772,7 @@ StartChar: uniEBC9
 Encoding: 60361 60361 326
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -56890,7 +56890,7 @@ StartChar: uniEBCA
 Encoding: 60362 60362 327
 Width: 430
 VWidth: 0
-Flags: HW
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -57010,7 +57010,7 @@ StartChar: uniEBD0
 Encoding: 60368 60368 328
 Width: 535
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 121 134<407.788 473.641>
 VStem: 94 111<297.4 377.377> 379 10<67.3571 88.9895> 387 118<123.656 234.711> 469 18<-41.8192 10.2847>
 TtInstrs:
@@ -57259,7 +57259,7 @@ StartChar: uniEBD1
 Encoding: 60369 60369 329
 Width: 535
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 121 134<407.788 473.641>
 VStem: 379 10<67.3571 88.9895> 387 118<123.656 234.711> 469 18<-41.8192 10.2847>
 TtInstrs:
@@ -57481,7 +57481,7 @@ StartChar: uniEBD2
 Encoding: 60370 60370 330
 Width: 535
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 121 134<407.788 473.641>
 VStem: 379 10<67.3571 88.9895> 387 118<123.656 234.711> 469 18<-41.8192 10.2847>
 TtInstrs:
@@ -65599,7 +65599,7 @@ StartChar: uniEB03
 Encoding: 60163 60163 363
 Width: 535
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 121 134<407.788 473.641>
 VStem: 379 10<67.3571 88.9895> 387 118<123.656 234.711> 469 18<-41.8192 10.2847>
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
@@ -68770,7 +68770,6 @@ StartChar: uniEA92
 Encoding: 60050 60050 436
 Width: 1000
 VWidth: 999
-Flags: H
 LayerCount: 3
 Colour: ffff
 EndChar
@@ -81282,7 +81281,7 @@ EndChar
 StartChar: uniEF8C
 Encoding: 61324 61324 531
 Width: 240
-Flags: HW
+Flags: W
 HStem: 54.8637 55.1203<123.467 156.321> 206 108<89.6493 158.174>
 VStem: 30 27<-42.8569 139.488> 88 31<409 536.833> 151 25<3.05412 37.2296 106.25 116.974> 164 32<107.501 261.5> 208 10<558.188 601.288>
 AnchorPoint: "Zaderzhka" 240 180 basechar 0
@@ -104904,7 +104903,7 @@ StartChar: u1CF87
 Encoding: 118663 118663 815
 Width: 440
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 454 21<302.5 307.5> 545 117<210.931 296.442>
 VStem: 183 19<492.423 522.491> 298 27<462.636 537.411>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -104934,7 +104933,7 @@ StartChar: u1CF88
 Encoding: 118664 118664 816
 Width: 240
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 30 185
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -104961,7 +104960,7 @@ StartChar: u1CF89
 Encoding: 118665 118665 817
 Width: 350
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 137 134<231.788 297.641>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -104989,7 +104988,7 @@ StartChar: u1CF8A
 Encoding: 118666 118666 818
 Width: 365
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<240 260>
 VStem: 30 309
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -105017,7 +105016,7 @@ StartChar: u1CF8B
 Encoding: 118667 118667 819
 Width: 525
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21<405 426> 137 134<232.569 297.563>
 VStem: 203 10<83.7422 104.195> 304 27<10.9733 144>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -105045,7 +105044,7 @@ StartChar: u1CF8C
 Encoding: 118668 118668 820
 Width: 525
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 9G<238 259 469 473.5> 162 134<402.569 467.563>
 VStem: 373 10<108.742 129.195> 474 27<35.9733 169>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -105116,7 +105115,7 @@ StartChar: u1CF8D
 Encoding: 118669 118669 821
 Width: 350
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 30 295
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 420 150 basechar 0
@@ -105143,7 +105142,7 @@ StartChar: u1CF8E
 Encoding: 118670 118670 822
 Width: 520
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 137 134<392.788 458.641>
 VStem: 364 10<83.3571 104.99> 372 118<139.656 250.711> 454 18<-25.8192 26.2847>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -105171,7 +105170,7 @@ StartChar: u1CF8F
 Encoding: 118671 118671 823
 Width: 475
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -4 112<338.794 405.126>
 VStem: 260 144<434.189 500.122> 302 130<23.4466 106.874>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -105199,7 +105198,7 @@ StartChar: u1CF90
 Encoding: 118672 118672 824
 Width: 515
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -2 21<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588>
 VStem: 203 11<82.051 103.404> 304 27<10.9824 181.5> 365 11<106.051 127.404> 466 27<34.9824 205.5>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -105255,7 +105254,7 @@ StartChar: u1CF92
 Encoding: 118674 118674 826
 Width: 355
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 208 31<40 149.301> 328 10<168.655 199.288>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
