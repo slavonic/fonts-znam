@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1546989286
+ModificationTime: 1547006743
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -55,8 +55,8 @@ Lookup: 6 0 0 "'ccmp' Medial Form of Ravno"  {"'ccmp' Medial Form of Ravno-1"  }
 Lookup: 3 0 0 "Stylistic Alternatives for Znamenny (salt)"  {"Stylistic Alternatives for Znamenny (salt)-1"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss02' Kalashnikov Mechik Variants"  {"'ss02' Kalashnikov Mechik Variants-1"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "Ravno Lookup"  {"Ravno Lookup-1"  } []
-Lookup: 258 8 0 "'kern' ss01 Oldstyle Demestvenny kerning"  {"'kern' Demestvenny kerning - Oldstyle" [1,25,2] "'kern' Demestvenny kerning - Newstyle" [1,25,2] "'kern' Demestvenny kerning - Oldstyle Mechiki" [1,25,2] "'kern' Demestvenny kerning - Newstyle Mechiki" [1,25,2] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 8 0 "'kern' ss02 Newstyle Demestvenny kerning"  {} ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' ss01 Oldstyle Demestvenny kerning"  {"'kern' Demestvenny kerning - Oldstyle" [1,25,2] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' ss02 Newstyle Demestvenny kerning"  {"'kern' Demestvenny kerning - Newstyle" [1,25,2] } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 263 0 0 "'kern' Horizontal Kerning with Shaidur Marks"  {"'kern' Horizontal Kerning with Shaidur Marks-1"  } []
 Lookup: 260 0 0 "'mark' Black Mark Positioning"  {"'mark' Black Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Cinnabar Mark Positioning"  {"'mark' Cinnabar Mark Positioning-1"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -65,30 +65,13 @@ Lookup: 257 0 0 "Advance neume with cinnabar mark"  {"Advance neume with cinnaba
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 2 2 "'kern' Demestvenny kerning - Newstyle" 
- 205 uniEB26 uniEF60 uniEF61 uniEF63 uniEF64 uniEFA0 uniEFA1 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC5 uniEFC6 u1CF50 u1CF54 u1CF55 u1CF73 u1CF76 u1CF7A u1CF7B u1CF98 u1CF9D u1CF9F
- 235 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEFD7 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
+ 355 uniEA76 uniEA8C uniEB26 uniEB2D uniEB30 uniEF60 uniEF61 uniEF62 uniEF63 uniEF64 uniEFA0 uniEFA1 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC1 uniEFC2 uniEFC5 uniEFC6 uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0 uniEFF5 uniEFF6 u1CF50 u1CF53 u1CF54 u1CF73 u1CF76 u1CF77 u1CF7A u1CF7B u1CF98 u1CF9A u1CF9D u1CF9F
+ 267 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEC12 uniEC17 uniEFD7 uniEFDF uniEFE0 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
  0 {} 0 {} 0 {} -140 {}
-KernClass2: 5 5 "'kern' Demestvenny kerning - Oldstyle" 
- 91 uniEB26 uniEF60 uniEF61 uniEFA7 uniEFBD uniEFBE uniEFBF uniEFC0 u1CF50 u1CF55 u1CF7A u1CF9D
- 22 uniEF63 uniEF64 u1CF54
- 83 uniEFA0 uniEFA1 uniEFA8 uniEFB3 uniEFB4 uniEFC5 uniEFC6 u1CF73 u1CF7B u1CF98 u1CF9F
- 6 u1CF76
- 147 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 u1CF50 u1CF54 u1CF56 u1CF59
- 37 uniEB38 uniEB39 uniEB3A u1CFAA u1CFAB
- 31 uniEB3C uniEB3D uniEB3E uniEB3F
- 6 u1CFA9
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -140 {} -140 {} -140 {} 0 {} -140 {} -140 {} -140 {} -140 {} 0 {} -140 {} -140 {} -140 {} -140 {} 0 {} -140 {} -140 {} -140 {} -140 {}
-KernClass2: 2 2 "'kern' Demestvenny kerning - Newstyle Mechiki" 
- 63 uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0
- 251 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEFD7 uniEFDF uniEFE0 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
+KernClass2: 2 2 "'kern' Demestvenny kerning - Oldstyle" 
+ 312 uniEA76 uniEB26 uniEB2D uniEB30 uniEB3C uniEF60 uniEF61 uniEF62 uniEF63 uniEF64 uniEFA0 uniEFA1 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC1 uniEFC2 uniEFC5 uniEFC6 uniEFCD uniEFCE u1CF50 u1CF53 u1CF54 u1CF55 u1CF73 u1CF76 u1CF77 u1CF7A u1CF7B u1CF98 u1CF9A u1CF9D u1CF9F u1CFAA u1CFAB
+ 263 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEB33 uniEB34 uniEB38 uniEB39 uniEB3A uniEB3C uniEB3D uniEB3E uniEB3F uniEC12 uniEC17 u1CF50 u1CF54 u1CF56 u1CF59 u1CFA9 u1CFAA u1CFAB u1CFAC
  0 {} 0 {} 0 {} -140 {}
-KernClass2: 2 5 "'kern' Demestvenny kerning - Oldstyle Mechiki" 
- 22 uniEB3C uniEFCD u1CFAA
- 147 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 u1CF50 u1CF54 u1CF56 u1CF59
- 22 uniEB33 uniEB34 u1CFA9
- 44 uniEB38 uniEB39 uniEB3A u1CFAA u1CFAB u1CFAC
- 31 uniEB3C uniEB3D uniEB3E uniEB3F
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -140 {} -140 {} -140 {}
 ChainSub2: class "'ccmp' Medial Form of Ravno-1"  3 3 3 1
   Class: 6 u1CF22
   Class: 244 u1CF00 u1CF01 u1CF02 u1CF03 u1CF04 u1CF05 u1CF06 u1CF07 u1CF08 u1CF09 u1CF0A u1CF0B u1CF0C u1CF0D u1CF0E u1CF10 u1CF11 u1CF12 u1CF13 u1CF14 u1CF15 u1CF16 u1CF17 u1CF20 u1CF21 u1CF23 u1CF24 u1CF25 u1CF26 u1CF27 u1CF28 u1CF29 u1CF2A u1CF2B u1CF2C
@@ -998,15 +981,16 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss02' 1033 "Kalashnikov-style Mechiki" 
-OtfFeatName: 'ss01' 1033 "Demestvenny Kerning" 
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 118534 26 9
+WinInfo: 1118 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -11914,16 +11898,16 @@ Encoding: 60928 60928 67
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -7 166 302 52<-5.85139 20.3699> 341 13<-127.993 -102 -67.9138 -5>
-VStem: -260 205 -111 36<201.023 339.69> -6 27<306.22 340.717>
+Flags: W
+HStem: -9 21G<-255.5 -253> 302 52<-5.85139 20.3699> 341 13<-127.993 -102 -67.9138 -5> 750 50<-171 29>
+VStem: -111 36<201.023 339.69> -6 27<306.22 340.717>
 AnchorPoint: "Stacking" -270 180 mark 0
 AnchorPoint: "Stacking" -70 365 basemark 0
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--60 159 m 0
+-60 159 m 0x9c
  -57 159 -55 155 -55 152 c 0
  -55 150 -56 148 -60 145 c 0
  -80 134 -115 113 -148 88 c 1
@@ -11941,29 +11925,29 @@ SplineSet
  -195 127 -187 128 -182 124 c 0
  -175 119 -166 110 -157 99 c 1
  -124 124 -87 147 -71 155 c 0
- -67 157 -63 159 -60 159 c 0
+ -67 157 -63 159 -60 159 c 0x9c
 -171 800 m 1
  29 800 l 1
  29 750 l 1
  -171 750 l 1
  -171 800 l 1
--111 260 m 0x70
+-111 260 m 0
  -111 287 -107 323 -102 341 c 1
  -121 341 l 2
  -127 341 -128 344 -128 348 c 0
- -128 352 -126 353 -119 354 c 1x70
+ -128 352 -126 353 -119 354 c 1xbc
  -73 354 -26 354 20 354 c 0
  28 354 29 350 29 346 c 0
  28 340 22 334 21 326 c 0
- 18 312 25 302 18 302 c 0xb0
+ 18 312 25 302 18 302 c 0xdc
  11 302 -3 312 -6 321 c 0
  -7 327 -7 335 -5 341 c 1
- -26 341 -46 341 -67 341 c 1
+ -26 341 -46 341 -67 341 c 1xbc
  -72 313 -75 288 -75 258 c 0
  -75 240 -72 227 -72 207 c 0
  -72 201 -84 201 -90 201 c 0
  -96 201 -108 201 -108 207 c 0
- -108 223 -111 241 -111 260 c 0x70
+ -108 223 -111 241 -111 260 c 0
 EndSplineSet
 Layer: 2
 Refer: 70 60931 N 1 0 0 1 0 0 2
@@ -11976,16 +11960,16 @@ Encoding: 60929 60929 68
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -6 166 269.4 14<-94 -20>
-VStem: -270 205 -131 37<200.44 269.4 283.4 341.647> -21 37<203.91 342.41> -20 45<200.401 256.557 257.588 262.42 284.239 343.554>
+Flags: W
+HStem: -8 21G<-265.5 -263> 269.4 14<-94 -20> 749.4 50<-175 25>
+VStem: -131 37<200.44 269.4 283.4 341.647> -21 37<203.91 342.41> -10 35<284.431 350.243>
 AnchorPoint: "Stacking" -270 180 mark 0
 AnchorPoint: "Stacking" -70 365 basemark 0
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--70 160 m 0
+-70 160 m 0xf0
  -67 160 -65 156 -65 153 c 0
  -65 151 -66 149 -70 146 c 0
  -90 135 -125 114 -158 89 c 1
@@ -12003,18 +11987,18 @@ SplineSet
  -205 128 -197 129 -192 125 c 0
  -185 120 -176 111 -167 100 c 1
  -134 125 -97 148 -81 156 c 0
- -77 158 -73 160 -70 160 c 0
+ -77 158 -73 160 -70 160 c 0xf0
 -175 799.4 m 1
  25 799.4 l 1
- 25 749.4 l 1
+ 25 749.4 l 1xf4
  -175 749.4 l 1
  -175 799.4 l 1
-25 343.4 m 0xd0
+25 343.4 m 0
  25 322.4 16 293.4 16 263.4 c 0
  16 242.4 19 227.4 19 206.4 c 0
  19 200.4 9 200.4 2 200.4 c 0
  -6 200.4 -17 200.4 -17 206.4 c 0
- -19 222.4 -21 239.4 -21 257.4 c 0xe0
+ -19 222.4 -21 239.4 -21 257.4 c 0xf8
  -21 261.4 -21 265.4 -20 269.4 c 1
  -94 269.4 l 1
  -94 266.4 -94 263.4 -94 260.4 c 0
@@ -12031,7 +12015,7 @@ SplineSet
  -17 305.4 -14 326.4 -10 344.4 c 0
  -9 349.4 -2 350.4 3 350.4 c 0
  5 350.4 7 350.4 8 350.4 c 0
- 13 350.4 25 349.4 25 343.4 c 0xd0
+ 13 350.4 25 349.4 25 343.4 c 0
 EndSplineSet
 Layer: 2
 Refer: 71 60932 N 1 0 0 1 -10 -0.599976 2
@@ -12044,8 +12028,8 @@ Encoding: 60930 60930 69
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 203 13<-217.991 -194 -157.66 -80 -44.416 -32>
+Flags: W
+HStem: 203 13<-217.991 -194 -157.66 -80 -44.416 -32> 750 50<-200 0>
 VStem: -197 38<216 347.894> -111 34<94.0207 133.074> -82 35<216 347.734>
 TtInstrs:
 SVTCA[y-axis]
@@ -12235,12 +12219,12 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xe0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--151 348 m 0xe0
+ -200 800 l 5xe0
+-151 348 m 0
  -157 323 -159 296 -159 268 c 0
  -159 251 -159 233 -157 216 c 1
  -80 216 l 1
@@ -12248,7 +12232,7 @@ SplineSet
  -82 292 -79 325 -72 350 c 0
  -70 357 -62 356 -55 356 c 0
  -47 356 -36 355 -38 348 c 0
- -44 319 -47 297 -47 265 c 0xd0
+ -44 319 -47 297 -47 265 c 0xe8
  -47 247 -45 233 -44 216 c 1
  -9 216 l 2
  -4 216 0 213 0 210 c 0
@@ -12257,7 +12241,7 @@ SplineSet
  -67 134 -76 108 -77 100 c 0
  -77 95 -83 94 -89 94 c 0
  -91 94 -94 94 -97 94 c 0
- -105 94 -114 95 -111 102 c 0
+ -105 94 -114 95 -111 102 c 0xf0
  -109 108 -93 138 -78 158 c 1
  -62 177 -39 196 -32 203 c 1
  -211 203 l 2
@@ -12267,7 +12251,7 @@ SplineSet
  -195 231 -197 248 -197 266 c 0
  -197 295 -192 328 -186 350 c 0
  -184 357 -176 357 -168 357 c 1
- -161 356 -150 355 -151 348 c 0xe0
+ -161 356 -150 355 -151 348 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -12317,8 +12301,8 @@ Encoding: 60931 60931 70
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 302 52<-34.8514 -8.6301> 341 13<-156.993 -131 -96.9138 -34>
+Flags: W
+HStem: 302 52<-34.8514 -8.6301> 341 13<-156.993 -131 -96.9138 -34> 750 50<-200 0>
 VStem: -140 36<201.023 339.69> -35 27<306.22 340.717>
 TtInstrs:
 SVTCA[y-axis]
@@ -12444,28 +12428,28 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5x38
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--140 260 m 0x70
+ -200 800 l 5x38
+-140 260 m 0
  -140 287 -136 323 -131 341 c 1
  -150 341 l 2
  -156 341 -157 344 -157 348 c 0
- -157 352 -155 353 -148 354 c 1x70
+ -157 352 -155 353 -148 354 c 1x78
  -102 354 -55 354 -9 354 c 0
  -1 354 0 350 0 346 c 0
  -1 340 -7 334 -8 326 c 0
- -11 312 -4 302 -11 302 c 0xb0
+ -11 312 -4 302 -11 302 c 0xb8
  -18 302 -32 312 -35 321 c 0
  -36 327 -36 335 -34 341 c 1
- -55 341 -75 341 -96 341 c 1
+ -55 341 -75 341 -96 341 c 1x78
  -101 313 -104 288 -104 258 c 0
  -104 240 -101 227 -101 207 c 0
  -101 201 -113 201 -119 201 c 0
  -125 201 -137 201 -137 207 c 0
- -137 223 -140 241 -140 260 c 0x70
+ -137 223 -140 241 -140 260 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -12498,9 +12482,9 @@ Encoding: 60932 60932 71
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 270 14<-119 -45>
-VStem: -156 37<201.04 270 284 342.247> -46 37<204.51 343.01> -45 45<201.001 257.157 258.188 263.02 284.839 344.154>
+Flags: W
+HStem: 270 14<-119 -45> 750 50<-200 0>
+VStem: -156 37<201.04 270 284 342.247> -46 37<204.51 343.01> -35 35<285.031 350.843>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -12645,17 +12629,17 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xe8
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
-0 344 m 0xd0
+ -200 800 l 5xe8
+0 344 m 0
  0 323 -9 294 -9 264 c 0
  -9 243 -6 228 -6 207 c 0
  -6 201 -16 201 -23 201 c 0
  -31 201 -42 201 -42 207 c 0
- -44 223 -46 240 -46 258 c 0xe0
+ -44 223 -46 240 -46 258 c 0xf0
  -46 262 -46 266 -45 270 c 1
  -119 270 l 1
  -119 267 -119 264 -119 261 c 0
@@ -12672,7 +12656,7 @@ SplineSet
  -42 306 -39 327 -35 345 c 0
  -34 350 -27 351 -22 351 c 0
  -20 351 -18 351 -17 351 c 0
- -12 351 0 350 0 344 c 0xd0
+ -12 351 0 350 0 344 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -12711,8 +12695,8 @@ Encoding: 60933 60933 72
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 256 57<-63.1341 -11.1074>
+Flags: W
+HStem: 256 57<-63.1341 -11.1074> 750 50<-200 0>
 VStem: -64 54<256.797 312.152>
 TtInstrs:
 SVTCA[y-axis]
@@ -12790,9 +12774,9 @@ Encoding: 60934 60934 73
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 197 152
-VStem: -181 39<254.814 321> -60 38<228.149 317>
+Flags: W
+HStem: 750 50<-200 0>
+VStem: -181 39<254.814 321> -60 38<228.149 317> -36 36<197.007 272.262>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -12905,16 +12889,16 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xd0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--22 341 m 0
- -22 337 -22 333 -22 328 c 0
+ -200 800 l 5xd0
+-22 341 m 0xe0
+ -22 337 -22 333 -22 328 c 0xe0
  -22 288 0 234 0 203 c 0
  0 198 -11 197 -19 197 c 0
- -27 197 -35 198 -36 204 c 0
+ -27 197 -35 198 -36 204 c 0xd0
  -42 224 -46 235 -50 256 c 1
  -56 281 -60 297 -60 317 c 1
  -71 307 -87 284 -103 261 c 0
@@ -12933,7 +12917,7 @@ SplineSet
  -142 312 -137 271 -131 254 c 1
  -109 292 -81 329 -55 345 c 0
  -51 348 -43 349 -38 349 c 0
- -32 349 -21 348 -22 341 c 0
+ -32 349 -21 348 -22 341 c 0xe0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -12973,8 +12957,8 @@ Encoding: 60935 60935 74
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 341 13<-198.946 -173 -139.117 -63 -29.1174 -0.0468979>
+Flags: W
+HStem: 341 13<-198.946 -173 -139.117 -63 -29.1174 -0.0468979> 750 50<-200 0>
 VStem: -183 38<201.03 339.827> -73 38<201.03 339.827>
 TtInstrs:
 SVTCA[y-axis]
@@ -13130,8 +13114,8 @@ Encoding: 60936 60936 75
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979>
+Flags: W
+HStem: 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979> 750 50<-200 0>
 VStem: -187 38<216 342.941> -77 38<216 342.941>
 TtInstrs:
 SVTCA[y-axis]
@@ -13311,9 +13295,9 @@ Encoding: 60937 60937 76
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 382 48<-128.426 -86.5738>
-VStem: -181 39<254.814 321> -129 43<382.091 429.909> -60 38<228.149 317>
+Flags: W
+HStem: 382 48<-128.426 -86.5738> 750 50<-200 0>
+VStem: -181 39<254.814 321> -129 43<382.091 429.909> -60 38<228.149 317> -36 36<197.007 272.262>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -13420,21 +13404,21 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xf4
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
+ -200 800 l 5xf4
 -109 382 m 0
  -122 382 -129 394 -129 403 c 0
  -129 416 -119 430 -106 430 c 0
  -93 430 -86 418 -86 409 c 0
  -86 396 -96 382 -109 382 c 0
--22 341 m 0
- -22 337 -22 333 -22 328 c 0
+-22 341 m 0xf8
+ -22 337 -22 333 -22 328 c 0xf8
  -22 288 0 234 0 203 c 0
  0 198 -11 197 -19 197 c 0
- -27 197 -35 198 -36 204 c 0
+ -27 197 -35 198 -36 204 c 0xf4
  -42 224 -46 235 -50 256 c 1
  -56 281 -60 297 -60 317 c 1
  -71 307 -87 284 -103 261 c 0
@@ -13453,7 +13437,7 @@ SplineSet
  -142 312 -137 271 -131 254 c 1
  -109 292 -81 329 -55 345 c 0
  -51 348 -43 349 -38 349 c 0
- -32 349 -21 348 -22 341 c 0
+ -32 349 -21 348 -22 341 c 0xf8
 EndSplineSet
 Layer: 2
 SplineSet
@@ -13501,8 +13485,8 @@ Encoding: 60938 60938 77
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 341 13<-198.98 -173 -139.135 -63 -29.1348 -0.00147247> 397 48<-117.429 -75.3691>
+Flags: W
+HStem: 341 13<-198.98 -173 -139.135 -63 -29.1348 -0.00147247> 397 48<-117.429 -75.3691> 750 50<-200 0>
 VStem: -182 36<201.05 339.737> -118 43<397.084 444.99> -72 36<201.05 339.737>
 TtInstrs:
 SVTCA[y-axis]
@@ -13716,8 +13700,8 @@ StartChar: uniEE0B
 Encoding: 60939 60939 78
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: 203 13<-212.98 -183 -147.419 -73 -37.4191 -13.0939> 344 13<-198.98 -177 -143.117 -67 -33.1174 -0.00147247> 400 48<-121.429 -79.3691>
+Flags: W
+HStem: 203 13<-212.98 -183 -147.419 -73 -37.4191 -13.0939> 344 13<-198.98 -177 -143.117 -67 -33.1174 -0.00147247> 400 48<-121.429 -79.3691> 750 50<-200 0>
 VStem: -185 36<216 342.848> -122 43<400.084 447.99> -75 36<216.634 342.848>
 TtInstrs:
 SVTCA[y-axis]
@@ -13944,23 +13928,23 @@ Encoding: 60945 60945 79
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -10 166 197 152
-VStem: -389 205 -181 39<254.814 321> -60 38<228.149 317>
+Flags: W
+HStem: -12 21G<-384.5 -382> 750 50<-200 0>
+VStem: -181 39<254.814 321> -60 38<228.149 317> -36 36<197.007 272.262>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xe8
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--22 341 m 0
- -22 337 -22 333 -22 328 c 0
+ -200 800 l 5xe8
+-22 341 m 0xf0
+ -22 337 -22 333 -22 328 c 0xf0
  -22 288 0 234 0 203 c 0
  0 198 -11 197 -19 197 c 0
- -27 197 -35 198 -36 204 c 0
+ -27 197 -35 198 -36 204 c 0xe8
  -42 224 -46 235 -50 256 c 1
  -56 281 -60 297 -60 317 c 1
  -71 307 -87 284 -103 261 c 0
@@ -13979,7 +13963,7 @@ SplineSet
  -142 312 -137 271 -131 254 c 1
  -109 292 -81 329 -55 345 c 0
  -51 348 -43 349 -38 349 c 0
- -32 349 -21 348 -22 341 c 0
+ -32 349 -21 348 -22 341 c 0xf0
 -189 156 m 0
  -186 156 -184 152 -184 149 c 0
  -184 147 -185 145 -189 142 c 0
@@ -14011,9 +13995,9 @@ Encoding: 60947 60947 80
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -10 166 341.014 13<-200.951 -175.004 -141.122 -65.0042 -31.1216 -2.0511>
-VStem: -309 205 -185.004 38<201.045 339.842> -75.0042 38<201.045 339.842>
+Flags: W
+HStem: -12 21G<-304.5 -302> 341.015 13<-200.95 -175.004 -141.121 -65.0039 -31.1213 -2.05081> 750.015 50<-202.004 -2.00391>
+VStem: -185.004 38<201.045 339.842> -75.0039 38<201.045 339.842>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
@@ -14076,9 +14060,9 @@ Encoding: 60949 60949 81
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -15 166 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979>
-VStem: -337 205 -187 38<216 342.941> -77 38<216 342.941>
+Flags: W
+HStem: 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979> 750 50<-200 0>
+VStem: -187 38<216 342.941> -77 38<216 342.941>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
@@ -14145,9 +14129,8 @@ StartChar: uniEE50
 Encoding: 61008 61008 82
 Width: 1
 GlyphClass: 4
-Flags: HW
-HStem: 389 196
-VStem: -421 96
+Flags: W
+HStem: 750 50<-200 0>
 AnchorPoint: "TonalRange" -375 500 mark 0
 LayerCount: 3
 Fore
@@ -14183,9 +14166,8 @@ StartChar: uniEE51
 Encoding: 61009 61009 83
 Width: 1
 GlyphClass: 4
-Flags: HW
-HStem: 270 315
-VStem: -551 226
+Flags: W
+HStem: 750 50<-200 0>
 AnchorPoint: "TonalRange" -375 500 mark 0
 LayerCount: 3
 Fore
@@ -14236,7 +14218,8 @@ StartChar: uniEE52
 Encoding: 61010 61010 84
 Width: 1
 GlyphClass: 4
-Flags: HW
+Flags: W
+HStem: 750 50<-200 0>
 AnchorPoint: "TonalRange" -395 480 mark 0
 LayerCount: 3
 Fore
@@ -14303,9 +14286,9 @@ Encoding: 61012 61012 85
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 355 247
-VStem: 58 46
+Flags: W
+HStem: 750 50<-200 0>
+VStem: -200 304
 AnchorPoint: "Zaderzhka" 20 440 mark 0
 LayerCount: 3
 Fore
@@ -14336,9 +14319,8 @@ StartChar: uniEE53
 Encoding: 61011 61011 86
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: 389 196
-VStem: 37 96
+Flags: W
+HStem: 750 50<-200 0>
 AnchorPoint: "Zaderzhka" 20 440 mark 0
 LayerCount: 3
 Fore
@@ -14375,8 +14357,8 @@ Encoding: 61013 61013 87
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 0 94<-138.665 -66.337>
+Flags: W
+HStem: 0 94<-138.665 -66.337> 750 50<-200 0>
 VStem: -174 31<48 151.966> -30 10<178.868 202.647>
 AnchorPoint: "Podchashie" -93 200 mark 0
 LayerCount: 3
@@ -14423,19 +14405,19 @@ Encoding: 61015 61015 88
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 550 94<-157.076 -85.8671>
-VStem: -194 31<598 709.699> -171 9<712.188 727.031> -50 10<727.094 752.497>
+Flags: W
+HStem: 550 94<-157.076 -85.8671> 890 50<-200 0>
+VStem: -194 31<613.659 709.699> -171 9<712.188 727.031> -50 10<727.094 752.497>
 AnchorPoint: "Flexion" -70 640 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 940 m 5
+-200 940 m 5xc8
  0 940 l 5
  0 890 l 5
  -200 890 l 5
- -200 940 l 5
--163 690 m 0xd0
+ -200 940 l 5xc8
+-163 690 m 0xe8
  -163 663 -147 644 -120 644 c 0
  -86 644 -56 713 -50 744 c 0
  -49 750 -46 753 -43 753 c 0
@@ -14443,10 +14425,10 @@ SplineSet
  -40 743 -40 743 -40 738 c 0
  -40 696 -47 655 -62 615 c 0
  -78 572 -101 550 -130 550 c 0
- -173 550 -194 574 -194 622 c 0xd0
+ -173 550 -194 574 -194 622 c 0xe8
  -194 651 -186 684 -171 723 c 0
- -166 735 -161 729 -162 718 c 0xb0
- -162 712 -163 703 -163 690 c 0xd0
+ -166 735 -161 729 -162 718 c 0xd8
+ -162 712 -163 703 -163 690 c 0xe8
 -82 792 m 1
  -95 704 l 1
  -183 763 l 1
@@ -14484,31 +14466,31 @@ Encoding: 61016 61016 89
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 650 98<-133.018 -41.2218>
+Flags: W
+HStem: 650 98<-133.018 -41.2218> 800 50<-200 0>
 VStem: -203 13<512.371 545.082> -41 31<608.443 647.656> -41 12<592.054 612.443>
 AnchorPoint: "Flexion" -70 640 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 850 m 5
+-200 850 m 5xe0
  0 850 l 5
  0 800 l 5
  -200 800 l 5
- -200 850 l 5
--77 748 m 0xe0
- -38 748 -10 722 -10 679 c 0xe0
+ -200 850 l 5xe0
+-77 748 m 0
+ -38 748 -10 722 -10 679 c 0xf0
  -10 655 -16 628 -29 599 c 0
  -30 594 -32 592 -36 592 c 0
- -40 592 -42 596 -41 603 c 2xd0
- -41 626 l 2
+ -40 592 -42 596 -41 603 c 2xe8
+ -41 626 l 2xf0
  -41 642 -52 650 -73 650 c 0
  -110 650 -139 632 -160 596 c 0
  -175 572 -185 547 -190 521 c 0
  -191 515 -194 512 -199 512 c 0
  -202 512 -203 520 -203 534 c 0
  -203 571 -191 642 -178 669 c 0
- -154 722 -120 748 -77 748 c 0xe0
+ -154 722 -120 748 -77 748 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -14535,8 +14517,8 @@ StartChar: uniEE59
 Encoding: 61017 61017 90
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: 460 253
+Flags: W
+HStem: 460 21G<79.5 112.5> 750 50<-200 0>
 VStem: 40 31<502.5 627.462> 157 14<615.528 693.755>
 AnchorPoint: "Zaderzhka" 20 440 mark 0
 LayerCount: 3
@@ -16386,8 +16368,8 @@ Encoding: 61072 61072 93
 Width: 350
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 137 134<231.788 297.641>
+Flags: W
+HStem: 137 134<231.788 297.641> 750 50<0 400>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -16408,28 +16390,28 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xc0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-106 343 m 1x80
+ 0 800 l 5xc0
+106 343 m 1
  127 404 215 423 215 423 c 1
  205 299 l 1
  205 299 125 280 94 217 c 1
- 106 343 l 1x80
-311 -19 m 0x90
+ 106 343 l 1
+311 -19 m 0xc8
  310 -23 303 -26 301 -26 c 0
  299 -26 292 -23 293 -16 c 0
  295 -2 304 69 304 82 c 0
  304 112 296 134 265 137 c 1
  259 137 l 2
  244 137 223 130 213 90 c 0
- 211 80 201 77 203 87 c 1xd0
+ 211 80 201 77 203 87 c 1xe8
  205 116 207 151 211 183 c 0
  217 231 231 271 274 271 c 0
- 311 271 325 230 329 177 c 0xa0
- 334 107 320 19 311 -19 c 0x90
+ 311 271 325 230 329 177 c 0xd0
+ 334 107 320 19 311 -19 c 0xc8
 42 87 m 1
  48 105 61 121 79 134 c 0
  97 147 113 156 128 160 c 2
@@ -16484,8 +16466,8 @@ Encoding: 61046 61046 94
 Width: 500
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0417 40.5>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 750 50<0 400>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -16573,8 +16555,8 @@ Encoding: 61047 61047 95
 Width: 385
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 281 134<264.827 330.563>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 281 134<264.827 330.563> 750 50<0 400>
 VStem: 236 10<227.683 248.65> 337 27<154.973 325.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -16660,8 +16642,8 @@ Encoding: 61052 61052 96
 Width: 325
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 206 108<82.3961 151.009>
+Flags: W
+HStem: 206 108<82.3961 151.009> 750 50<0 400>
 VStem: 24 27<-42.8409 141.765> 158 32<41.3 254>
 AnchorPoint: "Lomka" 370 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -16751,8 +16733,8 @@ Encoding: 61040 61040 97
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923> 750 50<0 400>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -16902,8 +16884,8 @@ Encoding: 61061 61061 98
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33> 451 125<479.474 545.206> 750 50<0 400>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -17062,8 +17044,8 @@ Encoding: 61056 61056 99
 Width: 225
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 106<51.5524 150.3>
+Flags: W
+HStem: 0 106<51.5524 150.3> 750 50<0 400>
 VStem: 20 34<107.47 184.16> 62 26<388.5 491.999> 80 11<490.513 513.981> 185 22<149.369 256>
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -17084,12 +17066,12 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xe4
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-21 50 m 0xe8
+ 0 800 l 5xe4
+21 50 m 0
  21 52 20 64 20 66 c 0
  20 91 26 168 33 185 c 0
  35 189 38 191 43 191 c 0
@@ -17100,19 +17082,19 @@ SplineSet
  185 191 181 206 171 220 c 0
  161 234 148 247 131 262 c 0
  114 277 102 291 95 302 c 0
- 73 335 62 370 62 407 c 0xe8
+ 73 335 62 370 62 407 c 0xf4
  62 429 73 494 80 507 c 0
  80 512 82 514 86 514 c 0
  89 514 91 511 91 508 c 2
- 91 507 l 1xd8
- 89 498 88 487 88 474 c 0
+ 91 507 l 1xec
+ 89 498 88 487 88 474 c 0xf4
  88 433 126 387 149 358 c 0
  164 340 174 327 181 318 c 0
  195 300 207 272 207 240 c 0
  207 164 205 113 200 88 c 0
  193 57 182 33 155 18 c 0
  139 9 110 0 84 0 c 0
- 48 0 24 18 21 50 c 0xe8
+ 48 0 24 18 21 50 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -17152,9 +17134,8 @@ Encoding: 61100 61100 100
 Width: 320
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: -7 21G<149 172.258>
-VStem: 25 270
+Flags: W
+HStem: -7 21G<149 172.258> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -17244,9 +17225,8 @@ Encoding: 61101 61101 101
 Width: 290
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<24.0417 40.5714 193.121 208.857>
-VStem: 22 243
+Flags: W
+HStem: 0 21G<24.0417 40.5714 193.121 208.857> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -17320,9 +17300,8 @@ Encoding: 61063 61063 102
 Width: 260
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 1 247
-VStem: 20 220
+Flags: W
+HStem: 1 21G<87.5 102.875 214.5 229.875> 750 50<0 400>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -17402,9 +17381,8 @@ Encoding: 61065 61065 103
 Width: 215
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<64.0087 84>
-VStem: 16 177
+Flags: W
+HStem: 0 21G<64.0087 84> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -17473,8 +17451,8 @@ StartChar: uniEE71
 Encoding: 61041 61041 104
 Width: 625
 GlyphClass: 2
-Flags: HW
-HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923> 750 50<0 400>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -17676,8 +17654,8 @@ Encoding: 61042 61042 105
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.144>
+Flags: W
+HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.144> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -17765,8 +17743,8 @@ Encoding: 61060 61060 106
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -17860,8 +17838,8 @@ StartChar: uniEE8C
 Encoding: 61068 61068 107
 Width: 752
 GlyphClass: 2
-Flags: HW
-HStem: -4 47<153.416 216.758> 3 73<578 635.7> 322 81<483.486 609.356> 329 75<150.465 265.879>
+Flags: W
+HStem: -4 47<153.416 216.758> 3 73<578 635.7> 322 81<483.486 609.356> 329 75<150.465 265.879> 750 50<0 400>
 VStem: 20 71<115.362 264.116> 668 64<109.396 265.284>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -17882,12 +17860,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x0e
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-389 286 m 1x9c
+ 0 800 l 5x0e
+389 286 m 1
  422 338 483 403 559 403 c 0
  614 403 656 383 686 342 c 0
  716 301 732 254 732 202 c 0
@@ -17897,7 +17875,7 @@ SplineSet
  595 76 612 80 630 88 c 0
  662 103 668 140 668 184 c 0
  668 247 641 290 586 313 c 0
- 572 319 556 322 537 322 c 0x6c
+ 572 319 556 322 537 322 c 0x6e
  519 322 497 315 472 300 c 0
  432 276 397 237 368 184 c 1
  352 219 298 295 250 316 c 0
@@ -17913,8 +17891,8 @@ SplineSet
  83 -4 47 57 34 98 c 0
  25 127 20 150 20 168 c 0
  20 268 51 337 114 376 c 0
- 143 395 172 404 201 404 c 0
- 278 404 341 365 389 286 c 1x9c
+ 143 395 172 404 201 404 c 0x9e
+ 278 404 341 365 389 286 c 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -17963,8 +17941,8 @@ Encoding: 61070 61070 108
 Width: 440
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442>
+Flags: W
+HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442> 750 50<0 400>
 VStem: 183 19<492.423 522.491> 298 27<462.636 537.411>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -18086,8 +18064,8 @@ Encoding: 61071 61071 109
 Width: 240
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-VStem: 30 185
+Flags: W
+HStem: 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -18159,8 +18137,8 @@ Encoding: 61069 61069 110
 Width: 200
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-VStem: 23 154
+Flags: W
+HStem: 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Zaderzhka" 220 180 basechar 0
@@ -18227,8 +18205,8 @@ Encoding: 61066 61066 111
 Width: 240
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -4 112<124.008 169.548>
+Flags: W
+HStem: -4 112<124.008 169.548> 750 50<0 400>
 VStem: 68 49<48.5 209.314> 117 52<367.678 508> 117 36<360.356 425.472>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -18249,14 +18227,14 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xc0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-120 553 m 0xa0
- 156 546 169 526 169 490 c 0xa0
- 169 461 164 418 153 360 c 1x90
+ 0 800 l 5xc0
+120 553 m 0
+ 156 546 169 526 169 490 c 0xd0
+ 169 461 164 418 153 360 c 1xc8
  158 361 162 362 167 363 c 2
  199 369 l 1
  189 245 l 1
@@ -18269,12 +18247,12 @@ SplineSet
  216 136 209 94 197 64 c 0
  194 58 190 51 186 42 c 0
  177 24 155 -4 132 -4 c 0
- 78 -4 68 20 68 77 c 0xc0
+ 78 -4 68 20 68 77 c 0xe0
  68 102 75 147 88 211 c 1
  64 198 48 182 39 165 c 1
  51 291 l 1
  58 312 79 330 115 346 c 1
- 116 357 117 366 117 375 c 0
+ 116 357 117 366 117 375 c 0xd0
  117 414 105 433 74 433 c 0
  53 433 36 418 24 389 c 0
  21 383 18 380 14 380 c 0
@@ -18282,7 +18260,7 @@ SplineSet
  12 393 17 411 26 441 c 0
  43 497 43 496 69 532 c 0
  79 546 93 553 110 553 c 0
- 115 553 115 553 120 553 c 0xa0
+ 115 553 115 553 120 553 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -18336,7 +18314,8 @@ Encoding: 61067 61067 112
 Width: 230
 VWidth: 999
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 750 50<0 400>
 VStem: 31 40<290 399.582> 155 40<118.412 215>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -18419,8 +18398,8 @@ Encoding: 61043 61043 113
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -18502,8 +18481,8 @@ Encoding: 61083 61083 114
 Width: 790
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<196.869 198 446.024 466> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198 446.024 466> 451 125<644.474 710.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -18607,8 +18586,8 @@ Encoding: 61084 61084 115
 Width: 790
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -18733,9 +18712,8 @@ Encoding: 61073 61073 116
 Width: 365
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<240 260>
-VStem: 30 309
+Flags: W
+HStem: 0 21G<240 260> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -18829,8 +18807,8 @@ Encoding: 61082 61082 117
 Width: 790
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -18930,8 +18908,8 @@ Encoding: 61075 61075 118
 Width: 350
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-VStem: 30 295
+Flags: W
+HStem: 750 50<0 400>
 AnchorPoint: "Lomka" 420 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -19007,8 +18985,8 @@ Encoding: 61074 61074 119
 Width: 525
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<405 426> 137 134<232.569 297.563>
+Flags: W
+HStem: 0 21G<405 426> 137 134<232.569 297.563> 750 50<0 400>
 VStem: 203 10<83.7422 104.195> 304 27<10.9733 144>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -19140,8 +19118,8 @@ Encoding: 61086 61086 120
 Width: 950
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
+Flags: W
+HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -19162,12 +19140,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x9f80
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-263 223 m 0xbf
+ 0 800 l 5x9f80
+263 223 m 0xbf80
  301 223 320 178 320 89 c 0
  320 39 313 -13 300 -67 c 0
  299 -72 296 -74 291 -74 c 0
@@ -19178,8 +19156,8 @@ SplineSet
  226 89 211 73 203 42 c 0
  202 37 199 34 195 33 c 0
  192 32 191 34 192 39 c 0
- 198 126 199 223 263 223 c 0xbf
-101 199 m 0xdf
+ 198 126 199 223 263 223 c 0xbf80
+101 199 m 0xdf80
  139 199 158 154 158 65 c 0
  158 15 151 -37 138 -91 c 0
  137 -96 134 -98 129 -98 c 0
@@ -19190,7 +19168,7 @@ SplineSet
  64 65 49 49 41 18 c 0
  40 13 37 10 33 9 c 0
  30 8 29 10 30 15 c 0
- 36 102 37 199 101 199 c 0xdf
+ 36 102 37 199 101 199 c 0xdf80
 844 576 m 0
  857 576 871 566 889 545 c 0
  906 525 913 508 913 494 c 0
@@ -19265,8 +19243,8 @@ Encoding: 61087 61087 121
 Width: 950
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
+Flags: W
+HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -19287,12 +19265,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x9f80
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-263 223 m 0xbf
+ 0 800 l 5x9f80
+263 223 m 0xbf80
  301 223 320 178 320 89 c 0
  320 39 313 -13 300 -67 c 0
  299 -72 296 -74 291 -74 c 0
@@ -19303,8 +19281,8 @@ SplineSet
  226 89 211 73 203 42 c 0
  202 37 199 34 195 33 c 0
  192 32 191 34 192 39 c 0
- 198 126 199 223 263 223 c 0xbf
-101 199 m 0xdf
+ 198 126 199 223 263 223 c 0xbf80
+101 199 m 0xdf80
  139 199 158 154 158 65 c 0
  158 15 151 -37 138 -91 c 0
  137 -96 134 -98 129 -98 c 0
@@ -19315,7 +19293,7 @@ SplineSet
  64 65 49 49 41 18 c 0
  40 13 37 10 33 9 c 0
  30 8 29 10 30 15 c 0
- 36 102 37 199 101 199 c 0xdf
+ 36 102 37 199 101 199 c 0xdf80
 844 576 m 0
  857 576 871 566 889 545 c 0
  906 525 913 508 913 494 c 0
@@ -19355,8 +19333,8 @@ Encoding: 61088 61088 122
 Width: 950
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
+Flags: W
+HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -19481,8 +19459,8 @@ Encoding: 61054 61054 123
 Width: 410
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 15G<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 275.483>
+Flags: W
+HStem: 0 15G<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 275.483> 750 50<0 400>
 VStem: 112 9<2.02298 16.4071> 113 31<19.5513 135> 272 9<26.023 40.4071> 273 31<43.5513 159> 348 34<46.8179 282.938>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -19503,12 +19481,12 @@ AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x9840
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-348 190 m 2x9080
+ 0 800 l 5x9840
+348 190 m 2
  348 305 295 371 188 371 c 1
  200 496 l 1
  248 496 290 474 327 430 c 0
@@ -19517,29 +19495,29 @@ SplineSet
  359 -2 355 -6 348 -6 c 0
  342 -6 334 -1 336 6 c 0
  344 75 348 117 348 131 c 2
- 348 190 l 2x9080
-248 202 m 0xb180
- 283 202 304 176 304 142 c 0xb180
+ 348 190 l 2
+248 202 m 0xb8c0
+ 283 202 304 176 304 142 c 0xb8c0
  304 104 296 67 281 30 c 0
- 276 18 271 25 272 36 c 0xb280
+ 276 18 271 25 272 36 c 0xb940
  272 42 273 51 273 65 c 0
  273 94 261 108 238 108 c 0
  213 108 195 75 184 8 c 0
  183 2 181 0 178 0 c 0
  175 0 174 10 174 32 c 0
  174 54 178 83 185 118 c 0
- 196 174 217 202 248 202 c 0xb180
-88 178 m 0xd480
- 123 178 144 152 144 118 c 0xd480
+ 196 174 217 202 248 202 c 0xb8c0
+88 178 m 0xda40
+ 123 178 144 152 144 118 c 0xda40
  144 80 136 43 121 6 c 0
- 116 -6 111 1 112 12 c 0xd880
+ 116 -6 111 1 112 12 c 0xdc40
  112 18 113 27 113 41 c 0
  113 70 101 84 78 84 c 0
  53 84 35 51 24 -16 c 0
  23 -22 21 -25 18 -25 c 0
  15 -25 14 -14 14 8 c 0
  14 30 18 59 25 94 c 0
- 36 150 57 178 88 178 c 0xd480
+ 36 150 57 178 88 178 c 0xda40
 EndSplineSet
 Layer: 2
 SplineSet
@@ -19636,8 +19614,8 @@ Encoding: 61099 61099 125
 Width: 1070
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -7 21G<149 172.258 476.869 478> 451 125<924.474 990.206>
+Flags: W
+HStem: -7 21G<149 172.258 476.869 478> 451 125<924.474 990.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 675 800 basechar 0
 AnchorPoint: "PitchMark" 330 690 basechar 0
 AnchorPoint: "Lomka" 985 150 basechar 0
@@ -19726,8 +19704,8 @@ Encoding: 61058 61058 126
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206> 750 50<0 400>
 VStem: 300 31<94 197.966> 444 10<224.868 248.647>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -19820,8 +19798,8 @@ Encoding: 61059 61059 127
 Width: 625
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33> 451 125<479.474 545.206> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -19902,8 +19880,8 @@ Encoding: 61098 61098 128
 Width: 715
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 451 125<569.049 637.264>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 451 125<569.049 637.264> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -19992,9 +19970,8 @@ Encoding: 61045 61045 129
 Width: 225
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<32.0417 40.5>
-VStem: 30 169
+Flags: W
+HStem: 0 21G<32.0417 40.5> 750 50<0 400>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -20052,8 +20029,8 @@ Encoding: 61044 61044 130
 Width: 625
 VWidth: 999
 GlyphClass: 3
-Flags: HW
-HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -20143,8 +20120,8 @@ Encoding: 61053 61053 131
 Width: 450
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 206 108<69.6788 136.817>
+Flags: W
+HStem: 206 108<69.6788 136.817> 750 50<0 400>
 VStem: 10 27<-42.8159 141.02> 144 32<48.7511 257>
 AnchorPoint: "Lomka" 370 150 basechar 0
 AnchorPoint: "Tikhaya" 0 150 basechar 0
@@ -20241,8 +20218,8 @@ Encoding: 61055 61055 132
 Width: 545
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<179.5 182.5> 30 106<367.552 466.3> 84 94<51.6637 112.37> 108 94<211.664 272.37>
+Flags: W
+HStem: 0 21G<179.5 182.5> 30 106<367.552 466.3> 84 94<51.6637 112.37> 108 94<211.664 272.37> 750 50<0 400>
 VStem: 116 31<26.8191 78.9965> 116 8<3.52825 14.6724> 276 31<50.8191 102.996> 276 8<27.5282 38.6724> 336 34<137.47 214.16> 378 26<418.5 521.999> 396 11<520.513 543.981> 501 22<179.369 286>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -20263,12 +20240,12 @@ AnchorPoint: "PitchMark" 40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x8848
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-337 80 m 0xc0d0
+ 0 800 l 5x8848
+337 80 m 0
  337 82 336 94 336 96 c 0
  336 121 342 198 349 215 c 0
  351 219 354 221 359 221 c 0
@@ -20279,41 +20256,41 @@ SplineSet
  501 221 497 236 487 250 c 0
  477 264 464 277 447 292 c 0
  430 307 418 321 411 332 c 0
- 389 365 378 400 378 437 c 0xc0d0
+ 389 365 378 400 378 437 c 0xc868
  378 459 389 524 396 537 c 0
  396 542 398 544 402 544 c 0
  405 544 407 541 407 538 c 2
- 407 537 l 1xc0b0
+ 407 537 l 1xc858
  405 528 404 517 404 504 c 0
  404 463 442 417 465 388 c 0
  480 370 490 357 497 348 c 0
  511 330 523 302 523 270 c 0
  523 194 521 143 516 118 c 0
  509 87 498 63 471 48 c 0
- 455 39 426 30 400 30 c 0
- 364 30 340 48 337 80 c 0xc0d0
-251 202 m 0x9290
- 286 202 307 176 307 142 c 0x9290
+ 455 39 426 30 400 30 c 0xc868
+ 364 30 340 48 337 80 c 0
+251 202 m 0x9948
+ 286 202 307 176 307 142 c 0x9948
  307 104 299 67 284 30 c 0
- 279 18 275 25 276 36 c 0xc190
+ 279 18 275 25 276 36 c 0xc8c8
  276 42 276 51 276 65 c 0
  276 94 264 108 241 108 c 0
  216 108 198 75 187 8 c 0
  186 2 184 0 181 0 c 0
  178 0 177 10 177 32 c 0
  177 54 181 83 188 118 c 0
- 199 174 220 202 251 202 c 0x9290
-91 178 m 0xa890
- 126 178 147 152 147 118 c 0xa890
+ 199 174 220 202 251 202 c 0x9948
+91 178 m 0xac48
+ 126 178 147 152 147 118 c 0xac48
  147 80 139 43 124 6 c 0
- 119 -6 115 1 116 12 c 0xa490
+ 119 -6 115 1 116 12 c 0xaa48
  116 18 116 27 116 41 c 0
  116 70 104 84 81 84 c 0
  56 84 38 51 27 -16 c 0
  26 -22 24 -25 21 -25 c 0
  18 -25 17 -14 17 8 c 0
  17 30 21 59 28 94 c 0
- 39 150 60 178 91 178 c 0xa890
+ 39 150 60 178 91 178 c 0xac48
 EndSplineSet
 Layer: 2
 SplineSet
@@ -20381,8 +20358,8 @@ Encoding: 61050 61050 133
 Width: 255
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 259 104<96.4066 180.778>
+Flags: W
+HStem: 259 104<96.4066 180.778> 750 50<0 400>
 VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 78.3868> 197 31<85.9516 292.5>
 TtInstrs:
 SVTCA[y-axis]
@@ -20555,12 +20532,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xe0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-182.75 18.5 m 1xe0
+ 0 800 l 5xe0
+182.75 18.5 m 1xf0
  186.917 51.6667 197 118 197 157 c 0
  197 225 179 259 142 259 c 0
  89 259 59 207 50 103 c 0
@@ -20569,10 +20546,10 @@ SplineSet
  26.75 -53 23.4909 -48.1155 22 -41 c 0
  20.1667 -32.25 20.417 -7.5 20.417 -7.5 c 0
  20.417 243.5 65 363 151 363 c 0
- 202 363 228 328 228 257 c 0xd0
+ 202 363 228 328 228 257 c 0xe8
  228 192.692 215.014 95.0826 202 17 c 0
  200.75 9.5 196.506 4.5 191.25 4.5 c 0
- 186.75 4.5 181.25 9 182.75 18.5 c 1xe0
+ 186.75 4.5 181.25 9 182.75 18.5 c 1xf0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -20602,8 +20579,8 @@ Encoding: 61062 61062 134
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -20665,8 +20642,8 @@ Encoding: 61103 61103 135
 Width: 825
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<235.5 247.5> 450 126<678.494 746.2>
+Flags: W
+HStem: 0 21G<235.5 247.5> 450 126<678.494 746.2> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -20730,8 +20707,8 @@ Encoding: 61048 61048 136
 Width: 250
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -6 21G<178.5 185.5> 371 125<35 110.225>
+Flags: W
+HStem: -6 21G<178.5 185.5> 371 125<35 110.225> 750 50<0 400>
 VStem: 182 35<48.6146 286.634>
 AnchorPoint: "Lomka" -200 150 basechar 0
 AnchorPoint: "Tikhaya" 0 180 basechar 0
@@ -20792,8 +20769,8 @@ Encoding: 61102 61102 137
 Width: 625
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<35.5 47.5> 450 126<478.494 546.2>
+Flags: W
+HStem: 0 21G<35.5 47.5> 450 126<478.494 546.2> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -20866,8 +20843,8 @@ Encoding: 61057 61057 138
 Width: 225
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 0 106<49.7806 150.57>
+Flags: W
+HStem: 0 106<49.7806 150.57> 750 50<0 400>
 VStem: 20 29<108.904 171.804> 62 26<379.5 491.847> 80 11<490.513 513.987> 185 22<148.28 255.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -20888,24 +20865,24 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xe4
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-52 168 m 0xe8
+ 0 800 l 5xe4
+52 168 m 0
  52 164 49 149 49 136 c 0
- 49 110 60 106 91 106 c 0xd8
+ 49 110 60 106 91 106 c 0xec
  109 106 128 113 151 128 c 0
  174 143 185 158 185 174 c 0
  185 190 181 206 171 220 c 0
  161 234 148 247 131 262 c 0
- 85 303 62 352 62 407 c 0xe8
+ 85 303 62 352 62 407 c 0xf4
  62 429 73 494 80 507 c 0
  80 512 81 514 85 514 c 0
  89 514 91 512 91 508 c 2
- 91 507 l 1xd8
- 89 498 88 486 88 470 c 0
+ 91 507 l 1xec
+ 89 498 88 486 88 470 c 0xf4
  88 454 95 436 109 415 c 0
  123 394 146 361 181 318 c 0
  198 297 207 271 207 240 c 0
@@ -20915,7 +20892,7 @@ SplineSet
  46 0 23 22 21 50 c 2
  20 66 l 1
  20 139 27 175 41 175 c 0
- 48 175 52 172 52 168 c 0xe8
+ 48 175 52 172 52 168 c 0
 28 301 m 1
  125 236 l 1
  119 158 l 1
@@ -20968,8 +20945,8 @@ Encoding: 60951 60951 139
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 202 13<-212.991 -184 -147.373 -74 -37.373 -14.076> 305 52<-259.851 -233.63> 343 13<-381.924 -356 -322.135 -259 -190 -67 -33.1174 -0.0468979>
+Flags: W
+HStem: 202 13<-212.991 -184 -147.373 -74 -37.373 -14.076> 305 52<-259.851 -233.63> 343 13<-381.924 -356 -322.135 -259 -190 -67 -33.1174 -0.0468979> 750 50<-200 0>
 VStem: -365 36<204.023 342.69> -260 27<309.22 343.717> -187 38<215 341.941> -77 38<215 341.941>
 TtInstrs:
 SVTCA[y-axis]
@@ -21208,18 +21185,18 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5x9f
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--77 264 m 0xbe
+ -200 800 l 5x9f
+-77 264 m 0
  -77 292 -73 322 -67 343 c 1
- -142 343 l 1
+ -142 343 l 1xbf
  -147 319 -149 293 -149 266 c 0
  -149 249 -148 232 -147 215 c 1
  -74 215 l 1
- -75 229 -77 247 -77 264 c 0xbe
+ -75 229 -77 247 -77 264 c 0
 -187 264 m 0
  -187 292 -183 322 -177 343 c 1
  -192 343 l 2
@@ -21248,7 +21225,7 @@ SplineSet
  -327 357 -280 357 -234 357 c 0
  -226 357 -225 353 -225 349 c 0
  -226 343 -232 337 -233 329 c 0
- -236 315 -229 305 -236 305 c 0xde
+ -236 315 -229 305 -236 305 c 0xdf
  -243 305 -257 315 -260 324 c 0
  -261 330 -261 338 -259 344 c 1
  -280 344 -300 344 -321 344 c 1
@@ -21368,8 +21345,8 @@ Encoding: 61085 61085 141
 Width: 790
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -21443,19 +21420,19 @@ Encoding: 60944 60944 142
 Width: 0
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -10 166 203 13<-218.991 -195 -158.66 -81 -45.416 -33>
-VStem: -376 205 -198 38<216 347.894> -112 34<94.0207 133.074> -83 35<216 347.734>
+Flags: W
+HStem: -12 21G<-371.5 -369> 203 13<-218.991 -195 -158.66 -81 -45.416 -33> 750 50<-201 -1>
+VStem: -198 38<216 347.894> -112 34<94.0207 133.074> -83 35<216 347.734>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--201 800 m 5
+-201 800 m 5xf0
  -1 800 l 5
  -1 750 l 5
  -201 750 l 5
- -201 800 l 5
--152 348 m 0xe0
+ -201 800 l 5xf0
+-152 348 m 0
  -158 323 -160 296 -160 268 c 0
  -160 251 -160 233 -158 216 c 1
  -81 216 l 1
@@ -21463,7 +21440,7 @@ SplineSet
  -83 292 -80 325 -73 350 c 0
  -71 357 -63 356 -56 356 c 0
  -48 356 -37 355 -39 348 c 0
- -45 319 -48 297 -48 265 c 0xd0
+ -45 319 -48 297 -48 265 c 0xf4
  -48 247 -46 233 -45 216 c 1
  -10 216 l 2
  -5 216 -1 213 -1 210 c 0
@@ -21472,7 +21449,7 @@ SplineSet
  -68 134 -77 108 -78 100 c 0
  -78 95 -84 94 -90 94 c 0
  -92 94 -95 94 -98 94 c 0
- -106 94 -115 95 -112 102 c 0
+ -106 94 -115 95 -112 102 c 0xf8
  -110 108 -94 138 -79 158 c 1
  -63 177 -40 196 -33 203 c 1
  -212 203 l 2
@@ -21482,7 +21459,7 @@ SplineSet
  -196 231 -198 248 -198 266 c 0
  -198 295 -193 328 -187 350 c 0
  -185 357 -177 357 -169 357 c 1
- -162 356 -151 355 -152 348 c 0xe0
+ -162 356 -151 355 -152 348 c 0
 -176 156 m 0
  -173 156 -171 152 -171 149 c 0
  -171 147 -172 145 -176 142 c 0
@@ -21514,9 +21491,9 @@ Encoding: 60946 60946 143
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 201 23<-376.895 -319.087> 332 26<-379.933 -320.873>
-VStem: -438 44<233.998 325.962> -311 32<310.659 324.283> -57 36<232.641 322>
+Flags: W
+HStem: 201 23<-376.895 -319.087> 332 26<-379.933 -320.873> 750 50<-200 0>
+VStem: -438 44<233.998 325.962> -311 32<310.659 324.283> -57 36<232.641 322> -36 36<202 274.71>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -21716,11 +21693,11 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xfa
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
+ -200 800 l 5xfa
 -279 233 m 0
  -297 213 -326 201 -356 201 c 0
  -402 201 -438 231 -438 278 c 0
@@ -21739,9 +21716,9 @@ SplineSet
  -278 236 -278 235 -279 233 c 0
 -13 202 m 2
  -24 202 l 2
- -30 202 -34 203 -36 209 c 0
+ -30 202 -34 203 -36 209 c 0xfa
  -42 230 -46 239 -50 260 c 0
- -53 273 -57 284 -57 294 c 0
+ -53 273 -57 284 -57 294 c 0xfc
  -57 302 -60 312 -60 322 c 1
  -65 317 -72 309 -79 298 c 1
  -99 273 -122 237 -140 210 c 1
@@ -21760,10 +21737,10 @@ SplineSet
  -138 352 -143 335 -143 325 c 1
  -141 306 -135 277 -131 259 c 1
  -110 295 -102 305 -79 330 c 0
- -65 344 -60 354 -36 354 c 0
+ -65 344 -60 354 -36 354 c 0xfa
  -33 354 -31 354 -27 352 c 1
  -23 352 -21 349 -22 346 c 0
- -23 340 -23 331 -21 318 c 1
+ -23 340 -23 331 -21 318 c 1xfc
  -21 275 0 241 0 207 c 0
  0 203 -7 202 -13 202 c 2
 EndSplineSet
@@ -21833,19 +21810,19 @@ StartChar: uniEE14
 Encoding: 60948 60948 144
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 203 22<-97.2974 -41.3477> 333 26<-102.253 -42.3031> 341 13<-355.946 -330 -296.117 -220 -186.117 -157.047>
+Flags: W
+HStem: 203 22<-97.2975 -41.3477> 333 26<-102.253 -42.3031> 341 13<-355.946 -330 -296.117 -220 -186.117 -157.047> 750 50<-200 0>
 VStem: -340 38<201.03 339.827> -230 38<201.03 339.827> -160 44<232.784 326.763> -33 32<311.718 325.433>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 1
+-200 800 m 1x9f
  0 800 l 1
  0 750 l 1
  -200 750 l 1
- -200 800 l 1
--230 261 m 0xbe
+ -200 800 l 1x9f
+-230 261 m 0
  -230 289 -226 320 -220 341 c 1
  -295 341 l 1
  -300 316 -302 290 -302 263 c 0
@@ -21861,12 +21838,12 @@ SplineSet
  -246 354 -195 354 -166 354 c 0
  -158 354 -157 351 -157 346 c 1
  -158 342 -159 341 -166 341 c 2
- -185 341 l 1
+ -185 341 l 1xbf
  -190 316 -192 290 -192 263 c 0
  -192 244 -191 225 -190 207 c 0
  -190 201 -200 201 -207 201 c 0
  -215 201 -226 201 -226 207 c 0
- -228 223 -230 242 -230 261 c 0xbe
+ -228 223 -230 242 -230 261 c 0
 -2 235 m 0
  -19 214 -48 203 -78 203 c 1
  -123.895 203.462 -160.978 227.72 -160 280 c 1
@@ -21875,7 +21852,7 @@ SplineSet
  -2 334 -1 332 -1 330 c 0
  -1 319 -22 307 -30 307 c 0
  -32 307 -33 308 -33 309 c 0
- -41 323 -57 333 -75 333 c 0xde
+ -41 323 -57 333 -75 333 c 0xdf
  -104 333 -116 304 -116 274 c 0
  -116 261 -109 248 -100 238 c 0
  -91 227 -79 225 -67 225 c 0
@@ -21935,8 +21912,8 @@ StartChar: uniEE16
 Encoding: 60950 60950 145
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 203 22<-97.3158 -42.1388> 333 26<-102.34 -42.3031>
+Flags: W
+HStem: 203 22<-97.3158 -42.1388> 333 26<-102.34 -42.3031> 750 50<-200 0>
 VStem: -219 36<232.641 322> -161 45<232.698 327.075> -33 31<311.718 325.009>
 TtInstrs:
 SVTCA[y-axis]
@@ -22292,9 +22269,9 @@ Encoding: 60959 60959 146
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -6 166
-VStem: -305 205
+Flags: W
+HStem: -8 21G<-300.5 -298> 750 50<-200 0>
+VStem: -305 305
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -22447,8 +22424,8 @@ StartChar: uniEE88
 Encoding: 61064 61064 147
 Width: 340
 GlyphClass: 2
-Flags: HW
-HStem: 1 21G<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
+Flags: W
+HStem: 1 21G<87.5 102.875 214.5 229.875> 329 126<166.921 252.929> 750 50<0 400>
 VStem: 121 18<269.004 304.991> 283 43<102.263 295.725>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
@@ -22540,9 +22517,9 @@ StartChar: uniEE0C
 Encoding: 60940 60940 148
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 393 48<-157.429 -115.369 -77.429 -35.3691>
-VStem: -158 43<393.084 440.99> -78 43<393.084 440.99> -60 38<228.149 317>
+Flags: W
+HStem: 393 48<-157.429 -115.369 -77.429 -35.3691> 750 50<-200 0>
+VStem: -158 43<393.084 440.99> -78 43<393.084 440.99> -60 38<228.149 317> -36 36<197.007 272.678>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -22657,16 +22634,16 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xe4
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--22 341 m 0xd0
- -22 337 -22 333 -22 328 c 0
+ -200 800 l 5xe4
+-22 341 m 0xe8
+ -22 337 -22 333 -22 328 c 0xe8
  -22 288 0 234 0 203 c 0
  0 198 -11 197 -19 197 c 0
- -27 197 -35 198 -36 204 c 0
+ -27 197 -35 198 -36 204 c 0xe4
  -42 224 -46 235 -50 256 c 1
  -56 281 -59 297 -60 317 c 1
  -71 307 -87 284 -103 261 c 0
@@ -22685,11 +22662,11 @@ SplineSet
  -142 312 -137 271 -131 254 c 1
  -109 292 -81 329 -55 345 c 0
  -51 348 -43 349 -38 349 c 0
- -32 349 -21 348 -22 341 c 0xd0
+ -32 349 -21 348 -22 341 c 0xe8
 -58 393 m 0
  -70 393 -78 404 -78 414 c 0
  -78 427 -68 441 -56 441 c 0
- -43 441 -35 429 -35 419 c 0xe0
+ -43 441 -35 429 -35 419 c 0xf0
  -35 406 -45 393 -58 393 c 0
 -138 393 m 0
  -150 393 -158 404 -158 414 c 0
@@ -22751,8 +22728,8 @@ StartChar: uniEE0D
 Encoding: 60941 60941 149
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 341 13<-198.946 -173 -139.117 -63 -29.1174 -0.0468979> 396 48<-160.429 -118.369 -80.429 -38.3691>
+Flags: W
+HStem: 341 13<-198.946 -173 -139.117 -63 -29.1174 -0.0468979> 396 48<-160.429 -118.369 -80.429 -38.3691> 750 50<-200 0>
 VStem: -183 38<201.03 339.827> -161 43<396.084 443.99> -81 43<396.084 443.99> -73 38<201.03 339.827>
 TtInstrs:
 SVTCA[y-axis]
@@ -22908,22 +22885,22 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xe0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--61 396 m 0xc8
+ -200 800 l 5xe0
+-61 396 m 0
  -73 396 -81 407 -81 417 c 0
  -81 430 -71 444 -59 444 c 0
- -46 444 -38 432 -38 422 c 0
- -38 409 -48 396 -61 396 c 0xc8
+ -46 444 -38 432 -38 422 c 0xe4
+ -38 409 -48 396 -61 396 c 0
 -141 396 m 0
  -153 396 -161 407 -161 417 c 0
  -161 430 -151 444 -139 444 c 0
- -126 444 -118 432 -118 422 c 0xd0
+ -126 444 -118 432 -118 422 c 0xe8
  -118 409 -128 396 -141 396 c 0
--73 261 m 0xe4
+-73 261 m 0xf2
  -73 289 -69 320 -63 341 c 1
  -138 341 l 1
  -143 316 -145 290 -145 263 c 0
@@ -22944,7 +22921,7 @@ SplineSet
  -35 244 -34 225 -33 207 c 0
  -33 201 -43 201 -50 201 c 0
  -58 201 -69 201 -69 207 c 0
- -71 223 -73 242 -73 261 c 0xe4
+ -71 223 -73 242 -73 261 c 0xf2
 EndSplineSet
 Layer: 2
 SplineSet
@@ -22995,8 +22972,8 @@ StartChar: uniEE0E
 Encoding: 60942 60942 150
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 203 13<-212.98 -183 -147.419 -73 -37.5105 -13.0939> 344 13<-198.98 -177 -143.117 -67 -33.1174 -0.00147247> 398 48<-161.429 -119.369 -81.429 -39.3691>
+Flags: W
+HStem: 203 13<-212.98 -183 -147.419 -73 -37.5105 -13.0939> 344 13<-198.98 -177 -143.117 -67 -33.1174 -0.00147247> 398 48<-161.429 -119.369 -81.429 -39.3691> 750 50<-200 0>
 VStem: -185 36<216 342.848> -162 43<398.084 445.99> -82 43<398.084 445.99> -75 36<216 342.848>
 TtInstrs:
 SVTCA[y-axis]
@@ -23179,18 +23156,18 @@ AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xf0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--73 216 m 1xf2
+ -200 800 l 5xf0
+-73 216 m 1
  -74 229 -75 244 -75 260 c 0
  -75 290 -72 321 -67 344 c 1
  -142 344 l 1
- -147 318 -149 289 -149 260 c 0
+ -147 318 -149 289 -149 260 c 0xf9
  -149 245 -148 231 -147 216 c 1
- -73 216 l 1xf2
+ -73 216 l 1
 -183 216 m 1
  -184 230 -185 245 -185 261 c 0
  -185 290 -182 321 -177 344 c 1
@@ -23214,12 +23191,12 @@ SplineSet
 -62 398 m 0
  -74 398 -82 409 -82 419 c 0
  -82 432 -72 446 -60 446 c 0
- -47 446 -39 434 -39 424 c 0xe4
+ -47 446 -39 434 -39 424 c 0xf2
  -39 411 -49 398 -62 398 c 0
 -142 398 m 0
  -154 398 -162 409 -162 419 c 0
  -162 432 -152 446 -140 446 c 0
- -127 446 -119 434 -119 424 c 0xe8
+ -127 446 -119 434 -119 424 c 0xf4
  -119 411 -129 398 -142 398 c 0
 EndSplineSet
 Layer: 2
@@ -23276,8 +23253,8 @@ StartChar: uniEE30
 Encoding: 60976 60976 151
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: 203 2<-68.9986 -68.3057> 215 16<-58.7166 41.8139> 280 2<-22 16> 334 21<-32.3699 15>
+Flags: W
+HStem: 203 2<-68.9986 -68.3057> 215 16<-58.7166 41.8139> 280 2<-22 16> 334 21<-32.3699 15> 750 50<-200 0>
 VStem: -75 27<284.828 329.905> 44 31<227.847 277.057>
 TtInstrs:
 SVTCA[y-axis]
@@ -23517,8 +23494,8 @@ Encoding: 60977 60977 152
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 212 19<-21.9052 26.0263> 324 22<-26.1565 25.5938>
+Flags: W
+HStem: 212 19<-21.9052 26.0263> 324 22<-26.1565 25.5938> 750 50<-200 0>
 VStem: -77 39<240.119 319.712> 39 38<235.785 317.234>
 TtInstrs:
 SVTCA[y-axis]
@@ -23640,8 +23617,8 @@ Encoding: 60978 60978 153
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 232 27<-99 -81.75> 323 32<-87 -45.5>
+Flags: W
+HStem: 232 27<-99 -81.75> 323 32<-87 -45.5> 750 50<-200 0>
 VStem: -179 33<59 92> -48 30<300 315.25>
 TtInstrs:
 SVTCA[y-axis]
@@ -23815,8 +23792,8 @@ Encoding: 60979 60979 154
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 85 25<12 500>
+Flags: W
+HStem: 85 25<12 500> 750 50<-200 0>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -23876,8 +23853,8 @@ Encoding: 60980 60980 155
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -25 22<-136.906 -119.055> 40 25<-8.95688 33.8466> 133 21<11.0736 35.6621> 269 27<-40.6811 8.14722>
+Flags: W
+HStem: -25 22<-136.906 -119.055> 40 25<-8.95688 33.8466> 133 21<11.0736 35.6621> 269 27<-40.6811 8.14722> 750 50<-200 0>
 VStem: -199 33<19.971 131.735> -40 27<68.378 125.572> 11 32<189.582 267.57> 41 29<69.5973 129.643>
 TtInstrs:
 SVTCA[y-axis]
@@ -24074,22 +24051,22 @@ AnchorPoint: "Borzaya" 70 155 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xfe
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--199 75 m 0xfe
+ -200 800 l 5xfe
+-199 75 m 0
  -199 156 -68 296 5 296 c 0
  38 296 43 278 43 248 c 0
- 43 219 11 152 11 152 c 1xfe
+ 43 219 11 152 11 152 c 1xff
  14 153 19 154 24 154 c 0
- 43 154 70 145 70 114 c 0xfd
+ 43 154 70 145 70 114 c 0xfe80
  70 109 70 103 68 97 c 0
  58 60 32 40 -1 40 c 0
  -26 40 -40 56 -40 80 c 0
  -40 86 -39 92 -37 99 c 0
- -17 157 11 203 11 239 c 0
+ -17 157 11 203 11 239 c 0xff
  11 253 7 269 -12 269 c 0
  -27 269 -67 237 -80 227 c 0
  -119 196 -166 139 -166 86 c 0
@@ -24097,14 +24074,14 @@ SplineSet
  -122 -6 -119 -10 -119 -15 c 0
  -119 -20 -123 -25 -132 -25 c 0
  -133 -25 -135 -24 -137 -24 c 0
- -177 -16 -199 21 -199 75 c 0xfe
-41 107 m 0xfd
+ -177 -16 -199 21 -199 75 c 0
+41 107 m 0xfe80
  41 125 26 133 14 133 c 0
  8 133 3 131 1 127 c 0
  -2 121 -7 111 -12 96 c 0
  -13 94 -13 92 -13 90 c 0
  -13 78 -2 65 12 65 c 0
- 36 65 41 91 41 107 c 0xfd
+ 36 65 41 91 41 107 c 0xfe80
 EndSplineSet
 Layer: 2
 SplineSet
@@ -24153,8 +24130,8 @@ Encoding: 60981 60981 156
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 134 23<-61.8736 -14.1939>
+Flags: W
+HStem: 134 23<-61.8736 -14.1939> 750 50<-200 0>
 VStem: -95 29<159.539 208.81>
 TtInstrs:
 SVTCA[y-axis]
@@ -24400,31 +24377,31 @@ Encoding: 60982 60982 157
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 168 98<-128.778 -51.5568>
+Flags: W
+HStem: 168 98<-128.778 -51.5568> 750 50<-200 0>
 VStem: -160 31<268.344 307.557> -141 12<303.557 323.946>
 AnchorPoint: "Podvertka" -20 380 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xc0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--93 168 m 0xc0
- -132 168 -160 194 -160 237 c 0xc0
+ -200 800 l 5xc0
+-93 168 m 0
+ -132 168 -160 194 -160 237 c 0xe0
  -160 261 -154 288 -141 317 c 0
  -140 322 -138 324 -134 324 c 0
- -130 324 -128 320 -129 313 c 2xa0
- -129 290 l 2
+ -130 324 -128 320 -129 313 c 2xd0
+ -129 290 l 2xe0
  -129 274 -118 266 -97 266 c 0
  -74.3555 266 -55.4141 280.413 -40 301 c 0
  -19.4326 328.47 -5.42773 366.776 0 395 c 0
  1 401 4 404 9 404 c 0
  12 404 13 396 13 382 c 0
  13 339.443 4.69824 287.14 -12 245 c 0
- -29.4521 200.958 -56.0977 168 -93 168 c 0xc0
+ -29.4521 200.958 -56.0977 168 -93 168 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -24450,34 +24427,34 @@ StartChar: uniEE37
 Encoding: 60983 60983 158
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: -5 21G<-318 -312.5 -202.5 -195> 7 19<-103.91 -56.055> 119 22<-108.103 -57.4012>
+Flags: W
+HStem: -5 21G<-318 -312.5 -202.5 -195> 7 19<-103.91 -56.055> 119 22<-108.103 -57.4012> 750 50<-200 0>
 VStem: -210 34<-4.10135 87.9468> -159 39<32.9142 114.304> -43 38<31.1006 112.245>
 AnchorPoint: "Lomka" -325 150 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5x3e
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--211 137 m 0xbc
+ -200 800 l 5x3e
+-211 137 m 0
  -204 138 -204 136 -201 130 c 0
  -191 111 -176 43 -176 6 c 0
- -176 1 -190 -5 -200 -5 c 0
+ -176 1 -190 -5 -200 -5 c 0xbe
  -205 -5 -209 -3 -210 0 c 0
  -217 24 -221 49 -225 73 c 0
  -227 84 -226 95 -230 92 c 0
  -262 73 -281 35 -304 1 c 0
  -306 -1 -310 -3 -315 -3 c 0
  -321 -3 -326 -1 -326 3 c 0
- -326 45 -228 133 -211 137 c 0xbc
--87 7 m 0x7c
+ -326 45 -228 133 -211 137 c 0
+-87 7 m 0x7e
  -123 7 -159 29 -159 70 c 0
  -159 110 -123 141 -74 141 c 0
  -43 141 -5 124 -5 75 c 0
- -5 36 -41 7 -87 7 c 0x7c
+ -5 36 -41 7 -87 7 c 0x7e
 -82 119 m 0
  -108 119 -120 98 -120 75 c 0
  -120 51 -106 26 -80 26 c 0
@@ -24528,8 +24505,8 @@ Encoding: 60984 60984 159
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 7 96<-166.986 -153.051 -105.87 -88.1614>
+Flags: W
+HStem: 750 50<-200 0>
 VStem: -185 32<7.03516 69.2444> -121 33<8.20239 73.3153>
 TtInstrs:
 SVTCA[y-axis]
@@ -24677,8 +24654,8 @@ StartChar: uniEE39
 Encoding: 60985 60985 160
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: 405 96<-216.986 -203.051 -155.87 -138.161>
+Flags: W
+HStem: 750 50<-200 0>
 VStem: -235 32<405.035 467.244> -171 33<406.202 471.315>
 TtInstrs:
 SVTCA[y-axis]
@@ -24834,19 +24811,19 @@ Encoding: 60986 60986 161
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 66 24<-247.225 -117.948> 330 27<-137.17 -59.2357>
+Flags: W
+HStem: 66 24<-247.225 -117.948> 330 27<-137.17 -59.2357> 750 50<-200 0>
 VStem: -56 37<275.73 327.765> -41 37<126.444 213.076>
 AnchorPoint: "Zevok" -160 355 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xe0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--19 311 m 0xe0
+ -200 800 l 5xe0
+-19 311 m 0xf0
  -19 306 -19 301 -21 295 c 0
  -26 274 -60 255 -60 255 c 1
  -33 243 -18 229 -9 201 c 0
@@ -24856,7 +24833,7 @@ SplineSet
  -244 73 -250 80 -250 84 c 0
  -250 88 -247 90 -240 90 c 0
  -197 90 -64 94 -46 143 c 0
- -43 151 -41 160 -41 167 c 0xd0
+ -43 151 -41 160 -41 167 c 0xe8
  -41 209 -82 240 -112 243 c 0
  -122 244 -122 253 -116 255 c 0
  -102 259 -56 277 -56 304 c 0
@@ -24866,7 +24843,7 @@ SplineSet
  -180 294 -185 299 -185 305 c 0
  -185 307 -184 310 -182 312 c 0
  -161 334 -123 357 -78 357 c 0
- -47 357 -19 341 -19 311 c 0xe0
+ -47 357 -19 341 -19 311 c 0xf0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -24905,8 +24882,8 @@ StartChar: uniEE3B
 Encoding: 60987 60987 162
 Width: 0
 GlyphClass: 4
-Flags: HW
-HStem: 288 25<-129.98 -85.1252 -71 10.2671> 296 24<-90.6801 113.269>
+Flags: W
+HStem: 288 25<-129.98 -85.1252 -71 10.2671> 296 24<-90.6801 113.269> 750 50<-200 0>
 VStem: -50 27<351.911 415.929>
 TtInstrs:
 SVTCA[y-axis]
@@ -24985,27 +24962,27 @@ AnchorPoint: "Auxiliary" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5x30
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
-13 320 m 0x60
- 43 320 125 320 125 296 c 0x60
- 125 291 120 288 112 288 c 0xa0
+ -200 800 l 5x30
+13 320 m 0x70
+ 43 320 125 320 125 296 c 0x70
+ 125 291 120 288 112 288 c 0xb0
  110 288 108 289 106 289 c 0
- 73 294 42 296 12 296 c 1x60
+ 73 294 42 296 12 296 c 1x70
  -25 296 -60 295 -94 290 c 1
  -101 290 -107 288 -112 288 c 0
  -123 288 -130 292 -130 301 c 0
- -130 306 -125 311 -117 313 c 0xa0
+ -130 306 -125 311 -117 313 c 0xb0
  -93 319 -79 324 -66 347 c 0
  -55 365 -52 377 -50 391 c 0
  -48 408 -49 416 -35 416 c 0
  -25 416 -23 405 -23 394 c 0
  -23 373 -30 357 -35 349 c 0
  -51 322 -71 316 -71 316 c 1
- -41 316 -13 320 13 320 c 0x60
+ -41 316 -13 320 13 320 c 0x70
 EndSplineSet
 Layer: 2
 SplineSet
@@ -25035,8 +25012,8 @@ Encoding: 60988 60988 163
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 261 96
+Flags: W
+HStem: 750 50<-200 0>
 VStem: -75 34<261.041 326.576>
 TtInstrs:
 SVTCA[y-axis]
@@ -25124,30 +25101,30 @@ Encoding: 61014 61014 164
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 550 95<-135.37 -74.6637>
+Flags: W
+HStem: 550 95<-135.37 -74.6637> 800 50<-200 0>
 VStem: -170 31<593 709.945> -147 9<712.592 727.031> -50 10<721.467 752.683>
 AnchorPoint: "Flexion" -70 640 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 850 m 5
+-200 850 m 5xc8
  0 850 l 5
  0 800 l 5
  -200 800 l 5
- -200 850 l 5
--114 550 m 0xd0
- -149 550 -170 576 -170 610 c 0xd0
+ -200 850 l 5xc8
+-114 550 m 0
+ -149 550 -170 576 -170 610 c 0xe8
  -170 649 -162 686 -147 723 c 0
- -142 735 -137 729 -138 718 c 0xb0
- -138 712 -139 702 -139 688 c 0
+ -142 735 -137 729 -138 718 c 0xd8
+ -138 712 -139 702 -139 688 c 0xe8
  -139 659 -127 645 -104 645 c 0
  -79 645 -61 678 -50 745 c 0
  -49 750 -47 753 -43 753 c 0
  -41 753 -40 751 -40 748 c 0
  -40 741 -40 741 -40 734 c 0
  -40 703 -44 670 -51 634 c 0
- -62 578 -83 550 -114 550 c 0xd0
+ -62 578 -83 550 -114 550 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -25174,9 +25151,9 @@ Encoding: 61018 61018 165
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 183 184
-VStem: -139 129
+Flags: W
+HStem: 750 50<-200 0>
+VStem: -200 200<750 800>
 AnchorPoint: "Tochka" -170 330 mark 0
 LayerCount: 3
 Fore
@@ -25208,9 +25185,9 @@ Encoding: 61019 61019 166
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 0 21G<-62.25 -30.4314>
-VStem: -153 143
+Flags: W
+HStem: 0 21G<-62.25 -30.4314> 750 50<-200 0>
+VStem: -200 200<750 800>
 AnchorPoint: "Tochka" -170 330 mark 0
 LayerCount: 3
 Fore
@@ -26019,8 +25996,8 @@ Encoding: 61089 61089 170
 Width: 950
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
+Flags: W
+HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -26110,8 +26087,8 @@ Encoding: 61090 61090 171
 Width: 880
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206> 750 50<0 400>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "Lomka" 805 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -26132,12 +26109,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-774 576 m 0xe0
+ 0 800 l 5xf0
+774 576 m 0
  787 576 801 566 819 545 c 0
  836 525 843 508 843 494 c 0
  843 493 843 493 843 492 c 1
@@ -26152,17 +26129,17 @@ SplineSet
  295 107 l 1
  303 122 330 157 375 212 c 0
  473 332 537 396 661 498 c 0
- 724 550 761 576 774 576 c 0xe0
+ 724 550 761 576 774 576 c 0
 197 38 m 0
  175 6 164 -10 163 -10 c 2
- 160 -10 l 1xf0
+ 160 -10 l 1xf8
  160 -9 162 5 165 30 c 0
  168 55 170 83 170 115 c 1
  170.074 144.973 167.105 199.14 163 208 c 1
  157 222 159 225 165 234 c 2
  230 327 l 2
  232 329 234 330 236 330 c 0
- 247 330 253 309 253 268 c 0xe8
+ 247 330 253 309 253 268 c 0xf4
  253 256 252 229 249 186 c 0
  246 143 242 116 237 104 c 0
  232 92 219 70 197 38 c 0
@@ -26234,8 +26211,8 @@ Encoding: 61091 61091 172
 Width: 880
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206> 750 50<0 400>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "Lomka" 805 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -26256,12 +26233,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-774 576 m 0xe0
+ 0 800 l 5xf0
+774 576 m 0
  787 576 801 566 819 545 c 0
  836 525 843 508 843 494 c 0
  843 493 843 493 843 492 c 1
@@ -26276,17 +26253,17 @@ SplineSet
  295 107 l 1
  303 122 330 157 375 212 c 0
  473 332 537 396 661 498 c 0
- 724 550 761 576 774 576 c 0xe0
+ 724 550 761 576 774 576 c 0
 197 38 m 0
  175 6 164 -10 163 -10 c 2
- 160 -10 l 1xf0
+ 160 -10 l 1xf8
  160 -9 162 5 165 30 c 0
  168 55 170 83 170 115 c 1
  170.074 144.973 167.105 199.14 163 208 c 1
  157 222 159 225 165 234 c 2
  230 327 l 2
  232 329 234 330 236 330 c 0
- 247 330 253 309 253 268 c 0xe8
+ 247 330 253 309 253 268 c 0xf4
  253 256 252 229 249 186 c 0
  246 143 242 116 237 104 c 0
  232 92 219 70 197 38 c 0
@@ -26326,8 +26303,8 @@ Encoding: 61092 61092 173
 Width: 880
 VWidth: 0
 GlyphClass: 2
-Flags: HW
-HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206> 750 50<0 400>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "Lomka" 805 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -26348,12 +26325,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-774 576 m 0xe0
+ 0 800 l 5xf0
+774 576 m 0
  787 576 801 566 819 545 c 0
  836 525 843 508 843 494 c 0
  843 493 843 493 843 492 c 1
@@ -26368,17 +26345,17 @@ SplineSet
  295 107 l 1
  303 122 330 157 375 212 c 0
  473 332 537 396 661 498 c 0
- 724 550 761 576 774 576 c 0xe0
+ 724 550 761 576 774 576 c 0
 197 38 m 0
  175 6 164 -10 163 -10 c 2
- 160 -10 l 1xf0
+ 160 -10 l 1xf8
  160 -9 162 5 165 30 c 0
  168 55 170 83 170 115 c 1
  170.074 144.973 167.105 199.14 163 208 c 1
  157 222 159 225 165 234 c 2
  230 327 l 2
  232 329 234 330 236 330 c 0
- 247 330 253 309 253 268 c 0xe8
+ 247 330 253 309 253 268 c 0xf4
  253 256 252 229 249 186 c 0
  246 143 242 116 237 104 c 0
  232 92 219 70 197 38 c 0
@@ -26478,8 +26455,8 @@ Encoding: 61093 61093 174
 Width: 750
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
+Flags: W
+HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206> 750 50<0 400>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -31492,9 +31469,9 @@ Encoding: 118615 118615 201
 Width: 360
 VWidth: 999
 GlyphClass: 3
-Flags: HW
-HStem: 0 21<32.0417 40.5> 145 196
-VStem: 30 169 231 96
+Flags: W
+HStem: 0 21G<32.0417 40.5>
+VStem: 30 297
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -32116,8 +32093,8 @@ EndChar
 StartChar: uniEE7B
 Encoding: 61051 61051 209
 Width: 420
-Flags: HW
-HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984>
+Flags: W
+HStem: 0 21G<291.989 313> 259 104<97.4019 180.778> 431 20G<334 354.984> 750 50<0 400>
 VStem: 22 22<-52.7908 139.562> 182 20<15.3987 75.8317> 197 31<83.6916 292.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -32138,12 +32115,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf8
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-182 16 m 1xf8
+ 0 800 l 5xf8
+182 16 m 1xfc
  185 47 197 118 197 157 c 0
  197 225 179 259 142 259 c 0
  89 259 59 207 50 103 c 0
@@ -32152,10 +32129,10 @@ SplineSet
  28 -53 25 -49 22 -41 c 1
  22 -14 l 2
  22 237 65 363 151 363 c 0
- 202 363 228 328 228 257 c 0xf4
+ 202 363 228 328 228 257 c 0xfa
  228 192.692 215.5 92 202 14 c 0
  201.829 13.0146 201 13 200 12 c 0
- 193 1 187 3 182 16 c 1xf8
+ 193 1 187 3 182 16 c 1xfc
 271 257 m 1
  278 276 294 294 321 310 c 1
  334 443 l 1
@@ -44414,9 +44391,8 @@ Encoding: 61020 61020 270
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: -98 48<30 166>
-VStem: 30 136<-98 -50>
+Flags: W
+HStem: -98 48<30 166> 750 50<-200 0>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -51199,8 +51175,8 @@ EndChar
 StartChar: uniEE79
 Encoding: 61049 61049 296
 Width: 420
-Flags: HW
-HStem: -6 21G<178.5 185.5 347.75 379.569> 371 125<35 109.883>
+Flags: W
+HStem: -6 21G<178.5 185.5 347.75 379.569> 371 125<35 109.883> 750 50<0 400>
 VStem: 182.091 34.909<48.6146 282.933>
 AnchorPoint: "Podvertka" 120 200 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -71886,7 +71862,7 @@ StartChar: uniEBFC
 Encoding: 60412 60412 457
 Width: 825
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<235.5 247.5> 450 126<678.494 746.2>
 TtInstrs:
 SVTCA[y-axis]
@@ -74643,7 +74619,7 @@ StartChar: uniEBFD
 Encoding: 60413 60413 473
 Width: 825
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<235.5 247.5> 450 126<678.494 746.2>
 TtInstrs:
 SVTCA[y-axis]
@@ -83993,9 +83969,9 @@ Encoding: 61021 61021 595
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 0 296
-VStem: 0 52
+Flags: W
+HStem: 0 21G<0 24.027> 750 50<-200 0>
+VStem: -200 252
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -84099,22 +84075,22 @@ Encoding: 61022 61022 596
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: HW
-HStem: 505 134<-186.33 -124.609>
+Flags: W
+HStem: 505 134<-186.33 -124.609> 750 50<-200 0>
 VStem: -127 18<292.037 356.723> -116 26<336.36 517.5>
 AnchorPoint: "Omet" -170 550 mark 0
 LayerCount: 3
 Fore
 SplineSet
--200 800 m 5
+-200 800 m 5xc0
  0 800 l 5
  0 750 l 5
  -200 750 l 5
- -200 800 l 5
--90 511 m 0xa0
+ -200 800 l 5xc0
+-90 511 m 0xd0
  -90 453 -100 337 -109 299 c 0
  -110 294 -114 292 -119 292 c 0
- -123 292 -128 297 -127 302 c 0xc0
+ -123 292 -128 297 -127 302 c 0xe0
  -120 355 -116 402 -116 441 c 0
  -116 481 -129 502 -155 505 c 1
  -161 505 l 2
@@ -84124,7 +84100,7 @@ SplineSet
  -222 510 -215 553 -205 582 c 0
  -192 620 -172 639 -146 639 c 0
  -114 639 -96 608 -91 545 c 0
- -90 535 -90 524 -90 511 c 0xa0
+ -90 535 -90 524 -90 511 c 0xd0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -84153,8 +84129,8 @@ StartChar: uniEE5F
 Encoding: 61023 61023 597
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 0 93<-138.009 -122 -101 -67.1678>
+Flags: W
+HStem: 0 93<-138.009 -122 -101 -67.1678> 750 50<-200 0>
 VStem: -174 31<49.5 158.199> -30 10<185.188 201.506>
 AnchorPoint: "Podchashie" -93 200 mark 0
 LayerCount: 3
@@ -84209,8 +84185,8 @@ Encoding: 61081 61081 598
 Width: 350
 VWidth: 999
 GlyphClass: 2
-Flags: HW
-HStem: 65 134<60.4374 124.588> 89 134<222.437 286.588>
+Flags: W
+HStem: 65 134<60.4374 124.588> 89 134<222.437 286.588> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -84231,12 +84207,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x3e
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-263 223 m 0x7c
+ 0 800 l 5x3e
+263 223 m 0x7e
  301 223 320 178 320 89 c 0
  320 39 313 -13 300 -67 c 0
  299 -72 296 -74 291 -74 c 0
@@ -84247,8 +84223,8 @@ SplineSet
  226 89 211 73 203 42 c 0
  202 37 199 34 195 33 c 0
  192 32 191 34 192 39 c 0
- 198 126 199 223 263 223 c 0x7c
-101 199 m 0xbc
+ 198 126 199 223 263 223 c 0x7e
+101 199 m 0xbe
  139 199 158 154 158 65 c 0
  158 15 151 -37 138 -91 c 0
  137 -96 134 -98 129 -98 c 0
@@ -84259,7 +84235,7 @@ SplineSet
  64 65 49 49 41 18 c 0
  40 13 37 10 33 9 c 0
  30 8 29 10 30 15 c 0
- 36 102 37 199 101 199 c 0xbc
+ 36 102 37 199 101 199 c 0xbe
 EndSplineSet
 Layer: 2
 SplineSet
@@ -84379,8 +84355,8 @@ StartChar: uniEEA6
 Encoding: 61094 61094 609
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 0 21G<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206> 750 50<0 400>
 VStem: 30 10<35.0276 56.65> 131 27<-37.0267 133.5>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -84475,8 +84451,8 @@ StartChar: uniEEA7
 Encoding: 61095 61095 610
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 57 134<58.8267 123.21> 611 125<645.494 712.462>
+Flags: W
+HStem: 57 134<58.8267 123.21> 611 125<645.494 712.462> 750 50<0 400>
 VStem: 30 10<0.0497856 24.65> 131 27<-69.119 101.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -84588,8 +84564,8 @@ StartChar: uniEEA8
 Encoding: 61096 61096 611
 Width: 960
 VWidth: 999
-Flags: HW
-HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 614 125<814.302 882.462>
+Flags: W
+HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 614 125<814.302 882.462> 750 50<0 400>
 VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -50 basechar 0
@@ -84610,12 +84586,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x3f
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-101 170 m 0xbe
+ 0 800 l 5x3f
+101 170 m 0xbf
  139 170 158 125 158 36 c 0
  158 -14 151 -66 138 -120 c 0
  137 -125 133 -127 128 -127 c 0
@@ -84627,7 +84603,7 @@ SplineSet
  39 -16 38 -19 35 -20 c 0
  32 -21 30 -20 30 -17 c 0
  30 -13 37 82 37 82 c 1
- 44 141 66 170 101 170 c 0xbe
+ 44 141 66 170 101 170 c 0xbf
 856 739 m 0
  869 739 884 729 901 708 c 0
  917 688 923 671 923 657 c 0
@@ -84652,7 +84628,7 @@ SplineSet
  242 290 l 1
  253 416 l 1
  330 341 l 1
-269 194 m 0x7e
+269 194 m 0x7f
  307 194 326 149 326 60 c 0
  326 10 319 -42 306 -96 c 0
  305 -101 301 -103 296 -103 c 0
@@ -84664,7 +84640,7 @@ SplineSet
  207 8 206 5 203 4 c 0
  200 3 198 4 198 7 c 0
  198 11 205 106 205 106 c 1
- 212 165 234 194 269 194 c 0x7e
+ 212 165 234 194 269 194 c 0x7f
 EndSplineSet
 Layer: 2
 SplineSet
@@ -84736,8 +84712,8 @@ EndChar
 StartChar: uniEE94
 Encoding: 61076 61076 613
 Width: 520
-Flags: HW
-HStem: 137 134<392.788 458.641>
+Flags: W
+HStem: 137 134<392.788 458.641> 750 50<0 400>
 VStem: 364 10<83.3571 104.99> 372 118<139.656 250.711> 454 18<-25.8192 26.2847>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -84758,23 +84734,23 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xc0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-472 -19 m 0x90
+ 0 800 l 5xc0
+472 -19 m 0xc8
  471 -23 464 -26 462 -26 c 0
  460 -26 453 -23 454 -16 c 0
  456 -2 465 69 465 82 c 0
  465 112 457 134 426 137 c 1
  420 137 l 2
  405 137 384 130 374 90 c 0
- 372 80 362 77 364 87 c 1xd0
+ 372 80 362 77 364 87 c 1xe8
  366 116 368 151 372 183 c 0
  378 231 392 271 435 271 c 0
- 472 271 486 230 490 177 c 0xa0
- 495 107 481 19 472 -19 c 0x90
+ 472 271 486 230 490 177 c 0xd0
+ 495 107 481 19 472 -19 c 0xc8
 244 226 m 1
  325 107 l 1
  313 -20 l 1
@@ -84839,8 +84815,8 @@ StartChar: uniEE95
 Encoding: 61077 61077 614
 Width: 475
 VWidth: 999
-Flags: HW
-HStem: -4 112<338.794 405.126>
+Flags: W
+HStem: -4 112<338.794 405.126> 750 50<0 400>
 VStem: 260 144<434.189 500.122> 302 130<23.4466 106.874>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -84861,23 +84837,23 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xc0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-106 343 m 1x80
+ 0 800 l 5xc0
+106 343 m 1
  127 404 215 423 215 423 c 1
  205 299 l 1
  205 299 125 280 94 217 c 1
- 106 343 l 1x80
+ 106 343 l 1
 42 87 m 1
  63 148 151 167 151 167 c 1
  141 43 l 1
  141 43 61 24 30 -39 c 1
  42 87 l 1
 355 553 m 0
- 390 547 404 527 404 488 c 0xc0
+ 390 547 404 527 404 488 c 0xe0
  404 475 403 457 401 436 c 0
  399 415 392 373 380 309 c 0
  368 245 360 207 358 196 c 0
@@ -84889,7 +84865,7 @@ SplineSet
  452 136 444 94 432 64 c 0
  429 58 426 51 422 42 c 0
  410 19 391 -2 359 -4 c 0
- 319 -4 302 20 302 60 c 0xa0
+ 319 -4 302 20 302 60 c 0xd0
  302 73 303 90 305 111 c 0
  307 132 314 170 326 227 c 0
  343 306 352 356 352 375 c 0
@@ -84897,7 +84873,7 @@ SplineSet
  288 433 271 418 259 389 c 0
  256 383 253 380 249 380 c 0
  248 380 247 383 247 388 c 0
- 247 393 251 411 260 441 c 0xc0
+ 247 393 251 411 260 441 c 0xe0
  277 497 278 496 304 532 c 0
  314 546 328 553 345 553 c 0
  350 553 350 553 355 553 c 0
@@ -84966,8 +84942,8 @@ StartChar: uniEE96
 Encoding: 61078 61078 615
 Width: 515
 VWidth: 0
-Flags: HW
-HStem: -2 21G<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588>
+Flags: W
+HStem: -2 21G<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588> 750 50<0 400>
 VStem: 203 11<82.051 103.404> 304 27<10.9824 181.5> 365 11<106.051 127.404> 466 27<34.9824 205.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -84988,12 +84964,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x9f
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-436 295 m 0xbe
+ 0 800 l 5x9f
+436 295 m 0xbf
  474 295 493 250 493 161 c 0
  493 111 486 59 473 5 c 0
  472 0 469 -2 464 -2 c 0
@@ -85004,8 +84980,8 @@ SplineSet
  399 161 384 145 376 114 c 0
  375 109 372 106 368 105 c 0
  365 104 364 106 365 111 c 0
- 371 198 372 295 436 295 c 0xbe
-274 271 m 0xde
+ 371 198 372 295 436 295 c 0xbf
+274 271 m 0xdf
  312 271 331 226 331 137 c 0
  331 87 324 35 311 -19 c 0
  310 -24 307 -26 302 -26 c 0
@@ -85016,7 +84992,7 @@ SplineSet
  237 137 222 121 214 90 c 0
  213 85 210 82 206 81 c 0
  203 80 202 82 203 87 c 0
- 209 174 210 271 274 271 c 0xde
+ 209 174 210 271 274 271 c 0xdf
 106 343 m 1
  127 404 215 423 215 423 c 1
  205 299 l 1
@@ -85038,8 +85014,8 @@ StartChar: uniEE98
 Encoding: 61080 61080 616
 Width: 355
 GlyphClass: 2
-Flags: HW
-HStem: -3 94<242.117 302.649>
+Flags: W
+HStem: -3 94<242.117 302.649> 750 50<0 400>
 VStem: 208 31<40 149.301> 328 10<168.655 199.288>
 AnchorPoint: "Lomka" 450 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -85129,9 +85105,9 @@ StartChar: uniEE97
 Encoding: 61079 61079 617
 Width: 530
 VWidth: 0
-Flags: HW
-HStem: 37 94<404.253 464.991> 73 134<231.788 297.641>
-VStem: 203 10<19.3571 40.9895> 211 118<75.6563 186.711> 293 18<-89.8192 -37.7153> 370 31<80 189.301> 490 11<204.499 239.569>
+Flags: W
+HStem: 37 94<404.253 464.991> 73 134<231.788 297.641> 750 50<0 400>
+VStem: 203 10<19.3571 40.9895> 211 118<75.6563 186.711> 293 18<-89.8192 -37.7153> 370 31<99.5146 189.301> 490 11<204.499 239.569>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -85151,22 +85127,22 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x23
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-106 343 m 1x06
+ 0 800 l 5x23
+106 343 m 1
  127 404 215 423 215 423 c 1
  205 299 l 1
  205 299 125 280 94 217 c 1
- 106 343 l 1x06
+ 106 343 l 1
 42 87 m 1
  63 148 151 167 151 167 c 1
  141 43 l 1
  141 43 61 24 30 -39 c 1
  42 87 l 1
-427 37 m 0x86
+427 37 m 0xa3
  392 37 370 63 370 97 c 0
  370 131 378 174 393 210 c 0
  396 218 404 220 403 206 c 0
@@ -85176,19 +85152,19 @@ SplineSet
  491 237 495 240 497 240 c 0
  499 240 501 238 501 234 c 0
  502 203 497 155 490 121 c 0
- 481 77 461 37 427 37 c 0x86
-311 -83 m 0x4e
+ 481 77 461 37 427 37 c 0xa3
+311 -83 m 0x67
  310 -87 303 -90 301 -90 c 0
  299 -90 292 -87 293 -80 c 0
  295 -66 304 5 304 18 c 0
  304 48 296 70 265 73 c 1
  259 73 l 2
  244 73 223 66 213 26 c 0
- 211 16 201 13 203 23 c 1x6e
+ 211 16 201 13 203 23 c 1x77
  205 52 207 87 211 119 c 0
  217 167 231 207 274 207 c 0
- 311 207 325 166 329 113 c 0x56
- 334 43 320 -45 311 -83 c 0x4e
+ 311 207 325 166 329 113 c 0x6b
+ 334 43 320 -45 311 -83 c 0x67
 EndSplineSet
 Layer: 2
 SplineSet
@@ -85246,8 +85222,8 @@ StartChar: uniEEB0
 Encoding: 61104 61104 618
 Width: 835
 VWidth: 999
-Flags: HW
-HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923>
+Flags: W
+HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -85336,8 +85312,8 @@ EndChar
 StartChar: uniEEB2
 Encoding: 61106 61106 619
 Width: 960
-Flags: HW
-HStem: 0 21G<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
+Flags: W
+HStem: 0 21G<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "Lomka" 875 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -10 basechar 0
@@ -85358,12 +85334,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x9f80
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-263 223 m 0xbf
+ 0 800 l 5x9f80
+263 223 m 0xbf80
  301 223 320 178 320 89 c 0
  320 39 313 -13 300 -67 c 0
  299 -72 296 -74 291 -74 c 0
@@ -85374,8 +85350,8 @@ SplineSet
  226 89 211 73 203 42 c 0
  202 37 199 34 195 33 c 0
  192 32 191 34 192 39 c 0
- 198 126 199 223 263 223 c 0xbf
-101 199 m 0xdf
+ 198 126 199 223 263 223 c 0xbf80
+101 199 m 0xdf80
  139 199 158 154 158 65 c 0
  158 15 151 -37 138 -91 c 0
  137 -96 134 -98 129 -98 c 0
@@ -85386,7 +85362,7 @@ SplineSet
  64 65 49 49 41 18 c 0
  40 13 37 10 33 9 c 0
  30 8 29 10 30 15 c 0
- 36 102 37 199 101 199 c 0xdf
+ 36 102 37 199 101 199 c 0xdf80
 854 576 m 0
  879 576 923 521 923 494 c 0
  923 494 923 493 923 492 c 2
@@ -85456,8 +85432,8 @@ EndChar
 StartChar: uniEEB3
 Encoding: 61107 61107 620
 Width: 960
-Flags: HW
-HStem: 0 21G<367.042 382.083 557.89 571.5> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
+Flags: W
+HStem: 0 21G<367.042 382.083 557.89 571.5> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "Lomka" 875 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -10 basechar 0
@@ -85478,12 +85454,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x9f80
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-263 223 m 0xbf
+ 0 800 l 5x9f80
+263 223 m 0xbf80
  301 223 320 178 320 89 c 0
  320 39 313 -13 300 -67 c 0
  299 -72 296 -74 291 -74 c 0
@@ -85494,8 +85470,8 @@ SplineSet
  226 89 211 73 203 42 c 0
  202 37 199 34 195 33 c 0
  192 32 191 34 192 39 c 0
- 198 126 199 223 263 223 c 0xbf
-101 199 m 0xdf
+ 198 126 199 223 263 223 c 0xbf80
+101 199 m 0xdf80
  139 199 158 154 158 65 c 0
  158 15 151 -37 138 -91 c 0
  137 -96 134 -98 129 -98 c 0
@@ -85506,7 +85482,7 @@ SplineSet
  64 65 49 49 41 18 c 0
  40 13 37 10 33 9 c 0
  30 8 29 10 30 15 c 0
- 36 102 37 199 101 199 c 0xdf
+ 36 102 37 199 101 199 c 0xdf80
 854 576 m 0
  879 576 923 521 923 494 c 0
  923 494 923 493 923 492 c 2
@@ -85542,8 +85518,8 @@ StartChar: uniEEB4
 Encoding: 61108 61108 621
 Width: 960
 VWidth: 999
-Flags: HW
-HStem: -1 21G<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
+Flags: W
+HStem: -1 21G<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923> 750 50<0 400>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "Lomka" 875 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -85664,8 +85640,8 @@ StartChar: uniEEB5
 Encoding: 61109 61109 622
 Width: 890
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 160 163.5 297.042 312.083> 451 125<743.289 809.923>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 297.042 312.083> 451 125<743.289 809.923> 750 50<0 400>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "Lomka" 805 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -85686,12 +85662,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-784 576 m 0xe0
+ 0 800 l 5xf0
+784 576 m 0
  809 576 853 521 853 494 c 0
  853 494 853 493 853 492 c 2
  840 374 l 1
@@ -85704,17 +85680,17 @@ SplineSet
  370 496 l 1
  335 162 l 1
  433 283 545 395 671 498 c 0
- 733 550 771 576 784 576 c 0xe0
+ 733 550 771 576 784 576 c 0
 197 38 m 0
  175 6 164 -10 163 -10 c 2
- 160 -10 l 1xf0
+ 160 -10 l 1xf8
  160 -9 162 5 165 30 c 0
  168 55 170 83 170 115 c 1
  170.074 144.973 167.105 199.14 163 208 c 1
  157 222 159 225 165 234 c 2
  230 327 l 2
  232 329 234 330 236 330 c 0
- 247 330 253 309 253 268 c 0xe8
+ 247 330 253 309 253 268 c 0xf4
  253 256 252 229 249 186 c 0
  246 143 242 116 237 104 c 0
  232 92 219 70 197 38 c 0
@@ -85783,8 +85759,8 @@ StartChar: uniEEB6
 Encoding: 61110 61110 623
 Width: 800
 VWidth: 999
-Flags: HW
-HStem: 0 21G<207.042 222.083> 89 134<58.8267 124.563> 451 125<653.289 719.923>
+Flags: W
+HStem: 0 21G<207.042 222.083> 89 134<58.8267 124.563> 451 125<653.289 719.923> 750 50<0 400>
 VStem: 30 10<36.1421 56.65> 131 27<-37.0267 133.5>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -85879,8 +85855,8 @@ StartChar: uniEEB7
 Encoding: 61111 61111 624
 Width: 755
 VWidth: 999
-Flags: HW
-HStem: 86 134<58.8267 124.563> 616 107<624.342 679.088>
+Flags: W
+HStem: 86 134<58.8267 124.563> 616 107<624.342 679.088> 750 50<0 400>
 VStem: 30 10<33.1421 53.65> 131 27<-40.0267 130.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -85993,8 +85969,8 @@ StartChar: uniEEB9
 Encoding: 61113 61113 625
 Width: 535
 VWidth: 999
-Flags: HW
-HStem: 111 104<140.5 249.089> 220 78<334.5 408.652>
+Flags: W
+HStem: 111 104<140.5 249.089> 220 78<334.5 408.652> 750 50<0 400>
 VStem: 188 88<64.5 188.066> 292 69<266.5 346.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -86089,8 +86065,8 @@ StartChar: uniEEBA
 Encoding: 61114 61114 626
 Width: 975
 VWidth: 0
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 599 125<829.049 897.264>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 599 125<829.049 897.264> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -86207,8 +86183,8 @@ StartChar: uniEEBD
 Encoding: 61117 61117 627
 Width: 595
 VWidth: 999
-Flags: HW
-HStem: 2 90<71.5 161.5> 249 85<430.5 535.941>
+Flags: W
+HStem: 2 90<71.5 161.5> 249 85<430.5 535.941> 750 50<0 400>
 VStem: 25 84<56 147> 484 86<191.5 291>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -86293,8 +86269,8 @@ StartChar: uniEEBE
 Encoding: 61118 61118 628
 Width: 765
 VWidth: 999
-Flags: HW
-HStem: 99 90<238.5 328.5> 346 85<597.5 702.941>
+Flags: W
+HStem: 99 90<238.5 328.5> 346 85<597.5 702.941> 750 50<0 400>
 VStem: 192 84<153 244> 651 86<288.5 388>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -86361,8 +86337,8 @@ EndChar
 StartChar: uniEEBF
 Encoding: 61119 61119 629
 Width: 645
-Flags: HW
-HStem: 256 60<174.288 437.515>
+Flags: W
+HStem: 256 60<174.288 437.515> 750 50<0 400>
 VStem: 540 80<42.3234 152.785>
 AnchorPoint: "Lomka" 645 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -86427,8 +86403,8 @@ StartChar: uniEEC0
 Encoding: 61120 61120 630
 Width: 675
 VWidth: 999
-Flags: HW
-HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+Flags: W
+HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12> 750 50<0 400>
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -86516,9 +86492,8 @@ StartChar: uniEEC1
 Encoding: 61121 61121 631
 Width: 275
 VWidth: 999
-Flags: HW
-HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965>
-VStem: 12 234
+Flags: W
+HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965> 750 50<0 400>
 AnchorPoint: "Podchashie" 160 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -86594,8 +86569,8 @@ StartChar: uniEEC2
 Encoding: 61122 61122 632
 Width: 650
 VWidth: 999
-Flags: HW
-HStem: 0 21G<32.0417 40.5>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 750 50<0 400>
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -86695,8 +86670,8 @@ StartChar: uniEEC3
 Encoding: 61123 61123 633
 Width: 500
 VWidth: 999
-Flags: HW
-HStem: 0 21G<159 165> 204 108<88.6072 156.56>
+Flags: W
+HStem: 0 21G<159 165> 204 108<88.6072 156.56> 750 50<0 400>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -86795,8 +86770,8 @@ StartChar: uniEEC4
 Encoding: 61124 61124 634
 Width: 635
 VWidth: 999
-Flags: HW
-HStem: 0 21G<158 163> 203 108<88.6072 156.817>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817> 750 50<0 400>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -86908,8 +86883,8 @@ StartChar: uniEEC5
 Encoding: 61125 61125 635
 Width: 705
 VWidth: 999
-Flags: HW
-HStem: 206 108<88.6072 156.817> 522 125<560.145 626.462>
+Flags: W
+HStem: 206 108<88.6072 156.817> 522 125<560.145 626.462> 750 50<0 400>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -87006,8 +86981,8 @@ StartChar: uniEEC6
 Encoding: 61126 61126 636
 Width: 845
 VWidth: 999
-Flags: HW
-HStem: 206 108<88.6072 156.817> 522 125<700.145 766.462>
+Flags: W
+HStem: 206 108<88.6072 156.817> 522 125<700.145 766.462> 750 50<0 400>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -87119,8 +87094,8 @@ StartChar: uniEEC8
 Encoding: 61128 61128 637
 Width: 1120
 VWidth: 999
-Flags: HW
-HStem: 0 21G<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.46>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.46> 750 50<0 400>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -87141,11 +87116,11 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xdc
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
+ 0 800 l 5xdc
 529 428 m 1
  539 457 569 487 597 494 c 2
  613 498 l 1
@@ -87179,7 +87154,7 @@ SplineSet
  164 181 151 203 126 203 c 0
  89 203 68 162 61 79 c 0
  60 42 58 5 57 -31 c 0
-1015 808 m 0
+1015 808 m 0xec
  1028 808 1043 798 1060 777 c 0
  1076.59 756.502 1084.08 740.341 1083 724 c 2
  1071 606 l 1
@@ -87193,7 +87168,7 @@ SplineSet
  670 499 l 1
  676 516 702 546 744 589 c 0
  786 632 839 678 902 730 c 0
- 965 782 1002 808 1015 808 c 0
+ 965 782 1002 808 1015 808 c 0xec
 EndSplineSet
 Layer: 2
 SplineSet
@@ -87264,8 +87239,8 @@ StartChar: uniEEC9
 Encoding: 61129 61129 638
 Width: 705
 VWidth: 0
-Flags: HW
-HStem: 206 108<88.6072 156.817> 520 126<559.958 616.877>
+Flags: W
+HStem: 206 108<88.6072 156.817> 520 126<559.958 616.877> 750 50<0 400>
 VStem: 30 27<-42.8159 139.404> 164 32<48.7511 257>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -87383,8 +87358,8 @@ StartChar: uniEECA
 Encoding: 61130 61130 639
 Width: 845
 VWidth: 0
-Flags: HW
-HStem: 204 108<90.0564 157.9> 520 126<699.958 756.877>
+Flags: W
+HStem: 204 108<90.0564 157.9> 520 126<699.958 756.877> 750 50<0 400>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -87405,12 +87380,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-740 646 m 0xe0
+ 0 800 l 5xf0
+740 646 m 0
  764.162 646 810.072 593.433 808 562 c 1
  796 444 l 1
  792 463 777 494 747 517 c 0
@@ -87433,8 +87408,8 @@ SplineSet
  570 609 l 1
  592 622 l 1
  583 532 l 1
- 653 592 724 646 740 646 c 0xe0
-151 10 m 1xf0
+ 653 592 724 646 740 646 c 0
+151 10 m 1xf8
  157 62 164 95 164 142 c 0
  164 177 156 204 126 204 c 0
  113 204 71 204 61 80 c 1
@@ -87443,10 +87418,10 @@ SplineSet
  31 -45 30 -36 30 -26 c 0
  30 -22 30 -18 30 -14 c 0
  30 96 42 312 134 312 c 0
- 168 312 196 293 196 226 c 0xe8
+ 168 312 196 293 196 226 c 0xf4
  196 161 177 22 175 13 c 1
  175 13 171 1 162 0 c 0
- 152 -1 151 10 151 10 c 1xf0
+ 152 -1 151 10 151 10 c 1xf8
 256 269 m 1
  277 330 340 339 340 339 c 1
  328 215 l 1
@@ -87514,8 +87489,8 @@ StartChar: uniEECD
 Encoding: 61133 61133 640
 Width: 625
 VWidth: 999
-Flags: HW
-HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+Flags: W
+HStem: 0 21G<31.8692 33> 450 126<476.722 546.078> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -87603,8 +87578,8 @@ StartChar: uniEECE
 Encoding: 61134 61134 641
 Width: 625
 VWidth: 999
-Flags: HW
-HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+Flags: W
+HStem: 0 21G<31.8692 33> 450 126<476.722 546.078> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -87723,8 +87698,8 @@ StartChar: uniEECF
 Encoding: 61135 61135 642
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21G<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
+Flags: W
+HStem: 0 21G<31.8692 33 257.89 271.5> 450 126<476.722 546.078> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -87857,7 +87832,8 @@ StartChar: uniEED0
 Encoding: 61136 61136 643
 Width: 625
 VWidth: 999
-Flags: HW
+Flags: W
+HStem: 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -87974,8 +87950,8 @@ StartChar: uniEED2
 Encoding: 61138 61138 644
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+Flags: W
+HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -88040,8 +88016,8 @@ StartChar: uniEED3
 Encoding: 61139 61139 645
 Width: 625
 VWidth: 999
-Flags: HW
-HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+Flags: W
+HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -88110,8 +88086,8 @@ EndChar
 StartChar: uniEED4
 Encoding: 61140 61140 646
 Width: 815
-Flags: HW
-HStem: 0 15.5996G<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20G<426.269 458>
+Flags: W
+HStem: 0 15.5996G<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20G<426.269 458> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -88131,27 +88107,27 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x90
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-237 121.6 m 1x80
+ 0 800 l 5x90
+237 121.6 m 1
  258 182.6 321 190.6 321 190.6 c 1
  311 66.5996 l 1
  311 66.5996 256 57.5996 225 -5.40039 c 1
- 237 121.6 l 1x80
+ 237 121.6 l 1
 367 240.6 m 1
  388 301.6 451 309.6 451 309.6 c 1
  441 185.6 l 1
  441 185.6 386 176.6 355 113.6 c 1
  367 240.6 l 1
-718 720 m 0xc0
+718 720 m 0xd0
  744 720 785 663 785 637 c 2
  785 636 l 1
  774 518 l 1
  768 547 752 572 726 592 c 1
- 718 592 l 2xc0
+ 718 592 l 2xd0
  701 592 668 576 618 545 c 1
  651 523 l 1
  641 420 l 1
@@ -88173,12 +88149,12 @@ SplineSet
  340 444 l 1
  458 542 l 1
  419 568 l 1
- 428 672 l 1xa0
+ 428 672 l 1xb0
  530 604 l 1
  539 692 l 1
  561 704 l 1
  552 613 l 1
- 649 684 705 720 718 720 c 0xc0
+ 649 684 705 720 718 720 c 0xd0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -88239,9 +88215,8 @@ EndChar
 StartChar: uniEED6
 Encoding: 61142 61142 647
 Width: 300
-Flags: HW
-HStem: 0 21G<85.9048 89>
-VStem: 20 253
+Flags: W
+HStem: 0 21G<85.9048 89> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -90088,9 +90063,9 @@ StartChar: uniEEE4
 Encoding: 61156 61156 650
 Width: 837
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 17 88<16 55 780 819> 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 156 89<16 55 780 819> 229 29<100.07 156 185 300.918 424.018 475 500 562.985 705.078 747.951> 295 88<16 55 780 819> 391 29<185 331.113> 405 29<500 592.434> 434 88<16 55 780 819> 573 89<16 55 780 819> 594 29<100.215 156 185 335.685 424.279 475 500 632.938> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
-VStem: 16 90<17 55 762 801> 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 475 25<258 405 434 597> 586 91<17 55 762 801> 666 25<477.436 557.444> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
+VStem: 16 90<17 55 762 801> 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 475 25<258 405 434 597> 586 91<17 55 762 801> 666 25<477.436 557.444> 695 53<229.004 254.357> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -90650,7 +90625,7 @@ EndTTInstrs
 LayerCount: 3
 Fore
 SplineSet
-500 405 m 5x1a0014
+500 405 m 5x1a0016
  500 258 l 5
  547 258 l 6
  558 258 563 253 563 244 c 4
@@ -90672,7 +90647,7 @@ SplineSet
  748 234 731 229 731 229 c 5
  695 229 l 5
  641 343 618 381 571 405 c 5
- 500 405 l 5x1a0014
+ 500 405 l 5x1a0016
 500 434 m 5
  560 434 l 6
  621 434 666 471 666 516 c 4
@@ -90702,53 +90677,53 @@ SplineSet
  185 420 l 5
  278 420 l 6
  334 420 373 455 373 508 c 4x0c4240
-819 712 m 5x082001
- 780 712 l 5x082001
- 780 762 l 5x081001
+819 712 m 5x08200080
+ 780 712 l 5x08200080
+ 780 762 l 5x08100080
  729 762 l 5
- 729 801 l 5x081002
- 819 801 l 5x082002
- 819 712 l 5x082001
+ 729 801 l 5x081001
+ 819 801 l 5x082001
+ 819 712 l 5x08200080
 677 762 m 5x081008
  586 762 l 5
  586 801 l 5
  677 801 l 5
  677 762 l 5x081008
-819 573 m 5x088001
+819 573 m 5x08800080
  780 573 l 5
  780 662 l 5
  819 662 l 5
- 819 573 l 5x088001
+ 819 573 l 5x08800080
 535 762 m 5x081020
  443 762 l 5
  443 801 l 5
  535 801 l 5
  535 762 l 5x081020
-819 434 m 5x090001
+819 434 m 5x09000080
  780 434 l 5
  780 522 l 5
  819 522 l 5
- 819 434 l 5x090001
+ 819 434 l 5x09000080
 391 762 m 5x081080
  301 762 l 5
  301 801 l 5
  391 801 l 5
  391 762 l 5x081080
-819 295 m 5x080001
+819 295 m 5x08000080
  780 295 l 5
  780 383 l 5
  819 383 l 5
- 819 295 l 5x080001
+ 819 295 l 5x08000080
 249 762 m 5x0811
  158 762 l 5
  158 801 l 5
  249 801 l 5
  249 762 l 5x0811
-819 156 m 5x280001
+819 156 m 5x28000080
  780 156 l 5
  780 245 l 5
  819 245 l 5
- 819 156 l 5x280001
+ 819 156 l 5x28000080
 106 762 m 5x0818
  55 762 l 5x0814
  55 712 l 5
@@ -90756,13 +90731,13 @@ SplineSet
  16 801 l 5x0828
  106 801 l 5
  106 762 l 5x0818
-819 17 m 5x880002
+819 17 m 5x880001
  729 17 l 5
- 729 55 l 5x480002
- 780 55 l 5x480001
+ 729 55 l 5x480001
+ 780 55 l 5x48000080
  780 105 l 5
- 819 105 l 5x880001
- 819 17 l 5x880002
+ 819 105 l 5x88000080
+ 819 17 l 5x880001
 55 573 m 5x0884
  16 573 l 5
  16 662 l 5
@@ -90991,8 +90966,8 @@ StartChar: uniEECB
 Encoding: 61131 61131 651
 Width: 980
 VWidth: 999
-Flags: HW
-HStem: 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20G<593.252 625>
+Flags: W
+HStem: 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20G<593.252 625> 750 50<0 400>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -91013,16 +90988,16 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x98
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-876 727 m 0xd0
+ 0 800 l 5x98
+876 727 m 0xd8
  900.162 727 945.072 674.433 943 643 c 1
  932 525 l 1
  928 544 913 575 883 598 c 0
- 880 600 877 601 872 601 c 0xd0
+ 880 600 877 601 872 601 c 0xd8
  851 601 814 579 776 550 c 1
  818 522 l 1
  808 418 l 1
@@ -91036,13 +91011,13 @@ SplineSet
  531 418 537 439 606 509 c 0
  614 517 623 526 633 535 c 1
  586 567 l 1
- 595 670 l 1xb0
+ 595 670 l 1xb8
  697 602 l 1
  706 690 l 1
  728 703 l 1
  719 613 l 1
- 789 673 860 727 876 727 c 0xd0
-151 10 m 1x98
+ 789 673 860 727 876 727 c 0xd8
+151 10 m 1x9c
  157 62 164 95 164 142 c 0
  164 177 156 204 126 204 c 0
  113 204 71 204 61 80 c 1
@@ -91051,10 +91026,10 @@ SplineSet
  31 -45 30 -36 30 -26 c 0
  30 -22 30 -18 30 -14 c 0
  30 96 42 312 134 312 c 0
- 168 312 196 293 196 226 c 0x94
+ 168 312 196 293 196 226 c 0x9a
  196 161 177 22 175 13 c 1
  175 13 171 1 162 0 c 0
- 152 -1 151 10 151 10 c 1x98
+ 152 -1 151 10 151 10 c 1x9c
 256 269 m 1
  277 330 340 339 340 339 c 1
  328 215 l 1
@@ -91137,8 +91112,8 @@ StartChar: uniEEE6
 Encoding: 61158 61158 652
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 0 21G<195.056 196> 451 126<640.898 709.284>
+Flags: W
+HStem: 0 21G<195.056 196> 451 126<640.898 709.284> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -91239,8 +91214,8 @@ StartChar: uniEEEC
 Encoding: 61164 61164 653
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+Flags: W
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -91352,8 +91327,8 @@ StartChar: uniEEF3
 Encoding: 61171 61171 655
 Width: 750
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
+Flags: W
+HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078> 750 50<0 400>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -91470,8 +91445,8 @@ StartChar: uniEEF4
 Encoding: 61172 61172 656
 Width: 750
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
+Flags: W
+HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078> 750 50<0 400>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -91616,8 +91591,8 @@ StartChar: uniEEF5
 Encoding: 61173 61173 657
 Width: 750
 VWidth: 0
-Flags: HW
-HStem: -10 31G<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078>
+Flags: W
+HStem: -10 31G<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078> 750 50<0 400>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -91783,8 +91758,8 @@ EndChar
 StartChar: uniEEF8
 Encoding: 61176 61176 659
 Width: 975
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 602 125<828.157 884.865> 654 20G<591.252 623>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 602 125<828.157 884.865> 654 20G<591.252 623> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -91804,12 +91779,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x90
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-70 162 m 1x80
+ 0 800 l 5x90
+70 162 m 1
  83 184 100 203 122 220 c 0
  144 237 161.741 248.692 177 254 c 2
  200 262 l 1
@@ -91818,7 +91793,7 @@ SplineSet
  90 82 51 46 30 0 c 1
  79 480 l 1
  105 496 l 1
- 70 162 l 1x80
+ 70 162 l 1
 391 351 m 1
  401 380 430 410 459 417 c 2
  475 421 l 1
@@ -91843,7 +91818,7 @@ SplineSet
  524 418 538 450 597 509 c 0
  607 519 618 529 630 540 c 1
  584 571 l 1
- 593 674 l 1xa0
+ 593 674 l 1xb0
  695 606 l 1
  704 694 l 1
  726 707 l 1
@@ -91853,7 +91828,7 @@ SplineSet
  938 644 938 644 938 643 c 1
  924 526 l 1
  920 545 905 576 875 599 c 0
- 872 601 869 602 864 602 c 0xc0
+ 872 601 869 602 864 602 c 0xd0
  844 602 809 581 773 554 c 1
  816 526 l 1
 EndSplineSet
@@ -91920,8 +91895,8 @@ StartChar: uniEEF9
 Encoding: 61177 61177 660
 Width: 1105
 VWidth: 999
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 460 21G<807.105 828> 683 123<961.157 1025.99>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 460 21G<807.105 828> 683 123<961.157 1025.99> 750 50<0 390>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -91941,11 +91916,11 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 1
+0 800 m 1xd0
  390 800 l 5
  390 750 l 5
  0 750 l 1
- 0 800 l 1
+ 0 800 l 1xd0
 70 162 m 1
  83 184 100 203 122 220 c 0
  144 237 161.741 248.692 177 254 c 2
@@ -91996,7 +91971,7 @@ SplineSet
  1071 723 1071 723 1071 722 c 1
  1057 605 l 1
  1053 624 1038 655 1008 678 c 0
- 1005 680 1002 683 997 683 c 0
+ 1005 680 1002 683 997 683 c 0xe0
  977 683 942 660 906 633 c 1
  949 605 l 1
 EndSplineSet
@@ -92177,8 +92152,8 @@ StartChar: uniEEB1
 Encoding: 61105 61105 668
 Width: 804
 VWidth: 999
-Flags: HW
-HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923>
+Flags: W
+HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -100834,8 +100809,8 @@ StartChar: uniEEB8
 Encoding: 61112 61112 678
 Width: 925
 VWidth: 799
-Flags: HW
-HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 590 107<794.342 849.088>
+Flags: W
+HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 590 107<794.342 849.088> 750 50<0 400>
 VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -60 basechar 0
@@ -100856,12 +100831,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x3f
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-888 630 m 2x3e
+ 0 800 l 5x3f
+888 630 m 2
  879 528 l 1
  874 550 861 570 840 587 c 0
  837 589 834 590 829 590 c 0
@@ -100874,8 +100849,8 @@ SplineSet
  556 466 646 556 744 636 c 0
  793 677 824 697 834 697 c 0
  853 697 888 655 888 632 c 0
- 888 631 888 631 888 630 c 2x3e
-101 170 m 0xbe
+ 888 631 888 631 888 630 c 2
+101 170 m 0xbf
  139 170 158 125 158 36 c 0
  158 -14 151 -66 138 -120 c 0
  137 -125 133 -127 128 -127 c 0
@@ -100887,7 +100862,7 @@ SplineSet
  39 -16 38 -19 35 -20 c 0
  32 -21 30 -20 30 -17 c 0
  30 -13 37 82 37 82 c 1
- 44 141 66 170 101 170 c 0xbe
+ 44 141 66 170 101 170 c 0xbf
 448 157 m 1
  436 32 l 1
  359 106 l 1
@@ -100898,7 +100873,7 @@ SplineSet
  242 290 l 1
  253 416 l 1
  330 341 l 1
-269 194 m 0x7e
+269 194 m 0x7f
  307 194 326 149 326 60 c 0
  326 10 319 -42 306 -96 c 0
  305 -101 301 -103 296 -103 c 0
@@ -100910,7 +100885,7 @@ SplineSet
  207 8 206 5 203 4 c 0
  200 3 198 4 198 7 c 0
  198 11 205 106 205 106 c 1
- 212 165 234 194 269 194 c 0x7e
+ 212 165 234 194 269 194 c 0x7f
 EndSplineSet
 Layer: 2
 SplineSet
@@ -100976,8 +100951,9 @@ StartChar: uniEE60
 Encoding: 61024 61024 679
 Width: 0
 GlyphClass: 4
-Flags: HW
-VStem: -149 137
+Flags: W
+HStem: 750 50<-200 0>
+VStem: -200 200<750 800>
 LayerCount: 3
 Fore
 SplineSet
@@ -101023,8 +100999,8 @@ EndChar
 StartChar: uniEEC7
 Encoding: 61127 61127 680
 Width: 985
-Flags: HW
-HStem: 205 108<88.6072 156.817> 602 125<840.145 906.462>
+Flags: W
+HStem: 205 108<88.6072 156.817> 602 125<840.145 906.462> 750 50<0 400>
 VStem: 30 27<-43.8219 138.404> 151 24<8 95.4724> 164 32<48.3647 255>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -101045,12 +101021,12 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xf0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-880 727 m 0xe0
+ 0 800 l 5xf0
+880 727 m 0
  893 727 908 717 925 696 c 0
  941.594 675.502 949.079 659.341 948 643 c 2
  936 525 l 1
@@ -101064,7 +101040,7 @@ SplineSet
  535 418 l 1
  541 435 567 465 609 508 c 0
  651 551 704 597 767 649 c 0
- 830 701 867 727 880 727 c 0xe0
+ 830 701 867 727 880 727 c 0
 393 350 m 1
  403 378 433 409 461 416 c 2
  477 420 l 1
@@ -101083,12 +101059,12 @@ SplineSet
  30 -5 l 2
  30 135 46 230 79 279 c 0
  94 302 112 313 134 313 c 0
- 175 313 196 284 196 226 c 0xe8
+ 175 313 196 284 196 226 c 0xf4
  196 168 189 98 175 14 c 0
  172 6 169 0 165 0 c 0
  157 -1 152 3 151 8 c 1
- 151 11 l 1xf0
- 160 89 164 132 164 140 c 0xe8
+ 151 11 l 1xf8
+ 160 89 164 132 164 140 c 0xf4
  164 183 151 205 126 205 c 0
  89 205 68 164 61 81 c 0
  60 44 58 7 57 -29 c 0
@@ -101152,8 +101128,8 @@ EndChar
 StartChar: uniEEBB
 Encoding: 61115 61115 681
 Width: 1105
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 681 125<959.575 1027.46>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 681 125<959.575 1027.46> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -101173,11 +101149,11 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xa0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
+ 0 800 l 5xa0
 70 162 m 1
  83 184 100 203 122 220 c 0
  144 237 161.741 248.692 177 254 c 2
@@ -101206,7 +101182,7 @@ SplineSet
  326 217 l 1
  291 211 257 177 241 145 c 1
  255 271 l 1
-1001 806 m 0
+1001 806 m 0xc0
  1014 806 1029 796 1046 775 c 0
  1062 755 1068 738 1068 724 c 0
  1068 723 1068 723 1068 722 c 1
@@ -101221,7 +101197,7 @@ SplineSet
  658 497 l 1
  664 514 688 544 730 587 c 0
  772 630 825 677 888 729 c 0
- 951 781 988 806 1001 806 c 0
+ 951 781 988 806 1001 806 c 0xc0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -101283,8 +101259,8 @@ EndChar
 StartChar: uniEEBC
 Encoding: 61116 61116 682
 Width: 1010
-Flags: HW
-HStem: 0 21G<32.0417 40.5> 672 107<878.981 934.403>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 672 107<878.981 934.403> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -101304,11 +101280,11 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5xa0
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
+ 0 800 l 5xa0
 70 162 m 1
  83 184 100 203 122 220 c 0
  144 237 161.741 248.692 177 254 c 2
@@ -101331,7 +101307,7 @@ SplineSet
  324 217 l 1
  289 211 255 177 239 145 c 1
  253 271 l 1
-917 779 m 0
+917 779 m 0xc0
  938 779 973 735 973 714 c 2
  973 712 l 1
  964 610 l 1
@@ -101344,7 +101320,7 @@ SplineSet
  579 648 l 1
  560 450 l 1
  641 549 730 637 829 718 c 0
- 878 759 907 779 917 779 c 0
+ 878 759 907 779 917 779 c 0xc0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -101397,8 +101373,8 @@ StartChar: uniEEE7
 Encoding: 61159 61159 683
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -101507,8 +101483,8 @@ StartChar: uniEEE8
 Encoding: 61160 61160 684
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206> 750 50<0 400>
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -101644,8 +101620,8 @@ EndChar
 StartChar: uniEEE9
 Encoding: 61161 61161 685
 Width: 790
-Flags: HW
-HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
+Flags: W
+HStem: 0 21G<194.869 196> 450 126<639.722 709.078> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -101790,8 +101766,8 @@ EndChar
 StartChar: uniEEEA
 Encoding: 61162 61162 686
 Width: 790
-Flags: HW
-HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
+Flags: W
+HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -101952,8 +101928,8 @@ EndChar
 StartChar: uniEEED
 Encoding: 61165 61165 687
 Width: 790
-Flags: HW
-HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+Flags: W
+HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -102082,8 +102058,8 @@ EndChar
 StartChar: uniEEEE
 Encoding: 61166 61166 688
 Width: 790
-Flags: HW
-HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
+Flags: W
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -102215,8 +102191,8 @@ StartChar: uniEEF0
 Encoding: 61168 61168 689
 Width: 990
 VWidth: 999
-Flags: HW
-HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+Flags: W
+HStem: 586 127<841.844 902.982> 645 20G<593.252 625> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -102236,27 +102212,27 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x20
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-106 247 m 1x00
+ 0 800 l 5x20
+106 247 m 1
  127 308 215 327 215 327 c 1
  205 203 l 1
  205 203 125 184 94 121 c 1
- 106 247 l 1x00
+ 106 247 l 1
 42 -9 m 1
  63 52 151 71 151 71 c 1
  141 -53 l 1
  141 -53 61 -72 30 -135 c 1
  42 -9 l 1
-885 713 m 0x80
+885 713 m 0xa0
  909.492 713 953.061 661.17 953.061 630.856 c 0
  953.061 630.229 953.041 629.609 953 629 c 1
  941 511 l 1
  937 530 923 560 893 583 c 0
- 891 584 888 586 885 586 c 0x80
+ 891 584 888 586 885 586 c 0xa0
  867 586 831 567 785 538 c 1
  818 516 l 1
  808 413 l 1
@@ -102277,12 +102253,12 @@ SplineSet
  496 424 l 1
  535 460 580 498 626 535 c 1
  586 562 l 1
- 595 665 l 1x40
+ 595 665 l 1x60
  697 597 l 1
  706 685 l 1
  728 697 l 1
  719 606 l 1
- 802 668 872 713 885 713 c 0x80
+ 802 668 872 713 885 713 c 0xa0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -102346,8 +102322,8 @@ StartChar: uniEEF1
 Encoding: 61169 61169 690
 Width: 990
 VWidth: 999
-Flags: HW
-HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
+Flags: W
+HStem: 586 127<841.844 902.982> 645 20G<593.252 625> 750 50<0 400>
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -102367,16 +102343,16 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 5
+0 800 m 5x20
  400 800 l 5
  400 750 l 5
  0 750 l 5
- 0 800 l 5
-106 247 m 1x00
+ 0 800 l 5x20
+106 247 m 1
  127 308 215 327 215 327 c 1
  205 203 l 1
  205 203 125 184 94 121 c 1
- 106 247 l 1x00
+ 106 247 l 1
 42 -9 m 1
  63 52 151 71 151 71 c 1
  141 -53 l 1
@@ -102392,12 +102368,12 @@ SplineSet
  590 163 l 1
  590 163 535 154 504 91 c 1
  516 218 l 1
-885 713 m 0x80
+885 713 m 0xa0
  909.492 713 953.061 661.17 953.061 630.856 c 0
  953.061 630.229 953.041 629.609 953 629 c 1
  941 511 l 1
  937 530 923 560 893 583 c 0
- 891 584 888 586 885 586 c 0x80
+ 891 584 888 586 885 586 c 0xa0
  867 586 831 567 785 538 c 1
  818 516 l 1
  808 413 l 1
@@ -102418,12 +102394,12 @@ SplineSet
  496 424 l 1
  535 460 580 498 626 535 c 1
  586 562 l 1
- 595 665 l 1x40
+ 595 665 l 1x60
  697 597 l 1
  706 685 l 1
  728 697 l 1
  719 606 l 1
- 802 668 872 713 885 713 c 0x80
+ 802 668 872 713 885 713 c 0xa0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -102512,8 +102488,8 @@ StartChar: uniEED1
 Encoding: 61137 61137 692
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
+Flags: W
+HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369> 750 50<0 400>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -104118,24 +104094,24 @@ StartChar: u1CF00
 Encoding: 118528 118528 727
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: -7 166 302 52<-35.8514 -9.6301> 341 13<-157.993 -132 -97.9138 -35>
-VStem: -290 205 -141 36<201.023 339.69> -36 27<306.22 340.717>
+Flags: W
+HStem: -9 21G<-285.5 -283> 302 52<-35.8514 -9.6301> 341 13<-157.993 -132 -97.9138 -35>
+VStem: -141 36<201.023 339.69> -36 27<306.22 340.717>
 AnchorPoint: "Stacking" -70 365 basemark 0
 AnchorPoint: "Stacking" -270 260 mark 0
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--141 260 m 0x70
+-141 260 m 0xb8
  -141 287 -137 323 -132 341 c 1
  -151 341 l 2
  -157 341 -158 344 -158 348 c 0
- -158 352 -156 353 -149 354 c 1x70
+ -158 352 -156 353 -149 354 c 1xb8
  -103 354 -56 354 -10 354 c 0
  -2 354 -1 350 -1 346 c 0
  -2 340 -8 334 -9 326 c 0
- -12 312 -5 302 -12 302 c 0xb0
+ -12 312 -5 302 -12 302 c 0xd8
  -19 302 -33 312 -36 321 c 0
  -37 327 -37 335 -35 341 c 1
  -56 341 -76 341 -97 341 c 1
@@ -104143,7 +104119,7 @@ SplineSet
  -105 240 -102 227 -102 207 c 0
  -102 201 -114 201 -120 201 c 0
  -126 201 -138 201 -138 207 c 0
- -138 223 -141 241 -141 260 c 0x70
+ -138 223 -141 241 -141 260 c 0xb8
 -90 159 m 4
  -87 159 -85 155 -85 152 c 4
  -85 150 -86 148 -90 145 c 4
@@ -104174,21 +104150,21 @@ StartChar: u1CF01
 Encoding: 118529 118529 728
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: -6 166 269.4 14<-119 -45>
-VStem: -295 205 -156 37<200.44 269.4 283.4 341.647> -46 37<203.91 342.41> -45 45<200.401 256.557 257.588 262.42 284.239 343.554>
+Flags: W
+HStem: -8 21G<-290.5 -288> 269.4 14<-119 -45>
+VStem: -156 37<200.44 269.4 283.4 341.647> -46 37<203.91 342.41> -45 45<200.401 256.557 257.587 262.42 284.239 343.554>
 AnchorPoint: "Stacking" -70 365 basemark 0
 AnchorPoint: "Stacking" -270 260 mark 0
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
-0 343.4 m 0xd0
+0 343.4 m 0xe8
  0 322.4 -9 293.4 -9 263.4 c 0
  -9 242.4 -6 227.4 -6 206.4 c 0
  -6 200.4 -16 200.4 -23 200.4 c 0
  -31 200.4 -42 200.4 -42 206.4 c 0
- -44 222.4 -46 239.4 -46 257.4 c 0xe0
+ -44 222.4 -46 239.4 -46 257.4 c 0xf0
  -46 261.4 -46 265.4 -45 269.4 c 1
  -119 269.4 l 1
  -119 266.4 -119 263.4 -119 260.4 c 0
@@ -104205,7 +104181,7 @@ SplineSet
  -42 305.4 -39 326.4 -35 344.4 c 0
  -34 349.4 -27 350.4 -22 350.4 c 0
  -20 350.4 -18 350.4 -17 350.4 c 0
- -12 350.4 0 349.4 0 343.4 c 0xd0
+ -12 350.4 0 349.4 0 343.4 c 0xe8
 -95 160 m 4
  -92 160 -90 156 -90 153 c 4
  -90 151 -91 149 -95 146 c 4
@@ -104236,7 +104212,7 @@ StartChar: u1CF02
 Encoding: 118530 118530 729
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 203 13<-217.991 -194 -157.66 -80 -44.416 -32>
 VStem: -197 38<216 347.894> -111 34<94.0207 133.074> -82 35<216 347.734>
 AnchorPoint: "Stacking" -100 365 basemark 0
@@ -104280,7 +104256,7 @@ StartChar: u1CF03
 Encoding: 118531 118531 730
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 302 52<-34.8514 -8.6301> 341 13<-156.993 -131 -96.9138 -34>
 VStem: -140 36<201.023 339.69> -35 27<306.22 340.717>
 AnchorPoint: "Stacking" -70 365 basemark 0
@@ -104314,7 +104290,7 @@ StartChar: u1CF04
 Encoding: 118532 118532 731
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 270 14<-119 -45>
 VStem: -156 37<201.04 270 284 342.247> -46 37<204.51 343.01> -45 45<201.001 257.157 258.188 263.02 284.839 344.154>
 AnchorPoint: "Stacking" -70 365 basemark 0
@@ -104354,7 +104330,7 @@ StartChar: u1CF05
 Encoding: 118533 118533 732
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 256 57<-63.1341 -11.1074>
 VStem: -64 54<256.797 312.152>
 AnchorPoint: "Stacking" -35 365 basemark 0
@@ -104376,7 +104352,7 @@ StartChar: u1CF06
 Encoding: 118534 118534 733
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 197 152
 VStem: -181 39<254.814 321> -60 38<228.149 317>
 AnchorPoint: "Stacking" -300 260 mark 0
@@ -104416,7 +104392,7 @@ StartChar: u1CF07
 Encoding: 118535 118535 734
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 341 13<-198.946 -173 -139.117 -63 -29.1174 -0.0468979>
 VStem: -183 38<201.03 339.827> -73 38<201.03 339.827>
 AnchorPoint: "Stacking" -100 365 basemark 0
@@ -104454,7 +104430,7 @@ StartChar: u1CF08
 Encoding: 118536 118536 735
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979>
 VStem: -187 38<216 342.941> -77 38<216 342.941>
 AnchorPoint: "Stacking" -100 365 basemark 0
@@ -104497,7 +104473,7 @@ StartChar: u1CF09
 Encoding: 118537 118537 736
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 382 48<-128.426 -86.5738>
 VStem: -181 39<254.814 321> -129 43<382.091 429.909> -60 38<228.149 317>
 AnchorPoint: "Stacking" -100 365 basemark 0
@@ -104542,7 +104518,7 @@ StartChar: u1CF0A
 Encoding: 118538 118538 737
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 341 13<-198.98 -173 -139.135 -63 -29.1348 -0.00147247> 397 48<-117.429 -75.3691>
 VStem: -182 36<201.05 339.737> -118 43<397.084 444.99> -72 36<201.05 339.737>
 AnchorPoint: "Stacking" -100 365 basemark 0
@@ -104584,7 +104560,7 @@ EndChar
 StartChar: u1CF0B
 Encoding: 118539 118539 738
 Width: 0
-Flags: HW
+Flags: W
 HStem: 203 13<-212.98 -183 -147.419 -73 -37.4191 -13.0939> 344 13<-198.98 -177 -143.117 -67 -33.1174 -0.00147247> 400 48<-121.429 -79.3691>
 VStem: -185 36<216 342.848> -122 43<400.084 447.99> -75 36<216.634 342.848>
 AnchorPoint: "Stacking" -100 365 basemark 0
@@ -104632,7 +104608,7 @@ StartChar: u1CF0C
 Encoding: 118540 118540 739
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 393 48<-157.429 -115.369 -77.429 -35.3691>
 VStem: -158 43<393.084 440.99> -78 43<393.084 440.99> -60 38<228.149 317>
 AnchorPoint: "Stacking" -300 260 mark 0
@@ -104682,7 +104658,7 @@ StartChar: u1CF0D
 Encoding: 118541 118541 740
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 341 13<-198.946 -173 -139.117 -63 -29.1174 -0.0468979> 396 48<-160.429 -118.369 -80.429 -38.3691>
 VStem: -183 38<201.03 339.827> -161 43<396.084 443.99> -81 43<396.084 443.99> -73 38<201.03 339.827>
 AnchorPoint: "Stacking" -300 260 mark 0
@@ -104730,7 +104706,7 @@ StartChar: u1CF0E
 Encoding: 118542 118542 741
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 203 13<-212.98 -183 -147.419 -73 -37.5105 -13.0939> 344 13<-198.98 -177 -143.117 -67 -33.1174 -0.00147247> 398 48<-161.429 -119.369 -81.429 -39.3691>
 VStem: -185 36<216 342.848> -162 43<398.084 445.99> -82 43<398.084 445.99> -75 36<216 342.848>
 AnchorPoint: "Stacking" -300 260 mark 0
@@ -104783,14 +104759,14 @@ StartChar: u1CF10
 Encoding: 118544 118544 742
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: -10 166 203 13<-218.991 -195 -158.66 -81 -45.416 -33>
-VStem: -376 205 -198 38<216 347.894> -112 34<94.0207 133.074> -83 35<216 347.734>
+Flags: W
+HStem: -12 21G<-371.5 -369> 203 13<-218.991 -195 -158.66 -81 -45.416 -33>
+VStem: -198 38<216 347.894> -112 34<94.0207 133.074> -83 35<216 347.734>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
 SplineSet
--152 348 m 0xe0
+-152 348 m 0xf0
  -158 323 -160 296 -160 268 c 0
  -160 251 -160 233 -158 216 c 1
  -81 216 l 1
@@ -104798,7 +104774,7 @@ SplineSet
  -83 292 -80 325 -73 350 c 0
  -71 357 -63 356 -56 356 c 0
  -48 356 -37 355 -39 348 c 0
- -45 319 -48 297 -48 265 c 0xd0
+ -45 319 -48 297 -48 265 c 0xe8
  -48 247 -46 233 -45 216 c 1
  -10 216 l 2
  -5 216 -1 213 -1 210 c 0
@@ -104817,7 +104793,7 @@ SplineSet
  -196 231 -198 248 -198 266 c 0
  -198 295 -193 328 -187 350 c 0
  -185 357 -177 357 -169 357 c 1
- -162 356 -151 355 -152 348 c 0xe0
+ -162 356 -151 355 -152 348 c 0xf0
 -176 156 m 4
  -173 156 -171 152 -171 149 c 4
  -171 147 -172 145 -176 142 c 4
@@ -104847,9 +104823,9 @@ StartChar: u1CF11
 Encoding: 118545 118545 743
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: -10 166 197 152
-VStem: -389 205 -181 39<254.814 321> -60 38<228.149 317>
+Flags: W
+HStem: -12 21G<-384.5 -382>
+VStem: -181 39<254.814 321> -60 38<228.149 317>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
@@ -104907,7 +104883,7 @@ StartChar: u1CF12
 Encoding: 118546 118546 744
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 201 23<-376.895 -319.087> 332 26<-379.933 -320.873>
 VStem: -438 44<233.998 325.962> -311 32<310.659 324.283> -57 36<232.641 322>
 AnchorPoint: "PitchMark" 0 345 mark 0
@@ -104966,9 +104942,9 @@ StartChar: u1CF13
 Encoding: 118547 118547 745
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: -10 166 341.014 13<-200.951 -175.004 -141.122 -65.0042 -31.1216 -2.0511>
-VStem: -309 205 -185.004 38<201.045 339.842> -75.0042 38<201.045 339.842>
+Flags: W
+HStem: -12 21G<-304.5 -302> 341.015 13<-200.95 -175.004 -141.121 -65.0039 -31.1213 -2.05081>
+VStem: -185.004 38<201.045 339.842> -75.0039 38<201.045 339.842>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
@@ -105024,8 +105000,8 @@ StartChar: u1CF14
 Encoding: 118548 118548 746
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: 203 22<-97.2974 -41.3477> 333 26<-102.253 -42.3031> 341 13<-355.946 -330 -296.117 -220 -186.117 -157.047>
+Flags: W
+HStem: 203 22<-97.2975 -41.3477> 333 26<-102.253 -42.3031> 341 13<-355.946 -330 -296.117 -220 -186.117 -157.047>
 VStem: -340 38<201.03 339.827> -230 38<201.03 339.827> -160 44<232.784 326.763> -33 32<311.718 325.433>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
@@ -105076,9 +105052,9 @@ StartChar: u1CF15
 Encoding: 118549 118549 747
 Width: 0
 VWidth: 999
-Flags: HW
-HStem: -15 166 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979>
-VStem: -337 205 -187 38<216 342.941> -77 38<216 342.941>
+Flags: W
+HStem: 203 13<-212.991 -184 -147.373 -74 -37.4191 -14.076> 344 13<-190 -67 -33.1174 -0.0468979>
+VStem: -187 38<216 342.941> -77 38<216 342.941>
 AnchorPoint: "PitchMark" 0 345 mark 0
 LayerCount: 3
 Fore
@@ -105139,7 +105115,7 @@ StartChar: u1CF16
 Encoding: 118550 118550 748
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 203 22<-97.3158 -42.1388> 333 26<-102.34 -42.3031>
 VStem: -219 36<232.641 322> -161 45<232.698 327.075> -33 31<311.718 325.009>
 AnchorPoint: "PitchMark" 0 345 mark 0
@@ -105198,7 +105174,7 @@ StartChar: u1CF17
 Encoding: 118551 118551 749
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 202 13<-212.991 -184 -147.373 -74 -37.373 -14.076> 305 52<-259.851 -233.63> 343 13<-381.924 -356 -322.135 -259 -190 -67 -33.1174 -0.0468979>
 VStem: -365 36<204.023 342.69> -260 27<309.22 343.717> -187 38<215 341.941> -77 38<215 341.941>
 AnchorPoint: "PitchMark" 0 345 mark 0
@@ -105256,7 +105232,7 @@ StartChar: u1CF1F
 Encoding: 118559 118559 750
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: -6 166
 VStem: -305 205
 AnchorPoint: "PitchMark" 0 202.6 mark 0
@@ -105289,7 +105265,7 @@ EndChar
 StartChar: u1CF20
 Encoding: 118560 118560 751
 Width: 0
-Flags: HW
+Flags: W
 HStem: 203 2<-68.9986 -68.3057> 215 16<-58.7166 41.8139> 280 2<-22 16> 334 21<-32.3699 15>
 VStem: -75 27<284.828 329.905> 44 31<227.847 277.057>
 AnchorPoint: "Auxiliary" 0 345 mark 0
@@ -105327,7 +105303,7 @@ StartChar: u1CF21
 Encoding: 118561 118561 752
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 212 19<-21.9052 26.0263> 324 22<-26.1565 25.5938>
 VStem: -77 39<240.119 319.712> 39 38<235.785 317.234>
 AnchorPoint: "Auxiliary" 0 345 mark 0
@@ -105352,7 +105328,7 @@ StartChar: u1CF22
 Encoding: 118562 118562 753
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 232 27<-99 -81.75> 323 32<-87 -45.5>
 VStem: -179 33<59 92> -48 30<300 315.25>
 AnchorPoint: "Stacking" -70 365 basemark 0
@@ -105406,7 +105382,7 @@ StartChar: u1CF23
 Encoding: 118563 118563 754
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 85 25<12 500>
 AnchorPoint: "Tikhaya" 0 100 mark 0
 LayerCount: 3
@@ -105425,7 +105401,7 @@ StartChar: u1CF24
 Encoding: 118564 118564 755
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: -25 22<-136.906 -119.055> 40 25<-8.95688 33.8466> 133 21<11.0736 35.6621> 269 27<-40.6811 8.14722>
 VStem: -199 33<19.971 131.735> -40 27<68.378 125.572> 11 32<189.582 267.57> 41 29<69.5973 129.643>
 AnchorPoint: "Borzaya" 70 155 mark 0
@@ -105466,7 +105442,7 @@ StartChar: u1CF25
 Encoding: 118565 118565 756
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 134 23<-61.8736 -14.1939>
 VStem: -95 29<159.539 208.81>
 AnchorPoint: "Borzaya" 70 155 mark 0
@@ -105499,7 +105475,7 @@ StartChar: u1CF26
 Encoding: 118566 118566 757
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 168 98<-128.778 -51.5568>
 VStem: -160 31<268.344 307.557> -141 12<303.557 323.946>
 AnchorPoint: "Podvertka" -20 380 mark 0
@@ -105525,8 +105501,8 @@ EndChar
 StartChar: u1CF27
 Encoding: 118567 118567 758
 Width: 0
-Flags: HW
-HStem: -5 21<-318 -312.5 -202.5 -195> 7 19<-103.91 -56.055> 119 22<-108.103 -57.4012>
+Flags: W
+HStem: -5 21G<-318 -312.5 -202.5 -195> 7 19<-103.91 -56.055> 119 22<-108.103 -57.4012>
 VStem: -210 34<-4.10135 87.9468> -159 39<32.9142 114.304> -43 38<31.1006 112.245>
 AnchorPoint: "Lomka" -325 150 mark 0
 LayerCount: 3
@@ -105561,7 +105537,7 @@ StartChar: u1CF28
 Encoding: 118568 118568 759
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 7 96<-166.986 -153.051 -105.87 -88.1614>
 VStem: -185 32<7.03516 69.2444> -121 33<8.20239 73.3153>
 AnchorPoint: "Kupnaya" 0 100 mark 0
@@ -105589,7 +105565,7 @@ EndChar
 StartChar: u1CF29
 Encoding: 118569 118569 760
 Width: 0
-Flags: HW
+Flags: W
 HStem: 405 96<-216.986 -203.051 -155.87 -138.161>
 VStem: -235 32<405.035 467.244> -171 33<406.202 471.315>
 AnchorPoint: "Kachka" 0 500 mark 0
@@ -105618,7 +105594,7 @@ StartChar: u1CF2A
 Encoding: 118570 118570 761
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 66 24<-247.225 -117.948> 330 27<-137.17 -59.2357>
 VStem: -56 37<275.73 327.765> -41 37<126.444 213.076>
 AnchorPoint: "Zevok" -160 355 mark 0
@@ -105652,7 +105628,7 @@ EndChar
 StartChar: u1CF2B
 Encoding: 118571 118571 762
 Width: 0
-Flags: HW
+Flags: W
 HStem: 288 25<-129.98 -85.1252 -71 10.2671> 296 24<-90.6801 113.269>
 VStem: -50 27<351.911 415.929>
 AnchorPoint: "Auxiliary" 0 345 mark 0
@@ -105682,7 +105658,7 @@ StartChar: u1CF2C
 Encoding: 118572 118572 763
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 261 96
 VStem: -75 34<261.041 326.576>
 AnchorPoint: "Auxiliary" 0 345 mark 0
@@ -105723,9 +105699,9 @@ StartChar: u1CF41
 Encoding: 118593 118593 765
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 17 39<55 106 158 249 301 392 443 534 586 677 729 780> 17 88<16 55 780 819> 156 88<16 55 780 819> 229 67<705.003 731> 230 29<126.018 182 211 326.98 511 705> 295 88<16 55 780 819> 391 29<211 363.153> 434 88<16 55 780 819> 573 89<16 55 780 819> 594 28<126.004 182 211 365.135 557.458 666.901> 712 89<16 55 780 819> 762 39<55 106 158 249 301 392 443 534 586 677 729 780>
-VStem: 16 39<56 105 156 244 295 383 434 522 573 662 712 762> 16 90<17 56 762 801> 158 91<17 56 762 801> 182 29<259 391 420 594> 301 91<17 56 762 801> 415 29<465.349 549.573> 443 91<17 56 762 801> 487 24<255 266.363> 499 25<519.019 557.542> 586 91<17 56 762 801> 705 26<255 295.996 479.015 552.646> 729 90<17 56 762 801> 780 39<56 105 156 244 295 383 434 522 573 662 712 762>
+Flags: W
+HStem: 17 88<16 55 780 819> 17 39<55 106 158 249 301 392 443 534 586 677 729 780> 156 88<16 55 780 819> 229 67<705.003 731> 230 29<126.018 182 211 326.98 511 705> 295 88<16 55 780 819> 391 29<211 363.154> 434 88<16 55 780 819> 573 89<16 55 780 819> 594 28<126.004 182 211 365.135 557.458 666.901> 712 89<16 55 780 819> 762 39<55 106 158 249 301 392 443 534 586 677 729 780>
+VStem: 16 90<17 56 762 801> 16 39<56 105 156 244 295 383 434 522 573 662 712 762> 158 91<17 56 762 801> 182 29<259 391 420 594> 301 91<17 56 762 801> 415 29<465.349 549.573> 443 91<17 56 762 801> 487 24<255 266.363> 499 25<519.019 557.542> 586 91<17 56 762 801> 705 26<255 295.996 479.015 552.646> 729 90<17 56 762 801> 780 39<56 105 156 244 295 383 434 522 573 662 712 762>
 LayerCount: 3
 Fore
 SplineSet
@@ -105889,8 +105865,8 @@ StartChar: u1CF42
 Encoding: 118594 118594 766
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 17 38<55 106 159 249 301 391 443 535 586 677 729 780> 17 88<16 55 780 819> 156 89<16 55 780 819> 223 27<552.193 664.306> 230 29<126.018 182 211 326.98> 295 88<16 55 780 819> 391 29<211 363.172> 434 88<16 55 780 819> 437 27<589.018 669.703> 573 89<16 55 780 819> 594 29<126.215 182 211 367.336> 610 27<559.482 668.685> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
+Flags: W
+HStem: 17 88<16 55 780 819> 17 38<55 106 159 249 301 391 443 535 586 677 729 780> 156 89<16 55 780 819> 223 27<552.193 664.306> 230 29<126.018 182 211 326.98> 295 88<16 55 780 819> 391 29<211 363.172> 434 88<16 55 780 819> 437 27<589.018 669.703> 573 89<16 55 780 819> 594 29<126.215 182 211 367.336> 610 27<559.482 668.685> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
 VStem: 15 40<55 105 156 245 295 383 434 522 573 662 712 762> 16 90<17 55 762 801> 158 91<17 55 762 801> 182 29<259 391 420 594> 301 90<17 55 762 801> 415 28<465.683 549.628> 443 92<17 55 762 801> 586 91<17 55 762 801> 702 26<495.516 576.775> 716 25<300.914 385.071> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
 LayerCount: 3
 Fore
@@ -106055,9 +106031,9 @@ StartChar: u1CF43
 Encoding: 118595 118595 767
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 17 88<16 55 780 819> 156 89<16 55 780 819> 222 24<550.144 637.428> 230 29<100.018 156 185 300.98> 295 88<16 55 780 819> 391 29<185 331.113> 434 88<16 55 780 819> 573 89<16 55 780 819> 596 28<100.04 156 185 333.078 442.133 478 502 559.868 627.133 686 710 744.867> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
-VStem: 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 16 90<17 55 762 801> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 478 24<294.562 596> 586 91<17 55 762 801> 686 24<295.806 596> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
+Flags: W
+HStem: 17 88<16 55 780 819> 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 156 89<16 55 780 819> 222 24<550.144 637.428> 230 29<100.018 156 185 300.98> 295 88<16 55 780 819> 391 29<185 331.113> 434 88<16 55 780 819> 573 89<16 55 780 819> 596 28<100.04 156 185 333.078 442.133 478 502 559.868 627.133 686 710 744.867> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
+VStem: 16 90<17 55 762 801> 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 478 24<294.562 596> 586 91<17 55 762 801> 686 24<295.806 596> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
 LayerCount: 3
 Fore
 SplineSet
@@ -106222,10 +106198,9 @@ StartChar: u1CF44
 Encoding: 118596 118596 768
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 17 88<16 55 780 819> 156 89<16 55 780 819> 229 29<100.07 156 185 300.918 398.02 456 486 558.982 686.06 750.98> 295 88<16 55 780 819> 391 29<185 331.113> 434 88<16 55 780 819> 573 89<16 55 780 819> 597 29<100.018 156 185 332.112 398.02 456 486 558.982 607.018 660 701 731.982> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
-VStem: 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 16 90<17 55 762 801> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 456 30<258 380 417 597> 586 91<17 55 762 801> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
-DStem2: 486 417 556 454 0.695022 0.718988<75.2541 250.352>
+Flags: W
+HStem: 17 88<16 55 780 819> 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 156 89<16 55 780 819> 229 29<100.07 156 185 300.918 398.02 456 486 558.982 686.06 750.98> 295 88<16 55 780 819> 391 29<185 331.113> 434 88<16 55 780 819> 573 89<16 55 780 819> 597 29<100.018 156 185 332.112 398.02 456 486 558.982 607.018 660 701 731.982> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
+VStem: 16 90<17 55 762 801> 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 456 30<258 380 417 597> 586 91<17 55 762 801> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
 LayerCount: 3
 Fore
 SplineSet
@@ -106401,13 +106376,13 @@ StartChar: u1CF45
 Encoding: 118597 118597 769
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 17 88<16 55 780 819> 156 89<16 55 780 819> 229 29<100.07 156 185 300.918 424.018 475 500 562.985 705.078 747.951> 295 88<16 55 780 819> 391 29<185 331.113> 405 29<500 592.434> 434 88<16 55 780 819> 573 89<16 55 780 819> 594 29<100.215 156 185 335.685 424.279 475 500 632.938> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
-VStem: 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 16 90<17 55 762 801> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 475 25<258 405 434 597> 586 91<17 55 762 801> 666 25<477.436 557.444> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
+Flags: W
+HStem: 17 88<16 55 780 819> 17 38<55 106 158 249 301 391 443 535 586 677 729 780> 156 89<16 55 780 819> 229 29<100.07 156 185 300.918 424.018 475 500 562.985 705.078 747.951> 295 88<16 55 780 819> 391 29<185 331.113> 405 29<500 592.434> 434 88<16 55 780 819> 573 89<16 55 780 819> 594 29<100.215 156 185 335.685 424.279 475 500 632.938> 712 89<16 55 780 819> 762 39<55 106 158 249 301 391 443 535 586 677 729 780>
+VStem: 16 90<17 55 762 801> 16 39<55 105 156 245 295 383 434 522 573 662 712 762> 156 29<259 391 420 594> 158 91<17 55 762 801> 301 90<17 55 762 801> 373 28<460.301 557.219> 443 92<17 55 762 801> 475 25<258 405 434 597> 586 91<17 55 762 801> 666 25<477.436 557.444> 695 53<229.004 254.357> 729 90<17 55 762 801> 780 39<55 105 156 245 295 383 434 522 573 662 712 762>
 LayerCount: 3
 Fore
 SplineSet
-500 405 m 5x1a0014
+500 405 m 5x1a0016
  500 258 l 5
  547 258 l 6
  558 258 563 253 563 244 c 4
@@ -106429,7 +106404,7 @@ SplineSet
  748 234 731 229 731 229 c 5
  695 229 l 5
  641 343 618 381 571 405 c 5
- 500 405 l 5x1a0014
+ 500 405 l 5x1a0016
 500 434 m 5
  560 434 l 6
  621 434 666 471 666 516 c 4
@@ -106459,53 +106434,53 @@ SplineSet
  185 420 l 5
  278 420 l 6
  334 420 373 455 373 508 c 4x0c4240
-819 712 m 5x082001
- 780 712 l 5x082001
- 780 762 l 5x081001
+819 712 m 5x08200080
+ 780 712 l 5x08200080
+ 780 762 l 5x08100080
  729 762 l 5
- 729 801 l 5x081002
- 819 801 l 5x082002
- 819 712 l 5x082001
+ 729 801 l 5x081001
+ 819 801 l 5x082001
+ 819 712 l 5x08200080
 677 762 m 5x081008
  586 762 l 5
  586 801 l 5
  677 801 l 5
  677 762 l 5x081008
-819 573 m 5x088001
+819 573 m 5x08800080
  780 573 l 5
  780 662 l 5
  819 662 l 5
- 819 573 l 5x088001
+ 819 573 l 5x08800080
 535 762 m 5x081020
  443 762 l 5
  443 801 l 5
  535 801 l 5
  535 762 l 5x081020
-819 434 m 5x090001
+819 434 m 5x09000080
  780 434 l 5
  780 522 l 5
  819 522 l 5
- 819 434 l 5x090001
+ 819 434 l 5x09000080
 391 762 m 5x081080
  301 762 l 5
  301 801 l 5
  391 801 l 5
  391 762 l 5x081080
-819 295 m 5x080001
+819 295 m 5x08000080
  780 295 l 5
  780 383 l 5
  819 383 l 5
- 819 295 l 5x080001
+ 819 295 l 5x08000080
 249 762 m 5x0811
  158 762 l 5
  158 801 l 5
  249 801 l 5
  249 762 l 5x0811
-819 156 m 5x280001
+819 156 m 5x28000080
  780 156 l 5
  780 245 l 5
  819 245 l 5
- 819 156 l 5x280001
+ 819 156 l 5x28000080
 106 762 m 5x0818
  55 762 l 5x0814
  55 712 l 5
@@ -106513,13 +106488,13 @@ SplineSet
  16 801 l 5x0828
  106 801 l 5
  106 762 l 5x0818
-819 17 m 5x880002
+819 17 m 5x880001
  729 17 l 5
- 729 55 l 5x480002
- 780 55 l 5x480001
+ 729 55 l 5x480001
+ 780 55 l 5x48000080
  780 105 l 5
- 819 105 l 5x880001
- 819 17 l 5x880002
+ 819 105 l 5x88000080
+ 819 17 l 5x880001
 55 573 m 5x0884
  16 573 l 5
  16 662 l 5
@@ -106574,8 +106549,8 @@ StartChar: u1CF50
 Encoding: 118608 118608 770
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 47.0833> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -106595,20 +106570,20 @@ AnchorPoint: "Podchashie" 378 245 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-519 576 m 4
- 544 576 588 521 588 494 c 4
- 588 494 588 493 588 492 c 6
- 575 374 l 5
- 569 402 553 426 526 447 c 4
- 523 450 518 451 513 451 c 4
- 497 451 469 436 430 407 c 4
- 345 344 225 224 71 48 c 5
- 30 0 l 5
- 79 480 l 5
- 105 496 l 5
- 70 162 l 5
- 168 283 280 395 406 498 c 4
- 468 550 506 576 519 576 c 4
+519 576 m 0
+ 544 576 588 521 588 494 c 0
+ 588 494 588 493 588 492 c 2
+ 575 374 l 1
+ 569 402 553 426 526 447 c 0
+ 523 450 518 451 513 451 c 0
+ 497 451 469 436 430 407 c 0
+ 345 344 225 224 71 48 c 1
+ 30 0 l 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+ 168 283 280 395 406 498 c 0
+ 468 550 506 576 519 576 c 0
 EndSplineSet
 EndChar
 
@@ -106616,8 +106591,8 @@ StartChar: u1CF51
 Encoding: 118609 118609 771
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 20<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -106662,8 +106637,8 @@ StartChar: u1CF52
 Encoding: 118610 118610 772
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0168 47.5> 451 125<478.289 545.144>
+Flags: W
+HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.144>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -106714,8 +106689,8 @@ StartChar: u1CF53
 Encoding: 118611 118611 773
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 47.0833> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -106764,8 +106739,8 @@ StartChar: u1CF54
 Encoding: 118612 118612 774
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 47.0833> 450 126<471.313 535.97>
+Flags: W
+HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
 AnchorPoint: "Borzaya" 510 100 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -106818,8 +106793,8 @@ StartChar: u1CF55
 Encoding: 118613 118613 775
 Width: 675
 VWidth: 0
-Flags: HW
-HStem: 0 21<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
+Flags: W
+HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -106925,8 +106900,8 @@ StartChar: u1CF61
 Encoding: 118625 118625 777
 Width: 500
 VWidth: 0
-Flags: HW
-HStem: 0 21<159 165> 204 108<88.6072 156.56>
+Flags: W
+HStem: 0 21G<159 165> 204 108<88.6072 156.56>
 VStem: 30 27<-45.8219 138.118> 164 32<46.2486 254>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -106985,8 +106960,8 @@ StartChar: u1CF62
 Encoding: 118626 118626 778
 Width: 635
 VWidth: 0
-Flags: HW
-HStem: 0 21<158 163> 203 108<88.6072 156.817>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107049,8 +107024,8 @@ StartChar: u1CF63
 Encoding: 118627 118627 779
 Width: 705
 VWidth: 0
-Flags: HW
-HStem: 203 108<88.6072 156.817> 519 125<560.145 626.462>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817> 519 125<560.145 626.462>
 VStem: 30 27<-45.8159 136.404> 164 32<45.7511 254>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107107,8 +107082,8 @@ StartChar: u1CF64
 Encoding: 118628 118628 780
 Width: 845
 VWidth: 0
-Flags: HW
-HStem: 203 108<88.6072 156.817> 519 125<700.145 766.462>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817> 519 125<700.145 766.462>
 VStem: 30 27<-45.8159 136.404> 164 32<45.7511 254>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107172,7 +107147,7 @@ StartChar: u1CF65
 Encoding: 118629 118629 781
 Width: 985
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 203 108<88.6072 156.817> 600 125<840.145 906.462>
 VStem: 30 27<-45.8219 136.404> 151 24<6 93.4724> 164 32<46.3647 253>
 AnchorPoint: "PitchMark" 60 580 basechar 0
@@ -107243,8 +107218,8 @@ StartChar: u1CF66
 Encoding: 118630 118630 782
 Width: 1120
 VWidth: 0
-Flags: HW
-HStem: 0 21<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.46>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817> 683 125<975.145 1041.46>
 VStem: 30 27<-45.8219 136.404> 164 32<45.7242 253>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107320,8 +107295,8 @@ StartChar: u1CF67
 Encoding: 118631 118631 783
 Width: 705
 VWidth: 0
-Flags: HW
-HStem: 203 108<88.6072 156.817> 517 126<559.958 616.877>
+Flags: W
+HStem: 0 21G<158 163> 203 108<88.6072 156.817> 517 126<559.958 616.877>
 VStem: 30 27<-45.8159 136.404> 164 32<45.7511 254>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107387,7 +107362,7 @@ StartChar: u1CF68
 Encoding: 118632 118632 784
 Width: 845
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 204 108<90.0564 157.9> 520 126<699.958 756.877>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
 AnchorPoint: "PitchMark" 60 580 basechar 0
@@ -107458,8 +107433,8 @@ StartChar: u1CF69
 Encoding: 118633 118633 785
 Width: 980
 VWidth: 0
-Flags: HW
-HStem: 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20<593.252 625>
+Flags: W
+HStem: 204 108<90.0564 157.9> 601 126<835.958 892.761> 650 20G<593.252 625>
 VStem: 30 27<-44.8865 137.488> 151 24<0.226078 102.645> 164 32<49.0424 259.5>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107623,7 +107598,7 @@ StartChar: u1CF6B
 Encoding: 118635 118635 787
 Width: 350
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 65 134<60.4374 124.588> 89 134<222.437 286.588>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "PitchMark" 60 580 basechar 0
@@ -107676,7 +107651,7 @@ StartChar: u1CF6C
 Encoding: 118636 118636 788
 Width: 535
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 111 104<140.5 249.089> 220 78<334.5 408.652>
 VStem: 188 88<64.5 188.066> 292 69<266.5 346.5>
 AnchorPoint: "PitchMark" 60 580 basechar 0
@@ -107726,8 +107701,8 @@ StartChar: u1CF6D
 Encoding: 118637 118637 789
 Width: 410
 VWidth: 0
-Flags: HW
-HStem: 0 15<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 275.483>
+Flags: W
+HStem: 0 15G<176.5 179.5 345 351.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 275.483>
 VStem: 112 9<2.02298 16.4071> 113 31<19.5513 135> 272 9<26.023 40.4071> 273 31<43.5513 159> 348 34<46.8179 282.938>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -107787,9 +107762,9 @@ StartChar: u1CF6E
 Encoding: 118638 118638 790
 Width: 545
 VWidth: 0
-Flags: HW
-HStem: 0 21<179.5 182.5> 30 106<367.552 466.3> 84 94<51.6637 112.37> 108 94<211.664 272.37>
-VStem: 116 8<3.52825 14.6724> 116 31<26.8191 78.9965> 276 8<27.5282 38.6724> 276 31<50.8191 102.996> 336 34<137.47 214.16> 378 26<418.5 521.999> 396 11<520.513 543.981> 501 22<179.369 286>
+Flags: W
+HStem: 0 21G<179.5 182.5> 30 106<367.552 466.3> 84 94<51.6637 112.37> 108 94<211.664 272.37>
+VStem: 116 31<26.8191 78.9965> 116 8<3.52825 14.6724> 276 31<50.8191 102.996> 276 8<27.5282 38.6724> 336 34<137.47 214.16> 378 26<418.5 521.999> 396 11<520.513 543.981> 501 22<179.369 286>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -107862,7 +107837,7 @@ StartChar: u1CF6F
 Encoding: 118639 118639 791
 Width: 225
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 106<51.5524 150.3>
 VStem: 20 34<107.47 184.16> 62 26<388.5 491.999> 80 11<490.513 513.981> 185 22<149.369 256>
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -107915,7 +107890,7 @@ StartChar: u1CF70
 Encoding: 118640 118640 792
 Width: 225
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 106<49.7806 150.57>
 VStem: 20 29<108.904 171.804> 62 26<379.5 491.847> 80 11<490.513 513.987> 185 22<148.28 255.5>
 AnchorPoint: "PitchMark" -40 500 basechar 0
@@ -107974,8 +107949,8 @@ StartChar: u1CF71
 Encoding: 118641 118641 793
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
 VStem: 300 31<94 197.966> 444 10<224.868 248.647>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108029,8 +108004,8 @@ StartChar: u1CF72
 Encoding: 118642 118642 794
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -108078,8 +108053,8 @@ StartChar: u1CF73
 Encoding: 118643 118643 795
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -108132,8 +108107,8 @@ StartChar: u1CF74
 Encoding: 118644 118644 796
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33> 451 125<479.474 545.206>
+Flags: W
+HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -108191,8 +108166,8 @@ StartChar: u1CF75
 Encoding: 118645 118645 797
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21.5996<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
+Flags: W
+HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -108243,8 +108218,8 @@ StartChar: u1CF76
 Encoding: 118646 118646 798
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33> 450 126<476.722 546.078>
+Flags: W
+HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
 AnchorPoint: "Borzaya" 530 100 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108299,8 +108274,8 @@ StartChar: u1CF77
 Encoding: 118647 118647 799
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33> 450 126<476.722 546.078>
+Flags: W
+HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
 AnchorPoint: "Borzaya" 530 100 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108365,8 +108340,8 @@ StartChar: u1CF78
 Encoding: 118648 118648 800
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
+Flags: W
+HStem: 0 21G<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
 AnchorPoint: "Borzaya" 530 100 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108436,7 +108411,8 @@ StartChar: u1CF79
 Encoding: 118649 118649 801
 Width: 625
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0417 48.1958>
 AnchorPoint: "Borzaya" 510 100 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108478,7 +108454,7 @@ SplineSet
  276 190 l 1
  253 180 l 1
  260.473 253.326 l 1
- 145.872 135.692 30 -0 30 0 c 2
+ 145.872 135.692 30 0 30 0 c 2
  79 480 l 1
  105 496 l 1
  70 162 l 1
@@ -108497,8 +108473,8 @@ StartChar: u1CF7A
 Encoding: 118650 118650 802
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.9512 47.0833> 450 126<477.126 546.369>
+Flags: W
+HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
@@ -108544,8 +108520,8 @@ StartChar: u1CF7B
 Encoding: 118651 118651 803
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
+Flags: W
+HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
@@ -108601,8 +108577,8 @@ StartChar: u1CF7C
 Encoding: 118652 118652 804
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<31.9512 47.0833> 450 126<477.126 546.369>
+Flags: W
+HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
@@ -108663,8 +108639,8 @@ StartChar: u1CF7D
 Encoding: 118653 118653 805
 Width: 815
 VWidth: 0
-Flags: HW
-HStem: 0 15.5996<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20<426.269 458>
+Flags: W
+HStem: 0 15.5996G<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20G<426.269 458>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
@@ -108734,7 +108710,7 @@ StartChar: u1CF7E
 Encoding: 118654 118654 806
 Width: 260
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 1 247
 VStem: 20 220
 AnchorPoint: "Lomka" 330 150 basechar 0
@@ -108774,8 +108750,8 @@ StartChar: u1CF7F
 Encoding: 118655 118655 807
 Width: 340
 VWidth: 0
-Flags: HW
-HStem: 1 21<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
+Flags: W
+HStem: 1 21G<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
 VStem: 121 18<269.004 304.991> 283 43<102.263 295.725>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
@@ -108875,8 +108851,8 @@ StartChar: u1CF81
 Encoding: 118657 118657 809
 Width: 300
 VWidth: 0
-Flags: HW
-HStem: 0 21<85.9048 89>
+Flags: W
+HStem: 0 21G<85.9048 89>
 VStem: 20 253
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108928,8 +108904,8 @@ StartChar: u1CF82
 Encoding: 118658 118658 810
 Width: 215
 VWidth: 0
-Flags: HW
-HStem: 0 21<64.0087 84>
+Flags: W
+HStem: 0 21G<64.0087 84>
 VStem: 16 177
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -108972,9 +108948,9 @@ StartChar: u1CF83
 Encoding: 118659 118659 811
 Width: 240
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -4 112<124.008 169.548>
-VStem: 68 49<48.5 209.314> 117 36<360.356 425.472> 117 52<367.678 508>
+VStem: 68 49<48.5 209.314> 117 52<367.678 508> 117 36<360.356 425.472>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -109031,7 +109007,7 @@ StartChar: u1CF84
 Encoding: 118660 118660 812
 Width: 230
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 31 40<290 399.582> 155 40<118.412 215>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -109081,7 +109057,7 @@ StartChar: u1CF85
 Encoding: 118661 118661 813
 Width: 752
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -4 47<153.416 216.758> 3 73<578 635.7> 322 81<483.486 609.356> 329 75<150.465 265.879>
 VStem: 20 71<115.362 264.116> 668 64<109.396 265.284>
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109139,7 +109115,7 @@ StartChar: u1CF86
 Encoding: 118662 118662 814
 Width: 200
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 23 154
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -109183,8 +109159,8 @@ StartChar: u1CF87
 Encoding: 118663 118663 815
 Width: 440
 VWidth: 0
-Flags: HW
-HStem: 454 21<302.5 307.5> 545 117<210.931 296.442>
+Flags: W
+HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442>
 VStem: 183 19<492.423 522.491> 298 27<462.636 537.411>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109252,7 +109228,7 @@ StartChar: u1CF88
 Encoding: 118664 118664 816
 Width: 240
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 30 185
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109296,7 +109272,7 @@ StartChar: u1CF89
 Encoding: 118665 118665 817
 Width: 350
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 137 134<231.788 297.641>
 VStem: 203 10<83.3571 104.99> 211 118<139.656 250.711> 293 18<-25.8192 26.2847>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -109351,8 +109327,8 @@ StartChar: u1CF8A
 Encoding: 118666 118666 818
 Width: 365
 VWidth: 0
-Flags: HW
-HStem: 0 21<240 260>
+Flags: W
+HStem: 0 21G<240 260>
 VStem: 30 309
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109403,8 +109379,8 @@ StartChar: u1CF8B
 Encoding: 118667 118667 819
 Width: 525
 VWidth: 0
-Flags: HW
-HStem: 0 21<405 426> 137 134<232.569 297.563>
+Flags: W
+HStem: 0 21G<405 426> 137 134<232.569 297.563>
 VStem: 203 10<83.7422 104.195> 304 27<10.9733 144>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109546,7 +109522,7 @@ StartChar: u1CF8D
 Encoding: 118669 118669 821
 Width: 350
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 30 295
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 420 150 basechar 0
@@ -109589,7 +109565,7 @@ StartChar: u1CF8E
 Encoding: 118670 118670 822
 Width: 520
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 137 134<392.788 458.641>
 VStem: 364 10<83.3571 104.99> 372 118<139.656 250.711> 454 18<-25.8192 26.2847>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -109645,7 +109621,7 @@ StartChar: u1CF8F
 Encoding: 118671 118671 823
 Width: 475
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -4 112<338.794 405.126>
 VStem: 260 144<434.189 500.122> 302 130<23.4466 106.874>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -109709,8 +109685,8 @@ StartChar: u1CF90
 Encoding: 118672 118672 824
 Width: 515
 VWidth: 0
-Flags: HW
-HStem: -2 21<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588>
+Flags: W
+HStem: -2 21G<462 466.5> 137 134<233.437 297.588> 161 134<395.437 459.588>
 VStem: 203 11<82.051 103.404> 304 27<10.9824 181.5> 365 11<106.051 127.404> 466 27<34.9824 205.5>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109772,7 +109748,7 @@ StartChar: u1CF91
 Encoding: 118673 118673 825
 Width: 530
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 37 94<404.253 464.991> 73 134<231.788 297.641>
 VStem: 203 10<19.3571 40.9895> 211 118<75.6563 186.711> 293 18<-89.8192 -37.7153> 370 31<80 189.301> 490 11<204.499 239.569>
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -109834,7 +109810,7 @@ StartChar: u1CF92
 Encoding: 118674 118674 826
 Width: 355
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -3 94<242.117 302.649>
 VStem: 208 31<40 149.301> 328 10<168.655 199.288>
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
@@ -109933,8 +109909,8 @@ StartChar: u1CF94
 Encoding: 118676 118676 828
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -109987,8 +109963,8 @@ StartChar: u1CF95
 Encoding: 118677 118677 829
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198 446.024 466> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198 446.024 466> 451 125<644.474 710.206>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -110045,8 +110021,8 @@ StartChar: u1CF96
 Encoding: 118678 118678 830
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110112,8 +110088,8 @@ StartChar: u1CF97
 Encoding: 118679 118679 831
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110171,8 +110147,8 @@ StartChar: u1CF98
 Encoding: 118680 118680 832
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110235,8 +110211,8 @@ StartChar: u1CF99
 Encoding: 118681 118681 833
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110304,8 +110280,8 @@ StartChar: u1CF9A
 Encoding: 118682 118682 834
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<194.869 196> 450 126<639.722 709.078>
+Flags: W
+HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 670 110 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110380,8 +110356,8 @@ StartChar: u1CF9B
 Encoding: 118683 118683 835
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<194.869 196 420.89 434.5> 450 126<639.722 709.078>
+Flags: W
+HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 690 110 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110461,8 +110437,8 @@ StartChar: u1CF9C
 Encoding: 118684 118684 836
 Width: 790
 VWidth: 999
-Flags: HW
-HStem: 0 21<195.056 196> 451 126<640.898 709.284>
+Flags: W
+HStem: 0 21G<195.056 196> 451 126<640.898 709.284>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 360 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110518,8 +110494,8 @@ StartChar: u1CF9D
 Encoding: 118685 118685 837
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<194.951 210.083> 450 126<640.126 709.369>
+Flags: W
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -110575,8 +110551,8 @@ StartChar: u1CF9E
 Encoding: 118686 118686 838
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
+Flags: W
+HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -110645,8 +110621,8 @@ StartChar: u1CF9F
 Encoding: 118687 118687 839
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<194.951 210.083> 450 126<640.126 709.369>
+Flags: W
+HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -110712,8 +110688,8 @@ StartChar: u1CFA0
 Encoding: 118688 118688 840
 Width: 990
 VWidth: 0
-Flags: HW
-HStem: 586 127<841.844 902.982> 645 20<593.252 625>
+Flags: W
+HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -110782,8 +110758,8 @@ StartChar: u1CFA1
 Encoding: 118689 118689 841
 Width: 990
 VWidth: 0
-Flags: HW
-HStem: 586 127<841.844 902.982> 645 20<593.252 625>
+Flags: W
+HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -110862,8 +110838,8 @@ StartChar: u1CFA2
 Encoding: 118690 118690 842
 Width: 790
 VWidth: 0
-Flags: HW
-HStem: 0 21<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206>
+Flags: W
+HStem: 0 21G<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206>
 VStem: 30 10<35.0276 56.65> 131 27<-37.0267 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -110919,7 +110895,7 @@ StartChar: u1CFA3
 Encoding: 118691 118691 843
 Width: 790
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 57 134<58.8267 123.21> 611 125<645.494 712.462>
 VStem: 30 10<0.0497856 24.65> 131 27<-69.119 101.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -110985,8 +110961,8 @@ StartChar: u1CFA4
 Encoding: 118692 118692 844
 Width: 950
 VWidth: 0
-Flags: HW
-HStem: 0 21<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
+Flags: W
+HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 500 800 basechar 0
@@ -111054,8 +111030,8 @@ StartChar: u1CFA5
 Encoding: 118693 118693 845
 Width: 950
 VWidth: 0
-Flags: HW
-HStem: 0 21<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
+Flags: W
+HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 500 800 basechar 0
@@ -111133,7 +111109,7 @@ StartChar: u1CFA6
 Encoding: 118694 118694 846
 Width: 960
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 36 134<58.8267 124.563> 60 134<226.827 292.563> 614 125<814.302 882.462>
 VStem: 30 10<-16.8579 3.64995> 131 27<-90.0267 80.5> 198 10<7.14209 27.65> 299 27<-66.0267 104.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -111212,8 +111188,8 @@ StartChar: u1CFA7
 Encoding: 118695 118695 847
 Width: 950
 VWidth: 0
-Flags: HW
-HStem: -1 22<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
+Flags: W
+HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -111282,8 +111258,8 @@ StartChar: u1CFA8
 Encoding: 118696 118696 848
 Width: 950
 VWidth: 0
-Flags: HW
-HStem: -1 22<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
+Flags: W
+HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 500 800 basechar 0
@@ -111362,8 +111338,8 @@ StartChar: u1CFA9
 Encoding: 118697 118697 849
 Width: 750
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 156.869 158> 451 125<604.474 670.206>
+Flags: W
+HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -111421,8 +111397,8 @@ StartChar: u1CFAA
 Encoding: 118698 118698 850
 Width: 750
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 154.869 156> 450 126<599.722 669.078>
+Flags: W
+HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 620 110 basechar 0
@@ -111492,8 +111468,8 @@ StartChar: u1CFAB
 Encoding: 118699 118699 851
 Width: 750
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 154.869 156> 450 126<599.722 669.078>
+Flags: W
+HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 620 110 basechar 0
@@ -111573,8 +111549,8 @@ StartChar: u1CFAC
 Encoding: 118700 118700 852
 Width: 750
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078>
+Flags: W
+HStem: -10 31G<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -111659,8 +111635,8 @@ StartChar: u1CFAD
 Encoding: 118701 118701 853
 Width: 880
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -111730,8 +111706,8 @@ StartChar: u1CFAE
 Encoding: 118702 118702 854
 Width: 880
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -111811,8 +111787,8 @@ StartChar: u1CFAF
 Encoding: 118703 118703 855
 Width: 880
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -111895,8 +111871,8 @@ StartChar: u1CFB0
 Encoding: 118704 118704 856
 Width: 715
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 451 125<569.049 637.264>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 451 125<569.049 637.264>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -111949,8 +111925,8 @@ StartChar: u1CFB1
 Encoding: 118705 118705 857
 Width: 975
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 599 125<829.049 897.264>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 599 125<829.049 897.264>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -112015,8 +111991,8 @@ StartChar: u1CFB2
 Encoding: 118706 118706 858
 Width: 1105
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 681 125<959.575 1027.46>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 681 125<959.575 1027.46>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -112087,8 +112063,8 @@ StartChar: u1CFB3
 Encoding: 118707 118707 859
 Width: 1010
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 672 107<878.981 934.403>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 672 107<878.981 934.403>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -112151,8 +112127,8 @@ StartChar: u1CFB4
 Encoding: 118708 118708 860
 Width: 975
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 602 125<828.157 884.865> 654 20<591.252 623>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 602 125<828.157 884.865> 654 20G<591.252 623>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -112226,8 +112202,8 @@ StartChar: u1CFB5
 Encoding: 118709 118709 861
 Width: 1105
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 460 21<807.105 828> 683 123<961.157 1025.99>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 460 21G<807.105 828> 683 123<961.157 1025.99> 750 50<0 390>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -112247,11 +112223,11 @@ AnchorPoint: "Podchashie" 870 490 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-0 800 m 1
+0 800 m 1xd0
  390 800 l 5
  390 750 l 5
  0 750 l 1
- 0 800 l 1
+ 0 800 l 1xd0
 70 162 m 1
  83 184 100 203 122 220 c 0
  144 237 161.741 248.692 177 254 c 2
@@ -112302,7 +112278,7 @@ SplineSet
  1071 723 1071 723 1071 722 c 1
  1057 605 l 1
  1053 624 1038 655 1008 678 c 0
- 1005 680 1002 683 997 683 c 0
+ 1005 680 1002 683 997 683 c 0xe0
  977 683 942 660 906 633 c 1
  949 605 l 1
 EndSplineSet
@@ -112312,8 +112288,8 @@ StartChar: u1CFB6
 Encoding: 118710 118710 862
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 0 21<242.042 257.083> 451 125<688.289 754.923>
+Flags: W
+HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -112364,8 +112340,8 @@ StartChar: u1CFB7
 Encoding: 118711 118711 863
 Width: 835
 VWidth: 0
-Flags: HW
-HStem: 0 21<242.042 257.083> 451 125<688.289 754.923>
+Flags: W
+HStem: 0 21G<242.042 257.083> 451 125<688.289 754.923>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -112426,8 +112402,8 @@ StartChar: u1CFB8
 Encoding: 118712 118712 864
 Width: 800
 VWidth: 0
-Flags: HW
-HStem: 0 21<207.042 222.083> 89 134<58.8267 124.563> 451 125<653.289 719.923>
+Flags: W
+HStem: 0 21G<207.042 222.083> 89 134<58.8267 124.563> 451 125<653.289 719.923>
 VStem: 30 10<36.1421 56.65> 131 27<-37.0267 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -112482,7 +112458,7 @@ StartChar: u1CFB9
 Encoding: 118713 118713 865
 Width: 755
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 86 134<58.8267 124.563> 616 107<624.342 679.088>
 VStem: 30 10<33.1421 53.65> 131 27<-40.0267 130.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -112548,8 +112524,8 @@ StartChar: u1CFBA
 Encoding: 118714 118714 866
 Width: 960
 VWidth: 0
-Flags: HW
-HStem: 0 21<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
+Flags: W
+HStem: 0 21G<367.042 382.083> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -112615,8 +112591,8 @@ StartChar: u1CFBB
 Encoding: 118715 118715 867
 Width: 960
 VWidth: 0
-Flags: HW
-HStem: 0 21<367.042 382.083 557.89 571.5> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
+Flags: W
+HStem: 0 21G<367.042 382.083 557.89 571.5> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -112772,8 +112748,8 @@ StartChar: u1CFBD
 Encoding: 118717 118717 869
 Width: 960
 VWidth: 0
-Flags: HW
-HStem: -1 21<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
+Flags: W
+HStem: -1 21G<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -112840,9 +112816,9 @@ StartChar: u1CFBE
 Encoding: 118718 118718 870
 Width: 960
 VWidth: 0
-Flags: HW
-HStem: -77 315 -1 21<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
-VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 489 226
+Flags: W
+HStem: -1 21G<191.89 195.5 367.042 382.083> 65 134<60.4374 124.588> 451 125<813.289 879.923>
+VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -112920,8 +112896,8 @@ StartChar: u1CFBF
 Encoding: 118719 118719 871
 Width: 890
 VWidth: 0
-Flags: HW
-HStem: -10 31<30 33.5 160 163.5 297.042 312.083> 451 125<743.289 809.923>
+Flags: W
+HStem: -10 31G<30 33.5 160 163.5 297.042 312.083> 451 125<743.289 809.923>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -112989,7 +112965,7 @@ StartChar: u1CFC0
 Encoding: 118720 118720 872
 Width: 595
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 2 90<71.5 161.5> 249 85<430.5 535.941>
 VStem: 25 84<56 147> 484 86<191.5 291>
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -113039,7 +113015,7 @@ StartChar: u1CFC1
 Encoding: 118721 118721 873
 Width: 765
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 99 90<238.5 328.5> 346 85<597.5 702.941>
 VStem: 192 84<153 244> 651 86<288.5 388>
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -113099,8 +113075,8 @@ StartChar: u1CFC2
 Encoding: 118722 118722 874
 Width: 320
 VWidth: 0
-Flags: HW
-HStem: -7 21<149 172.258>
+Flags: W
+HStem: -7 21G<149 172.258>
 VStem: 25 270
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -113152,8 +113128,8 @@ StartChar: u1CFC3
 Encoding: 118723 118723 875
 Width: 1070
 VWidth: 0
-Flags: HW
-HStem: -7 21<149 172.258 476.869 478> 451 125<924.474 990.206>
+Flags: W
+HStem: -7 21G<149 172.258 476.869 478> 451 125<924.474 990.206>
 AnchorPoint: "PitchMark" 420 770 basechar 0
 AnchorPoint: "Lomka" 985 150 basechar 0
 AnchorPoint: "Tikhaya" 260 100 basechar 0
@@ -113231,8 +113207,8 @@ StartChar: u1CFC4
 Encoding: 118724 118724 876
 Width: 290
 VWidth: 0
-Flags: HW
-HStem: 0 21<24.0417 40.5714 193.121 208.857>
+Flags: W
+HStem: 0 21G<24.0417 40.5714 193.121 208.857>
 VStem: 22 243
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -113279,8 +113255,8 @@ StartChar: u1CFC5
 Encoding: 118725 118725 877
 Width: 625
 VWidth: 0
-Flags: HW
-HStem: 0 21<35.5 47.5> 450 126<478.494 546.2>
+Flags: W
+HStem: 0 21G<35.5 47.5> 450 126<478.494 546.2>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -113324,8 +113300,8 @@ StartChar: u1CFC6
 Encoding: 118726 118726 878
 Width: 825
 VWidth: 0
-Flags: HW
-HStem: 0 21<235.5 247.5> 450 126<678.494 746.2>
+Flags: W
+HStem: 0 21G<235.5 247.5> 450 126<678.494 746.2>
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -113381,7 +113357,7 @@ StartChar: u1CFC7
 Encoding: 118727 118727 879
 Width: 645
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 256 60<174.288 437.515>
 VStem: 540 80<42.3234 152.785>
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -113536,7 +113512,7 @@ StartChar: u1CF35
 Encoding: 118581 118581 885
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 94<-138.665 -66.337>
 VStem: -174 31<48 151.966> -30 10<178.868 202.647>
 AnchorPoint: "Podchashie" -93 200 mark 0
@@ -113744,7 +113720,7 @@ StartChar: u1CF3D
 Encoding: 118589 118589 893
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -94 296
 VStem: 10 52
 LayerCount: 3
@@ -113790,7 +113766,7 @@ StartChar: u1CF3F
 Encoding: 118591 118591 895
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 9 137
 LayerCount: 3
 Fore
@@ -113815,8 +113791,8 @@ StartChar: u1CF56
 Encoding: 118614 118614 896
 Width: 225
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5>
+Flags: W
+HStem: 0 21G<32.0417 40.5>
 VStem: 30 169
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -113854,8 +113830,8 @@ StartChar: u1CF58
 Encoding: 118616 118616 897
 Width: 500
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5>
+Flags: W
+HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -113906,8 +113882,8 @@ StartChar: u1CF59
 Encoding: 118617 118617 898
 Width: 650
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5>
+Flags: W
+HStem: 0 21G<32.0417 40.5>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Podchashie" 110 0 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -113964,8 +113940,8 @@ StartChar: u1CF5A
 Encoding: 118618 118618 899
 Width: 275
 VWidth: 0
-Flags: HW
-HStem: 0 21<82.0455 90.5> 300 60<21.6389 97.3965>
+Flags: W
+HStem: 0 21G<82.0455 90.5> 300 60<21.6389 97.3965>
 VStem: 12 234
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Podchashie" 160 0 basechar 0
@@ -114013,8 +113989,8 @@ StartChar: u1CF5B
 Encoding: 118619 118619 900
 Width: 385
 VWidth: 0
-Flags: HW
-HStem: 0 21<32.0417 40.5> 281 134<264.827 330.563>
+Flags: W
+HStem: 0 21G<32.0417 40.5> 281 134<264.827 330.563>
 VStem: 236 10<227.683 248.65> 337 27<154.973 325.5>
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Podchashie" 110 0 basechar 0
@@ -114064,8 +114040,8 @@ StartChar: u1CF5C
 Encoding: 118620 118620 901
 Width: 250
 VWidth: 0
-Flags: HW
-HStem: -6 21<178.5 185.5> 371 125<35 110.225>
+Flags: W
+HStem: -6 21G<178.5 185.5> 371 125<35 110.225>
 VStem: 182 35<48.6146 286.634>
 AnchorPoint: "Kachka" 0 270 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -114103,9 +114079,9 @@ StartChar: u1CF5D
 Encoding: 118621 118621 902
 Width: 255
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 259 104<96.4066 180.778>
-VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 78.3868> 197 31<85.9516 292.5>
+VStem: 22 22<-52.9434 138.467> 182.75 19.25<4.59036 78.3869> 197 31<85.9518 292.5>
 AnchorPoint: "PitchMark" 60 580 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 80 basechar 0
@@ -114145,7 +114121,7 @@ StartChar: u1CF5E
 Encoding: 118622 118622 903
 Width: 325
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 206 108<82.3961 151.009>
 VStem: 24 27<-42.8409 141.765> 158 32<41.3 254>
 AnchorPoint: "Lomka" 370 150 basechar 0
@@ -114197,7 +114173,7 @@ StartChar: u1CF5F
 Encoding: 118623 118623 904
 Width: 450
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 206 108<69.6788 136.817>
 VStem: 10 27<-42.8159 141.02> 144 32<48.7511 257>
 AnchorPoint: "PitchMark" 60 580 basechar 0
@@ -129383,9 +129359,9 @@ StartChar: uniEC2E
 Encoding: 60462 60462 1177
 Width: 645
 VWidth: 0
-Flags: HW
-HStem: -7 21<149 172.258> 137 134<521.788 587.641>
-VStem: 25 270 493 10<83.3571 104.99> 501 118<139.656 250.711> 583 18<-25.8192 26.2847>
+Flags: W
+HStem: -7 21<149 172.258> 137 134<521.788 587.641> 750 50<0 400>
+VStem: 493 10<83.3571 104.99> 501 118<139.656 250.711> 583 18<-25.8192 26.2847>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -129442,9 +129418,9 @@ StartChar: uniEC2F
 Encoding: 60463 60463 1178
 Width: 615
 VWidth: 0
-Flags: HW
-HStem: 0 21<24.0417 40.5714 193.121 208.857> 137 134<491.788 557.641>
-VStem: 22 243 463 10<83.3571 104.99> 471 118<139.656 250.711> 553 18<-25.8192 26.2847>
+Flags: W
+HStem: 0 21<24.0417 40.5714 193.121 208.857> 137 134<491.788 557.641> 750 50<0 400>
+VStem: 463 10<83.3571 104.99> 471 118<139.656 250.711> 553 18<-25.8192 26.2847>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -130800,7 +130776,7 @@ StartChar: u1CF48
 Encoding: 118600 118600 1242
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 389 196
 VStem: -161 96
 LayerCount: 3
