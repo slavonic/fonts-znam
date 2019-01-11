@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1547176291
+ModificationTime: 1547212954
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -981,8 +981,8 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -990,7 +990,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 416 26 8
+WinInfo: 754 26 8
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -25231,7 +25231,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -30912,7 +30912,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -30962,7 +30962,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -31009,7 +31009,7 @@ Encoding: 60266 60266 193
 Width: 625
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -31062,7 +31062,7 @@ Encoding: 60267 60267 194
 Width: 625
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -31114,7 +31114,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<40.0168 55.5> 450 126<484.736 553.73>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -31173,7 +31173,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<40.0168 55.5> 451 125<486.678 550.644>
 VStem: 585 22<548 625>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -31234,7 +31234,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -31292,7 +31292,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -31348,7 +31348,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -31410,7 +31410,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -31603,7 +31603,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -31666,7 +31666,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -33885,7 +33885,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -33943,7 +33943,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -35564,7 +35564,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -36039,7 +36039,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -36412,7 +36412,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -37843,7 +37843,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -38228,7 +38228,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -38941,7 +38941,7 @@ Encoding: 60334 60334 245
 Width: 440
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442>
 VStem: 183 19<492.423 522.491> 193.755 27.245<414.088 475> 298 27<462.636 537.411>
 TtInstrs:
@@ -39297,7 +39297,7 @@ StartChar: uniEBAF
 Encoding: 60335 60335 246
 Width: 440
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 454 21G<302.5 307.5> 545 117<217.861 296.442>
 VStem: 183 19<492.423 523.821> 298 27<462.636 537.411>
 TtInstrs:
@@ -39700,7 +39700,7 @@ Encoding: 60336 60336 248
 Width: 440
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 454 21G<302.5 307.5> 545 117<210.931 296.547>
 VStem: 183 19<492.423 522.491> 298 17<454.09 494.668>
 TtInstrs:
@@ -50637,7 +50637,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -50687,7 +50687,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -50734,7 +50734,7 @@ Encoding: 60268 60268 291
 Width: 625
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -50788,7 +50788,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 20G<32.0417 47.0833 280.024 300> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -52093,7 +52093,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -52392,7 +52392,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -52688,7 +52688,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -52912,7 +52912,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -53291,7 +53291,7 @@ IUP[y]
 IUP[x]
 EndTTInstrs
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -53470,7 +53470,7 @@ StartChar: uniEBAD
 Encoding: 60333 60333 306
 Width: 440
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442>
 VStem: 94 111<297.4 377.377> 183 19<492.423 522.491> 298 27<462.636 537.411>
 TtInstrs:
@@ -58616,7 +58616,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -58758,7 +58758,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -58892,7 +58892,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -59297,7 +59297,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -59742,7 +59742,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -59973,7 +59973,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -60231,7 +60231,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -60569,7 +60569,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -60835,7 +60835,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -61166,7 +61166,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -61461,7 +61461,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -61753,7 +61753,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -62153,7 +62153,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -62705,7 +62705,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -63159,7 +63159,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -63744,7 +63744,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -68723,7 +68723,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -69360,7 +69360,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<83.0417 98.0833> 451 125<528.95 595.12>
 AnchorPoint: "TonalRange" 465 660 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "PitchMark" 50 770 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -69964,7 +69964,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -70314,7 +70314,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -70506,7 +70506,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.279>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -70846,7 +70846,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -71118,7 +71118,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -71341,7 +71341,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -72410,7 +72410,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 375 800 basechar 0
+AnchorPoint: "Auxiliary" 335 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -72928,7 +72928,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -73005,7 +73005,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 600 20 basechar 0
@@ -73085,7 +73085,7 @@ VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
 AnchorPoint: "TonalRange" 805 800 basechar 0
-AnchorPoint: "Auxiliary" 590 800 basechar 0
+AnchorPoint: "Auxiliary" 550 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -73327,7 +73327,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 540 800 basechar 0
+AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -73702,7 +73702,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 540 800 basechar 0
+AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -74073,7 +74073,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 540 800 basechar 0
+AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -74204,7 +74204,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396>
 VStem: 688 23<67 122.325>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -74536,7 +74536,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 375 800 basechar 0
+AnchorPoint: "Auxiliary" 335 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -75814,7 +75814,7 @@ Width: 900
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 156 94<763.47 834.291> 450 126<639.722 709.078>
 VStem: 727 31<258.759 307.922> 871 10<331.849 358.288>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Podvertka" 800 150 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
@@ -75917,7 +75917,7 @@ VWidth: 999
 GlyphClass: 3
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -75965,7 +75965,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -76022,7 +76022,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
 VStem: 522 23<64 119.325>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -76081,7 +76081,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -76150,7 +76150,7 @@ Flags: W
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
 VStem: 572 23<64 119.325>
 AnchorPoint: "TonalRange" 465 660 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "PitchMark" 50 770 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -76210,7 +76210,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<82.0455 97.5> 300 60<21.6347 97.3965> 451 125<528.95 595.12>
 AnchorPoint: "TonalRange" 465 660 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "PitchMark" 50 770 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -78568,7 +78568,7 @@ Flags: W
 HStem: 0 21G<80.3344 98.0833> 451 125<528.27 595.37>
 VStem: 572 23<64 119.325>
 AnchorPoint: "TonalRange" 465 660 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "PitchMark" 50 770 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -79162,7 +79162,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 600 20 basechar 0
@@ -79681,7 +79681,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -79754,7 +79754,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -79825,7 +79825,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.258>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -79894,7 +79894,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -79959,7 +79959,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -80399,7 +80399,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -80910,7 +80910,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -80998,7 +80998,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.074>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -81451,7 +81451,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -81534,7 +81534,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -81616,7 +81616,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: -0.459961 21G<196.869 198> 450.54 125<644.474 710.279>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -81692,7 +81692,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -81751,7 +81751,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 451 125<478.606 545.281>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -82772,7 +82772,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -82860,7 +82860,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -82927,7 +82927,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -83014,7 +83014,7 @@ Encoding: 61368 61368 542
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 670 110 basechar 0
@@ -83109,7 +83109,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -83173,7 +83173,7 @@ Encoding: 61370 61370 544
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 690 110 basechar 0
@@ -83273,7 +83273,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -83443,7 +83443,7 @@ Encoding: 61382 61382 548
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -83518,7 +83518,7 @@ Width: 810
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.109>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -83588,7 +83588,7 @@ Encoding: 60207 60207 550
 Width: 810
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.109>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -83672,7 +83672,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -102803,7 +102803,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 263 134<469.67 531.391> 451 125<478.289 544.923>
 VStem: 529 18<50.0371 114.723> 540 26<94.3604 275.5>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -102862,7 +102862,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.227>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -102924,7 +102924,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.105>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -103008,7 +103008,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.351>
 VStem: 522 23<64 119.325>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -103065,7 +103065,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.351>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -103130,7 +103130,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: -0.459961 21G<196.869 198> 450.54 125<644.474 710.279>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -103201,7 +103201,7 @@ Width: 810
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.279>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -103279,7 +103279,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.518>
 VStem: 523 23<68 123.325>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -103341,7 +103341,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 15.5996G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.549>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -103483,7 +103483,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -103550,7 +103550,7 @@ Width: 650
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -103629,7 +103629,7 @@ VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<31.9512 48.4818 228.89 242.5>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -103681,7 +103681,7 @@ Width: 763
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -103761,7 +103761,7 @@ Width: 875
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 546.339>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
@@ -103855,7 +103855,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.074>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -103939,7 +103939,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.105>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -104028,7 +104028,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 510 100 basechar 0
@@ -104091,7 +104091,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -106657,7 +106657,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -106706,7 +106706,7 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 630 350 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Podvertka" 630 380 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
@@ -106745,7 +106745,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.144>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -106797,7 +106797,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -106848,7 +106848,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 450 126<471.313 535.97>
 AnchorPoint: "TonalRange" 465 680 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -106908,7 +106908,7 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 680 350 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "Podvertka" 680 380 basechar 0
 AnchorPoint: "Flexion" 415 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
@@ -108058,7 +108058,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33> 46 94<335.335 407.663> 451 125<479.474 545.206>
 VStem: 300 31<94 197.966> 444 10<224.868 248.647>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108112,7 +108112,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108161,7 +108161,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108215,7 +108215,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108274,7 +108274,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21.5996G<32.0417 47.0833 228.89 242.5> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108326,7 +108326,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Borzaya" 440 100 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108383,7 +108383,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 530 100 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
@@ -108449,7 +108449,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 257.89 271.5> 450 126<476.722 546.078>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Borzaya" 530 100 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
@@ -108527,7 +108527,7 @@ AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 160 basechar 0
 AnchorPoint: "Zevok" 630 350 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Podvertka" 630 380 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
@@ -108582,7 +108582,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108629,7 +108629,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833 226.89 240.5> 450 126<477.126 546.369>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108686,7 +108686,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.369>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108748,7 +108748,7 @@ Width: 815
 VWidth: 0
 Flags: W
 HStem: 0 15.5996G<31.6529 46 226.89 240.5> 592 128<676.414 747.855> 652 20G<426.269 458>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -110020,7 +110020,7 @@ Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -110072,7 +110072,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198 446.024 466> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" -340 150 basechar 0
@@ -110130,7 +110130,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110197,7 +110197,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110256,7 +110256,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110320,7 +110320,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110389,7 +110389,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 670 110 basechar 0
@@ -110465,7 +110465,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 690 110 basechar 0
@@ -110546,7 +110546,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<195.056 196> 451 126<640.898 709.284>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110603,7 +110603,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110660,7 +110660,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110730,7 +110730,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110797,7 +110797,7 @@ Width: 990
 VWidth: 0
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110867,7 +110867,7 @@ Width: 990
 VWidth: 0
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -110948,7 +110948,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 89 134<58.8267 124.563> 451 125<644.474 710.206>
 VStem: 30 10<35.0276 56.65> 131 27<-37.0267 133.5>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -111072,7 +111072,7 @@ Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
 AnchorPoint: "PitchMark" 210 580 basechar 0
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -111140,7 +111140,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 180 330 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -111298,7 +111298,7 @@ VWidth: 0
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 180 330 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -111368,7 +111368,7 @@ VWidth: 0
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 180 330 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -111448,7 +111448,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -111507,7 +111507,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 620 110 basechar 0
@@ -111578,7 +111578,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 620 110 basechar 0
@@ -111659,7 +111659,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156 380.89 394.5> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -111745,7 +111745,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
-AnchorPoint: "Auxiliary" 540 800 basechar 0
+AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -111816,7 +111816,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
-AnchorPoint: "Auxiliary" 540 800 basechar 0
+AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -111897,7 +111897,7 @@ VWidth: 0
 Flags: W
 HStem: -10 31G<30 33.5 160 163.5 286.869 288> 451 125<734.474 800.206>
 VStem: 40 83<91.2443 272.069> 160 93<92.3208 257.25> 170 83<93.1463 271.781>
-AnchorPoint: "Auxiliary" 540 800 basechar 0
+AnchorPoint: "Auxiliary" 500 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 805 150 basechar 0
@@ -111980,7 +111980,7 @@ Width: 715
 VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 40.5> 451 125<569.049 637.264>
-AnchorPoint: "Auxiliary" 375 800 basechar 0
+AnchorPoint: "Auxiliary" 335 800 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -114379,7 +114379,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
 VStem: 522 23<64 119.325>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -114433,7 +114433,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -114580,7 +114580,7 @@ Encoding: 60102 60102 911
 Width: 625
 Flags: W
 HStem: 0 21G<31.9512 48.4818>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -114621,7 +114621,7 @@ Encoding: 60103 60103 912
 Width: 625
 Flags: W
 HStem: 0 21G<31.9512 48.4818>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -114671,7 +114671,7 @@ Width: 900
 Flags: W
 HStem: 0 21G<194.869 196> 156 94<763.47 834.291> 450 126<639.722 709.078>
 VStem: 727 31<258.759 307.922> 871 10<331.849 358.288>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 670 110 basechar 0
@@ -114769,7 +114769,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.396>
 VStem: 688 23<67 122.325>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -114830,7 +114830,7 @@ Encoding: 60208 60208 915
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -114909,7 +114909,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.279>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -114981,7 +114981,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069> 354.5 31<526.44 651.402> 471.5 14<639.468 717.695>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -115065,7 +115065,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -115130,7 +115130,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 154.869 156 732 736.5> 202.44 134<666.67 728.391> 450 126<599.722 669.078>
 VStem: 40 83<91.2443 272.069> 726 18<-10.5225 54.1635> 737 26<33.8008 214.94>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 570 110 basechar 0
@@ -115749,7 +115749,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<80.3477 98.0833> 451 125<528.27 595.37>
 AnchorPoint: "TonalRange" 465 660 basechar 0
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "PitchMark" 50 770 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -116752,7 +116752,7 @@ StartChar: uniEAFA
 Encoding: 60154 60154 962
 Width: 440
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 454 21G<302.5 307.5> 545 117<210.931 296.442> 669.477 21G<144.663 170.178>
 VStem: 183 19<492.423 522.491> 298 27<462.636 537.411>
 AnchorPoint: "PitchMark" 0 580 basechar 0
@@ -116940,7 +116940,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206> 662.4 21G<243.252 310.318 553.252 620.318>
 VStem: 40 83<91.2443 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -117788,7 +117788,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 544.923>
-AnchorPoint: "Auxiliary" 305 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -119899,7 +119899,7 @@ VWidth: 0
 Flags: W
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.206>
 AnchorPoint: "PitchMark" 110 680 basechar 0
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
@@ -119971,7 +119971,7 @@ VWidth: 0
 Flags: W
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.279>
 VStem: 523 23<68 123.325>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -120048,7 +120048,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.279>
 VStem: 523 23<68 123.325>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -120113,7 +120113,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0.599609 21G<228.89 242.5> 451 125<479.474 545.279>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -120196,7 +120196,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21G<31.8692 33 228.89 242.5> 451 125<479.474 545.279>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -120275,7 +120275,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 450 126<477.126 546.369>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -120339,7 +120339,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: -5.40039 21G<226.89 240.5> 450 126<477.126 546.369>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -120427,7 +120427,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -120500,7 +120500,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -120562,7 +120562,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -120648,7 +120648,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -120723,7 +120723,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -120799,7 +120799,7 @@ Encoding: 61369 61369 1041
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 670 110 basechar 0
@@ -120882,7 +120882,7 @@ Encoding: 61371 61371 1042
 Width: 790
 Flags: W
 HStem: 0 15.2803G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 690 110 basechar 0
@@ -120978,7 +120978,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121054,7 +121054,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121135,7 +121135,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121221,7 +121221,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121295,7 +121295,7 @@ Encoding: 61379 61379 1048
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121383,7 +121383,7 @@ Encoding: 61380 61380 1049
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121460,7 +121460,7 @@ Encoding: 61381 61381 1050
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121546,7 +121546,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121635,7 +121635,7 @@ Width: 990
 VWidth: 999
 Flags: W
 HStem: 586 127<841.844 902.982> 645 20G<593.252 625>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -121742,7 +121742,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<90.0405 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -121813,7 +121813,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<90.0405 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 620 110 basechar 0
@@ -121896,7 +121896,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<154.869 156> 450 126<599.722 669.078>
 VStem: 40 83<90.0405 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 620 110 basechar 0
@@ -121989,7 +121989,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<154.869 156 380.89 394.5> 450 126<599.722 669.078>
 VStem: 40 83<90.0405 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Borzaya" 650 110 basechar 0
@@ -122087,7 +122087,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<90.0405 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -122168,7 +122168,7 @@ Width: 715
 VWidth: 0
 Flags: W
 HStem: 451 125<569.049 637.264>
-AnchorPoint: "Auxiliary" 375 800 basechar 0
+AnchorPoint: "Auxiliary" 335 800 basechar 0
 AnchorPoint: "Tikhaya" 0 370 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -122414,7 +122414,7 @@ Width: 720
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -122465,7 +122465,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0416 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Podchashie" 483 245 basechar 0
 AnchorPoint: "Tochka" 585 325 basechar 0
@@ -122519,7 +122519,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Podchashie" 483 245 basechar 0
 AnchorPoint: "Tochka" 585 325 basechar 0
@@ -122571,7 +122571,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -122623,7 +122623,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<31.9792 48.5089 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Podchashie" 483 245 basechar 0
 AnchorPoint: "Tochka" 585 325 basechar 0
@@ -122680,7 +122680,7 @@ Width: 720
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -122750,7 +122750,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -122867,7 +122867,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -122932,7 +122932,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -122994,7 +122994,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -123057,7 +123057,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -123132,7 +123132,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -123204,7 +123204,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -123278,7 +123278,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -123354,7 +123354,7 @@ VWidth: 999
 Flags: W
 HStem: -48 58<150.193 194.26> 0 21G<356.869 358> 44 114<64.6637 123.943 224.585 286.193> 451 125<804.474 870.206>
 VStem: 30 130<45.4168 111.819> 30 10<-64.8594 -32.4668> 288 9<-36.977 -22.0985> 289 31<-18.5259 116>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -123426,7 +123426,7 @@ VWidth: 999
 Flags: W
 HStem: -48 58<150.193 194.26> 0 21G<356.869 358> 44 114<64.6637 123.943 224.585 286.193> 451 125<804.474 870.206>
 VStem: 30 130<45.4168 111.819> 30 10<-64.8594 -32.4668> 288 9<-36.977 -22.0985> 289 31<-18.5259 116>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -123495,7 +123495,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<356.869 358> 65 134<60.4374 124.588> 89 134<222.437 286.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5> 192 11<34.051 55.4036> 293 27<-37.0176 133.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -123581,7 +123581,7 @@ VWidth: 999
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -123658,7 +123658,7 @@ VWidth: 999
 Flags: W
 HStem: -1 22G<191.89 195.5 356.869 358> 65 134<60.4374 124.588> 451 125<804.474 870.206>
 VStem: 30 11<10.051 31.4036> 131 27<-61.0176 109.5>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -123828,7 +123828,7 @@ Width: 720
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Podchashie" 495 -50 basechar 0
 AnchorPoint: "Tochka" 585 325 basechar 0
@@ -124061,7 +124061,7 @@ Width: 625
 VWidth: 0
 Flags: W
 HStem: 0 21.5996G<31.8692 33 228.89 242.5> 451 125<479.474 545.206>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -124123,7 +124123,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -124186,7 +124186,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -124248,7 +124248,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<31.9792 48.5089 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Tochka" 555 325 basechar 0
@@ -124318,7 +124318,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -124386,7 +124386,7 @@ Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 VStem: 324.5 31<526.44 651.402> 441.5 14<639.468 717.695>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -124457,7 +124457,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Tochka" 555 325 basechar 0
@@ -124613,7 +124613,7 @@ VWidth: 999
 Flags: W
 HStem: -48 58<150.193 194.26> 0 21G<356.869 358> 44 114<64.6637 123.943 224.585 286.193> 451 125<804.474 870.206>
 VStem: 30 130<45.4168 111.819> 30 10<-64.8594 -32.4668> 288 9<-36.977 -22.0985> 289 31<-18.5259 116>
-AnchorPoint: "Auxiliary" 600 800 basechar 0
+AnchorPoint: "Auxiliary" 560 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 680 basechar 0
 AnchorPoint: "Lomka" 875 150 basechar 0
@@ -124929,7 +124929,7 @@ VWidth: 999
 Flags: W
 HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
 VStem: 40 83<90.1848 272.069>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 665 150 basechar 0
@@ -125002,7 +125002,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.396>
 VStem: 525 23<67 122.325>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -125054,7 +125054,7 @@ Width: 640
 VWidth: 999
 Flags: W
 HStem: 0 21G<31.9512 47.0833> 450 126<477.126 546.108>
-AnchorPoint: "Auxiliary" 325 800 basechar 0
+AnchorPoint: "Auxiliary" 285 800 basechar 0
 AnchorPoint: "Kachka" 415 720 basechar 0
 AnchorPoint: "PitchMark" 110 680 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -125222,7 +125222,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.279>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -125339,7 +125339,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -125589,7 +125589,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0416 48.5714 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Tochka" 555 325 basechar 0
@@ -125655,7 +125655,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Tochka" 555 325 basechar 0
@@ -125721,7 +125721,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Tochka" 555 325 basechar 0
@@ -125943,7 +125943,7 @@ Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Podchashie" 483 245 basechar 0
@@ -126020,7 +126020,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.074>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -126086,7 +126086,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.104>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -126159,7 +126159,7 @@ Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126 702 706.5> 202.44 134<636.67 698.391> 450 126<569.722 639.078>
 VStem: 696 18<-10.5225 54.1635> 707 26<33.8008 214.94>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -126299,7 +126299,7 @@ Width: 790
 VWidth: 999
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -126377,7 +126377,7 @@ Width: 790
 VWidth: 0
 Flags: W
 HStem: 0 21G<196.869 198> 451 125<644.474 710.206>
-AnchorPoint: "Auxiliary" 440 800 basechar 0
+AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
@@ -126621,7 +126621,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Podchashie" 483 245 basechar 0
 AnchorPoint: "Tochka" 585 325 basechar 0
@@ -126791,7 +126791,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.279>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
@@ -129578,7 +129578,7 @@ Encoding: 60462 60462 1177
 Width: 645
 VWidth: 0
 Flags: W
-HStem: -7 21<149 172.258> 137 134<521.788 587.641> 750 50<0 400>
+HStem: -7 21G<149 172.258> 137 134<521.788 587.641>
 VStem: 493 10<83.3571 104.99> 501 118<139.656 250.711> 583 18<-25.8192 26.2847>
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 -30 basechar 0
@@ -129599,23 +129599,46 @@ AnchorPoint: "PitchMark" 580 620 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-396 343 m 1xe0
+160 506 m 0xc0
+ 162 506 169 496 180 476 c 0
+ 201 439 227 355 232 302 c 1
+ 244 302 246 305 262 317 c 0
+ 274 326 286 340 295 359 c 1
+ 284 248 l 1
+ 275 222 256 197 232 194 c 1
+ 225 144 200 60 179 24 c 2
+ 160 -7 l 1
+ 138 26 127 46 110 103 c 0
+ 99 140 92 172 89 201 c 1
+ 76 201 74 198 58 186 c 0
+ 46 177 34 163 25 144 c 1
+ 35 254 l 1
+ 44 280 64 306 90 308 c 1
+ 96 357 120 440 140 476 c 0
+ 151 496 158 506 160 506 c 0xc0
+184 109 m 1
+ 196 133 202 167 202 210 c 0
+ 202 253 196 287 186 312 c 0
+ 176 337 159 363 136 390 c 1
+ 127 369 122 337 122 296 c 0
+ 122 213 143 151 184 109 c 1
+396 343 m 1
  417 404 505 423 505 423 c 1
  495 299 l 1
  495 299 415 280 384 217 c 1
- 396 343 l 1xe0
-601 -19 m 0xe4
+ 396 343 l 1
+601 -19 m 0xc8
  600 -23 593 -26 591 -26 c 0
  589 -26 582 -23 583 -16 c 0
  585 -2 594 69 594 82 c 0
  594 112 586 134 555 137 c 1
  549 137 l 2
  534 137 513 130 503 90 c 0
- 501 80 491 77 493 87 c 1xf4
+ 501 80 491 77 493 87 c 1xe8
  495 116 497 151 501 183 c 0
  507 231 521 271 564 271 c 0
- 601 271 615 230 619 177 c 0xe8
- 624 107 610 19 601 -19 c 0xe4
+ 601 271 615 230 619 177 c 0xd0
+ 624 107 610 19 601 -19 c 0xc8
 332 87 m 1
  338 105 351 121 369 134 c 0
  387 147 403 156 418 160 c 2
@@ -129626,7 +129649,6 @@ SplineSet
  347 1 331 -16 320 -39 c 1
  332 87 l 1
 EndSplineSet
-Refer: 100 61100 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFC2 u1CF89
 Colour: ff00
@@ -129636,7 +129658,7 @@ StartChar: uniEC2F
 Encoding: 60463 60463 1178
 Width: 615
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<24.0417 40.5714 193.121 208.857> 137 134<491.788 557.641> 750 50<0 400>
 VStem: 463 10<83.3571 104.99> 471 118<139.656 250.711> 553 18<-25.8192 26.2847>
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -129658,6 +129680,24 @@ AnchorPoint: "PitchMark" 500 620 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+265 496 m 1
+ 265 496 249 339 216 28 c 1
+ 191 0 l 1
+ 198 66 l 1
+ 60 146 l 1
+ 56 109 52 70 48 28 c 1
+ 22 0 l 1
+ 71 480 l 1
+ 96 496 l 1
+ 95 482 92 459 89 427 c 1
+ 226 347 l 1
+ 240 480 l 1
+ 265 496 l 1
+216 245 m 1
+ 79 325 l 1
+ 76 302 74 276 71 248 c 1
+ 208 168 l 1
+ 216 245 l 1
 366 343 m 1xe0
  387 404 475 423 475 423 c 1
  465 299 l 1
@@ -129685,7 +129725,7 @@ SplineSet
  317 1 301 -16 290 -39 c 1
  302 87 l 1
 EndSplineSet
-Refer: 101 61101 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFC4 u1CF89
 Colour: ff00
 EndChar
@@ -130457,7 +130497,7 @@ Width: 625
 VWidth: 999
 Flags: W
 HStem: 450 126<471.313 535.97>
-AnchorPoint: "Auxiliary" 345 800 basechar 0
+AnchorPoint: "Auxiliary" 305 800 basechar 0
 AnchorPoint: "TonalRange" 465 680 basechar 0
 AnchorPoint: "Kachka" 415 750 basechar 0
 AnchorPoint: "Borzaya" 510 100 basechar 0
@@ -148864,7 +148904,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.074>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -148935,7 +148975,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.104>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -149013,7 +149053,7 @@ Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126 702 706.5> 202.44 134<636.67 698.391> 450 126<569.722 639.078>
 VStem: 696 18<-10.5225 54.1635> 707 26<33.8008 214.94>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 550 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -149094,7 +149134,7 @@ VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 620 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -149165,7 +149205,7 @@ Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 620 100 basechar 0
 AnchorPoint: "Podchashie" 491 61 basechar 0
@@ -149252,7 +149292,7 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<32.0417 48.5714 124.869 126 350.89 364.5> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
 AnchorPoint: "Borzaya" 620 100 basechar 0
 AnchorPoint: "Lomka" 635 150 basechar 0
@@ -149329,7 +149369,7 @@ Flags: W
 HStem: 0 21G<124.869 126 350.89 364.5> 450 126<569.722 639.078>
 AnchorPoint: "PitchMark" 120 770 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
-AnchorPoint: "Auxiliary" 385 800 basechar 0
+AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Borzaya" 620 100 basechar 0
 AnchorPoint: "Podchashie" 514 70 basechar 0
 AnchorPoint: "Tochka" 625 325 basechar 0
