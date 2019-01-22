@@ -12,7 +12,12 @@
 \newfontfamily{\mood}[Path=../../,Extension=.otf,Scale=MatchUppercase,StylisticSet=2]{MezenetsUnicode}
 \newfontfamily{\mono}[Scale=1.0]{Liberation Mono}
 \newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}% hides column
-
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {-2ex \@plus1ex}%
+                                   {\normalfont\Large\bfseries Appendix } }%
+\makeatother
 \definecolor{kinovar}{rgb}{0.80,0.03,0.01}
 \newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
 \catcode`𜼀\active\def𜼀{\cuKinovar{\detokenize{𜼀}}}%
@@ -64,7 +69,11 @@
 
 \begin{document}
 %\begin{landscape}
-\section{Demestvenny Notation Neumes and Sequences}
+\pagestyle{empty}
+\addtocounter{section}{1}
+\section{Preliminary List of Demestvenny Notation Neumes and Sequences}
+
+~\\
 
 \noindent (1) = G.~Pozhidayeva, \emph{Leksikologiya Demestvennogo Peniya}. Moscow, 2010. \\
 \noindent (2) = L.~Kalashnikov, \emph{Azbuka Demestvennogo Peniya}. Kiev, 1911.

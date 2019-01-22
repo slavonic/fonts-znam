@@ -9,6 +9,12 @@
 \newfontfamily{\mono}[Scale=1.0]{Liberation Mono}
 \newfontfamily{\znam}[Path=../,Extension=.otf,Scale=MatchUppercase]{MezenetsUnicode}
 \definecolor{kinovar}{rgb}{0.80,0.03,0.01}
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {-2ex \@plus1ex}%
+                                   {\normalfont\Large\bfseries Appendix } }%
+\makeatother
 \newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
 
 \catcode`𜼀\active\def𜼀{\cuKinovar{\detokenize{𜼀}}}%
@@ -59,8 +65,11 @@
 \catcode`\active\def{\cuKinovar{\detokenize{}}}%
 
 \begin{document}
+\pagestyle{empty}
 
 \section{Znamenny Notation Neumes and Combinations}
+
+~\\
 
 \noindent Based on: L.~F. Kalashnikov. \emph{Azbuka Tserkovnago Znamennago Peniya}. 3\textsuperscript{rd} rev. ed. Moscow, 1915.
 
