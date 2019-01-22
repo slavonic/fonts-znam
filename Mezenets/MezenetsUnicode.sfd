@@ -982,8 +982,8 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -991,7 +991,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1144 26 8
+WinInfo: 1053 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -20986,7 +20986,7 @@ SplineSet
  279 366 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF3C
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF3D
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -30446,7 +30446,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30494,7 +30494,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30547,7 +30547,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF51 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF51 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30598,7 +30598,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF51 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF51 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30656,7 +30656,7 @@ SplineSet
  370 545 l 1
  365 512 359 482 354 450 c 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30718,7 +30718,7 @@ SplineSet
  78 162 l 1
  169 275 281 387 414 498 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30776,7 +30776,7 @@ SplineSet
  355 457 379 477 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30832,7 +30832,7 @@ SplineSet
  355 457 379 477 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30894,7 +30894,7 @@ SplineSet
  367 471 l 1
  468 559 501 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -30954,7 +30954,7 @@ SplineSet
  367 471 l 1
  468 559 501 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31148,7 +31148,7 @@ SplineSet
  367 471 l 1
  468 559 501 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB74 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB74 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31209,7 +31209,7 @@ SplineSet
  367 471 l 1
  468 559 501 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB75 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB75 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31254,7 +31254,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB79 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB79 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31301,7 +31301,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB78 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB78 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31522,7 +31522,7 @@ SplineSet
  323 217 269 208 238 145 c 1
  250 271 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31579,7 +31579,7 @@ SplineSet
  237 232 244 326 244 327 c 0
  251 386 273 415 308 415 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31733,7 +31733,7 @@ SplineSet
  237 232 244 326 244 327 c 0
  251 386 273 415 308 415 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB81 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB81 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -31859,8 +31859,8 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB85 u1CF43
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB84 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB85 u1CF44
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB84 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -32063,7 +32063,7 @@ SplineSet
  175 -6 170.031 -1.21484 171 6 c 0
  175.5 39.5 183 117 182 190 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -32272,7 +32272,7 @@ SplineSet
  90.8135 78.8604 87.3994 38.7998 87.3994 38.7998 c 1
  125.8 38.7998 l 1xd0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF40
+Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF41
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -32485,7 +32485,7 @@ SplineSet
  200.75 9.5 196.506 4.5 191.25 4.5 c 0
  186.75 4.5 181.25 9 182.75 18.5 c 0xe0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -32622,7 +32622,7 @@ SplineSet
  200.75 9.5 196.506 4.5 191.25 4.5 c 0
  186.75 4.5 181.25 9 182.75 18.5 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -32748,7 +32748,7 @@ SplineSet
  21.8333 -25.6667 21.7002 -14.5996 21.7002 -6.59961 c 0
  21.7002 131.8 37.0996 364 152.3 364 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF43
+Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -32864,7 +32864,7 @@ SplineSet
  24 196.2 20 201 20 207.4 c 0
  20 271.4 56 364.2 120 364.2 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB8C u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB8C u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -33179,7 +33179,7 @@ SplineSet
  441 367 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6D u1CF3B
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6D u1CF3C
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -33421,7 +33421,7 @@ SplineSet
  355 457 379 477 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB70 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB70 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -33477,7 +33477,7 @@ SplineSet
  355 457 379 477 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB71 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB71 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -33524,7 +33524,7 @@ SplineSet
  105 496 l 1
  70 162 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -33569,7 +33569,7 @@ SplineSet
  37.1973 476.604 81 486.4 105 496 c 1
  70 162 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -33928,7 +33928,7 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB8F
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -34661,7 +34661,7 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xd4
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -35100,7 +35100,7 @@ SplineSet
  443 191.6 388 182.6 357 119.6 c 1
  369 246.6 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -35583,7 +35583,7 @@ SplineSet
  379 124.4 324 115.4 293 52.4004 c 1
  305 178.4 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -35948,7 +35948,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF74 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF74 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -36122,7 +36122,7 @@ SplineSet
  32 248 l 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBA2 uniEBA5
-Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -36265,7 +36265,7 @@ SplineSet
  32 248 l 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBA3 uniEBA6
-Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF43
+Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -37384,7 +37384,7 @@ SplineSet
  379 124.4 324 115.4 293 52.4004 c 1
  305 178.4 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -37766,7 +37766,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF74 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF74 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -38028,7 +38028,7 @@ SplineSet
  32 248 l 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBA1 uniEBA4
-Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -38777,7 +38777,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBAD u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBAD u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -39127,7 +39127,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEAFA u1CF42
+Ligature2: "Znamenny Priznakification-1" uniEAFA u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -39498,8 +39498,8 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBAF u1CF43
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBAE u1CF42
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBAF u1CF44
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBAE u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -39744,8 +39744,8 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB0E u1CF41
-Ligature2: "Post-composition Priznakification-1" uniEBB8 u1CF39
+Ligature2: "Post-composition Priznakification-1" uniEB0E u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEBB8 u1CF3A
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -39955,7 +39955,7 @@ SplineSet
  339 163 335 115 328 81 c 0
  319 37 299 -3 265 -3 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -40127,7 +40127,7 @@ SplineSet
  339 163 335 115 328 81 c 0
  319 37 299 -3 265 -3 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -40330,7 +40330,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBCE
-Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF41
+Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBCB u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -40754,7 +40754,7 @@ SplineSet
  376 197 378 200 382 200 c 0
  384 200 385 194 385 183 c 0
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBCC u1CF30
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -40992,7 +40992,7 @@ SplineSet
  311 271 325 230 329 177 c 0x90
  334 107 320 19 311 -19 c 0x88
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBBB u1CF30
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -41208,7 +41208,7 @@ SplineSet
  311 271 325 230 329 177 c 0xa0
  334 107 320 19 311 -19 c 0x90
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBBC u1CF30
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -41447,7 +41447,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBC0
-Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF41
+Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBBD u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -42259,7 +42259,7 @@ SplineSet
  -421 730 -390 762 -352 768 c 0
 EndSplineSet
 Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE50 uniEE58
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF30 u1CF39
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF30 u1CF3A
 LCarets2: 1 0
 Colour: ff00
 EndChar
@@ -42483,7 +42483,7 @@ SplineSet
  -450 731 -419 763 -381 769 c 4
 EndSplineSet
 Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE51 uniEE58
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF31 u1CF39
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF31 u1CF3A
 LCarets2: 1 0
 Colour: ff00
 EndChar
@@ -42795,7 +42795,7 @@ SplineSet
  -539 396 l 1
 EndSplineSet
 Ligature2: "Support for deprecated mappings (ccmp)-1" uniEE52 uniEE58
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF32 u1CF39
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF32 u1CF3A
 LCarets2: 1 0
 Colour: ff00
 EndChar
@@ -42896,7 +42896,7 @@ SplineSet
  -369 455 -409 421 -425 389 c 1
  -399.5 648.7 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF30 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF30 u1CF42
 LCarets2: 1 0
 Colour: fff24a
 EndChar
@@ -42994,7 +42994,7 @@ SplineSet
  -335 461 l 5
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF30 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF30 u1CF43
 Colour: fff24a
 EndChar
 
@@ -43220,7 +43220,7 @@ SplineSet
  -409 516 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF31 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF31 u1CF42
 Colour: fff24a
 EndChar
 
@@ -43325,7 +43325,7 @@ SplineSet
  -539 397 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF31 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF31 u1CF43
 Colour: fff24a
 EndChar
 
@@ -43605,7 +43605,7 @@ SplineSet
  -539 396 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF32 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF32 u1CF42
 Colour: fff24a
 EndChar
 
@@ -43872,7 +43872,7 @@ SplineSet
  -539 396 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF32 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF32 u1CF43
 Colour: fff24a
 EndChar
 
@@ -50111,7 +50111,7 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA9A
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF3B
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5C u1CF3C
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -50160,7 +50160,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB66 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB66 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50208,7 +50208,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB67 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB67 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50261,7 +50261,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB6A u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB6A u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50313,7 +50313,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB6B u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB6B u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50362,7 +50362,7 @@ SplineSet
  323 217 269 208 238 145 c 1
  250 271 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50517,7 +50517,7 @@ SplineSet
  323 217 269 208 238 145 c 1
  250 271 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB7C u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB7C u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50651,7 +50651,7 @@ SplineSet
  323 217 269 208 238 145 c 1
  250 271 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB7D u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB7D u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -50877,7 +50877,7 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB85
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -51323,8 +51323,8 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xc9
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB8F u1CF43
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB8E u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB8F u1CF44
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB8E u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -51622,7 +51622,7 @@ SplineSet
  464 267 466 270 470 270 c 0
  472 270 473 264 473 253 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF70 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF70 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -51918,7 +51918,7 @@ SplineSet
  464 267 466 270 470 270 c 0
  472 270 473 264 473 253 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF70 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF70 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -52212,7 +52212,7 @@ SplineSet
  369 104 314 95 283 32 c 1
  295 159 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -52433,7 +52433,7 @@ SplineSet
  369 104 314 95 283 32 c 1
  295 159 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -52820,7 +52820,7 @@ SplineSet
  443 191.6 388 182.6 357 119.6 c 1
  369 246.6 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -53323,7 +53323,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEAFA u1CF41
+Ligature2: "Znamenny Priznakification-1" uniEAFA u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -53470,7 +53470,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -53599,7 +53599,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -53739,7 +53739,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBB4
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBB1 u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -53967,7 +53967,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBB4
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBB2 u1CF30
 LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -54115,7 +54115,7 @@ SplineSet
 EndSplineSet
 LCarets2: 2 0 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBB7
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF31 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF31 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBB1 u1CF31
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -54353,7 +54353,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBB7
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF31 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF31 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBB2 u1CF31
 LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -54632,8 +54632,8 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEBB3 u1CF39
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF39 u1CF41
+Ligature2: "Post-composition Priznakification-1" uniEBB3 u1CF3A
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF3A u1CF42
 LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -54880,8 +54880,8 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEBB5 u1CF39
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF39 u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEBB5 u1CF3A
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF3A u1CF43
 LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -55116,9 +55116,9 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB0E u1CF41
-Ligature2: "Post-composition Priznakification-1" uniEBB7 u1CF39
-Ligature2: "Post-composition Priznakification-1" uniEBB6 u1CF39
+Ligature2: "Post-composition Priznakification-1" uniEB0E u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEBB7 u1CF3A
+Ligature2: "Post-composition Priznakification-1" uniEBB6 u1CF3A
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -55334,7 +55334,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBBE u1CF30
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -55620,7 +55620,7 @@ SplineSet
  328 162 l 1
  328 162 303 156 274 143 c 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -55882,7 +55882,7 @@ SplineSet
  328 162 l 1
  328 162 303 156 274 143 c 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -56236,7 +56236,7 @@ SplineSet
  311 271 325 230 329 177 c 0xc8
  334 107 320 19 311 -19 c 0xc4
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF89 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF89 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -56565,7 +56565,7 @@ SplineSet
  311 271 325 230 329 177 c 0xd0
  334 107 320 19 311 -19 c 0xc8
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF89 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF89 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -56725,7 +56725,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -56862,7 +56862,7 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -57009,7 +57009,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBC9
-Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF41
+Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBC6 u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -57246,7 +57246,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBC7 u1CF30
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -57496,7 +57496,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBD1
-Ligature2: "Post-composition Priznakification-1" uniEB03 u1CF41
+Ligature2: "Post-composition Priznakification-1" uniEB03 u1CF42
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBFE u1CF30
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
@@ -57940,7 +57940,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB03 u1CF42
+Ligature2: "Post-composition Priznakification-1" uniEB03 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBFF u1CF30
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -58146,7 +58146,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBD5
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -58420,7 +58420,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -58831,7 +58831,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBD8
-Ligature2: "Znamenny Priznakification-1" u1CF93 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF93 u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -59505,7 +59505,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF93 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF93 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -59774,7 +59774,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBDB
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -60376,7 +60376,7 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -60706,7 +60706,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBE1
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -61291,7 +61291,7 @@ SplineSet
  516 218 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -61695,7 +61695,7 @@ SplineSet
  36 102 37 199 101 199 c 0xdf
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -62257,7 +62257,7 @@ SplineSet
  724 269.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -62702,7 +62702,7 @@ SplineSet
  36 102 37 199 101 199 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA5 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFA5 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -63297,7 +63297,7 @@ SplineSet
  724 269.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA6 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFA6 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: fff24a
 EndChar
@@ -64685,7 +64685,7 @@ SplineSet
  168 283 280 395 405 498 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF42
 Colour: fff24a
 EndChar
 
@@ -64995,7 +64995,7 @@ SplineSet
  168 283 280 395 405 498 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF43
 Colour: fff24a
 EndChar
 
@@ -65635,7 +65635,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFD u1CF39
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFD u1CF3A
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -65837,7 +65837,7 @@ SplineSet
  302 724 336 750 379 750 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB0D u1CF39
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB0D u1CF3A
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
 EndChar
@@ -65964,7 +65964,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF56 uniEA9C
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC12 u1CF3C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC12 u1CF3D
 Colour: ff00
 EndChar
 
@@ -68192,7 +68192,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB08 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB08 u1CF3B
 Colour: ffff
 EndChar
 
@@ -68262,7 +68262,7 @@ SplineSet
  125 416 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA76 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA76 u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6C u1CF31
 Colour: ffff
 EndChar
@@ -68343,7 +68343,7 @@ SplineSet
  485 107 471 19 462 -19 c 0xc4
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB03 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB03 u1CF3B
 Colour: ffff
 EndChar
 
@@ -68422,7 +68422,7 @@ SplineSet
  690 78 665 72 636 59 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA81 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA81 u1CF40
 Colour: ffff
 EndChar
 
@@ -68716,7 +68716,7 @@ SplineSet
  83 496 125 474 162 430 c 0
  183.975 403.867 199.248 372.091 208.029 334.251 c 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB87 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB87 u1CF44
 LCarets2: 1 0
 Colour: fff24a
 EndChar
@@ -68829,7 +68829,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEA90
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5A u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5A u1CF40
 Colour: ffff
 EndChar
 
@@ -69466,7 +69466,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB9A u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB9A u1CF44
 LCarets2: 1 0
 Colour: fff24a
 EndChar
@@ -69814,7 +69814,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB9B u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB9B u1CF44
 LCarets2: 1 0
 Colour: fff24a
 EndChar
@@ -69949,7 +69949,7 @@ SplineSet
  60 43 58 6 57 -30 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF61 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF61 u1CF40
 Colour: ffff
 EndChar
 
@@ -70015,7 +70015,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDF
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF3E
 Colour: ff00ff
 EndChar
 
@@ -70113,7 +70113,7 @@ SplineSet
  393 351 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF69 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF69 u1CF40
 Colour: ffff
 EndChar
 
@@ -70206,7 +70206,7 @@ SplineSet
  708.622 252.5 683.622 246.5 654.622 233.5 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF62 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF62 u1CF40
 Colour: ffff
 EndChar
 
@@ -70290,7 +70290,7 @@ SplineSet
  256 269 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF68 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF68 u1CF40
 Colour: ffff
 EndChar
 
@@ -70350,7 +70350,7 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF72 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF72 u1CF40
 Colour: ffff
 EndChar
 
@@ -70624,7 +70624,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF42
 Colour: fff24a
 EndChar
 
@@ -70846,7 +70846,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF43
 Comment: "Why is it mapped here?"
 Colour: fff24a
 EndChar
@@ -71621,7 +71621,7 @@ SplineSet
  368 283 480 395 605 498 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEB5F u1CF41
+Ligature2: "Znamenny Priznakification-1" uniEB5F u1CF42
 Colour: fff24a
 EndChar
 
@@ -71912,7 +71912,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF43
 Colour: fff24a
 EndChar
 
@@ -72372,7 +72372,7 @@ SplineSet
  322 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEB5E u1CF42
+Ligature2: "Znamenny Priznakification-1" uniEB5E u1CF43
 Colour: fff24a
 EndChar
 
@@ -72448,8 +72448,8 @@ SplineSet
  286 415.98 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB25 u1CF48
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB25 u1CF34
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF40
 Colour: ffff
 EndChar
 
@@ -72528,7 +72528,7 @@ SplineSet
  367 150.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF40
 Colour: ffff
 EndChar
 
@@ -72606,7 +72606,7 @@ SplineSet
  802 668 872 713 885 713 c 0x80
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9E u1CF48
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9E u1CF34
 Colour: ffff
 EndChar
 
@@ -72845,7 +72845,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAC u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFAC u1CF43
 Colour: fff24a
 EndChar
 
@@ -73230,7 +73230,7 @@ SplineSet
  654 269.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAD u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFAD u1CF43
 Colour: fff24a
 EndChar
 
@@ -73604,7 +73604,7 @@ SplineSet
  653 96 634 90 615 81 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAD u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CFAD u1CF43
 Colour: fff24a
 EndChar
 
@@ -73715,8 +73715,8 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3D
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB24 u1CF48
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB26 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB24 u1CF34
 Colour: ffff
 EndChar
 
@@ -74041,7 +74041,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF42
 Colour: fff24a
 EndChar
 
@@ -74141,7 +74141,7 @@ SplineSet
  89 203 68 162 61 79 c 0
  60 42 58 5 57 -31 c 0
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6A u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6A u1CF40
 Colour: ffff
 EndChar
 
@@ -74498,7 +74498,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEB5F u1CF42
+Ligature2: "Znamenny Priznakification-1" uniEB5F u1CF43
 Colour: fff24a
 EndChar
 
@@ -74567,7 +74567,7 @@ SplineSet
  319 37 299 -3 265 -3 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF90 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF90 u1CF3B
 Colour: ffff
 EndChar
 
@@ -74777,7 +74777,7 @@ SplineSet
  298 447 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFD u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFD u1CF3B
 Colour: ffff
 EndChar
 
@@ -74997,7 +74997,7 @@ SplineSet
  384.5 601.94 363.5 573.94 332.5 573.94 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB01 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB01 u1CF3B
 Colour: ffff
 EndChar
 
@@ -75217,7 +75217,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB0D u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB0D u1CF3B
 Colour: ffff
 EndChar
 
@@ -75282,7 +75282,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3E
 Colour: ffff
 EndChar
 
@@ -75338,7 +75338,7 @@ SplineSet
  610 205 585.422 199.879 557.122 186.659 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF40
 Colour: ffff
 EndChar
 
@@ -75398,7 +75398,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF3E
 Colour: ffff
 EndChar
 
@@ -75465,7 +75465,7 @@ SplineSet
  610 205 585.422 199.879 557.122 186.659 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF54 u1CF40
 Colour: ffff
 EndChar
 
@@ -75526,7 +75526,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEA8D
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF55 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF55 u1CF3E
 Colour: ffff
 EndChar
 
@@ -75594,7 +75594,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEA8D
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF55 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF55 u1CF40
 Colour: ffff
 EndChar
 
@@ -75848,7 +75848,7 @@ SplineSet
  365 228 340 222 311 209 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF40
 Colour: ffff
 EndChar
 
@@ -76201,7 +76201,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA7D u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA7D u1CF40
 Colour: ffff
 EndChar
 
@@ -76671,7 +76671,7 @@ SplineSet
  365 228 340 222 311 209 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEA7E u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEA7E u1CF40
 Colour: ffff
 EndChar
 
@@ -77010,7 +77010,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF3F
 Colour: ffff
 EndChar
 
@@ -77405,7 +77405,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF58 u1CF40
 Colour: ffff
 EndChar
 
@@ -77485,7 +77485,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF40
 Colour: ffff
 EndChar
 
@@ -77875,7 +77875,7 @@ SplineSet
  772 489 772 478 772 465 c 0xd0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF3F
 Colour: ffff
 EndChar
 
@@ -78026,7 +78026,7 @@ SplineSet
  60 43 58 6 57 -30 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAA4 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAA4 u1CF40
 Colour: ffff
 EndChar
 
@@ -78083,7 +78083,7 @@ SplineSet
  284 118 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3B
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3C
 Colour: ffff
 EndChar
 
@@ -78158,7 +78158,7 @@ SplineSet
  653.948 399 653.948 388 653.948 375 c 0xfa
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF61 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF61 u1CF3F
 Colour: ffff
 EndChar
 
@@ -78240,7 +78240,7 @@ SplineSet
  60 42 58 5 57 -31 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF66 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF66 u1CF3E
 Colour: ffff
 EndChar
 
@@ -78327,7 +78327,7 @@ SplineSet
  572.622 172.5 547.622 166.5 518.622 153.5 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAA8 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAA8 u1CF40
 Colour: ffff
 EndChar
 
@@ -78406,7 +78406,7 @@ SplineSet
  60 42 58 5 57 -31 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF62 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF62 u1CF3F
 Colour: ffff
 EndChar
 
@@ -78479,7 +78479,7 @@ SplineSet
  60 45 58 8 57 -28 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF63 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF63 u1CF3E
 Colour: ffff
 EndChar
 
@@ -78550,7 +78550,7 @@ SplineSet
  367 150.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF76 u1CF3E
 Colour: ffff
 EndChar
 
@@ -79071,7 +79071,7 @@ SplineSet
  640 232.44 640 221.44 640 208.44 c 0xe8
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF75 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF75 u1CF3F
 Colour: ffff
 EndChar
 
@@ -79142,7 +79142,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF92 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF92 u1CF40
 Colour: ffff
 EndChar
 
@@ -79211,7 +79211,7 @@ SplineSet
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF75 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF75 u1CF40
 Colour: ffff
 EndChar
 
@@ -79276,7 +79276,7 @@ SplineSet
  286 415.98 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF48
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF34
 Colour: ffff
 EndChar
 
@@ -79794,7 +79794,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFF0
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF48
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF34
 Colour: ff00ff
 EndChar
 
@@ -80314,7 +80314,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFEF
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3F
 Colour: ff00ff
 EndChar
 
@@ -80392,7 +80392,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFED
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3E
 Colour: ff00ff
 EndChar
 
@@ -80451,7 +80451,7 @@ SplineSet
  198 406 178 366 144 366 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF3A
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5D u1CF3B
 Colour: ffff
 EndChar
 
@@ -80524,9 +80524,9 @@ SplineSet
  196 394 175 366 144 366 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9F u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA9F u1CF3B
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF81
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAC1 u1CF40
 Colour: ffff
 EndChar
 
@@ -80598,7 +80598,7 @@ SplineSet
  60 45 58 8 57 -28 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF64 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF64 u1CF3E
 Colour: ffff
 EndChar
 
@@ -80678,7 +80678,7 @@ SplineSet
  60 45 58 8 57 -28 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF64 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF64 u1CF40
 Colour: ffff
 EndChar
 
@@ -80761,7 +80761,7 @@ SplineSet
  60 44 58 7 57 -29 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF40
 Colour: ffff
 EndChar
 
@@ -80851,7 +80851,7 @@ SplineSet
  516 218 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF45
 Colour: ffff00
 EndChar
 
@@ -80932,7 +80932,7 @@ SplineSet
  502 89.1396 447 80.1396 416 17.1396 c 1
  428 143.14 l 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF97 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF97 u1CF40
 LCarets2: 1 0
 Colour: ffff
 EndChar
@@ -81009,7 +81009,7 @@ SplineSet
  428 143.14 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF97 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF97 u1CF3E
 Colour: ffff
 EndChar
 
@@ -81067,7 +81067,7 @@ SplineSet
  168 283 280 395 406 498 c 1
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81138,7 +81138,7 @@ SplineSet
  168 283 280 395 406 498 c 0
  468 550 506 576 519 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81198,7 +81198,7 @@ SplineSet
  324 217 270 208 239 145 c 1
  251 271 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81265,7 +81265,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81341,8 +81341,8 @@ SplineSet
  491 420 509 389 514 326 c 0
  515 316 515 305 515 292 c 0xd880
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF80 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF80 u1CF3F
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81413,7 +81413,7 @@ SplineSet
  400 256 387 241 378 222 c 1
  393 348 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81493,8 +81493,8 @@ SplineSet
  400 256 387 241 378 222 c 1
  393 348 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF85 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF46
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF85 u1CF3F
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81566,7 +81566,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF46
 Colour: ffff00
 EndChar
 
@@ -81634,8 +81634,8 @@ SplineSet
  196 193.609 190.961 138.502 185.919 92.8951 c 1
  206.86 78.8088 226.509 60.5258 235.513 51.2188 c 0
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEAC1 u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF7E u1CF3A
+Ligature2: "Post-composition Priznakification-1" uniEAC1 u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF7E u1CF3B
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81713,7 +81713,7 @@ SplineSet
  511 471 564 517 627 569 c 0
  690 621 727 647 740 647 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -81800,7 +81800,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF46
 Colour: ffff00
 EndChar
 
@@ -81879,7 +81879,7 @@ SplineSet
  206.612 79.0399 226.452 60.5845 235.513 51.2188 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF45
 Colour: ffff00
 EndChar
 
@@ -81924,7 +81924,7 @@ SplineSet
  129.572 477.464 152.642 476.539 156.216 473.041 c 0
  170.773 460.292 183.836 434.655 191.781 415.952 c 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF46
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -82010,7 +82010,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEF68 u1CF5C
-Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF44
+Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF45
 Colour: ffff00
 EndChar
 
@@ -82088,8 +82088,8 @@ SplineSet
  505 182 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEF74 u1CF3C
-Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF45
+Ligature2: "Post-composition Priznakification-1" uniEF74 u1CF3D
+Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF46
 Colour: ffff00
 EndChar
 
@@ -82176,7 +82176,7 @@ SplineSet
  544 124.4 489 115.4 458 52.4004 c 1
  470 178.4 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -82244,7 +82244,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF46
 Colour: ffff00
 EndChar
 
@@ -82332,7 +82332,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF46
 Colour: ffff00
 EndChar
 
@@ -82425,7 +82425,7 @@ SplineSet
  674 217 619 208 588 145 c 1
  600 272 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -82490,7 +82490,7 @@ SplineSet
  129.572 377.464 152.642 376.539 156.216 373.041 c 0
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF46
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -82589,7 +82589,7 @@ SplineSet
  674 217 619 208 588 145 c 1
  600 272 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -82655,7 +82655,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF92 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF92 u1CF3E
 Colour: ffff
 EndChar
 
@@ -82761,7 +82761,7 @@ SplineSet
  949 605 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFB4 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFB4 u1CF45
 Colour: ffff00
 EndChar
 
@@ -82835,7 +82835,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF46
 Colour: ffff00
 EndChar
 
@@ -82906,7 +82906,7 @@ SplineSet
  716.728 340.616 720.165 375.145 723.602 409.674 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF40
 Colour: ffff
 EndChar
 
@@ -82989,7 +82989,7 @@ SplineSet
  568 72 543 66 514 53 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9C u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9C u1CF40
 Colour: ffff
 EndChar
 
@@ -83067,7 +83067,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF46
 Colour: ffff00
 EndChar
 
@@ -101854,7 +101854,7 @@ SplineSet
  566 293 566 282 566 269 c 0xe8
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF50 u1CF3F
 Colour: ffff
 EndChar
 
@@ -101915,7 +101915,7 @@ SplineSet
  474 555 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF75 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF75 u1CF3E
 Colour: ffff
 EndChar
 
@@ -101999,7 +101999,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFEE
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF40
 Colour: ff00ff
 EndChar
 
@@ -102057,7 +102057,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF52 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF52 u1CF3E
 Colour: ffff
 EndChar
 
@@ -102122,7 +102122,7 @@ SplineSet
  610 205 585.422 199.879 557.122 186.659 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF52 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF52 u1CF40
 Colour: ffff
 EndChar
 
@@ -102193,7 +102193,7 @@ SplineSet
  516 217.54 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF96 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF96 u1CF3E
 Colour: ffff
 EndChar
 
@@ -102270,7 +102270,7 @@ SplineSet
  516 218 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF96 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF96 u1CF40
 Colour: ffff
 EndChar
 
@@ -102333,7 +102333,7 @@ SplineSet
  367 240.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7A u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7A u1CF3E
 Colour: ffff
 EndChar
 
@@ -102403,7 +102403,7 @@ SplineSet
  611 208 586.422 202.879 558.122 189.659 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7A u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF7A u1CF40
 Colour: ffff
 EndChar
 
@@ -102475,7 +102475,7 @@ SplineSet
  716 260 691 254 662 241 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF40
 Colour: ffff
 EndChar
 
@@ -102619,7 +102619,7 @@ SplineSet
  125 416 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA76 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA76 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF31
 Colour: ffff
 EndChar
@@ -102673,7 +102673,7 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF72 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF72 u1CF3E
 Colour: ffff
 EndChar
 
@@ -102753,7 +102753,7 @@ SplineSet
  723 92 698 86 669 73 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA6D u1CF40
 Colour: ffff
 EndChar
 
@@ -102846,7 +102846,7 @@ SplineSet
  723 92 698 86 669 73 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEA6E u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEA6E u1CF40
 Colour: ffff
 EndChar
 
@@ -102929,8 +102929,8 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFF1
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3D
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB38 u1CF48
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3E
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB38 u1CF34
 Colour: ff00ff
 EndChar
 
@@ -103019,8 +103019,8 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFF2
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3F
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB39 u1CF48
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF40
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB39 u1CF34
 Colour: ff00ff
 EndChar
 
@@ -103083,7 +103083,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF46
 Colour: ffff00
 EndChar
 
@@ -103211,7 +103211,7 @@ SplineSet
  105.463 447.615 102.97 449.597 100.353 451.652 c 1
  70 162 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF46
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -104778,8 +104778,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF40
-Encoding: 118592 118592 763
+StartChar: u1CF41
+Encoding: 118593 118593 763
 Width: 0
 VWidth: 999
 Flags: W
@@ -104797,8 +104797,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF41
-Encoding: 118593 118593 764
+StartChar: u1CF42
+Encoding: 118594 118594 764
 Width: 835
 VWidth: 0
 Flags: W
@@ -104963,8 +104963,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF42
-Encoding: 118594 118594 765
+StartChar: u1CF43
+Encoding: 118595 118595 765
 Width: 835
 VWidth: 0
 Flags: W
@@ -105129,8 +105129,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF43
-Encoding: 118595 118595 766
+StartChar: u1CF44
+Encoding: 118596 118596 766
 Width: 835
 VWidth: 0
 Flags: W
@@ -105296,8 +105296,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF44
-Encoding: 118596 118596 767
+StartChar: u1CF45
+Encoding: 118597 118597 767
 Width: 835
 VWidth: 0
 Flags: W
@@ -105474,8 +105474,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF45
-Encoding: 118597 118597 768
+StartChar: u1CF46
+Encoding: 118598 118598 768
 Width: 835
 VWidth: 0
 Flags: W
@@ -107040,7 +107040,7 @@ SplineSet
  22 223 l 1
  28 301 l 1
 EndSplineSet
-Ligature2: "Canonical Composition (ccmp)-1" u1CF6F u1CF3B
+Ligature2: "Canonical Composition (ccmp)-1" u1CF6F u1CF3C
 EndChar
 
 StartChar: u1CF70
@@ -112582,8 +112582,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF34
-Encoding: 118580 118580 883
+StartChar: u1CF35
+Encoding: 118581 118581 883
 Width: 0
 VWidth: 999
 Flags: W
@@ -112601,8 +112601,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF35
-Encoding: 118581 118581 884
+StartChar: u1CF36
+Encoding: 118582 118582 884
 Width: 0
 VWidth: 999
 Flags: W
@@ -112625,8 +112625,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF36
-Encoding: 118582 118582 885
+StartChar: u1CF37
+Encoding: 118583 118583 885
 Width: 0
 VWidth: 999
 Flags: W
@@ -112653,8 +112653,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF37
-Encoding: 118583 118583 886
+StartChar: u1CF38
+Encoding: 118584 118584 886
 Width: 0
 VWidth: 999
 Flags: W
@@ -112679,8 +112679,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF38
-Encoding: 118584 118584 887
+StartChar: u1CF39
+Encoding: 118585 118585 887
 Width: 0
 VWidth: 999
 Flags: W
@@ -112710,8 +112710,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF39
-Encoding: 118585 118585 888
+StartChar: u1CF3A
+Encoding: 118586 118586 888
 Width: 0
 VWidth: 999
 Flags: W
@@ -112737,8 +112737,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF3A
-Encoding: 118586 118586 889
+StartChar: u1CF3B
+Encoding: 118587 118587 889
 Width: 0
 Flags: W
 HStem: 460 253
@@ -112766,8 +112766,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF3B
-Encoding: 118587 118587 890
+StartChar: u1CF3C
+Encoding: 118588 118588 890
 Width: 0
 VWidth: 999
 Flags: W
@@ -112785,8 +112785,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF3C
-Encoding: 118588 118588 891
+StartChar: u1CF3D
+Encoding: 118589 118589 891
 Width: 0
 VWidth: 999
 Flags: W
@@ -112809,8 +112809,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF3D
-Encoding: 118589 118589 892
+StartChar: u1CF3E
+Encoding: 118590 118590 892
 Width: 0
 VWidth: 0
 Flags: W
@@ -112827,8 +112827,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF3E
-Encoding: 118590 118590 893
+StartChar: u1CF3F
+Encoding: 118591 118591 893
 Width: 0
 VWidth: 999
 Flags: W
@@ -112855,8 +112855,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u1CF3F
-Encoding: 118591 118591 894
+StartChar: u1CF40
+Encoding: 118592 118592 894
 Width: 0
 VWidth: 0
 Flags: W
@@ -113412,7 +113412,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF3E
 Colour: ffff
 EndChar
 
@@ -113475,7 +113475,7 @@ SplineSet
  610 205 585.422 199.879 557.122 186.659 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF53 u1CF40
 Colour: ffff
 EndChar
 
@@ -113553,7 +113553,7 @@ SplineSet
  152 -1 151 11 151 11 c 1xf0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF67 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF67 u1CF3E
 Colour: ffff
 EndChar
 
@@ -113601,7 +113601,7 @@ SplineSet
  327 437 493 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA57 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA57 u1CF3E
 Colour: ffff
 EndChar
 
@@ -113650,7 +113650,7 @@ SplineSet
  327 437 493 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA57 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA57 u1CF40
 Colour: ffff
 EndChar
 
@@ -113713,7 +113713,7 @@ SplineSet
  723.602 409.674 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9B u1CF3E
 Colour: ffff
 EndChar
 
@@ -113790,7 +113790,7 @@ SplineSet
  568 72 543 66 514 53 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9C u1CF48
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9C u1CF34
 Colour: ffff
 EndChar
 
@@ -113862,7 +113862,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFE0
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF40
 Colour: ff00ff
 EndChar
 
@@ -113943,8 +113943,8 @@ SplineSet
  485.5 633.94 481.5 600.94 474.5 567.94 c 0
  463.5 511.94 442.5 483.94 411.5 483.94 c 0
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF30 u1CF3A
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF3A u1CF30
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF30 u1CF3B
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA7 u1CF3B u1CF30
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFE1
 Colour: ff00ff
 EndChar
@@ -114103,8 +114103,8 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFF3
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3E
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF48
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3C u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF34
 Colour: ff00ff
 EndChar
 
@@ -114176,7 +114176,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF3E
 Colour: ffff
 EndChar
 
@@ -114629,7 +114629,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEA91
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA89 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA89 u1CF40
 Colour: ffff
 EndChar
 
@@ -114880,7 +114880,7 @@ SplineSet
  60 43 58 6 57 -30 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3F
 Colour: ffff
 EndChar
 
@@ -114945,7 +114945,7 @@ SplineSet
  436.622 92.5 411.622 86.5 382.622 73.5 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF60 u1CF40
 Colour: ffff
 EndChar
 
@@ -115018,7 +115018,7 @@ SplineSet
  60 45 58 8 57 -28 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF63 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF63 u1CF40
 Colour: ffff
 EndChar
 
@@ -115093,7 +115093,7 @@ SplineSet
  60 44 58 7 57 -29 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF65 u1CF3E
 Colour: ffff
 EndChar
 
@@ -115185,7 +115185,7 @@ SplineSet
  60 42 58 5 57 -31 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF66 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF66 u1CF40
 Colour: ffff
 EndChar
 
@@ -115261,7 +115261,7 @@ SplineSet
  256 269 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF68 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF68 u1CF3E
 Colour: ffff
 EndChar
 
@@ -115343,7 +115343,7 @@ SplineSet
  393 351 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF69 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF69 u1CF3E
 Colour: ffff
 EndChar
 
@@ -115435,7 +115435,7 @@ SplineSet
  89 203 68 162 61 79 c 0
  60 42 58 5 57 -31 c 0
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6A u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF6A u1CF3E
 Colour: ffff
 EndChar
 
@@ -115951,7 +115951,7 @@ SplineSet
  251 386 273 415 308 415 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF42
 Colour: fff24a
 EndChar
 
@@ -116008,7 +116008,7 @@ SplineSet
  251 386 273 415 308 415 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB80 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEB80 u1CF44
 Colour: fff24a
 EndChar
 
@@ -116057,7 +116057,7 @@ SplineSet
  24.0658 235.175 33.1288 321.692 43 411 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF42
 Colour: fff24a
 EndChar
 
@@ -116108,8 +116108,8 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBAB
 LCarets2: 2 0 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBA7 u1CF40
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF40 u1CF41
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBA7 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41 u1CF42
 Colour: fff24a
 EndChar
 
@@ -116157,8 +116157,8 @@ SplineSet
  28 271 l 2
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF40 u1CF42
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41 u1CF43
+Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF43
 Colour: fff24a
 EndChar
 
@@ -116209,7 +116209,7 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBAC
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBA9 u1CF40
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBA9 u1CF41
 Colour: fff24a
 EndChar
 
@@ -116357,7 +116357,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF46
 Colour: ffff00
 EndChar
 
@@ -116404,7 +116404,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF46
 Colour: ffff00
 EndChar
 
@@ -116447,7 +116447,7 @@ SplineSet
  94.8843 399.467 l 1
  70 162 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF66 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF66 u1CF44
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -116515,7 +116515,7 @@ SplineSet
  237 102 244 196 244 197 c 0
  251 256 273 285 308 285 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF45
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -116565,7 +116565,7 @@ SplineSet
  251 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF46
 Colour: ffff00
 EndChar
 
@@ -116630,7 +116630,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF46
 Colour: ffff00
 EndChar
 
@@ -116702,7 +116702,7 @@ SplineSet
  352 125 336 44 329 6 c 0xe0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF44
+Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniEF65 u1CF5C
 Colour: ffff00
 EndChar
@@ -116772,7 +116772,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEF69 u1CF5C
-Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF45
+Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF46
 Colour: ffff00
 EndChar
 
@@ -116855,7 +116855,7 @@ SplineSet
  251 256 273 285 308 285 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEC1A u1CF44
+Ligature2: "Post-composition Priznakification-1" uniEC1A u1CF45
 Colour: ffff00
 EndChar
 
@@ -116929,7 +116929,7 @@ SplineSet
  539 444 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEC1A u1CF45
+Ligature2: "Post-composition Priznakification-1" uniEC1A u1CF46
 Colour: ffff00
 EndChar
 
@@ -117031,7 +117031,7 @@ SplineSet
  431 256 453 285 488 285 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEC19 u1CF44
+Ligature2: "Post-composition Priznakification-1" uniEC19 u1CF45
 Colour: ffff00
 EndChar
 
@@ -117093,7 +117093,7 @@ SplineSet
  175.663 41.1959 182.989 117.799 182 190 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF45
 Colour: ffff00
 EndChar
 
@@ -117148,7 +117148,7 @@ SplineSet
  235.025 87.7239 253.778 70.2476 262.513 61.2188 c 0xd0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF45
 Colour: ffff00
 EndChar
 
@@ -117197,7 +117197,7 @@ SplineSet
  186.75 4.5 181.25 9 182.75 18.5 c 0xc0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF46
 Colour: ffff00
 EndChar
 
@@ -117259,7 +117259,7 @@ SplineSet
  256 268 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF45
 Colour: ffff00
 EndChar
 
@@ -117325,7 +117325,7 @@ SplineSet
  393 348 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF46
 Colour: ffff00
 EndChar
 
@@ -117400,7 +117400,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF45
 Colour: ffff00
 EndChar
 
@@ -117489,8 +117489,8 @@ SplineSet
  782 471 782 460 782 447 c 0xf880
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF88 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF88 u1CF3F
 Colour: ffff00
 EndChar
 
@@ -117573,7 +117573,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEF8C u1CF81
-Ligature2: "Post-composition Priznakification-1" uniEAC2 u1CF44
+Ligature2: "Post-composition Priznakification-1" uniEAC2 u1CF45
 Colour: ffff00
 EndChar
 
@@ -117644,7 +117644,7 @@ SplineSet
  550 621 587 647 600 647 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF45
 Colour: ffff00
 EndChar
 
@@ -117716,7 +117716,7 @@ SplineSet
  690 621 727 647 740 647 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF46
 Colour: ffff00
 EndChar
 
@@ -117800,7 +117800,7 @@ SplineSet
  651 551 704 597 767 649 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF45
 Colour: ffff00
 EndChar
 
@@ -117879,7 +117879,7 @@ SplineSet
  651 551 704 597 767 649 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF46
 Colour: ffff00
 EndChar
 
@@ -117963,7 +117963,7 @@ SplineSet
  206.679 78.9773 226.468 60.5686 235.513 51.2188 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF45
 Colour: ffff00
 EndChar
 
@@ -118042,7 +118042,7 @@ SplineSet
  653 592 724 646 740 646 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF46
 Colour: ffff00
 EndChar
 
@@ -118131,7 +118131,7 @@ SplineSet
  206.679 78.9773 226.468 60.5686 235.513 51.2188 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF45
 Colour: ffff00
 EndChar
 
@@ -118215,7 +118215,7 @@ SplineSet
  789 673 860 727 876 727 c 0xa0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF46
 Colour: ffff00
 EndChar
 
@@ -118314,7 +118314,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF45
 Colour: ffff00
 EndChar
 
@@ -118409,7 +118409,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF46
 Colour: ffff00
 EndChar
 
@@ -118488,7 +118488,7 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF45
 Colour: ffff00
 EndChar
 
@@ -118564,8 +118564,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3D
+Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3E
 Colour: ffff00
 EndChar
 
@@ -118630,8 +118630,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA1 u1CF3D
-Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEFA1 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF46
 Colour: ffff00
 EndChar
 
@@ -118713,8 +118713,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEACA u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3F
+Ligature2: "Post-composition Priznakification-1" uniEACA u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF40
 Colour: ffff00
 EndChar
 
@@ -118785,8 +118785,8 @@ SplineSet
  369 246.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEACA u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA1 u1CF3F
+Ligature2: "Post-composition Priznakification-1" uniEACA u1CF46
+Ligature2: "Znamenny Priznakification Round 2-1" uniEFA1 u1CF40
 Colour: ffff00
 EndChar
 
@@ -118857,7 +118857,7 @@ SplineSet
  442 532 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF45
 Colour: ffff00
 EndChar
 
@@ -118931,7 +118931,7 @@ SplineSet
  367 240.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF45
 Colour: ffff00
 EndChar
 
@@ -119018,7 +119018,7 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF45
 Colour: ffff00
 EndChar
 
@@ -119080,7 +119080,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF46
 Colour: ffff00
 EndChar
 
@@ -119166,7 +119166,7 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF45
 Colour: ffff00
 EndChar
 
@@ -119241,7 +119241,7 @@ SplineSet
  114.599 271.977 134.43 289.912 154.854 302.385 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF46
 Colour: ffff00
 EndChar
 
@@ -119318,7 +119318,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF46
 Colour: ffff00
 EndChar
 
@@ -119401,7 +119401,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF46
 Colour: ffff00
 EndChar
 
@@ -119489,7 +119489,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF46
 Colour: ffff00
 EndChar
 
@@ -119572,7 +119572,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF45
 Colour: ffff00
 EndChar
 
@@ -119902,7 +119902,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF45
 Colour: ffff00
 EndChar
 
@@ -119979,7 +119979,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF46
 Colour: ffff00
 EndChar
 
@@ -120064,7 +120064,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF45
 Colour: ffff00
 EndChar
 
@@ -120153,7 +120153,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF45
 Colour: ffff00
 EndChar
 
@@ -120252,7 +120252,7 @@ SplineSet
  802 668 872 713 885 713 c 0x80
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF45
 Colour: ffff00
 EndChar
 
@@ -120330,7 +120330,7 @@ SplineSet
  594 550 631 576 644 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF45
 Colour: ff00ff
 EndChar
 
@@ -120413,7 +120413,7 @@ SplineSet
  597 555 629 576 642 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF45
 Colour: ff00ff
 EndChar
 
@@ -120506,7 +120506,7 @@ SplineSet
  560 272 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF45
 Colour: ff00ff
 EndChar
 
@@ -120604,7 +120604,7 @@ SplineSet
  560 272 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF45
 Colour: ff00ff
 EndChar
 
@@ -120758,7 +120758,7 @@ SplineSet
  559 550 597 576 610 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF45
 Colour: ffff00
 EndChar
 
@@ -120842,7 +120842,7 @@ SplineSet
  819 698 857 724 870 724 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF45
 Colour: ffff00
 EndChar
 
@@ -120932,7 +120932,7 @@ SplineSet
  951 781 988 806 1001 806 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF45
 Colour: ffff00
 EndChar
 
@@ -121450,7 +121450,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBDE
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF42
 Colour: fff24a
 EndChar
 
@@ -121575,7 +121575,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF43
 Colour: fff24a
 EndChar
 
@@ -121650,7 +121650,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBE4
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF42
 Colour: fff24a
 EndChar
 
@@ -121795,7 +121795,7 @@ SplineSet
  470 178.4 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF43
 Colour: fff24a
 EndChar
 
@@ -121871,7 +121871,7 @@ SplineSet
  36 102 37 199 101 199 c 0xdf
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF42
 Colour: fff24a
 EndChar
 
@@ -121942,8 +121942,8 @@ SplineSet
  52 130 73 158 104 158 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBD3 u1CF41
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBE6 u1CF40
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBD3 u1CF42
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBE6 u1CF41
 Colour: fff24a
 EndChar
 
@@ -122011,8 +122011,8 @@ SplineSet
  52 130 73 158 104 158 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBD3 u1CF42
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBE7 u1CF40
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBD3 u1CF43
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBE7 u1CF41
 Colour: fff24a
 EndChar
 
@@ -122098,7 +122098,7 @@ SplineSet
  724 269.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF42
 Colour: fff24a
 EndChar
 
@@ -122175,7 +122175,7 @@ SplineSet
  36 102 37 199 101 199 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA5 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFA5 u1CF42
 Colour: fff24a
 EndChar
 
@@ -122262,7 +122262,7 @@ SplineSet
  724 269.6 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA6 u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CFA6 u1CF42
 Colour: fff24a
 EndChar
 
@@ -122346,7 +122346,7 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBF8
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEB5E u1CF41
+Ligature2: "Znamenny Priznakification-1" uniEB5E u1CF42
 Colour: fff24a
 EndChar
 
@@ -122513,8 +122513,8 @@ SplineSet
  393 348 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF84 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF45
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF84 u1CF3F
 Colour: ffff00
 EndChar
 
@@ -122571,7 +122571,7 @@ SplineSet
  106 343 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF45
 Colour: ffff00
 EndChar
 
@@ -122640,7 +122640,7 @@ SplineSet
  469 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF46
 Colour: ffff00
 EndChar
 
@@ -123130,7 +123130,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFB3 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CFB3 u1CF45
 Colour: ffff00
 EndChar
 
@@ -123197,7 +123197,7 @@ SplineSet
  52 130 73 158 104 158 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF40
+Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF41
 Colour: fff24a
 EndChar
 
@@ -123260,7 +123260,7 @@ SplineSet
  244 226 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF8C u1CF41
+Ligature2: "Znamenny Priznakification-1" u1CF8C u1CF42
 Colour: fff24a
 EndChar
 
@@ -123321,7 +123321,7 @@ SplineSet
  244 226 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF8C u1CF42
+Ligature2: "Znamenny Priznakification-1" u1CF8C u1CF43
 Colour: fff24a
 EndChar
 
@@ -123446,7 +123446,7 @@ SplineSet
  949 605 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB4 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB4 u1CF3E
 Colour: ffff
 EndChar
 
@@ -123571,7 +123571,7 @@ SplineSet
  525 52 l 1
  560.602 409.675 l 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF79 u1CF3D
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF79 u1CF3E
 Colour: ffff
 EndChar
 
@@ -123631,7 +123631,7 @@ SplineSet
  506.305 276.124 527.591 293.679 550.291 306.087 c 1
  553.728 340.616 557.165 375.146 560.602 409.675 c 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF79 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF79 u1CF40
 Colour: ffff
 EndChar
 
@@ -123854,7 +123854,7 @@ SplineSet
  256 268 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF46
 Colour: ffff00
 EndChar
 
@@ -123980,8 +123980,8 @@ SplineSet
  515 316 515 305 515 292 c 0xf4
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF81 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF46
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF81 u1CF3F
 Colour: ffff00
 EndChar
 
@@ -124037,7 +124037,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF45
 Colour: ffff00
 EndChar
 
@@ -124104,7 +124104,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF46
 Colour: ffff00
 EndChar
 
@@ -124373,7 +124373,7 @@ SplineSet
  255 271 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF45
 Colour: ffff00
 EndChar
 
@@ -124458,8 +124458,8 @@ SplineSet
  782 471 782 460 782 447 c 0xf4
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF89 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF46
+Ligature2: "Znamenny Priznakification Round 2-1" uniEF89 u1CF3F
 Colour: ffff00
 EndChar
 
@@ -124815,7 +124815,7 @@ SplineSet
  550 621 587 647 600 647 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF46
 Colour: ffff00
 EndChar
 
@@ -124893,7 +124893,7 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF45
 Colour: ffff00
 EndChar
 
@@ -124965,7 +124965,7 @@ SplineSet
  169.897 361.06 182.257 337.695 190.291 319.401 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF46
 Colour: ffff00
 EndChar
 
@@ -125055,7 +125055,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF45
 Colour: ffff00
 EndChar
 
@@ -125136,7 +125136,7 @@ SplineSet
  513 592 584 646 600 646 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF45
+Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF46
 Colour: ffff00
 EndChar
 
@@ -125283,7 +125283,7 @@ SplineSet
  86 343 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEC19 u1CF45
+Ligature2: "Post-composition Priznakification-1" uniEC19 u1CF46
 Colour: ffff00
 EndChar
 
@@ -125491,7 +125491,7 @@ SplineSet
  756 734 736 694 702 694 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC04 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC04 u1CF3B
 Colour: ff00
 EndChar
 
@@ -125630,8 +125630,8 @@ SplineSet
  716 684 696 644 662 644 c 0
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF3A u1CF30
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF30 u1CF3A
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF3B u1CF30
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFB0 u1CF30 u1CF3B
 Colour: ff00
 EndChar
 
@@ -125879,8 +125879,8 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC08 u1CF30 u1CF3F
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC08 u1CF3F u1CF30
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC08 u1CF30 u1CF40
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC08 u1CF40 u1CF30
 Colour: ff00
 EndChar
 
@@ -126110,7 +126110,7 @@ SplineSet
  972.338 803.967 1034.19 852 1048 852 c 0
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF39 u1CF54
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF59 u1CF3A u1CF54
 Colour: ff00
 EndChar
 
@@ -126573,7 +126573,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF5B uniEA9C
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC17 u1CF3C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC17 u1CF3D
 Colour: ff00
 EndChar
 
@@ -126906,7 +126906,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF5D uniEA9C
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC1C u1CF3C
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC1C u1CF3D
 Colour: ff00
 EndChar
 
@@ -127361,7 +127361,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" u1CF60 uniEACA
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC23 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEC23 u1CF40
 Colour: ff00
 EndChar
 
@@ -129084,7 +129084,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF44
+Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF45
 Colour: ffff00
 EndChar
 
@@ -129137,7 +129137,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF45
+Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniEF66 u1CF5C
 Colour: ffff00
 EndChar
@@ -129225,8 +129225,8 @@ SplineSet
  251 256 273 285 308 285 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEF73 u1CF3C
-Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF44
+Ligature2: "Post-composition Priznakification-1" uniEF73 u1CF3D
+Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF45
 Colour: ffff00
 EndChar
 
@@ -129449,7 +129449,7 @@ SplineSet
  152 -1 151 11 151 11 c 1xf0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF67 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF67 u1CF40
 Colour: ffff
 EndChar
 
@@ -129556,8 +129556,8 @@ EndSplineSet
 Colour: ffff
 EndChar
 
-StartChar: u1CF48
-Encoding: 118600 118600 1236
+StartChar: u1CF34
+Encoding: 118580 118580 1236
 Width: 0
 VWidth: 0
 Flags: W
