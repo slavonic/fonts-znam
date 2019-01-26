@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1548420890
+ModificationTime: 1548473673
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -981,16 +981,15 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1107 27 9
+WinInfo: 61230 26 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -1011,7 +1010,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Stacking"  "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya"  "'mark' Cinnabar Mark Positioning-1" "Zevok"  "'mark' Cinnabar Mark Positioning-1" "Kachka"  "'mark' Cinnabar Mark Positioning-1" "Lomka"  "'mark' Cinnabar Mark Positioning-1" "Podvertka"  "'mark' Cinnabar Mark Positioning-1" "Udarka"  "'mark' Cinnabar Mark Positioning-1" "Borzaya"  "'mark' Cinnabar Mark Positioning-1" "Tikhaya"  "'mark' Cinnabar Mark Positioning-1" "Auxiliary"  "'mark' Cinnabar Mark Positioning-1" "Podtinka"  "'mark' Black Mark Positioning-1" "Flexion"  "'mark' Black Mark Positioning-1" "PitchMark"  "'mark' Cinnabar Mark Positioning-1" "Podchashie"  "'mark' Black Mark Positioning-1" "TonalRange"  "'mark' Black Mark Positioning-1" "Omet"  "'mark' Black Mark Positioning-1" "Tochka"  "'mark' Black Mark Positioning-1" "Zaderzhka"  "'mark' Black Mark Positioning-1" 
-BeginChars: 1114112 1602
+BeginChars: 1114112 1605
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -9945,15 +9944,11 @@ Encoding: 847 847 35
 Width: 0
 VWidth: 999
 GlyphClass: 4
-Flags: WO
+Flags: HW
 AnchorPoint: "PitchMark" -600 533 mark 0
 AnchorPoint: "Stacking" -810 448 mark 0
 AnchorPoint: "Stacking" -635 553 basemark 0
 LayerCount: 3
-Fore
-SplineSet
-0 0 m 25,0,-1
-EndSplineSet
 Comment: "Required character" 
 Colour: ff
 EndChar
@@ -106008,7 +106003,6 @@ SplineSet
  60 43 58 6 57 -30 c 0
 EndSplineSet
 LCarets2: 1 0 
-Colour: ff00ff
 EndChar
 
 StartChar: u1CF61
@@ -106704,7 +106698,6 @@ SplineSet
  856 693 l 1
  926 753 996 806 1012 806 c 0
 EndSplineSet
-Colour: ff00ff
 EndChar
 
 StartChar: u1CF6B
@@ -107056,6 +107049,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Canonical Composition (ccmp)-1" u1CF6F u1CF3C
+Colour: ffff
 EndChar
 
 StartChar: u1CF70
@@ -107958,7 +107952,6 @@ SplineSet
  148 129 l 1
  160 248 l 1
 EndSplineSet
-Colour: ff00ff
 EndChar
 
 StartChar: u1CF80
@@ -108336,6 +108329,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Canonical Composition (ccmp)-1" u1CF86 u1CF85
+Colour: ffff
 EndChar
 
 StartChar: u1CF86
@@ -108629,7 +108623,6 @@ SplineSet
  60 3 42 -16 30 -39 c 1
  42 87 l 1
 EndSplineSet
-Colour: ff00ff
 EndChar
 
 StartChar: u1CF8B
@@ -109016,7 +109009,6 @@ SplineSet
  298 447 l 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB0B
-Colour: ff00ff
 EndChar
 
 StartChar: u1CF92
@@ -111852,7 +111844,6 @@ SplineSet
  198 11 205 106 205 106 c 1
  212 165 234 194 269 194 c 0x7e
 EndSplineSet
-Colour: ff00ff
 EndChar
 
 StartChar: u1CFBC
@@ -112312,6 +112303,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Canonical Composition (ccmp)-1" u1CFC1 u1CF92
+Colour: ffff
 EndChar
 
 StartChar: u1CFC2
@@ -112462,6 +112454,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0 
 Ligature2: "Canonical Composition (ccmp)-1" u1CF86 u1CFC3
+Colour: ffff
 EndChar
 
 StartChar: u1CFC4
@@ -115734,7 +115727,6 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Colour: ffff
 EndChar
 
 StartChar: uniEB45
@@ -148192,7 +148184,7 @@ Encoding: 60219 60219 1586
 Width: 1000
 VWidth: 0
 LayerCount: 3
-Colour: ffff
+Colour: ff00ff
 EndChar
 
 StartChar: uniEB40
@@ -148313,6 +148305,30 @@ Width: 1000
 VWidth: 0
 LayerCount: 3
 Colour: ffff00
+EndChar
+
+StartChar: uniEB37
+Encoding: 60215 60215 1602
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ff00ff
+EndChar
+
+StartChar: uniEB5B
+Encoding: 60251 60251 1603
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
+EndChar
+
+StartChar: uniEB5C
+Encoding: 60252 60252 1604
+Width: 1000
+VWidth: 0
+LayerCount: 3
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
