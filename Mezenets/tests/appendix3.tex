@@ -1,0 +1,185 @@
+\documentclass[12pt]{article}
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=20mm]{geometry}
+\usepackage{fontspec}
+\usepackage{longtable}
+\usepackage[nooverlap]{ruby}
+%%% THIS FILE TESTS GSUB DATA FOR THE MEZENETS FONT
+\defaultfontfeatures{Ligatures=TeX}
+\setromanfont{Linux Libertine O}
+\newfontfamily{\mood}[Path=../,Extension=.otf,Scale=MatchUppercase]{MezenetsUnicode}
+\newfontfamily{\ssss}[Path=../,Extension=.otf,Scale=MatchUppercase,StylisticSet=2]{MezenetsUnicode}
+\newfontfamily{\mono}[Scale=1.0]{Liberation Mono}
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {-2ex \@plus1ex}%
+                                   {\normalfont\Large\bfseries Appendix } }%
+\makeatother
+\renewcommand\rubysep{-0.1ex}
+
+\begin{document}
+
+\pagestyle{empty}
+\addtocounter{section}{2}
+\section{Priznakified Forms of Neumes}
+
+\subsection{Glyphs with Two Priznakified Forms}
+
+\noindent The following characters have two priznakified forms, a form used at the second level of a soglasie (on the pitches \emph{nizko} and \emph{povyshe}), accessed via U+1CF42 Znamenny Priznak Modifier Level 2, and a form used at the third level of a soglasie (on the pitches \emph{sredne} and \emph{vysoko}), accessed via U+1CF43 Znamenny Priznak Modifier Level 3. In the alternative priznaki system of Morozov, the neumes may also have a variant (``flipped'') form: a flipped form that occurs at the pitch \emph{povyshe} (accessed by invoking the control characters U+1CF42 Znamenny Priznak Modifier Level 2 U+1CF44 Znamenny Priznak Modifier Flip) and a flipped form that occurs at the pitch \emph{vysoko} (accessed by invoking the control characters U+1CF43 Znamenny Priznak Modifier Level 3 U+1CF44 Znamenny Priznak Modifier Flip). All characters have only two priznaki in Kazan Notation, a lower form (accessed via U+1CF45 Znamenny Priznak Modifier Kryzh) and an upper form (accessed via U+1CF46 Znamenny Priznak Modifier Rog). The only exception is U+1CF56 Znamenny Neume Stopitsa, which has an additional ``flipped'' form bearing the Rog priznak, accessed via U+1CF46 Znamenny Priznak Modifier Rog U+1CF44 Znamenny Priznak Modifier Flip. Many forms are theoretically impossible, or unattested, and so are not included.
+
+\begin{longtable}{c|cccc|ccc}
+\hline
+ & \ruby{\mono \tiny 1CF42}{\mood \Large 𜽂} & \ruby{\mono \tiny 1CF43}{\mood \Large 𜽃} & \ruby{\mono \tiny 1CF42 1CF44}{\mood \Large 𜽂𜽄} & \ruby{\mono \tiny 1CF43 1CF44}{\mood \Large 𜽃𜽄} & \ruby{\mono \tiny 1CF45}{\mood \Large 𜽅} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆}~\ruby{\mono \tiny 1CF44}{\mood \Large 𜽄} \\ 
+\hline
+\endfirsthead
+\multicolumn{8}{c}{\scriptsize Continued from previous page} \\
+\hline
+ & \ruby{\mono \tiny 1CF42}{\mood \Large 𜽂} & \ruby{\mono \tiny 1CF43}{\mood \Large 𜽃} & \ruby{\mono \tiny 1CF42 1CF44}{\mood \Large 𜽂𜽄} & \ruby{\mono \tiny 1CF43 1CF44}{\mood \Large 𜽃𜽄} & \ruby{\mono \tiny 1CF45}{\mood \Large 𜽅} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆}  & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆}~\ruby{\mono \tiny 1CF44}{\mood \Large 𜽄}\\ 
+\hline
+\endhead
+\hline
+\endlastfoot
+\hline
+\multicolumn{8}{c}{\scriptsize Continued on next page} \\
+\hline
+\endfoot
+
+\ruby{\mono \tiny 1CF50}{\mood \Large 𜽐} & \mood \Large 𜽐𜽂 & \mood \Large 𜽐𜽃 & \mood \Large 𜽐𜽂𜽄 & \mood \Large 𜽐𜽃𜽄 & \mood \Large 𜽐𜽅 & \mood \Large 𜽐𜽆\\
+\ruby{\mono \tiny 1CF51 }{\mood \Large 𜽑} & \mood \Large 𜽑𜽂 & \mood \Large 𜽑𜽃 & \mood \Large 𜽑𜽂𜽄 & \mood \Large 𜽑𜽃𜽄 & -- & -- \\
+\ruby{\mono \tiny 1CF52 }{\mood \Large 𜽒} & \mood \Large 𜽒𜽂 & \mood \Large 𜽒𜽃 & -- & -- & \mood \Large 𜽒𜽅 & -- \\
+\ruby{\mono \tiny 1CF53 }{\mood \Large 𜽓} & \mood \Large 𜽓𜽂 & \mood \Large 𜽓𜽃 & \mood \Large 𜽓𜽂𜽄 & \mood \Large 𜽓𜽃𜽄 & -- & -- \\
+\ruby{\mono \tiny 1CF54 }{\mood \Large 𜽔} & \mood \Large 𜽔𜽂 & \mood \Large 𜽔𜽃 & \mood \Large 𜽔𜽂𜽄 & \mood \Large 𜽔𜽃𜽄 & \mood \Large 𜽔𜽅 & \mood \Large 𜽔𜽆\\
+\ruby{\mono \tiny 1CF56 }{\mood \Large 𜽖} & \mood \Large 𜽖𜽂 & \mood \Large 𜽖𜽃 & \mood \Large 𜽖𜽂𜽄 & \mood \Large 𜽖𜽃𜽄 & \mood \Large 𜽖𜽅 & \mood \Large 𜽖𜽆 & \mood \Large 𜽖𜽆𜽄 \\
+\ruby{\mono \tiny 1CF57 }{\mood \Large 𜽗} & \mood \Large 𜽗𜽂 & \mood \Large 𜽗𜽃 & \mood \Large 𜽗𜽂𜽄 & \mood \Large 𜽗𜽃𜽄 & \mood \Large 𜽗𜽅 & \mood \Large 𜽗𜽆 \\
+\ruby{\mono \tiny 1CF58 }{\mood \Large 𜽘} & -- & -- & -- & -- & \mood \Large 𜽘𜽅 & \mood \Large 𜽘𜽆\\
+\ruby{\mono \tiny 1CF59 }{\mood \Large 𜽙} & -- & -- & -- & -- & \mood \Large 𜽙𜽅 & \mood \Large 𜽙𜽆\\
+\ruby{\mono \tiny 1CF5B }{\mood \Large 𜽛} & \mood \Large 𜽛𜽂 & \mood \Large 𜽛𜽃 & \mood \Large 𜽛𜽂𜽄 & \mood \Large 𜽛𜽃𜽄 & \mood \Large 𜽛𜽅 & \mood \Large 𜽛𜽆\\
+\ruby{\mono \tiny 1CF5C }{\mood \Large 𜽜} & \mood \Large 𜽜𜽂 & \mood \Large 𜽜𜽃 & \mood \Large 𜽜𜽂𜽄 & \mood \Large 𜽜𜽃𜽄 & \mood \Large 𜽜𜽅 & -- \\
+\ruby{\mono \tiny 1CF60 }{\mood \Large 𜽠} & -- & -- & -- & -- & \mood \Large 𜽠𜽅 & \mood \Large 𜽠𜽆\\
+\ruby{\mono \tiny 1CF61 }{\mood \Large 𜽡} & -- & -- & -- & -- & \mood \Large 𜽡𜽅 & \mood \Large 𜽡𜽆\\
+\ruby{\mono \tiny 1CF62 }{\mood \Large 𜽢} & -- & -- & -- & -- & \mood \Large 𜽢𜽅 & \mood \Large 𜽢𜽆\\
+\ruby{\mono \tiny 1CF63 }{\mood \Large 𜽣} & -- & -- & -- & -- & \mood \Large 𜽣𜽅 & \mood \Large 𜽣𜽆\\
+\ruby{\mono \tiny 1CF64 }{\mood \Large 𜽤} & -- & -- & -- & -- & \mood \Large 𜽤𜽅 & \mood \Large 𜽤𜽆\\
+\ruby{\mono \tiny 1CF65 }{\mood \Large 𜽥} & -- & -- & -- & -- & \mood \Large 𜽥𜽅 & \mood \Large 𜽥𜽆\\
+\ruby{\mono \tiny 1CF66 }{\mood \Large 𜽦} & -- & -- & -- & -- & \mood \Large 𜽦𜽅 & \mood \Large 𜽦𜽆\\
+\ruby{\mono \tiny 1CF67 }{\mood \Large 𜽧} & -- & -- & -- & -- & \mood \Large 𜽧𜽅 & \mood \Large 𜽧𜽆\\
+\ruby{\mono \tiny 1CF68 }{\mood \Large 𜽨} & -- & -- & -- & -- & \mood \Large 𜽨𜽅 & \mood \Large 𜽨𜽆\\
+\ruby{\mono \tiny 1CF69 }{\mood \Large 𜽩} & -- & -- & -- & -- & \mood \Large 𜽩𜽅 & \mood \Large 𜽩𜽆\\
+\ruby{\mono \tiny 1CF6A }{\mood \Large 𜽪} & -- & -- & -- & -- & \mood \Large 𜽪𜽅 & \mood \Large 𜽪𜽆\\
+\ruby{\mono \tiny 1CF6D }{\mood \Large 𜽭} & \mood \Large 𜽭𜽂 & \mood \Large 𜽭𜽃 & \mood \Large 𜽭𜽂𜽄 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF70 }{\mood \Large 𜽰} & \mood \Large 𜽰𜽂 & \mood \Large 𜽰𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF71 }{\mood \Large 𜽱} & \mood \Large 𜽱𜽂 & \mood \Large 𜽱𜽃 & -- & -- & \mood \Large 𜽱𜽅 & -- \\
+\ruby{\mono \tiny 1CF72 }{\mood \Large 𜽲} & \mood \Large 𜽲𜽂 & \mood \Large 𜽲𜽃 & -- & -- & \mood \Large 𜽲𜽅 & --\\
+\ruby{\mono \tiny 1CF73 }{\mood \Large 𜽳} & \mood \Large 𜽳𜽂 & \mood \Large 𜽳𜽃 & -- & -- & \mood \Large 𜽳𜽅 & -- \\
+\ruby{\mono \tiny 1CF74 }{\mood \Large 𜽴} & \mood \Large 𜽴𜽂 & \mood \Large 𜽴𜽃 & \mood \Large 𜽴𜽂𜽄 & \mood \Large 𜽴𜽃𜽄 & -- & -- \\
+\ruby{\mono \tiny 1CF79 }{\mood \Large 𜽹} & -- & -- & -- & -- & \mood \Large 𜽹𜽅 & -- \\
+\ruby{\mono \tiny 1CF7A }{\mood \Large 𜽺} & -- & -- & -- & -- & \mood \Large 𜽺𜽅 & -- \\
+\ruby{\mono \tiny 1CF7B }{\mood \Large 𜽻} & -- & -- & -- & -- & \mood \Large 𜽻𜽅 & -- \\
+\ruby{\mono \tiny 1CF7C }{\mood \Large 𜽼} & -- & -- & -- & -- & \mood \Large 𜽼𜽅 & -- \\
+\ruby{\mono \tiny 1CF81 }{\mood \Large 𜾁} & \mood \Large 𜾁𜽂 & \mood \Large 𜾁𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF82 }{\mood \Large 𜾂} & \mood \Large 𜾂𜽂 & \mood \Large 𜾂𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF86 }{\mood \Large 𜾆} & \mood \Large 𜾆𜽂 & \mood \Large 𜾆𜽃 & -- & -- & \mood \Large 𜾆𜽅 & \mood \Large 𜾆𜽆\\
+\ruby{\mono \tiny 1CF87 }{\mood \Large 𜾇} & \mood \Large 𜾇𜽂 & \mood \Large 𜾇𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF88 }{\mood \Large 𜾈} & \mood \Large 𜾈𜽂 & \mood \Large 𜾈𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF89 }{\mood \Large 𜾉} & \mood \Large 𜾉𜽂 & \mood \Large 𜾉𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF8B }{\mood \Large 𜾋} & \mood \Large 𜾋𜽂 & \mood \Large 𜾋𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF90 }{\mood \Large 𜾐} & \mood \Large 𜾐𜽂 & \mood \Large 𜾐𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF92 }{\mood \Large 𜾒} & \mood \Large 𜾒𜽂 & \mood \Large 𜾒𜽃 & \mood \Large 𜾒𜽂𜽄 & -- & \mood \Large 𜾒𜽅 & \mood \Large 𜾒𜽆\\
+\ruby{\mono \tiny 1CF93 }{\mood \Large 𜾓} & \mood \Large 𜾓𜽂 & \mood \Large 𜾓𜽃 & \mood \Large 𜾓𜽂𜽄 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF94 }{\mood \Large 𜾔} & \mood \Large 𜾔𜽂 & \mood \Large 𜾔𜽃 & \mood \Large 𜾔𜽂𜽄 & -- & \mood \Large 𜾔𜽅 & \mood \Large 𜾔𜽆\\
+\ruby{\mono \tiny 1CF95 }{\mood \Large 𜾕} & \mood \Large 𜾕𜽂 & \mood \Large 𜾕𜽃 & \mood \Large 𜾕𜽂𜽄 & -- & \mood \Large 𜾕𜽅 & \mood \Large 𜾕𜽆\\
+\ruby{\mono \tiny 1CF96 }{\mood \Large 𜾖} & \mood \Large 𜾖𜽂 & \mood \Large 𜾖𜽃 & \mood \Large 𜾖𜽂𜽄 & -- & \mood \Large 𜾖𜽅 & \mood \Large 𜾖𜽆\\
+\ruby{\mono \tiny 1CF97 }{\mood \Large 𜾗} & \mood \Large 𜾗𜽂 & \mood \Large 𜾗𜽃 & \mood \Large 𜾗𜽂𜽄 & -- & \mood \Large 𜾗𜽅 & \mood \Large 𜾗𜽆\\
+\ruby{\mono \tiny 1CF98 }{\mood \Large 𜾘} & -- & -- & -- & -- & \mood \Large 𜾘𜽅 & \mood \Large 𜾘𜽆\\
+\ruby{\mono \tiny 1CF99 }{\mood \Large 𜾙} & -- & -- & -- & -- & \mood \Large 𜾙𜽅 & \mood \Large 𜾙𜽆\\
+\ruby{\mono \tiny 1CF9B }{\mood \Large 𜾛} & -- & -- & -- & -- & \mood \Large 𜾛𜽅 & \mood \Large 𜾛𜽆\\
+\ruby{\mono \tiny 1CF9C }{\mood \Large 𜾜} & -- & -- & -- & -- & \mood \Large 𜾜𜽅 & \mood \Large 𜾜𜽆\\
+\ruby{\mono \tiny 1CF9D }{\mood \Large 𜾝} & -- & -- & -- & -- & \mood \Large 𜾝𜽅 & \mood \Large 𜾝𜽆\\
+\ruby{\mono \tiny 1CF9E }{\mood \Large 𜾞} & -- & -- & -- & -- & \mood \Large 𜾞𜽅 & \mood \Large 𜾞𜽆\\
+\ruby{\mono \tiny 1CF9F }{\mood \Large 𜾟} & -- & -- & -- & -- & \mood \Large 𜾟𜽅 & \mood \Large 𜾟𜽆\\
+\ruby{\mono \tiny 1CFA2 }{\mood \Large 𜾢} & \mood \Large 𜾢𜽂 & \mood \Large 𜾢𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CFA3 }{\mood \Large 𜾣} & \mood \Large 𜾣𜽂 & \mood \Large 𜾣𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CFA5 }{\mood \Large 𜾥} & \mood \Large 𜾥𜽂 & \mood \Large 𜾥𜽃 & -- & -- & -- & --\\
+\ruby{\mono \tiny 1CFA6 }{\mood \Large 𜾦} & \mood \Large 𜾦𜽂 & \mood \Large 𜾦𜽃 & -- & -- & -- & --\\
+\ruby{\mono \tiny 1CFA7 }{\mood \Large 𜾧} & \mood \Large 𜾧𜽂 & \mood \Large 𜾧𜽃 & -- & -- & \mood \Large 𜾧𜽅 & \mood \Large 𜾧𜽆 \\
+\ruby{\mono \tiny 1CFA8 }{\mood \Large 𜾨} & -- & -- & -- & -- & \mood \Large 𜾨𜽅 & -- \\
+\ruby{\mono \tiny 1CFA8 (ss02) }{\ssss \Large 𜾨} & -- & -- & -- & -- & \ssss \Large 𜾨𜽅 & -- \\
+\ruby{\mono \tiny 1CFA9 }{\mood \Large 𜾩} & -- & -- & -- & -- & \mood \Large 𜾩𜽅 & -- \\
+\ruby{\mono \tiny 1CFAA }{\mood \Large 𜾪} & -- & -- & -- & -- & \mood \Large 𜾪𜽅 & -- \\
+\ruby{\mono \tiny 1CFAB }{\mood \Large 𜾫} & -- & -- & -- & -- & \mood \Large 𜾫𜽅 & -- \\
+\ruby{\mono \tiny 1CFAA (ss02)}{\ssss \Large 𜾪} & -- & -- & -- & -- & \ssss \Large 𜾪𜽅 & -- \\
+\ruby{\mono \tiny 1CFAB (ss02)}{\ssss \Large 𜾫} & -- & -- & -- & -- & \ssss \Large 𜾫𜽅 & -- \\
+\ruby{\mono \tiny 1CFAC }{\mood \Large 𜾬} & -- & \mood \Large 𜾬𜽃 & -- & -- & -- & --\\
+\ruby{\mono \tiny 1CFAD }{\mood \Large 𜾭} & -- & \mood \Large 𜾭𜽃 & -- & -- & -- & --\\
+\ruby{\mono \tiny 1CFAE }{\mood \Large 𜾮} & -- & \mood \Large 𜾮𜽃 & -- & -- & -- & --\\
+\ruby{\mono \tiny 1CFAF }{\mood \Large 𜾯} & \mood \Large 𜾯𜽂 & \mood \Large 𜾯𜽃 & -- & -- & \mood \Large 𜾯𜽅 & -- \\
+\ruby{\mono \tiny 1CFB0 }{\mood \Large 𜾰} & -- & -- & -- & -- & \mood \Large 𜾰𜽅 & -- \\
+\enlargethispage{1em}
+\ruby{\mono \tiny 1CFB3 }{\mood \Large 𜾳} & -- & -- & -- & -- & \mood \Large 𜾳𜽅 & -- \\
+\ruby{\mono \tiny 1CFB4 }{\mood \Large 𜾴} & -- & -- & -- & -- & \mood \Large 𜾴𜽅 & -- \\
+\ruby{\mono \tiny 1CFC3 }{\mood \Large 𜿃} & \mood \Large 𜿃𜽂 & \mood \Large 𜿃𜽃 & -- & -- & -- & -- \\
+\end{longtable}
+
+\subsection{Glyphs with Non-standard Priznakified Forms}
+
+\noindent In the system of Morozov, two characters have a priznakified form at the first level of the \emph{svetloe} soglasie (on the pitch \emph{malo povyshe}), and sometimes at the first level of the \emph{tresvetloye} soglasie (on the pitch \emph{malo povyshe s khokhlom}). These two forms are accessed by ``flipping'' the non-priznakified base character form (via U+1CF44 Znamenny Priznak Modifier Flip). The Demestvenny Mechiki used in the system of Kalashnikov (the ``new style'' forms) also take a priznak at these pitches, in addition to the flipped versions of the Level~2 and Level~3 priznakified forms. All of these glyphs also have only two priznakified forms in Kazan Notation, a lower form (accessed via U+1CF45 Znamenny Priznak Modifier Kryzh) and an upper form (accessed via U+1CF46 Znamenny Priznak Modifier Rog).
+
+\begin{longtable}{c|cccccc|cc}
+\hline
+ & \ruby{\mono \tiny 1CF42}{\mood \Large 𜽂} & \ruby{\mono \tiny 1CF43}{\mood \Large 𜽃} & \ruby{\mono \tiny 1CF44}{\mood \Large 𜽄} & \ruby{\mono \tiny 1CF42 1CF44}{\mood \Large 𜽂𜽄} & \ruby{\mono \tiny 1CF43 1CF44}{\mood \Large 𜽃𜽄} & \ruby{\mono \tiny 1CF44 1CF44}{\mood \Large 𜽄𜽄} & \ruby{\mono \tiny 1CF45}{\mood \Large 𜽅} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆} \\ 
+\hline
+\endfirsthead
+\multicolumn{8}{c}{\scriptsize Continued from previous page} \\
+\hline
+ & \ruby{\mono \tiny 1CF42}{\mood \Large 𜽂} & \ruby{\mono \tiny 1CF43}{\mood \Large 𜽃} & \ruby{\mono \tiny 1CF44}{\mood \Large 𜽄} & \ruby{\mono \tiny 1CF42 1CF44}{\mood \Large 𜽂𜽄} & \ruby{\mono \tiny 1CF43 1CF44}{\mood \Large 𜽃𜽄} & \ruby{\mono \tiny 1CF44 1CF44}{\mood \Large 𜽄𜽄} & \ruby{\mono \tiny 1CF45}{\mood \Large 𜽅} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆} \\
+\hline
+\endhead
+\hline
+\endlastfoot
+\hline
+\multicolumn{8}{c}{\scriptsize Continued on next page} \\
+\hline
+\endfoot
+
+\ruby{\mono \tiny 1CF5D }{\mood \Large 𜽝} & \mood \Large 𜽝𜽂 & \mood \Large 𜽝𜽃 & \mood \Large 𜽝𜽄 & -- & -- & \mood \Large 𜽝𜽄𜽄 & \mood \Large 𜽝𜽅 & \mood \Large 𜽝𜽆\\
+\ruby{\mono \tiny 1CF7E }{\mood \Large 𜽾} & \mood \Large 𜽾𜽂 & \mood \Large 𜽾𜽃  & \mood \Large 𜽾𜽄 & -- & -- & -- & -- & -- \\
+
+\ruby{\mono \tiny 1CFA7 (ss02) }{\ssss \Large 𜾧} & \ssss \Large 𜾧𜽂 & \ssss \Large 𜾧𜽃 & \ssss \Large 𜾧𜽄 & \ssss \Large 𜾧𜽂𜽄 & \ssss \Large 𜾧𜽃𜽄 & -- & \ssss \Large 𜾧𜽅 & \ssss \Large 𜾧𜽆 \\
+\ruby{\mono \tiny 1CFA9 (ss02) }{\ssss \Large 𜾩} & \ssss \Large 𜾩𜽂 & \ssss \Large 𜾩𜽃 & \ssss \Large 𜾩𜽄 & \ssss \Large 𜾩𜽂𜽄 & \ssss \Large 𜾩𜽃𜽄 & -- & \ssss \Large 𜾩𜽅 & -- \\
+
+\end{longtable}
+
+\subsection{Ligatures}
+
+\noindent Some ligatures exhibit complex priznakification: the priznak may be positioned on one component for one level and on the other component on another level. Font designers need to provide pre-composed glyphs for these forms.
+
+\begin{longtable}{c|cccc|cc}
+\hline
+ & \ruby{\mono \tiny 1CF42}{\mood \Large 𜽂} & \ruby{\mono \tiny 1CF43}{\mood \Large 𜽃} & \ruby{\mono \tiny 1CF42 1CF44}{\mood \Large 𜽂𜽄} & \ruby{\mono \tiny 1CF43 1CF44}{\mood \Large 𜽃𜽄} & \ruby{\mono \tiny 1CF45}{\mood \Large 𜽅} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆} \\ 
+\hline
+\endfirsthead
+\multicolumn{7}{c}{\scriptsize Continued from previous page} \\
+\hline
+ & \ruby{\mono \tiny 1CF42}{\mood \Large 𜽂} & \ruby{\mono \tiny 1CF43}{\mood \Large 𜽃} & \ruby{\mono \tiny 1CF42 1CF44}{\mood \Large 𜽂𜽄} & \ruby{\mono \tiny 1CF43 1CF44}{\mood \Large 𜽃𜽄} & \ruby{\mono \tiny 1CF45}{\mood \Large 𜽅} & \ruby{\mono \tiny 1CF46}{\mood \Large 𜽆} \\ 
+\hline
+\endhead
+\hline
+\endlastfoot
+\hline
+\multicolumn{7}{c}{\scriptsize Continued on next page} \\
+\hline
+\endfoot
+
+\ruby{\mono \tiny 1CF86}{\mood \Large 𜾆}~\ruby{\mono \tiny 1CF30}{\mood \Large ◌𜼰} & \mood \Large 𜾆𜽂𜼰 & \mood \Large 𜾆𜽃𜼰 & \mood \Large 𜾆𜽂𜽄𜼰 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF86}{\mood \Large 𜾆}~\ruby{\mono \tiny 1CF31}{\mood \Large ◌𜼱} & \mood \Large 𜾆𜽂𜼱 & \mood \Large 𜾆𜽃𜼱 & \mood \Large 𜾆𜽂𜽄𜼱 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF86}{\mood \Large 𜾆}~\ruby{\mono \tiny 1CF85}{\mood \Large 𜾅} & \mood \Large 𜾆𜾅𜽂 & \mood \Large 𜾆𜾅𜽃 & \mood \Large 𜾆𜾅𜽂𜽄 & \mood \Large 𜾆𜾅𜽃𜽄 & -- & -- \\
+\ruby{\mono \tiny 1CF86}{\mood \Large 𜾆}~\ruby{\mono \tiny 1CFC3}{\mood \Large 𜿃} & \mood \Large 𜾆𜿃𜽂 & \mood \Large 𜾆𜿃𜽃 & -- & -- & -- & -- \\
+\ruby{\mono \tiny 1CF87}{\mood \Large 𜾇}~\ruby{\mono \tiny 1CF30}{\mood \Large ◌𜼰} & \mood \Large 𜾇𜽂𜼰 & \mood \Large 𜾇𜽃𜼰 & \mood \Large 𜾇𜽂𜽄𜼰 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF8B}{\mood \Large 𜾋}~\ruby{\mono \tiny 1CF30}{\mood \Large ◌𜼰} & \mood \Large 𜾋𜼰𜽂 & \mood \Large 𜾋𜼰𜽃 & \mood \Large 𜾋𜼰𜽂𜽄 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF8C}{\mood \Large 𜾌}~\ruby{\mono \tiny 1CF30}{\mood \Large ◌𜼰} & \mood \Large 𜾌𜼰𜽂 & \mood \Large 𜾌𜼰𜽃 & \mood \Large 𜾌𜼰𜽂𜽄 & -- & -- & -- \\
+\ruby{\mono \tiny 1CF90}{\mood \Large 𜾐}~\ruby{\mono \tiny 1CF30}{\mood \Large ◌𜼰} & \mood \Large 𜾐𜼰𜽂 & \mood \Large 𜾐𜼰𜽃 & \mood \Large 𜾐𜼰𜽂𜽄 & -- & -- & -- \\
+%\ruby{\mono \tiny 1CFC1}{\mood \Large 𜿁}\ruby{\mono \tiny 1CF92}{\mood \Large 𜾒} & \mood \Large 𜿁𜾒𜽂 & \mood \Large 𜿁𜾒𜽃 & -- & -- & -- & -- \\
+
+\end{longtable}
+
+\end{document}
