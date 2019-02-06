@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1549288544
+ModificationTime: 1549486649
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -65,7 +65,7 @@ Lookup: 257 0 0 "Advance neume with cinnabar mark"  {"Advance neume with cinnaba
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 2 2 "'kern' Demestvenny kerning - Newstyle" 
- 355 uniEA76 uniEA8C uniEB26 uniEB2D uniEB30 uniEF60 uniEF61 uniEF62 uniEF63 uniEF64 uniEFA0 uniEFA1 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC1 uniEFC2 uniEFC5 uniEFC6 uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0 uniEFF5 uniEFF6 u1CF50 u1CF53 u1CF54 u1CF72 u1CF75 u1CF76 u1CF79 u1CF7A u1CF96 u1CF98 u1CF9B u1CF9D
+ 361 uniEA76 uniEA8C uniEB26 uniEB2D uniEB30 uniEF60 uniEF61 uniEF62 uniEF63 uniEF64 uniEFA0 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC1 uniEFC2 uniEFC5 uniEFC6 uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0 uniEFF5 uniEFF6 u1CF50 u1CF52 u1CF53 u1CF54 u1CF55 u1CF72 u1CF75 u1CF76 u1CF79 u1CF7A u1CF96 u1CF98 u1CF9B u1CF9D
  267 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEC12 uniEC17 uniEFD7 uniEFDF uniEFE0 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
  0 {} 0 {} 0 {} -140 {}
 KernClass2: 2 2 "'kern' Demestvenny kerning - Oldstyle" 
@@ -981,8 +981,8 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -990,7 +990,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1026 27 9
+WinInfo: 1134 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -120518,8 +120518,8 @@ EndChar
 StartChar: uniEFDD
 Encoding: 61405 61405 1050
 Width: 720
-Flags: HW
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
+Flags: W
+HStem: 0 21G<126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
 AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
@@ -121581,8 +121581,8 @@ EndChar
 StartChar: uniEFE4
 Encoding: 61412 61412 1065
 Width: 720
-Flags: HW
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
+Flags: W
+HStem: 0 21G<126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
 AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
@@ -124436,8 +124436,8 @@ EndChar
 StartChar: uniEFFB
 Encoding: 61435 61435 1116
 Width: 720
-Flags: HW
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
+Flags: W
+HStem: 0 21G<126.869 128> 451 125<574.474 640.206>
 AnchorPoint: "PitchMark" 120 770 basechar 0
 AnchorPoint: "Auxiliary" 345 800 basechar 0
 AnchorPoint: "Kachka" 495 630 basechar 0
@@ -147902,16 +147902,16 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-486 652 m 5
+486 652 m 5xf0
  507 713 570 722 570 722 c 5
  559 598 l 5
  559 598 505 589 474 526 c 5
- 486 652 l 5
-172 363.98 m 1xf0
+ 486 652 l 5xf0
+172 363.98 m 1
  193 424.98 256 432.98 256 432.98 c 1
  246 308.98 l 1
  246 308.98 191 299.98 160 236.98 c 1
- 172 363.98 l 1xf0
+ 172 363.98 l 1
 642 576 m 0
  655 576 670 566 688 545 c 0
  705 525 713 509 713 495 c 0
@@ -148091,16 +148091,16 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-456 652 m 5
+456 652 m 5xe0
  477 713 540 722 540 722 c 5
  529 598 l 5
  529 598 475 589 444 526 c 5
- 456 652 l 5
-104 496 m 1xe0
+ 456 652 l 5xe0
+104 496 m 1
  94 386 67 133 56 28 c 1
  30 0 l 1
  79 480 l 1
- 104 496 l 1xe0
+ 104 496 l 1
 142 363.98 m 1
  163 424.98 226 432.98 226 432.98 c 1
  216 308.98 l 1
