@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1550674196
+ModificationTime: 1550718384
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -981,8 +981,8 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -990,7 +990,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1134 27 9
+WinInfo: 432 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -33239,6 +33239,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 300 60 basechar 0
 AnchorPoint: "Lomka" 470 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -33246,7 +33247,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Auxiliary" 150 370 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -33344,6 +33344,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 275 150 basechar 0
 AnchorPoint: "Lomka" 290 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Zaderzhka" 225 180 basechar 0
@@ -33352,7 +33353,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 90 370 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -39145,6 +39145,7 @@ Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -39153,7 +39154,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 410 360 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -63452,6 +63452,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 275 150 basechar 0
 AnchorPoint: "Lomka" 400 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -63459,7 +63460,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 90 370 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -63492,10 +63492,10 @@ EndChar
 
 StartChar: uniEAE5
 Encoding: 60133 60133 349
-Width: 285
+Width: 400
 Flags: W
-HStem: -91 94<168.686 228.66> 0 21G<87.2 102.521>
-VStem: 135 31<-48 61.3008> 255 10<80.6551 111.288>
+HStem: -3 98<238.222 315.443>
+VStem: 207 31<97.3438 136.557> 226 12<132.557 152.946>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -63571,7 +63571,7 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 90 370 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
+AnchorPoint: "Podvertka" 275 150 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -63582,20 +63582,22 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-191 -91 m 0xb0
- 156 -91 135 -65 135 -31 c 0
- 135 3 143 46 158 82 c 0
- 161 90 168 92 167 78 c 0
- 166 68 166 56 166 46 c 0
- 166 24 171 3 201 3 c 0
- 231 3 248 62 255 103 c 0
- 256 109 260 112 262 112 c 0
- 264 112 265 110 265 106 c 0
- 266 75 261 27 254 -7 c 0
- 245 -51 225 -91 191 -91 c 0xb0
+274 -3 m 4xc0
+ 235 -3 207 23 207 66 c 4xc0
+ 207 90 213 117 226 146 c 4
+ 227 151 229 153 233 153 c 4
+ 237 153 239 149 238 142 c 6xa0
+ 238 119 l 6
+ 238 103 249 95 270 95 c 4
+ 292.645 95 311.586 109.413 327 130 c 4
+ 347.567 157.47 361.572 195.776 367 224 c 4
+ 368 230 371 233 376 233 c 4
+ 379 233 380 225 380 211 c 4
+ 380 168.443 371.698 116.14 355 74 c 4
+ 337.548 29.958 310.902 -3 274 -3 c 4xc0
 35 244 m 1
  115 119 l 1
- 100 0 l 1x70
+ 100 0 l 1
  20 125 l 1
  35 244 l 1
 115 358 m 1
@@ -63655,7 +63657,7 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 150 470 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -63733,6 +63735,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Lomka" 400 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -63740,7 +63743,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 150 470 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -63773,10 +63775,10 @@ EndChar
 
 StartChar: uniEAE9
 Encoding: 60137 60137 352
-Width: 370
+Width: 410
 Flags: W
-HStem: -3 94<253.686 313.66>
-VStem: 220 31<40 149.301> 340 10<168.655 199.288>
+HStem: -3 98<248.222 325.443>
+VStem: 217 31<97.3438 136.557> 236 12<132.557 152.946>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -63847,6 +63849,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Lomka" 410 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -63854,7 +63857,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 150 470 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -63866,6 +63868,19 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+284 -3 m 4xc0
+ 245 -3 217 23 217 66 c 4xc0
+ 217 90 223 117 236 146 c 4
+ 237 151 239 153 243 153 c 4
+ 247 153 249 149 248 142 c 6xa0
+ 248 119 l 6
+ 248 103 259 95 280 95 c 4
+ 302.645 95 321.586 109.413 337 130 c 4
+ 357.567 157.47 371.572 195.776 377 224 c 4
+ 378 230 381 233 386 233 c 4
+ 389 233 390 225 390 211 c 4
+ 390 168.443 381.698 116.14 365 74 c 4
+ 347.548 29.958 320.902 -3 284 -3 c 4xc0
 29 184 m 1
  174 87 l 1
  165 -22 l 1
@@ -63876,17 +63891,6 @@ SplineSet
  165 154 l 1
  20 251 l 1
  29 360 l 1
-276 -3 m 0
- 241 -3 220 23 220 57 c 0
- 220 91 228 134 243 170 c 0
- 246 178 253 180 252 166 c 0
- 251 156 251 144 251 134 c 0
- 251 112 256 91 286 91 c 0
- 316 91 333 150 340 191 c 0
- 341 197 345 200 347 200 c 0
- 349 200 350 198 350 194 c 0
- 351 163 346 115 339 81 c 0
- 330 37 310 -3 276 -3 c 0
 EndSplineSet
 Colour: ffff
 EndChar
@@ -63992,6 +63996,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 275 150 basechar 0
 AnchorPoint: "Zaderzhka" 320 240 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -64000,7 +64005,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -64114,6 +64118,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Zaderzhka" 300 240 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -64122,7 +64127,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -64287,6 +64291,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
 AnchorPoint: "Zaderzhka" 235 200 basechar 0
@@ -64295,7 +64300,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -64993,11 +64997,11 @@ EndChar
 
 StartChar: uniEAEB
 Encoding: 60139 60139 358
-Width: 435
+Width: 440
 GlyphClass: 3
 Flags: W
-HStem: -133.5 94<296.335 368.663> 1 21G<87.5 102.875 214.5 229.875> 335.2 102<173.109 259.247>
-VStem: 118 22.4<270.063 302.894> 261 31<-85.5 18.4663> 288.497 36.303<159.964 300.785> 405 10<45.3678 69.1468>
+HStem: -150 98<191.222 268.443> 1 21G<87.5 102.875 214.5 229.875> 335.2 102<173.109 259.247>
+VStem: 118 22.4<270.063 302.894> 160 31<-49.6562 -10.4425> 179 12<-14.4435 5.94644> 288.497 36.303<159.964 300.785>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -65199,7 +65203,7 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
+AnchorPoint: "Podvertka" 300 60 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -65210,7 +65214,20 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-228 437.2 m 0xf6
+227 -150 m 4xfa
+ 188 -150 160 -124 160 -81 c 4xfa
+ 160 -57 166 -30 179 -1 c 4
+ 180 4 182 6 186 6 c 4
+ 190 6 192 2 191 -5 c 6xf6
+ 191 -28 l 6
+ 191 -44 202 -52 223 -52 c 4
+ 245.645 -52 264.586 -37.5869 280 -17 c 4
+ 300.567 10.4697 314.572 48.7764 320 77 c 4
+ 321 83 324 86 329 86 c 4
+ 332 86 333 78 333 64 c 4
+ 333 21.4434 324.698 -30.8604 308 -73 c 4
+ 290.548 -117.042 263.902 -150 227 -150 c 4xfa
+228 437.2 m 0
  270.4 437.2 324.8 414.8 324.8 330.8 c 0
  324.8 253.214 305 139 293.6 91.5996 c 0
  291.261 81.877 284.8 78.7998 279.2 78.7998 c 0
@@ -65220,17 +65237,7 @@ SplineSet
  195.6 335.2 156.5 329.5 140.4 284.4 c 0
  137.994 277.661 135.6 270 128.4 270 c 0
  122 269.2 118 274 118 280.4 c 0
- 118 361 164 437.2 228 437.2 c 0xf6
-415 52.5 m 0
- 415 -22.5 388 -133.5 326 -133.5 c 0
- 283 -133.5 261 -109.5 261 -61.5 c 0
- 261 -32.5 269 0.5 284 39.5 c 0
- 291 54.5 294 43.5 293 28.5 c 0
- 292 19.5 292 10.5 292 0.5 c 0xfa
- 292 -22.5 310 -39.5 335 -39.5 c 0
- 369 -39.5 399 29.5 405 60.5 c 0
- 406 66.5 408 69.5 412 69.5 c 0
- 414 69.5 415 63.5 415 52.5 c 0
+ 118 361 164 437.2 228 437.2 c 0
 159 248 m 1
  240 129 l 1
  228 1 l 1
@@ -65315,8 +65322,8 @@ Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: -163 94<254.335 326.663>
-VStem: 219 31<-115 -11.0337> 363 10<15.8678 39.6468>
+HStem: -180 98<268.222 345.443>
+VStem: 237 31<-79.6562 -40.4425> 256 12<-44.4435 -24.0536>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -65412,7 +65419,7 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 410 360 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -65423,6 +65430,19 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+304 -180 m 0xc0
+ 265 -180 237 -154 237 -111 c 0xc0
+ 237 -87 243 -60 256 -31 c 0
+ 257 -26 259 -24 263 -24 c 0
+ 267 -24 269 -28 268 -35 c 2xa0
+ 268 -58 l 2
+ 268 -74 279 -82 300 -82 c 0
+ 322.645 -82 341.586 -67.5869 357 -47 c 0
+ 377.567 -19.5303 391.572 18.7764 397 47 c 0
+ 398 53 401 56 406 56 c 0
+ 409 56 410 48 410 34 c 0
+ 410 -8.55664 401.698 -60.8604 385 -103 c 0
+ 367.548 -147.042 340.902 -180 304 -180 c 0xc0
 298 447 m 1
  319 508 407 527 407 527 c 1
  397 403 l 1
@@ -65443,16 +65463,6 @@ SplineSet
  313 -20 l 1
  232 99 l 1
  244 226 l 1
-373 23 m 0
- 373 -52 346 -163 284 -163 c 0
- 241 -163 219 -139 219 -91 c 0
- 219 -62 227 -29 242 10 c 0
- 249 25 252 14 251 -1 c 0
- 250 -10 250 -19 250 -29 c 0
- 250 -52 268 -69 293 -69 c 0
- 327 -69 357 0 363 31 c 0
- 364 37 366 40 370 40 c 0
- 372 40 373 34 373 23 c 0
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff
@@ -65837,6 +65847,7 @@ GlyphClass: 3
 Flags: W
 HStem: 121 134<407.788 473.641>
 VStem: 379 10<67.3571 88.9895> 387 118<123.656 234.711> 469 18<-41.8192 10.2847>
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Zaderzhka" 265 545 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
@@ -65845,7 +65856,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 410 360 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -67432,11 +67442,11 @@ EndChar
 
 StartChar: uniEAE1
 Encoding: 60129 60129 420
-Width: 450
+Width: 470
 GlyphClass: 3
 Flags: W
-HStem: -3.5 94<311.335 383.663>
-VStem: 276 31<44.5 148.466> 420 10<175.368 199.147>
+HStem: -3 98<308.222 385.443>
+VStem: 277 31<97.3438 136.557> 296 12<132.557 152.946>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -67507,6 +67517,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 300 60 basechar 0
 AnchorPoint: "Zaderzhka" 480 200 basechar 0
 AnchorPoint: "Lomka" 500 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
@@ -67515,7 +67526,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 150 370 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -67526,6 +67536,19 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+344 -3 m 0xc0
+ 305 -3 277 23 277 66 c 0xc0
+ 277 90 283 117 296 146 c 0
+ 297 151 299 153 303 153 c 0
+ 307 153 309 149 308 142 c 2xa0
+ 308 119 l 2
+ 308 103 319 95 340 95 c 0
+ 362.645 95 381.586 109.413 397 130 c 0
+ 417.567 157.47 431.572 195.776 437 224 c 0
+ 438 230 441 233 446 233 c 0
+ 449 233 450 225 450 211 c 0
+ 450 168.443 441.698 116.14 425 74 c 0
+ 407.548 29.958 380.902 -3 344 -3 c 0xc0
 159 248 m 1
  240 129 l 1
  228 1 l 1
@@ -67536,16 +67559,6 @@ SplineSet
  101 1 l 1
  20 121 l 1
  32 248 l 1
-430 182.5 m 0
- 430 107.5 403 -3.5 341 -3.5 c 0
- 298 -3.5 276 20.5 276 68.5 c 0
- 276 97.5 284 130.5 299 169.5 c 0
- 306 184.5 309 173.5 308 158.5 c 0
- 307 149.5 307 140.5 307 130.5 c 0
- 307 107.5 325 90.5 350 90.5 c 0
- 384 90.5 414 159.5 420 190.5 c 0
- 421 196.5 423 199.5 427 199.5 c 0
- 429 199.5 430 193.5 430 182.5 c 0
 EndSplineSet
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEAE5 uniEAE9
@@ -67998,6 +68011,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 300 60 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Zaderzhka" 490 180 basechar 0
@@ -68006,7 +68020,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -68257,6 +68270,7 @@ VWidth: 0
 Flags: W
 HStem: 137 134<382.788 448.641>
 VStem: 275.5 31<616.44 741.402> 354 10<83.3571 104.99> 362 118<139.656 250.711> 392.5 14<729.468 807.695> 444 18<-25.8192 26.2847>
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Lomka" 570 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -68264,7 +68278,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 410 360 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -70836,10 +70849,10 @@ EndChar
 
 StartChar: uniEAEF
 Encoding: 60143 60143 455
-Width: 320
+Width: 330
 Flags: W
-HStem: -100 94<203.686 263.66> 0 21G<87.2 102.521> 405.2 102<123.109 209.247>
-VStem: 68 22.4004<340.063 372.894> 170 31<-57 52.3008> 238.497 36.303<229.965 370.785> 290 10<71.6551 102.288>
+HStem: -60 98<168.222 245.443> 0 21G<87.2 102.521> 405.2 102<123.109 209.247>
+VStem: 68 22.4004<340.063 372.894> 137 31<40.3438 79.5575> 156 12<75.5565 95.9464> 238.497 36.303<229.965 370.785>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -71014,6 +71027,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 275 150 basechar 0
 AnchorPoint: "Zaderzhka" 320 240 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -71022,7 +71036,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -71033,6 +71046,19 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
+204 -60 m 4xba
+ 165 -60 137 -34 137 9 c 4xba
+ 137 33 143 60 156 89 c 4
+ 157 94 159 96 163 96 c 4
+ 167 96 169 92 168 85 c 6xb6
+ 168 62 l 6
+ 168 46 179 38 200 38 c 4
+ 222.645 38 241.586 52.4131 257 73 c 4
+ 277.567 100.47 291.572 138.776 297 167 c 4
+ 298 173 301 176 306 176 c 4
+ 309 176 310 168 310 154 c 4
+ 310 111.443 301.698 59.1396 285 17 c 4
+ 267.548 -27.042 240.902 -60 204 -60 c 4xba
 178 507.2 m 0
  220.4 507.2 274.8 484.8 274.8 400.8 c 0
  274.8 323.214 255 209 243.6 161.6 c 0
@@ -71044,20 +71070,9 @@ SplineSet
  87.9941 347.661 85.5996 340 78.4004 340 c 0
  72 339.2 68 344 68 350.4 c 0
  68 431 114 507.2 178 507.2 c 0
-226 -100 m 0
- 191 -100 170 -74 170 -40 c 0
- 170 -6 178 37 193 73 c 0
- 196 81 203 83 202 69 c 0
- 201 59 201 47 201 37 c 0
- 201 15 206 -6 236 -6 c 0
- 266 -6 283 53 290 94 c 0
- 291 100 295 103 297 103 c 0
- 299 103 300 101 300 97 c 0
- 301 66 296 18 289 -16 c 0
- 280 -60 260 -100 226 -100 c 0
 35 244 m 1
  115 119 l 1
- 100 0 l 1
+ 100 0 l 1x72
  20 125 l 1
  35 244 l 1
 115 358 m 1
@@ -71071,10 +71086,10 @@ EndChar
 
 StartChar: uniEAF2
 Encoding: 60146 60146 456
-Width: 360
+Width: 410
 Flags: W
-HStem: -51 94<245.686 305.66> 451.2 102<109.109 191.673>
-VStem: 54 22.4004<386.063 418.894> 212 31<-8 101.301> 214.497 36.303<275.965 423.704> 332 10<120.655 151.288>
+HStem: -3 98<248.222 325.443> 451.2 102<109.109 191.673>
+VStem: 54 22.4004<386.063 418.894> 217 31<97.3438 136.557 273.612 414.958> 236 12<132.557 152.946>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -71240,6 +71255,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Zaderzhka" 300 240 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -71248,7 +71264,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -71259,7 +71274,20 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-164 553.2 m 0xec
+284 -3 m 0xf0
+ 245 -3 217 23 217 66 c 0xf0
+ 217 90 223 117 236 146 c 0
+ 237 151 239 153 243 153 c 0
+ 247 153 249 149 248 142 c 2xe8
+ 248 119 l 2
+ 248 103 259 95 280 95 c 0
+ 302.645 95 321.586 109.413 337 130 c 0
+ 357.567 157.47 371.572 195.776 377 224 c 0
+ 378 230 381 233 386 233 c 0
+ 389 233 390 225 390 211 c 0
+ 390 168.443 381.698 116.14 365 74 c 0
+ 347.548 29.958 320.902 -3 284 -3 c 0xf0
+164 553.2 m 0
  206.4 553.2 250.8 530.8 250.8 446.8 c 0
  250.8 369.214 231 255 219.6 207.6 c 0
  217.261 197.877 210.8 194.8 205.2 194.8 c 0
@@ -71269,18 +71297,7 @@ SplineSet
  131.6 451.2 92.5 445.5 76.4004 400.4 c 0
  73.9941 393.661 71.5996 386 64.4004 386 c 0
  58 385.2 54 390 54 396.4 c 0
- 54 477 100 553.2 164 553.2 c 0xec
-268 -51 m 0
- 233 -51 212 -25 212 9 c 0
- 212 43 220 86 235 122 c 0
- 238 130 245 132 244 118 c 0
- 243 108 243 96 243 86 c 0xf4
- 243 64 248 43 278 43 c 0
- 308 43 325 102 332 143 c 0
- 333 149 337 152 339 152 c 0
- 341 152 342 150 342 146 c 0
- 343 115 338 67 331 33 c 0
- 322 -11 302 -51 268 -51 c 0
+ 54 477 100 553.2 164 553.2 c 0
 29 184 m 1
  174 87 l 1
  165 -22 l 1
@@ -74463,6 +74480,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -74470,7 +74488,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 410 360 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -107241,6 +107258,7 @@ VWidth: 0
 Flags: W
 HStem: 1 247
 VStem: 20 220
+AnchorPoint: "Podvertka" 300 60 basechar 0
 AnchorPoint: "Lomka" 330 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Zaderzhka" 270 180 basechar 0
@@ -107249,7 +107267,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 0 100 basechar 0
 AnchorPoint: "Auxiliary" 150 370 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -107281,6 +107298,7 @@ VWidth: 0
 Flags: W
 HStem: 1 21G<87.5 102.875 214.5 229.875> 329 126<166.921 252.929>
 VStem: 121 18<269.004 304.991> 283 43<102.263 295.725>
+AnchorPoint: "Podvertka" 300 60 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 50 basechar 0
 AnchorPoint: "Borzaya" 0 150 basechar 0
@@ -107288,7 +107306,6 @@ AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 280 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -107644,6 +107661,7 @@ Width: 200
 VWidth: 0
 Flags: W
 VStem: 23 154
+AnchorPoint: "Podvertka" 215 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" 0 200 basechar 0
@@ -107652,7 +107670,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 265 660 basechar 0
-AnchorPoint: "Podvertka" 225 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -108051,6 +108068,7 @@ Width: 350
 VWidth: 0
 Flags: W
 VStem: 30 295
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 420 150 basechar 0
@@ -108059,7 +108077,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 270 500 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -108095,6 +108112,7 @@ VWidth: 0
 Flags: W
 HStem: 137 134<392.788 458.641>
 VStem: 364 10<83.3571 104.99> 372 118<139.656 250.711> 454 18<-25.8192 26.2847>
+AnchorPoint: "Podvertka" 375 30 basechar 0
 AnchorPoint: "Kachka" 100 270 basechar 0
 AnchorPoint: "Zaderzhka" 105 465 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -108103,7 +108121,6 @@ AnchorPoint: "Borzaya" 0 150 basechar 0
 AnchorPoint: "Zevok" 140 0 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Auxiliary" 180 670 basechar 0
-AnchorPoint: "Podvertka" 220 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -100 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
@@ -108442,7 +108459,7 @@ AnchorPoint: "PitchMark" 210 580 basechar 0
 AnchorPoint: "Auxiliary" 400 800 basechar 0
 AnchorPoint: "Lomka" 705 150 basechar 0
 AnchorPoint: "Tikhaya" 0 100 basechar 0
-AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Borzaya" 600 70 basechar 0
 AnchorPoint: "Zevok" 800 350 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
 AnchorPoint: "Podvertka" 800 380 basechar 0
@@ -112488,7 +112505,7 @@ HStem: -6 21G<178.5 185.5> 371 125<35 110.225>
 VStem: 182 35<48.6146 286.634>
 AnchorPoint: "Kachka" 0 270 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
-AnchorPoint: "Podvertka" 120 200 basechar 0
+AnchorPoint: "Podvertka" 240 50 basechar 0
 AnchorPoint: "Lomka" -200 150 basechar 0
 AnchorPoint: "Tikhaya" 0 180 basechar 0
 AnchorPoint: "Zaderzhka" 250 180 basechar 0
@@ -116633,7 +116650,7 @@ StartChar: uniEF7C
 Encoding: 61308 61308 996
 Width: 250
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 371 125<35 109.883>
 VStem: 182 35<48.6146 282.933>
 AnchorPoint: "Kachka" 0 270 basechar 0
