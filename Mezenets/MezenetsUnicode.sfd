@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1550721286
+ModificationTime: 1550752395
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -981,8 +981,8 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning" 
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning" 
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -990,7 +990,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1134 27 9
+WinInfo: 648 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -107277,16 +107277,16 @@ AnchorPoint: "PitchMark" 60 580 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-159 248 m 1
- 240 129 l 1
- 228 1 l 1
- 147 121 l 1
- 159 248 l 1
-32 248 m 1
- 113 129 l 1
- 101 1 l 1
- 20 121 l 1
- 32 248 l 1
+159 248 m 5
+ 240 129 l 5
+ 228 1 l 5
+ 147 121 l 5
+ 159 248 l 5
+32 248 m 5
+ 113 129 l 5
+ 101 1 l 5
+ 20 121 l 5
+ 32 248 l 5
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEAE3 uniEAE7
 EndChar
@@ -112928,8 +112928,68 @@ EndChar
 
 StartChar: uniEC11
 Encoding: 60433 60433 904
-Width: 1000
+Width: 720
+VWidth: 0
+Flags: HW
+HStem: 0 21G<31.8692 33> 450 126<476.722 546.078>
+AnchorPoint: "Auxiliary" 265 800 basechar 0
+AnchorPoint: "Borzaya" 490 100 basechar 0
+AnchorPoint: "PitchMark" 170 680 basechar 0
+AnchorPoint: "Lomka" 540 150 basechar 0
+AnchorPoint: "Tikhaya" 0 160 basechar 0
+AnchorPoint: "Zevok" 630 350 basechar 0
+AnchorPoint: "Kachka" 415 720 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Podvertka" 630 380 basechar 0
+AnchorPoint: "Flexion" 395 640 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "TonalRange" 415 660 basechar 0
+AnchorPoint: "Zaderzhka" 630 460 basechar 0
+AnchorPoint: "Omet" 515 300 basechar 0
+AnchorPoint: "Tochka" 515 325 basechar 0
+AnchorPoint: "Podchashie" 378 205 basechar 0
 LayerCount: 3
+Fore
+SplineSet
+619 248 m 5
+ 700 129 l 5
+ 688 1 l 5
+ 607 121 l 5
+ 619 248 l 5
+492 248 m 5
+ 573 129 l 5
+ 561 1 l 5
+ 480 121 l 5
+ 492 248 l 5
+519 576 m 0
+ 532 576 547 566 565 545 c 0
+ 582 525 590 509 590 495 c 0
+ 590 494 590 493 590 492 c 2
+ 575 374 l 1
+ 569 402 553 426 526 447 c 0
+ 523 450 519 450 514 450 c 0
+ 488 450 437 417 360 350 c 1
+ 397 325 l 1
+ 387 222 l 1
+ 292 285 l 1
+ 285 278 l 1
+ 276 190 l 1
+ 253 180 l 1
+ 261 254 l 1
+ 218 210 169 159 117 102 c 0
+ 65 45 36 11 30 0 c 1
+ 40 107 l 1
+ 48 122 73 155 113 204 c 0
+ 153 253 190 296 223 331 c 1
+ 165 370 l 1
+ 174 474 l 1
+ 276 406 l 1
+ 285 494 l 1
+ 307 506 l 1
+ 297 404 l 1
+ 328 433 370 469 422 512 c 0
+ 474 555 506 576 519 576 c 0
+EndSplineSet
 Colour: ff00
 EndChar
 
