@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1550979257
+ModificationTime: 1551014642
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -56,7 +56,7 @@ Lookup: 6 0 0 "'ccmp' Medial Form of Ravno" { "'ccmp' Medial Form of Ravno-1"  }
 Lookup: 3 0 0 "Stylistic Alternatives for Znamenny (salt)" { "Stylistic Alternatives for Znamenny (salt)-1"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss02' Kalashnikov Mechik Variants" { "'ss02' Kalashnikov Mechik Variants-1"  } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "Ravno Lookup" { "Ravno Lookup-1"  } []
-Lookup: 258 8 0 "'kern' Demestvenny Specific Kerning" { "'kern' Vertical Omet +- Zapyataya-based neumes" [1,25,2] } ['kern' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "Demestvenny Specific Kerning" { "'kern' Vertical Omet +- Zapyataya-based neumes" [1,25,2] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) 'ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' ss01 Oldstyle Demestvenny kerning" { "'kern' Demestvenny kerning - Oldstyle" [1,25,2] } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' ss02 Newstyle Demestvenny kerning" { "'kern' Demestvenny kerning - Newstyle" [1,25,2] } ['ss02' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 263 0 0 "'kern' Horizontal Kerning with Shaidur Marks" { "'kern' Horizontal Kerning with Shaidur Marks-1"  } []
@@ -997,7 +997,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 324 27 9
+WinInfo: 1134 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
