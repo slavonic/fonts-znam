@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1551014642
+ModificationTime: 1551104063
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -112997,6 +112997,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 3-1" u1CF75 u1CF7D
 Colour: ff00
 EndChar
 
@@ -146810,7 +146811,7 @@ StartChar: uniEA18
 Encoding: 59928 59928 1541
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 323 32<-90.2197 -48.5425>
 VStem: -139 30<130.025 241> -48 30<263.292 321.992>
 AnchorPoint: "Stacking" -76 344 basemark 0
