@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1551104063
+ModificationTime: 1551211044
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -997,7 +997,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1134 27 9
+WinInfo: 378 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -1017,7 +1017,7 @@ Grid
  2000 202.6 l 1024
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "StackMore"""  "Stacking" "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya" "'mark' Cinnabar Mark Positioning-1" "Zevok" "'mark' Cinnabar Mark Positioning-1" "Kachka" "'mark' Cinnabar Mark Positioning-1" "Lomka" "'mark' Cinnabar Mark Positioning-1" "Podvertka" "'mark' Cinnabar Mark Positioning-1" "Udarka" "'mark' Cinnabar Mark Positioning-1" "Borzaya" "'mark' Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Mark Positioning-1" "Auxiliary" "'mark' Cinnabar Mark Positioning-1" "Podtinka" "'mark' Black Mark Positioning-1" "Flexion" "'mark' Black Mark Positioning-1" "PitchMark" "'mark' Cinnabar Mark Positioning-1" "Podchashie" "'mark' Black Mark Positioning-1" "TonalRange" "'mark' Black Mark Positioning-1" "Omet" "'mark' Black Mark Positioning-1" "Tochka" "'mark' Black Mark Positioning-1" "Zaderzhka" "'mark' Black Mark Positioning-1"
+AnchorClass2: "Stacking" "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya" "'mark' Cinnabar Mark Positioning-1" "Zevok" "'mark' Cinnabar Mark Positioning-1" "Kachka" "'mark' Cinnabar Mark Positioning-1" "Lomka" "'mark' Cinnabar Mark Positioning-1" "Podvertka" "'mark' Cinnabar Mark Positioning-1" "FinalPitch" "'mark' Cinnabar Mark Positioning-1" "Borzaya" "'mark' Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Mark Positioning-1" "Auxiliary" "'mark' Cinnabar Mark Positioning-1" "Podtinka" "'mark' Black Mark Positioning-1" "Flexion" "'mark' Black Mark Positioning-1" "PitchMark" "'mark' Cinnabar Mark Positioning-1" "Podchashie" "'mark' Black Mark Positioning-1" "TonalRange" "'mark' Black Mark Positioning-1" "Omet" "'mark' Black Mark Positioning-1" "Tochka" "'mark' Black Mark Positioning-1" "Zaderzhka" "'mark' Black Mark Positioning-1"
 BeginChars: 1114112 1599
 
 StartChar: uni0002
@@ -9729,7 +9729,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Udarka" 500 320 basechar 0
+AnchorPoint: "FinalPitch" 500 320 basechar 0
 AnchorPoint: "Lomka" -265 150 basechar 0
 AnchorPoint: "Tikhaya" 30 150 basechar 0
 AnchorPoint: "Borzaya" -20 210 basechar 0
@@ -9954,8 +9954,6 @@ Width: 0
 VWidth: 999
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Stacking" -800 460 mark 0
-AnchorPoint: "Stacking" -600 550 basemark 0
 LayerCount: 3
 Comment: "Required character"
 Colour: ff
@@ -66299,9 +66297,43 @@ EndChar
 
 StartChar: uniEA05
 Encoding: 59909 59909 369
-Width: 1000
-VWidth: 0
+Width: 0
+VWidth: 999
+Flags: W
+HStem: 197 152
+VStem: -181 39<254.814 321> -60 38<228.149 317>
+AnchorPoint: "FinalPitch" 2 349 mark 0
+AnchorPoint: "Stacking" -100 365 basemark 0
 LayerCount: 3
+Fore
+SplineSet
+-22 341 m 0
+ -22 337 -22 333 -22 328 c 0
+ -22 288 0 234 0 203 c 0
+ 0 198 -11 197 -19 197 c 0
+ -27 197 -35 198 -36 204 c 0
+ -42 224 -46 235 -50 256 c 1
+ -56 281 -60 297 -60 317 c 1
+ -71 307 -87 284 -103 261 c 0
+ -118 240 -136 210 -140 205 c 1
+ -142 200 -155 198 -156 204 c 0
+ -162 224 -166 235 -170 256 c 1
+ -176 281 -181 302 -181 321 c 1
+ -193 309 -209 285 -223 266 c 0
+ -228 260 -256 210 -260 205 c 1
+ -262 198 -275 198 -275 206 c 0
+ -275 222 -235 281 -227 292 c 0
+ -209 316 -188 337 -175 345 c 0
+ -171 348 -163 349 -158 349 c 0
+ -152 349 -141 348 -142 341 c 0
+ -142 339 -142 336 -142 334 c 0
+ -142 312 -137 271 -131 254 c 1
+ -109 292 -81 329 -55 345 c 0
+ -51 348 -43 349 -38 349 c 0
+ -32 349 -21 348 -22 341 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "Precomposed forms for Znamenny Notation-1" uni034F u1CF06
 Colour: ff00ff
 EndChar
 
@@ -74839,6 +74871,7 @@ Width: 650
 VWidth: 999
 Flags: W
 HStem: 0 21G<32.0417 47.0833> 451 125<478.289 545.131>
+AnchorPoint: "FinalPitch" 912 690 basechar 0
 AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
@@ -136163,18 +136196,18 @@ VStem: -256 83<478.33 554.85>
 LayerCount: 3
 Fore
 SplineSet
--173 525 m 0
- -173 517 -174 509 -176 502 c 0
- -178 495 -182 490 -186 485 c 0
- -190 480 -196 475 -202 472 c 0
- -208 469 -214 467 -221 467 c 0
- -234 467 -242 471 -248 478 c 0
- -254 485 -256 494 -256 507 c 0
- -256 515 -254 523 -252 530 c 0
- -250 537 -247 543 -242 548 c 0
- -237 553 -232 557 -226 560 c 0
- -220 563 -214 564 -208 564 c 0
- -185 564 -173 551 -173 525 c 0
+-173 525 m 4
+ -173 517 -174 509 -176 502 c 4
+ -178 495 -182 490 -186 485 c 4
+ -190 480 -196 475 -202 472 c 4
+ -208 469 -214 467 -221 467 c 4
+ -234 467 -242 471 -248 478 c 4
+ -254 485 -256 494 -256 507 c 4
+ -256 515 -254 523 -252 530 c 4
+ -250 537 -247 543 -242 548 c 4
+ -237 553 -232 557 -226 560 c 4
+ -220 563 -214 564 -208 564 c 4
+ -185 564 -173 551 -173 525 c 4
 EndSplineSet
 EndChar
 
