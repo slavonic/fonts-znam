@@ -50,10 +50,12 @@ azbuka:
 	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
 
 demestvenny:
-	(cd tests; lilypond-book --output out --pdf demestvenny.tex)
-	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
-	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
-	(cd tests; mv out/demestvenny.pdf ./)
+#	(cd tests; lilypond-book --output out --pdf demestvenny.tex)
+#	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
+#	(cd tests/out; lualatex --interaction=nonstopmode demestvenny.tex)
+#	(cd tests; mv out/demestvenny.pdf ./)
+	(cd tests; lualatex --interaction=nonstopmode demestvenny.tex)
+	(cd tests; lualatex --interaction=nonstopmode demestvenny.tex)
 
 test: test-result.pdf
 

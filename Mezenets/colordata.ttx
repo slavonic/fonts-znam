@@ -2,6 +2,7 @@
 <ttFont sfntVersion="OTTO" ttLibVersion="3.21">
   <COLR>
     <version value="0"/>
+    <!-- COLORING OF DEPRECATED GLYPHS -->
     <ColorGlyph name="uniEE00">
       <layer colorID="1" name="uniEE00"/>
     </ColorGlyph>
@@ -164,6 +165,118 @@
     </ColorGlyph>
     <ColorGlyph name="uniEA40">
       <layer colorID="1" name="uniEA40"/>
+    </ColorGlyph>
+    <!-- GLYPHS ENCODED IN UNICODE -->
+    <ColorGlyph name="u1CF00">
+      <layer colorID="1" name="u1CF00"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF01">
+      <layer colorID="1" name="u1CF01"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF02">
+      <layer colorID="1" name="u1CF02"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF03">
+      <layer colorID="1" name="u1CF03"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF04">
+      <layer colorID="1" name="u1CF04"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF05">
+      <layer colorID="1" name="u1CF05"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF06">
+      <layer colorID="1" name="u1CF06"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF07">
+      <layer colorID="1" name="u1CF07"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF08">
+      <layer colorID="1" name="u1CF08"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF09">
+      <layer colorID="1" name="u1CF09"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF0A">
+      <layer colorID="1" name="u1CF0A"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF0B">
+      <layer colorID="1" name="u1CF0B"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF0C">
+      <layer colorID="1" name="u1CF0C"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF0D">
+      <layer colorID="1" name="u1CF0D"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF0E">
+      <layer colorID="1" name="u1CF0E"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF10">
+      <layer colorID="1" name="u1CF10"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF11">
+      <layer colorID="1" name="u1CF11"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF12">
+      <layer colorID="1" name="u1CF12"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF13">
+      <layer colorID="1" name="u1CF13"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF14">
+      <layer colorID="1" name="u1CF14"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF15">
+      <layer colorID="1" name="u1CF15"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF16">
+      <layer colorID="1" name="u1CF16"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF17">
+      <layer colorID="1" name="u1CF17"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF1F">
+      <layer colorID="1" name="u1CF1F"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF20">
+      <layer colorID="1" name="u1CF20"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF21">
+      <layer colorID="1" name="u1CF21"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF22">
+      <layer colorID="1" name="u1CF22"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF23">
+      <layer colorID="1" name="u1CF23"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF24">
+      <layer colorID="1" name="u1CF24"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF25">
+      <layer colorID="1" name="u1CF25"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF26">
+      <layer colorID="1" name="u1CF26"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF27">
+      <layer colorID="1" name="u1CF27"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF28">
+      <layer colorID="1" name="u1CF28"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF29">
+      <layer colorID="1" name="u1CF29"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF2A">
+      <layer colorID="1" name="u1CF2A"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF2B">
+      <layer colorID="1" name="u1CF2B"/>
+    </ColorGlyph>
+    <ColorGlyph name="u1CF2C">
+      <layer colorID="1" name="u1CF2C"/>
     </ColorGlyph>
   </COLR>
 
