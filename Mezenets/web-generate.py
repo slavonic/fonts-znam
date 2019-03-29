@@ -1,4 +1,4 @@
-import fontforge;
+import fontforge
 
 ##
 ## THIS FILE IS A FONTFORGE SCRIPT THAT GENERATES WEB FONTS FAMILY
@@ -32,6 +32,6 @@ for ttname in ttnames:
 		ttnames.append( ( ttname[0],'Fullname',"%s %s" % ( full_name,ttname[2] ) ) )
 font.sfnt_names = tuple( ttnames )
 font.em = 1024
-font.generate( base_name + ".ttf", flags=( "opentype", "old-kern", "PfEd-colors", "PfEd-lookups", "dummy-dsig" ), layer="TTF" )
+font.generate( base_name + ".ttf", flags=( "opentype", "PfEd-colors", "PfEd-lookups", "dummy-dsig" ), layer="Fore" )
 font.close()
 
