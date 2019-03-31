@@ -1,5 +1,3 @@
-NUMBERS = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
-
 all: MezenetsUnicode.zip
 
 MezenetsUnicode.zip:
@@ -61,16 +59,17 @@ demestvenny:
 test: test-result.pdf
 
 test-result.pdf:
-	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; mkdir -p result; cd ..;)
-	$(foreach f, $(NUMBERS), compare tests/$(f).png tests/baseline/$(f).png tests/result/$(f).png; echo 'Done';)
-	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
-	rm -fr tests/result
-	rm -f tests/*.png
+	rm -fr tests/output
+	rm -fr tests/results
+	rm -fr test-result.pdf
+	mkdir tests/output
+	(cd tests/; i=0; while read -r in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > output/"$$i".tex; lualatex --output-directory=output/ output/"$$i".tex; done < foo.lst)
+	(cd tests/output; rm -fr *.aux *.log *.tex)
+	mkdir tests/results
+	(cd tests/; i=0; j=0; while read in; do i=$$(($$i+1)); compare -metric phash baseline/"$$i".pdf output/"$$i".pdf results/"$$i".pdf || j=$$(($$j+$$?)); done < foo.lst; gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/screen -sOutputFile=test-result.pdf results/*.pdf; cp test-result.pdf ../test-result.pdf; rm -fr results/; rm -fr output/; exit "$$j")
 
 clean:
-	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt
+	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt test-result.pdf
 	rm -fr tests/result
 	rm -fr tests/out
 	rm -f tests/*.aux tests/*.log tests/*.pdf
