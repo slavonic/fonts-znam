@@ -9,6 +9,8 @@ addons:
       - texlive-luatex
       - ghostscript
       - imagemagick
+      - fontforge
+      - fonttools
 
 script:
     - cd Mezenets; make all; make test
