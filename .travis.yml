@@ -1,0 +1,14 @@
+# travis CI for testing font package fonts-znam
+os: linux
+
+addons:
+  apt:
+    packages:
+      - texlive-binaries
+      - texlive-latex-extra
+      - texlive-luatex
+      - ghostscript
+      - imagemagick
+
+script:
+    - cd Mezenets; make all; make test
