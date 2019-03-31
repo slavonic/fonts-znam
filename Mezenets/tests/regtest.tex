@@ -5,6 +5,8 @@
 \defaultfontfeatures{Ligatures=TeX}
 \definecolor{kinovar}{rgb}{0.80,0.03,0.01}
 \setromanfont[Path=../,Extension=.otf]{MezenetsUnicode}
+\newfontfamily{\znew}[Path=../,Extension=.otf,StylisticSet=2]{MezenetsUnicode}
+\newfontfamily{\zalt}[Path=../,Extension=.otf,StylisticSet=3]{MezenetsUnicode}
 \newcommand{\cuKinovar}[1]{\textcolor{kinovar}{#1}}
 \catcode`𜼀\active\def𜼀{\cuKinovar{\detokenize{𜼀}}}%
 \catcode`𜼁\active\def𜼁{\cuKinovar{\detokenize{𜼁}}}%
@@ -55,7 +57,7 @@
 \begin{document}
 \pagestyle{empty}
 \centering
-\begin{adjustbox}{totalheight=0.7\textwidth}
+\begin{adjustbox}{width=0.6\textwidth,totalheight=0.7\textheight,keepaspectratio}
 foo
 \end{adjustbox} 
 \end{document}

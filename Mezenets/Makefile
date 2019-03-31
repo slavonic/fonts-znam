@@ -43,7 +43,7 @@ MezenetsUnicode-web.zip:
 baseline:
 	rm -fr tests/baseline
 	mkdir tests/baseline
-	(cd tests/; i=0; while read in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > baseline/"$$i".tex; lualatex --output-directory=baseline/ baseline/"$$i".tex; done < foo.lst)
+	(cd tests/; i=0; while read -r in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > baseline/"$$i".tex; lualatex --output-directory=baseline/ baseline/"$$i".tex; done < foo.lst)
 	(cd tests/baseline; rm -fr *.aux *.log *.tex)
 
 azbuka:
