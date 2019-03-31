@@ -59,6 +59,8 @@ demestvenny:
 test: test-result.pdf
 
 test-result.pdf:
+	rm -f *.otf *.ttf *.zip
+	fontforge -script hp-generate.py
 	rm -fr tests/output
 	rm -fr tests/results
 	rm -fr test-result.pdf

@@ -13,4 +13,4 @@ addons:
       - fonttools
 
 script:
-    - cd Mezenets; make all; make test
+    - cd Mezenets; make test
