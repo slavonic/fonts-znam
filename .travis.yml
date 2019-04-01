@@ -6,11 +6,11 @@ addons:
     packages:
       - texlive-binaries
       - texlive-latex-extra
+      - texlive-xetex
       - texlive-luatex
       - ghostscript
       - imagemagick
       - fontforge
-      - fonttools
 
 script:
     - cd Mezenets; make test
