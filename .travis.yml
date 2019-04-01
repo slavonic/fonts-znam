@@ -1,5 +1,6 @@
 # travis CI for testing font package fonts-znam
 os: linux
+dist: xenial
 
 addons:
   apt:
