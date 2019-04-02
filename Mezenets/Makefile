@@ -65,7 +65,7 @@ test-result.pdf:
 	rm -fr tests/results
 	rm -fr test-result.pdf
 	mkdir tests/output
-	(cd tests/; i=0; while read -r in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > output/"$$i".tex; lualatex --interaction=batchmode --output-directory=output/ output/"$$i".tex; done < foo.lst)
+	(cd tests/; i=0; while read -r in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > output/"$$i".tex; lualatex --interaction=nonstopmode --output-directory=output/ output/"$$i".tex; done < foo.lst)
 	(cd tests/output; rm -fr *.aux *.log *.tex)
 	mkdir tests/results
 	(cd tests/; i=0; j=0; while read in; do i=$$(($$i+1)); compare -metric phash baseline/"$$i".pdf output/"$$i".pdf results/"$$i".pdf || j=$$(($$j+$$?)); done < foo.lst; gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/screen -sOutputFile=test-result.pdf results/*.pdf; cp test-result.pdf ../test-result.pdf; rm -fr results/; rm -fr output/; curl -v -F 'filename=@test-result.pdf' https://www.ponomar.net/cgi-bin/upload.cgi; exit "$$j")
