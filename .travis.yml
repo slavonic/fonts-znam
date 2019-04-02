@@ -13,6 +13,7 @@ addons:
       - ghostscript
       - imagemagick
       - fontforge
+      - curl
 
 script:
     - cd Mezenets; make test
