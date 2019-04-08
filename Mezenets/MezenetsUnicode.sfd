@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1554560644
+ModificationTime: 1554705815
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1196 26 8
+WinInfo: 858 26 8
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -29894,7 +29894,7 @@ AnchorPoint: "FinalPitch" 205 551 mark 0
 LayerCount: 2
 Fore
 Refer: 1600 118540 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -29910,7 +29910,7 @@ AnchorPoint: "FinalPitch" 199 545 mark 0
 LayerCount: 2
 Fore
 Refer: 1601 118541 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -29926,7 +29926,7 @@ AnchorPoint: "FinalPitch" 117 549 mark 0
 LayerCount: 2
 Fore
 Refer: 1602 118542 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -29942,7 +29942,7 @@ AnchorPoint: "FinalPitch" 101 550 mark 0
 LayerCount: 2
 Fore
 Refer: 369 118543 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -29958,7 +29958,7 @@ AnchorPoint: "FinalPitch" 105 550 mark 0
 LayerCount: 2
 Fore
 Refer: 370 118544 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -29974,7 +29974,7 @@ AnchorPoint: "FinalPitch" 60 540 mark 0
 LayerCount: 2
 Fore
 Refer: 371 118545 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -29990,7 +29990,7 @@ AnchorPoint: "FinalPitch" 117 550 mark 0
 LayerCount: 2
 Fore
 Refer: 372 118546 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -30006,7 +30006,7 @@ AnchorPoint: "FinalPitch" 102 550 mark 0
 LayerCount: 2
 Fore
 Refer: 373 118547 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -30022,7 +30022,7 @@ AnchorPoint: "Stacking" 123 563 basemark 0
 LayerCount: 2
 Fore
 Refer: 374 118548 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -30038,7 +30038,7 @@ AnchorPoint: "Stacking" 170 568 basemark 0
 LayerCount: 2
 Fore
 Refer: 375 118549 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -30054,7 +30054,7 @@ AnchorPoint: "Stacking" 115 563 basemark 0
 LayerCount: 2
 Fore
 Refer: 376 118550 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -30070,7 +30070,7 @@ AnchorPoint: "Stacking" 112 563 basemark 0
 LayerCount: 2
 Fore
 Refer: 377 118551 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Colour: ffc259
 EndChar
 
@@ -30114,13 +30114,18 @@ Validated: 1
 Colour: ffc259
 EndChar
 
-StartChar: uniEE3D
+StartChar: uniEA18.ss04
 Encoding: 60989 60989 571
-Width: 1000
+Width: 0
 VWidth: 0
+Flags: W
+HStem: 233 25<-105.648 -56.3886> 323 32<-90.2197 -48.5425>
+VStem: -142 26<146.564 240.527> -139 30<130.24 193.203> -48 30<262.734 321.992>
+AnchorPoint: "Auxiliary" -75 345 mark 0
+AnchorPoint: "Stacking" -76 344 basemark 0
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 1538 59928 N 1 0 0 1 0 0 2
 Colour: ffc259
 EndChar
 
@@ -84286,6 +84291,7 @@ SplineSet
  -91 323 -100 284 -106 266 c 1
 EndSplineSet
 Validated: 3073
+Substitution2: "'ss04' Style Set 4 Black Marks-1" uniEA18.ss04
 Colour: ffff00
 EndChar
 
