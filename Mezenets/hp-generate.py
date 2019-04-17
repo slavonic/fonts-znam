@@ -1,4 +1,4 @@
-import fontforge;
+import fontforge
 
 ##
 ## THIS FILE IS A FONTFORGE SCRIPT THAT GENERATES THE MEZENETS UNICODE FONT FAMILY

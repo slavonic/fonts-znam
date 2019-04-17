@@ -1,0 +1,193 @@
+\NeedsTeXFormat{LaTeX2e}%
+\RequirePackage{keyval}%
+\RequirePackage{ifluatex}%
+\ProvidesPackage{cu-kruk}[2018/03/01 v0.1 support for kruk music notations]%
+%
+%% 'autocolormarks' and noautocolormarks options
+\newif\ifcu@autocolormarks
+\ifluatex
+  \cu@autocolormarkstrue
+\else
+  \cu@autocolormarksfalse
+\fi
+
+\DeclareOption{autocolormarks}{
+  \cu@autocolormarkstrue
+  \ifluatex\relax\else\message{WARNING: autocolormarks option may not work correctly with this TeX engine. See documentation for more details.}\fi
+}
+\DeclareOption{noautocolormarks}{
+  \cu@autocolormarksfalse
+}
+
+\ProcessOptions\relax
+
+\let\cuKrukFont\relax %% to be defined by the user
+%
+\newlength{\cuKrukSylSpace}  %% spacing around kruk syllable
+\newlength{\cuKrukTopMargin} %% top margin ensures that lines are nicely separated
+\newlength{\cuKrukSylRuleHeight}  %% how thick placeholder rule is
+\newlength{\cuKrukRaise} %% distance between text and kruk baselines
+%
+\setlength{\cuKrukSylSpace}{0.2em}
+\setlength{\cuKrukTopMargin}{0.3em}
+\setlength{\cuKrukSylRuleHeight}{0.08em}
+\setlength{\cuKrukRaise}{1em}
+
+\define@key{cuKruk}{krukFont}{\def\cuKrukFont{#1}}%
+\define@key{cuKruk}{sylSpace}{\setlength{\cuKrukSylSpace}{#1}}%
+\define@key{cuKruk}{topMargin}{\setlength{\cuKrukTopMargin}{#1}}%
+\define@key{cuKruk}{sylRuleHeight}{\setlength{\cuKrukSylRuleHeight}{#1}}%
+\define@key{cuKruk}{krukRaise}{\setlength{\cuKrukRaise}{#1}}%
+
+\newcommand{\cuKruk}[3][]{%
+  \bgroup
+  \setkeys{cuKruk}{#1}%
+  \cu@@Kruk{#2}{#3}%
+  \egroup
+}%
+\def\cu@@Kruk#1#2{{%
+  \edef\cu@tmp{\csname \detokenize{#2}cu@@@\endcsname}%
+  \setbox1=\hbox{{\cuKrukFont#1}}%
+  \dimen0=\ht1\advance\dimen0 by \cuKrukTopMargin\ht1=\dimen0%
+  \if\relax\detokenize{#2}\relax
+    \setbox2=\hbox{\vrule height \cuKrukSylRuleHeight width \wd1}%
+  \else
+    \ifx\cu@tmp\cu@Tilda
+      \setbox2=\hbox{\vrule height \cuKrukSylRuleHeight width \wd1}%
+    \else
+      \setbox2=\hbox{#2}%
+    \fi
+  \fi
+  \ifdim\wd1>\wd2%
+    \setbox2=\hbox to \wd1{\hss\box2\hss}%
+  \fi
+  %\discretionary{}{}{}%
+  \hskip\cuKrukSylSpace\penalty5000\hbox to \wd2{%
+  \hskip0.5\wd2\hskip-0.5\wd1\raise\cuKrukRaise\copy1\kern-0.5\wd2\kern-0.5\wd1\copy2\hss
+  }\penalty10000\hskip\cuKrukSylSpace
+}}%
+%
+\newcounter{cu@KrukPos}%
+\newcounter{cu@SylPos}%
+%
+\newcommand{\cuKrukPara}[2][]{%
+  \cu@KrukPara[#1]#2\cu@End
+}%
+%
+\def\cu@KrukPara[#1]#2\\#3\cu@End{%
+\bgroup
+\setkeys{cuKruk}{#1}%
+\setcounter{cu@KrukPos}{0}%
+\setcounter{cu@SylPos}{0}%
+\cu@Kruk #2 \cu@EndKruk
+\cu@Text #3 \cu@EndText
+\ifnum\thecu@SylPos<\thecu@KrukPos\errmessage{Too many kruk groups. Seen {\thecu@KrukPos} kruk groups and {\thecu@SylPos} text groups}\fi
+\egroup
+}%
+%
+\def\cu@Kruk#1 #2\cu@EndKruk{%
+\if\relax\detokenize{#1}\relax\else
+\cu@KrukAction{#1}%
+\fi
+\if\relax\detokenize{#2}\relax\else
+  \cu@Kruk#2\cu@EndKruk
+\fi
+}%
+%
+\def\cu@KrukAction#1{%
+\edef\cu@tmp{\csname \detokenize{#1}cu@@@\endcsname}%
+\ifx\cu@tmp\cu@Tilda
+  \expandafter\edef\csname cu@@\thecu@KrukPos\endcsname{}%
+\else
+  \expandafter\def\csname cu@@\thecu@KrukPos\endcsname{#1}%
+\fi
+\stepcounter{cu@KrukPos}%
+}
+%
+\edef\cu@Tilda{\csname \detokenize{~}cu@@@\endcsname}%
+\edef\cu@Empty{\csname \detokenize{}cu@@@\endcsname}%
+%
+\def\cu@Text#1 #2\cu@EndText{%
+\if\relax\detokenize{#1}\relax\else
+  \cu@TextDash#1-\cu@EndText\space
+\fi
+\if\relax\detokenize{#2}\relax\else
+  \cu@Text#2\cu@EndText
+\fi
+}%
+%
+\def\cu@TextDash#1-#2\cu@EndText{%
+\cu@TextAction{#1}%
+\if\relax\detokenize{#2}\relax\else
+  \cu@TextDash#2\cu@EndText
+\fi
+}%
+%
+\def\cu@TextAction#1{%
+\ifnum\thecu@SylPos>\thecu@KrukPos
+  \errmessage{Too few kruk groups. Seen {\thecu@KrukPos} kruk groups and {\thecu@SylPos} text groups}%
+\fi
+\edef\cu@tmp{\csname \detokenize{#1}cu@@@\endcsname}%
+\ifx\cu@tmp\cu@Empty
+  \expandafter\cuKruk\expandafter{\csname cu@@\thecu@SylPos\endcsname}{}%
+\else
+  \ifx\cu@tmp\cu@Tilda
+    \expandafter\cuKruk\expandafter{\csname cu@@\thecu@SylPos\endcsname}{}%
+  \else
+    \expandafter\cuKruk\expandafter{\csname cu@@\thecu@SylPos\endcsname}{#1}%
+  \fi
+\fi
+\stepcounter{cu@SylPos}%
+}%
+%
+% Automatic coloring of kruk marks (pomety)
+\ifcu@autocolormarks
+\catcode`𜼀\active\def𜼀{\cuKinovar{\detokenize{𜼀}}}%
+\catcode`𜼁\active\def𜼁{\cuKinovar{\detokenize{𜼁}}}%
+\catcode`𜼂\active\def𜼂{\cuKinovar{\detokenize{𜼂}}}%
+\catcode`𜼃\active\def𜼃{\cuKinovar{\detokenize{𜼃}}}%
+\catcode`𜼄\active\def𜼄{\cuKinovar{\detokenize{𜼄}}}%
+\catcode`𜼅\active\def𜼅{\cuKinovar{\detokenize{𜼅}}}%
+\catcode`𜼆\active\def𜼆{\cuKinovar{\detokenize{𜼆}}}%
+\catcode`𜼇\active\def𜼇{\cuKinovar{\detokenize{𜼇}}}%
+\catcode`𜼈\active\def𜼈{\cuKinovar{\detokenize{𜼈}}}%
+\catcode`𜼉\active\def𜼉{\cuKinovar{\detokenize{𜼉}}}%
+\catcode`𜼊\active\def𜼊{\cuKinovar{\detokenize{𜼊}}}%
+\catcode`𜼋\active\def𜼋{\cuKinovar{\detokenize{𜼋}}}%
+\catcode`𜼌\active\def𜼌{\cuKinovar{\detokenize{𜼌}}}%
+\catcode`𜼍\active\def𜼍{\cuKinovar{\detokenize{𜼍}}}%
+\catcode`𜼎\active\def𜼎{\cuKinovar{\detokenize{𜼎}}}%
+\catcode`𜼏\active\def𜼏{\cuKinovar{\detokenize{𜼏}}}%
+\catcode`𜼐\active\def𜼐{\cuKinovar{\detokenize{𜼐}}}%
+\catcode`𜼑\active\def𜼑{\cuKinovar{\detokenize{𜼑}}}%
+\catcode`𜼒\active\def𜼒{\cuKinovar{\detokenize{𜼒}}}%
+\catcode`𜼓\active\def𜼓{\cuKinovar{\detokenize{𜼓}}}%
+\catcode`𜼔\active\def𜼔{\cuKinovar{\detokenize{𜼔}}}%
+\catcode`𜼕\active\def𜼕{\cuKinovar{\detokenize{𜼕}}}%
+\catcode`𜼖\active\def𜼖{\cuKinovar{\detokenize{𜼖}}}%
+\catcode`𜼗\active\def𜼗{\cuKinovar{\detokenize{𜼗}}}%
+\catcode`𜼘\active\def𜼘{\cuKinovar{\detokenize{𜼘}}}%
+\catcode`𜼙\active\def𜼙{\cuKinovar{\detokenize{𜼙}}}%
+\catcode`𜼚\active\def𜼚{\cuKinovar{\detokenize{𜼚}}}%
+\catcode`𜼛\active\def𜼛{\cuKinovar{\detokenize{𜼛}}}%
+\catcode`𜼜\active\def𜼜{\cuKinovar{\detokenize{𜼜}}}%
+\catcode`𜼝\active\def𜼝{\cuKinovar{\detokenize{𜼝}}}%
+\catcode`𜼞\active\def𜼞{\cuKinovar{\detokenize{𜼞}}}%
+\catcode`𜼟\active\def𜼟{\cuKinovar{\detokenize{𜼟}}}%
+\catcode`𜼠\active\def𜼠{\cuKinovar{\detokenize{𜼠}}}%
+\catcode`𜼡\active\def𜼡{\cuKinovar{\detokenize{𜼡}}}%
+\catcode`𜼢\active\def𜼢{\cuKinovar{\detokenize{𜼢}}}%
+\catcode`𜼣\active\def𜼣{\cuKinovar{\detokenize{𜼣}}}%
+\catcode`𜼤\active\def𜼤{\cuKinovar{\detokenize{𜼤}}}%
+\catcode`𜼥\active\def𜼥{\cuKinovar{\detokenize{𜼥}}}%
+\catcode`𜼦\active\def𜼦{\cuKinovar{\detokenize{𜼦}}}%
+\catcode`𜼧\active\def𜼧{\cuKinovar{\detokenize{𜼧}}}%
+\catcode`𜼨\active\def𜼨{\cuKinovar{\detokenize{𜼨}}}%
+\catcode`𜼩\active\def𜼩{\cuKinovar{\detokenize{𜼩}}}%
+\catcode`𜼪\active\def𜼪{\cuKinovar{\detokenize{𜼪}}}%
+\catcode`𜼫\active\def𜼫{\cuKinovar{\detokenize{𜼫}}}%
+\catcode`𜼬\active\def𜼬{\cuKinovar{\detokenize{𜼬}}}%
+\catcode`𜼭\active\def𜼭{\cuKinovar{\detokenize{𜼭}}}%
+\fi
+%
+\endinput%

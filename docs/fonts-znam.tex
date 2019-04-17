@@ -1,0 +1,173 @@
+\documentclass[11pt]{article}
+\usepackage{polyglossia}
+   \setmainlanguage{english}
+   \setotherlanguage{churchslavonic}
+\usepackage{fontspec,luacolor,metalogo}
+\setmainfont[Script=Latin,Ligatures=TeX,HyphenChar=-]{Linux Libertine O}
+\setmonofont[Scale=MatchLowercase]{FiraSlav}
+\newfontfamily\churchslavonicfont[Script=Cyrillic,Ligatures=TeX,Scale=MatchLowercase,HyphenChar=_]{PonomarUnicode.otf}
+\newfontfamily\musicFont[Path=../Mezenets/,Extension=.otf,Scale=1.5]{MezenetsUnicode}
+\newfontfamily{\oldstyle}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=1]{MezenetsUnicode}
+\newfontfamily{\newstyle}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=2]{MezenetsUnicode}
+\newfontfamily{\contracted}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=3]{MezenetsUnicode}
+\usepackage{churchslavonic}
+\usepackage{cu-kruk}
+\usepackage{pdfpages}
+\usepackage[unicode,
+  pdftitle={fonts-znam: fonts for Znamenny Notation},
+  pdfauthor={Aleksandr Andreev},
+  pdfkeywords={Church Slavonic, Old Church Slavonic, Church Slavic, Znamenny Notation, OpenType, Unicode, церковнославянский, старославянский, знаменная нотация, крюки, столповая нотация}
+]{hyperref}
+
+\def\fileversion{0.4}
+\let\cuKrukFont=\musicFont
+\def\pkg#1{\textsf{#1}}
+\def\cs#1{\texttt{\textbackslash #1}}
+%
+
+\begin{document}
+\title{\pkg{fonts-znam} --- fonts for Znamenny Notation}
+\author{Aleksandr Andreev and Nikita Simmons\\version~\fileversion}
+\date{\today}
+\maketitle
+
+\tableofcontents
+
+\section{Introduction}
+This package provides OpenType-CFF PostScript fonts (\texttt{.OTF} fonts)
+for typesetting Znamenny Musical Notation encoded in Unicode. Znamenny
+Notation has been proposed for inclusion in Unicode by the authors.
+The codechart indicating the codepoints used for Znamenny Notation
+is presented in the Appendix to this document. The latest version of
+the fonts may be downloaded from the \href{https://sci.ponomar.net/music.html}
+{Slavonic Computing Initiative website}.
+
+\cuKinovar{Warning:} the codepoints used in this font have been proposed
+by the authors for inclusion into the Unicode standard, but have not yet
+been approved by the Unicode Technical Committee (UTC). Codepoints are not
+final until approved by the UTC, and so the encoding model is subject to change.
+As such, these fonts are provided as a BETA-stage software, and should be used
+for SOFTWARE-TESTING PURPOSES ONLY.
+
+\cuKinovar{Color Data}: the fonts provide information about the color of some
+glyphs (such as the cinnabar marks) via data in the COLR and CPAL tables.
+However, COLR / CPAL technology is presently not supported by some software.
+Color fonts are supported in \href{https://www.colorfonts.wtf/}{modern browsers
+and advanced publishing software} and partially supported in
+\href{https://office-watch.com/2019/color-font-support-in-microsoft-office-the-story-so-far/}{Microsoft
+Office 365}. Color fonts are not supported in \XeTeX{} or \LuaTeX{}, however
+the \pkg{churchslavonic} \LaTeX{} package provides the \texttt{autocolormarks} option,
+which uses the \cs{cuKinovar} macro to automatically typeset the cinnabar marks in red.
+
+In other software that does not support color fonts, cinnabar marks will appear in black.
+Additionally, attempting to manually color the marks using formatting will generally
+break the OpenType glyph positioning rules, leading to improper mark positioning.
+You are encouraged to only use the fonts in software that supports color fonts. You
+can report your results \href{https://github.com/slavonic/fonts-znam/issues/19}{in
+the issue tracker}. The authors plan to add support for OpenType-SVG as well, though
+it is not clear that this would improve support in software.
+
+\section{Mezenets Unicode}
+
+Mezenets Unicode is a font intended for typesetting Type~A Znamenny Notation (notation
+that includes \emph{priznaki}), though it may also be used for Type~B Notation (without
+\emph{priznaki}). It also provide glyphs necessary for Demestvenny notation. An example in
+Znamenny Notation is presented in Figure~\ref{mezenets}.
+
+\begin{figure}[tbp]
+%\begin{adjustbox}[width=\textwidth]
+\begin{churchslavonic}
+\noindent
+\cuKrukPara[sylRuleHeight=0.02em]{
+𜽟 𜾆𜽂𜼱𜼇 𜽗𜼆 𜽐𜼱𜼢 𜽖𜽃𜼅 𜽜𜼄𜼦 𜾖𜼆𜼤 𜽝𜽃𜼅𜼤𜽘 𜾆𜽃𜼱𜼈 𜽞 𜾬𜽃𜼈𜼤 𜽖𜽃𜼅 𜾒𜼰𜼺𜼆𜼣 𜾖𜼆𜼤 𜾋𜽃𜼅 𜾆𜼄 𜽝𜼄 𜽐𜽃𜼅 𜽗𜽂𜼄 𜽞 𜽐𜽃𜼰𜼅 𜽖𜽃𜼢 𜽗𜽃𜼢 𜾆𜾅𜼇 𜽝𜽂𜼄𜼤𜽘 𜾆𜽂𜼱𜼇 𜾒𜽃𜼱𜼈𜼤 𜽗𜽂𜼇 𜽐𜽂𜼱𜼢 𜽖𜼆 𜽗𜽃𜼅 𜽞 𜾒𜼰𜼺𜼆 𜽝𜽂𜼄 𜽜𜽃𜼅 𜾆𜽂𜼄 𜽗𜽃𜼅 𜽞 𜽐𜽂𜼱𜼇 𜽜𜼆 𜾆𜽃𜼅 𜽞 𜽐𜽃𜼱𜼈 𜽗𜽂𜼇 𜽞 𜽐𜽂𜼱𜼇 𜽖𜼆 𜽗𜽃𜼅 𜽐𜼱𜼆 𜽖𜽃𜼅 𜽜𜽂𜼄𜼦 𜾖𜼆𜼤 𜾋𜽃𜼅 𜾁
+\\
+Хри-сто́съ ра-жда́-ет-сѧ, сла́-ви-те: Хри-сто́съ съ нб҃съ, срѧ́-щи-те: Хри-сто́съ на зе-млѝ, воз-но-си́-те-сѧ. по́й-те Го́-спо-де-ви всѧ̀-~ зе-млѧ̀, и҆ ве-се́-лї-емъ вос-по́--йте лю́-дї-е, ꙗ҆́-кѡ про-сла́-ви-сѧ.
+}
+\end{churchslavonic}
+\caption{Example of Type~A Znamenny Notation \label{mezenets}}
+%\end{adjustbox}
+\end{figure}
+
+\subsection{Font Features}
+
+The font provides the following stylistic sets:
+
+\begin{itemize}
+\item \textbf{ss01} (Stylistic Set 1) -- Old-style Demestvenny. This stylistic set turns
+on kerning rules that force adjoining neumes to make ligatures, as is customary
+in Demestvenny Notation. At the same time, the Zanozhek, Mechik, and other neumes 
+are typeset in the old style, common to the manuscript tradition.
+
+\begin{center}
+\begin{tabular}{lr}
+Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss01}   & {\oldstyle 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\end{tabular}
+\end{center}
+
+\item \textbf{ss02} (Stylistic Set 2) -- New-style Demestvenny. This stylistic set turns
+on kerning rules that force adjoining neumes to make ligatures, as is customary
+in Demestvenny Notation. The Zanozhek, Mechik, and other neumes are typeset in the
+new style, as used in the Demestvenny Azbuka of L.~Kalashnikov.
+
+\begin{center}
+\begin{tabular}{lr}
+Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss02}   & {\newstyle 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\end{tabular}
+\end{center}
+
+\item \textbf{ss03} (Stylistic Set 3) -- New-style Contracted Demestvenny. This stylistic
+set turns on additional kerning rules that force some adjoining neumes to make
+contracted ligatures. The Zanozhek, Mechik, and other neumes are typeset in the
+new style, as used in the Demestvenny Azbuka of L.~Kalashnikov.
+
+\begin{center}
+\begin{tabular}{lr}
+Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss03}   & {\contracted 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\end{tabular}
+\end{center}
+
+\item \textbf{ss04} (Stylistic Set 4) -- Render cinnabar marks in red. This stylistic
+set turns off the coloring of cinnabar marks specified by the COLR and CPAL tables and
+renders them in black. \cuKinovar{NB:} turning on this feature will have a visible
+effect only in software that supports color fonts.
+
+\begin{center}
+\begin{tabular}{lr}
+Regular             & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss04}       & {\musicFont 𜽐𜽖 𜾩𜼾𜽝 𜾩𜾫} \\
+\end{tabular}
+\end{center}
+
+\end{itemize}
+
+In \XeTeX{} and \LuaTeX{}, features may be turned on using methods provided in the
+\pkg{fontspec} package, for example:
+
+\begin{verbatim}
+\newfontfamily{\znamFont}
+      [StylisticSet=1]{Mezenets Unicode}
+\end{verbatim}
+
+\noindent Please consult the \pkg{fontspec} documentation for more information.
+
+In LibreOffice, Stylistic Sets and other advanced OpenType features are available
+starting with version 4.1. However, there is no graphical interface that can be used
+to turn these features on and off. Instead, a special extended font name
+syntax has been developed: in order to activate an optional feature, its ID,
+followed by (optionally) an equals sign and the ID of the desired setting, are appended
+directly to the font name string. An ampersand is used to separate
+different feature/settings pairs. For example, setting the font to the following
+will enable Stylistic Set~1:
+
+\begin{verbatim}
+Mezenets Unicode:ss01
+\end{verbatim}
+
+\phantomsection
+\addcontentsline{toc}{section}{Codecharts}
+\includepdf[pages=-]{charts.pdf}
+
+\end{document}

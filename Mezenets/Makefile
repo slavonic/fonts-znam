@@ -1,5 +1,3 @@
-NUMBERS = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
-
 all: MezenetsUnicode.zip
 
 MezenetsUnicode.zip:
@@ -27,12 +25,12 @@ MezenetsUnicode-web.zip:
 	ttx -m MezenetsUnicode.otf colordata.ttx
 	rm MezenetsUnicode.otf
 	mv colordata.otf MezenetsUnicode.otf
-#	rm -f colordata2.ttx
-#	sed 's/"OTTO"/"\\x00\\x01\\x00\\x00"/' < colordata.ttx > colordata2.ttx
-#	ttx -m MezenetsUnicode.ttf colordata2.ttx
-#	rm MezenetsUnicode.ttf
-#	mv colordata2.ttf MezenetsUnicode.ttf
-#	rm colordata2.ttx
+	rm -f colordata2.ttx
+	sed 's/"OTTO"/"\\x00\\x01\\x00\\x00"/' < colordata.ttx > colordata2.ttx
+	ttx -m MezenetsUnicode.ttf colordata2.ttx
+	rm MezenetsUnicode.ttf
+	mv colordata2.ttf MezenetsUnicode.ttf
+	rm colordata2.ttx
 	ttf2eot < MezenetsUnicode.ttf > MezenetsUnicode.eot
 	sfnt2woff -m MezenetsUnicode-WOFF-metadata.xml MezenetsUnicode.otf
 	woff2_compress MezenetsUnicode.otf
@@ -41,9 +39,10 @@ MezenetsUnicode-web.zip:
 	rm -f README
 
 baseline:
-	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="baseline/%d.png" gsub.pdf; cd ..;)
+	rm -fr tests/baseline
+	mkdir tests/baseline
+	(cd tests/; i=0; while read -r in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > baseline/"$$i".tex; lualatex --output-directory=baseline/ baseline/"$$i".tex; done < foo.lst)
+	(cd tests/baseline; rm -fr *.aux *.log *.tex)
 
 azbuka:
 	(cd tests; lualatex --interaction=nonstopmode kalashnikov.tex)
@@ -60,16 +59,19 @@ demestvenny:
 test: test-result.pdf
 
 test-result.pdf:
-	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; lualatex --interaction=nonstopmode gsub.tex)
-	(cd tests; gs -dNOPAUSE -dBATCH -sDEVICE=pngalpha -r150 -sOutputFile="%d.png" gsub.pdf; mkdir -p result; cd ..;)
-	$(foreach f, $(NUMBERS), compare tests/$(f).png tests/baseline/$(f).png tests/result/$(f).png; echo 'Done';)
-	(cd tests/; convert result/*.png test-result.pdf; cd ..; )
-	rm -fr tests/result
-	rm -f tests/*.png
+	rm -f *.otf *.ttf *.zip
+	fontforge -script hp-generate.py
+	rm -fr tests/output
+	rm -fr tests/results
+	rm -fr test-result.pdf
+	mkdir tests/output
+	(cd tests/; i=0; while read -r in; do i=$$(($$i+1)); sed -e s/foo/"$$in"/ regtest.tex > output/"$$i".tex; lualatex --interaction=nonstopmode --output-directory=output/ output/"$$i".tex; done < foo.lst)
+	(cd tests/output; rm -fr *.aux *.log *.tex)
+	mkdir tests/results
+	(cd tests/; i=0; j=0; while read in; do i=$$(($$i+1)); compare -metric phash baseline/"$$i".pdf output/"$$i".pdf results/"$$i".pdf || j=$$(($$j+$$?)); echo ""; done < foo.lst; gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/screen -sOutputFile=test-result.pdf results/*.pdf; cp test-result.pdf ../test-result.pdf; rm -fr results/; rm -fr output/; exit "$$j")
 
 clean:
-	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt
+	rm -f *.otf *.ttf *.woff *.eot *.woff2 *.zip gdlerr.txt test-result.pdf
 	rm -fr tests/result
 	rm -fr tests/out
 	rm -f tests/*.aux tests/*.log tests/*.pdf

@@ -1,4 +1,7 @@
 # fonts-znam
+
+[![Build Status](https://api.travis-ci.com/slavonic/fonts-znam.svg?branch=master)](https://travis-ci.com/slavonic/fonts-znam/)
+
 OpenType fonts for Znamenny Notation
 
 OpenType шрифты для знаменной нотации
