@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485932044
-ModificationTime: 1556883167
+ModificationTime: 1556982585
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -768,7 +768,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 144 18 7
+WinInfo: 234 18 7
 BeginPrivate: 6
 BlueValues 23 [20 28 216 226 370 380]
 OtherBlues 11 [-148 -140]
@@ -785,7 +785,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 349175 174587 116391 471859 1048576 116391 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Right" "'mark' Mark Positioning-1" "Podchashie" "'mark' Mark Positioning-1" "Tonal" "'mark' Mark Positioning-1"
-BeginChars: 1114112 380
+BeginChars: 1114112 392
 
 StartChar: uniEE73
 Encoding: 61043 61043 0
@@ -1045,6 +1045,7 @@ SplineSet
  230 154 l 1,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE70
@@ -1222,6 +1223,7 @@ SplineSet
  1127 354 1127 354 1127 344 c 2,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE7B
@@ -1534,6 +1536,7 @@ SplineSet
  322 54 322 54 308 54 c 0,23,24
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE81
@@ -1664,6 +1667,7 @@ SplineSet
  311 205 311 205 332 205 c 27,9,10
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE87
@@ -1867,6 +1871,7 @@ SplineSet
  76 145 76 145 56.5 175.5 c 128,-1,18
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE72
@@ -2014,6 +2019,7 @@ SplineSet
  114 492 114 492 121 492 c 10,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE7A
@@ -2085,18 +2091,18 @@ EndTTInstrs
 LayerCount: 3
 Fore
 SplineSet
-138 22 m 0
- 118 22 92 34 92 65 c 0
- 92 76 105 78 119 92 c 0
- 122 95 123 98 123 101 c 0
- 123 110 112 120 102 120 c 0
- 100 119 87 110 76 110 c 0
- 74 110 72 110 70 111 c 8
- 47 119 40 134 20 150 c 17
- 20 152 l 2
- 20 175 57 184 93 184 c 0
- 163 184 228 141 228 87 c 1
- 228 50 174 22 138 22 c 0
+138 22 m 4
+ 118 22 92 34 92 65 c 4
+ 92 76 105 78 119 92 c 4
+ 122 95 123 98 123 101 c 4
+ 123 110 112 120 102 120 c 4
+ 100 119 87 110 76 110 c 4
+ 74 110 72 110 70 111 c 12
+ 47 119 40 134 20 150 c 21
+ 20 152 l 6
+ 20 175 57 184 93 184 c 4
+ 163 184 228 141 228 87 c 5
+ 228 50 174 22 138 22 c 4
 EndSplineSet
 Validated: 1
 Layer: 2
@@ -2121,6 +2127,7 @@ SplineSet
  228 61 228 61 198 41.5 c 128,-1,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE75
@@ -2205,6 +2212,7 @@ SplineSet
  124 118 124 118 131 90 c 9,0,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE78
@@ -2342,6 +2350,7 @@ SplineSet
  20 386 20 386 20 403 c 128,-1,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE7C
@@ -2565,6 +2574,7 @@ SplineSet
  227 61 227 61 197 41.5 c 128,-1,18
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE80
@@ -2667,6 +2677,7 @@ SplineSet
  311 205 311 205 332 205 c 27,0,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE84
@@ -2906,6 +2917,7 @@ SplineSet
  511 306 511 306 587 306 c 0,20,21
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE7E
@@ -3231,6 +3243,7 @@ SplineSet
  109 221 109 221 102 221 c 1,36,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE89
@@ -3388,6 +3401,7 @@ SplineSet
  100 129 100 129 114 135 c 1,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE8B
@@ -3808,6 +3822,7 @@ SplineSet
  180 260 180 260 179 255 c 1,50,51
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE8D
@@ -4003,6 +4018,7 @@ SplineSet
  120 711 120 711 126 718 c 1,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE8F
@@ -4262,6 +4278,7 @@ SplineSet
  162 193 162 193 131.5 181 c 128,-1,17
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE93
@@ -4660,6 +4677,7 @@ SplineSet
  165 191 165 191 133 182 c 128,-1,35
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE9A
@@ -5041,6 +5059,7 @@ SplineSet
  274 201 274 201 258 195 c 0,30,31
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE9D
@@ -5388,6 +5407,7 @@ SplineSet
  277 195 277 195 260 189 c 0,51,52
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE9E
@@ -5666,6 +5686,7 @@ SplineSet
  94 104 94 104 88 104 c 1,38,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE9F
@@ -6017,6 +6038,7 @@ SplineSet
  94 117 94 117 87 117 c 1,57,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA6
@@ -6187,6 +6209,7 @@ SplineSet
  94 102 94 102 88 102 c 1,16,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB0
@@ -6372,6 +6395,7 @@ SplineSet
  186 180 186 180 63 141 c 1,40,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB5
@@ -6745,6 +6769,7 @@ SplineSet
  373 299 373 299 372 300 c 1,36,37
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEBD
@@ -6918,6 +6943,7 @@ SplineSet
  34 65 34 65 24 84 c 0,0,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEBF
@@ -7053,6 +7079,7 @@ SplineSet
  20 234 20 234 77.5 246.5 c 128,-1,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE50
@@ -7115,6 +7142,7 @@ SplineSet
  -176 467 -176 467 -165 480 c 128,-1,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE51
@@ -7230,6 +7258,7 @@ SplineSet
  -378 400 -378 400 -367 413 c 128,-1,9
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE52
@@ -7384,6 +7413,7 @@ SplineSet
  -549 426 -549 426 -509 426 c 0,18,19
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE58
@@ -7473,6 +7503,7 @@ SplineSet
  -91 470 -91 470 -109 470 c 1,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE76
@@ -7651,6 +7682,7 @@ EndSplineSet
 Validated: 1
 LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE51
+Colour: ffff00
 EndChar
 
 StartChar: uniEE79
@@ -7887,6 +7919,7 @@ EndSplineSet
 Validated: 1
 LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE78 uniEE5B
+Colour: ffff00
 EndChar
 
 StartChar: uniEE7D
@@ -8037,6 +8070,7 @@ SplineSet
  109 121 109 121 102 121 c 1,9,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE7F
@@ -8295,6 +8329,7 @@ SplineSet
  105 121 105 121 102 121 c 1,47,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE83
@@ -8492,6 +8527,7 @@ SplineSet
  518 275 518 275 587 275 c 0,7,8
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE85
@@ -8787,6 +8823,7 @@ SplineSet
  518 310 518 310 587 310 c 0,31,32
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE88
@@ -9076,6 +9113,7 @@ SplineSet
  76 145 76 145 56.5 175.5 c 128,-1,41
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE8E
@@ -9502,6 +9540,7 @@ SplineSet
  162 265 162 265 131.5 253 c 128,-1,63
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE82
@@ -9750,6 +9789,7 @@ SplineSet
  518 278 518 278 587 278 c 0,18,19
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE90
@@ -10051,6 +10091,7 @@ SplineSet
  287 244 287 244 271 237 c 0,37,38
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE91
@@ -10441,6 +10482,7 @@ SplineSet
  162 193 162 193 131.5 181 c 128,-1,52
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE92
@@ -10874,6 +10916,7 @@ SplineSet
  287 246 287 246 271 239 c 0,74,75
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE94
@@ -11122,6 +11165,7 @@ SplineSet
  297 229 297 229 277 223 c 0,55,56
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE96
@@ -11529,6 +11573,7 @@ SplineSet
  287 243 287 243 271 236 c 0,60,61
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE98
@@ -11842,6 +11887,7 @@ SplineSet
  54 119 l 2,39,40
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE97
@@ -12250,6 +12296,7 @@ SplineSet
  287 242 287 242 271 235 c 0,64,65
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE9C
@@ -12759,6 +12806,7 @@ SplineSet
  272 199 272 199 256 194 c 1,64,65
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA2
@@ -13056,6 +13104,7 @@ SplineSet
  221 82 221 82 221 45 c 0,36,37
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA3
@@ -13526,6 +13575,7 @@ SplineSet
  221 83 221 83 221 46 c 0,57,58
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA4
@@ -13948,6 +13998,7 @@ SplineSet
  221 82 221 82 221 45 c 0,66,67
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA5
@@ -14071,6 +14122,7 @@ SplineSet
  20 230 20 230 20 239 c 0,12,13
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB1
@@ -14332,6 +14384,7 @@ SplineSet
  277 210 277 210 260 201 c 1,58,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uni0000
@@ -22317,10 +22370,11 @@ Validated: 1
 LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE5A
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE75 uniEE50
+Colour: ffff
 EndChar
 
-StartChar: uniEA62
-Encoding: 60002 60002 90
+StartChar: uniEA99
+Encoding: 60057 60057 90
 Width: 432
 VWidth: 0
 Flags: W
@@ -22429,12 +22483,13 @@ SplineSet
  173 191 173 191 41 361 c 0,8,9
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF5C u1CF3C
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE78 uniEE5A
+Colour: ffff
 EndChar
 
-StartChar: uniEA6C
-Encoding: 60012 60012 91
+StartChar: uniEB0D
+Encoding: 60173 60173 91
 Width: 562
 VWidth: 0
 Flags: W
@@ -22766,12 +22821,13 @@ SplineSet
  287 245 287 245 271 238 c 0,32,33
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF86 u1CF31
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE8F uniEE51
+Colour: ffff
 EndChar
 
-StartChar: uniEA6B
-Encoding: 60011 60011 92
+StartChar: uniEAFD
+Encoding: 60157 60157 92
 Width: 481
 VWidth: 0
 Flags: W
@@ -23057,12 +23113,13 @@ SplineSet
  286 245 286 245 270 238 c 0,25,26
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF86 u1CF30
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE8F uniEE50
+Colour: ffff
 EndChar
 
-StartChar: uniEA70
-Encoding: 60016 60016 93
+StartChar: uniEB01
+Encoding: 60161 60161 93
 Width: 736
 VWidth: 0
 Flags: W
@@ -23379,8 +23436,9 @@ SplineSet
  242 213 242 213 176 194.5 c 128,-1,45
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF8B u1CF30
 Ligature2: "'ccmp' Znamenny Ligatures 0-1" uniEE93 uniEE50
+Colour: ffff
 EndChar
 
 StartChar: uniEE5A
@@ -23439,6 +23497,7 @@ SplineSet
  -169 458 -169 458 -159 466 c 0,0,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uni25CC
@@ -24812,6 +24871,7 @@ SplineSet
  -137 398 -137 398 -115 398 c 27,0,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE99
@@ -24944,30 +25004,30 @@ EndTTInstrs
 LayerCount: 3
 Fore
 SplineSet
-334 101 m 0x60
- 314 101 288 114 288 145 c 0
- 288 156 301 158 315 172 c 0
- 318 175 319 178 319 181 c 0
- 319 190 308 199 298 199 c 0
- 296 198 283 190 272 190 c 0
- 270 190 268 190 266 191 c 8
- 243 198 236 214 216 230 c 17
- 216 232 l 2
- 216 254 253 263 289 263 c 0
- 359 263 419 221 424 166 c 1
- 424 129 370 101 334 101 c 0x60
-138 39 m 0
- 118 39 92 51 92 82 c 0
- 92 93 105 95 119 109 c 0
- 122 112 123 115 123 118 c 0
- 123 127 112 137 102 137 c 0
- 100 136 87 127 76 127 c 0
- 74 127 72 127 70 128 c 8
- 47 136 40 151 20 167 c 17
- 20 169 l 2
- 20 192 57 201 93 201 c 0xa0
- 163 201 223 158 228 104 c 1
- 228 67 174 39 138 39 c 0
+334 101 m 4x60
+ 314 101 288 114 288 145 c 4
+ 288 156 301 158 315 172 c 4
+ 318 175 319 178 319 181 c 4
+ 319 190 308 199 298 199 c 4
+ 296 198 283 190 272 190 c 4
+ 270 190 268 190 266 191 c 12
+ 243 198 236 214 216 230 c 21
+ 216 232 l 6
+ 216 254 253 263 289 263 c 4
+ 359 263 419 221 424 166 c 5
+ 424 129 370 101 334 101 c 4x60
+138 39 m 4
+ 118 39 92 51 92 82 c 4
+ 92 93 105 95 119 109 c 4
+ 122 112 123 115 123 118 c 4
+ 123 127 112 137 102 137 c 4
+ 100 136 87 127 76 127 c 4
+ 74 127 72 127 70 128 c 12
+ 47 136 40 151 20 167 c 21
+ 20 169 l 6
+ 20 192 57 201 93 201 c 4xa0
+ 163 201 223 158 228 104 c 5
+ 228 67 174 39 138 39 c 4
 EndSplineSet
 Validated: 1
 Layer: 2
@@ -25011,6 +25071,7 @@ SplineSet
  228 78 228 78 198 58.5 c 128,-1,25
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB9
@@ -25175,6 +25236,7 @@ SplineSet
  109 120 109 120 102 120 c 1,16,17
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEAE
@@ -25402,6 +25464,7 @@ SplineSet
  611 190 l 2,11,12
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEAF
@@ -25887,6 +25950,7 @@ SplineSet
  229 169 229 169 215 162 c 1,67,68
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB2
@@ -26296,6 +26360,7 @@ SplineSet
  402 256 402 256 401 257 c 1,39,40
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: exclam
@@ -28438,6 +28503,7 @@ SplineSet
  1127 353 1127 353 1127 343 c 2,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE77
@@ -28576,6 +28642,7 @@ SplineSet
  124 118 124 118 131 90 c 9,27,28
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE86
@@ -28801,6 +28868,7 @@ SplineSet
  306 97 306 97 318 97 c 0,35,36
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE95
@@ -29285,6 +29353,7 @@ SplineSet
  165 191 165 191 134.5 179 c 128,-1,58
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE8A
@@ -29502,6 +29571,7 @@ SplineSet
  86 346 86 346 86 335 c 1,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA0
@@ -29895,6 +29965,7 @@ SplineSet
  94 103 94 103 88 103 c 1,55,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA1
@@ -30342,6 +30413,7 @@ SplineSet
  94 103 94 103 88 103 c 1,73,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA7
@@ -30657,6 +30729,7 @@ SplineSet
  1325 331 1325 331 1288 322 c 1,40,41
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEA8
@@ -31024,6 +31097,7 @@ SplineSet
  1040 308 1040 308 655 221 c 0,63,64
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEAA
@@ -31191,6 +31265,7 @@ SplineSet
  93 220 93 220 111 220 c 0,16,17
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB3
@@ -31705,6 +31780,7 @@ SplineSet
  393 279 393 279 392 280 c 1,60,61
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB4
@@ -32213,6 +32289,7 @@ SplineSet
  536 328 536 328 535 329 c 1,58,59
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB6
@@ -32494,6 +32571,7 @@ SplineSet
  1304 410 1304 410 1304 380 c 1,20,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB7
@@ -32912,6 +32990,7 @@ SplineSet
  109 122 109 122 102 122 c 1,43,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEBA
@@ -33317,6 +33396,7 @@ SplineSet
  252 67 252 67 192 45 c 128,-1,35
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEBE
@@ -33727,6 +33807,7 @@ SplineSet
  274 202 274 202 258 196 c 0,44,45
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: hyphen
@@ -37535,6 +37616,7 @@ SplineSet
  -181 324 -181 324 -181 310 c 2,0,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE5B
@@ -37623,6 +37705,7 @@ SplineSet
  -166 275 -166 275 -168 277 c 0,11,12
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE8C
@@ -37852,6 +37935,7 @@ SplineSet
  699 326 699 326 699 316 c 0,41,42
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: A
@@ -48870,6 +48954,7 @@ SplineSet
  517 299 l 2,106,107
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEEAC
@@ -49404,6 +49489,7 @@ SplineSet
  20 291 20 291 101 291 c 1,77,-1
  160 289 l 1,22,-1
 EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: uniEE53
@@ -49719,6 +49805,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE54
@@ -50034,6 +50121,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE56
@@ -50119,6 +50207,7 @@ SplineSet
  -110 509 -110 509 -95.5 494 c 128,-1,1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE57
@@ -50233,6 +50322,7 @@ SplineSet
  -110 506 -110 506 -95.5 491 c 128,-1,10
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE5C
@@ -50548,6 +50638,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE5D
@@ -50863,6 +50954,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE5E
@@ -51178,10 +51270,11 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
-StartChar: uniEA55
-Encoding: 59989 59989 232
+StartChar: uniEA57
+Encoding: 59991 59991 232
 Width: 901
 VWidth: 0
 Flags: W
@@ -51338,6 +51431,7 @@ SplineSet
  39 21 l 2,0,1
 EndSplineSet
 Validated: 1
+Colour: ff00
 EndChar
 
 StartChar: uniEEAD
@@ -51653,6 +51747,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE71
@@ -51968,6 +52063,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: uniEE9B
@@ -52283,6 +52379,7 @@ SplineSet
  59 733 l 1,13,-1
 EndSplineSet
 Validated: 1
+Colour: ffff00
 EndChar
 
 StartChar: Euro
@@ -52421,6 +52518,7 @@ SplineSet
  195 166 177 179 177 210 c 3
  177 235 187 252 216 252 c 0xc380
 EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: uniEEBC
@@ -52464,6 +52562,7 @@ SplineSet
  183 175 146 155 61 124 c 0
  57 122 53 124 50 124 c 0xb8
 EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: uniEEB8
@@ -52495,6 +52594,7 @@ SplineSet
  235 187 263 192 275 192 c 0
  308 192 301 152 317 90 c 9
 EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: u1CF50
@@ -54124,22 +54224,22 @@ AnchorPoint: "Right" 372.6 211.8 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-184 245 m 0
- 184 265 209 270 226 270 c 0
- 242 270 251 265 262 252 c 0
- 276 238 397 124 397 71 c 0
- 397 53 386 48 374 48 c 0
- 358 48 341 55 332 64 c 8
- 272 115 246 154 198 217 c 16
- 191 226 184 235 184 245 c 0
-20 240 m 0
- 20 258 43 265 57 265 c 0
- 84 265 93 259 105 243 c 16
- 119 224 233 101 233 46 c 0
- 233 31 219 22 203 22 c 0
- 188 22 174 31 161 43 c 8
- 101 101 78 143 33 212 c 16
- 27 222 20 231 20 240 c 0
+184 245 m 4
+ 184 265 209 270 226 270 c 4
+ 242 270 251 265 262 252 c 4
+ 276 238 397 124 397 71 c 4
+ 397 53 386 48 374 48 c 4
+ 358 48 341 55 332 64 c 12
+ 272 115 246 154 198 217 c 20
+ 191 226 184 235 184 245 c 4
+20 240 m 4
+ 20 258 43 265 57 265 c 4
+ 84 265 93 259 105 243 c 20
+ 119 224 233 101 233 46 c 4
+ 233 31 219 22 203 22 c 4
+ 188 22 174 31 161 43 c 12
+ 101 101 78 143 33 212 c 20
+ 27 222 20 231 20 240 c 4
 EndSplineSet
 EndChar
 
@@ -58088,6 +58188,552 @@ SplineSet
  243 383 l 1
  59 733 l 1
 EndSplineSet
+EndChar
+
+StartChar: uniEA9C
+Encoding: 60060 60060 380
+Width: 484
+VWidth: 0
+Flags: W
+HStem: 21 21G<365 385.5> 200 94<358.533 444.92> 346 83<256.955 342.529>
+VStem: 242 116<359.333 417.063> 341 123<212.73 280.592>
+DStem2: 93 433 43 359 0.618774 -0.785569<-21.1807 421.253>
+LayerCount: 3
+Fore
+SplineSet
+402 294 m 0xe8
+ 434 294 464 276 464 248 c 0
+ 464 218 429 200 399 200 c 0
+ 367 200 341 225 341 251 c 0
+ 341 274 365 294 402 294 c 0xe8
+242 396 m 0xf0
+ 242 413 263 429 293 429 c 0
+ 325 429 358 411 358 383 c 0
+ 358 360 334 346 306 346 c 0
+ 276 346 242 367 242 396 c 0xf0
+20 403 m 0
+ 20 426 45 441 71 441 c 0
+ 78 441 86 440 93 433 c 0
+ 209 285 272 204 406 74 c 0
+ 409 68 411 63 411 58 c 0
+ 411 42 397 24 379 21 c 1
+ 334 22 332 33 311 54 c 1
+ 202 149 145 232 43 359 c 0
+ 31 373 20 383 20 403 c 0
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF5C u1CF3D
+Colour: ffff
+EndChar
+
+StartChar: uniEA9F
+Encoding: 60063 60063 381
+Width: 604
+VWidth: 0
+Flags: W
+HStem: 21 21G<132 156> 54 55<281.866 347.051> 120 63<76.1909 121.863> 160.5 45.5<505.708 580.81>
+VStem: 122 106<76.4585 119.944>
+DStem2: 448 174 386 149 0.587892 -0.808939<-102.88 -16.2258 54.4059 137.238>
+LayerCount: 3
+Fore
+SplineSet
+138 21 m 0xe8
+ 118 21 92 33 92 64 c 0
+ 92 75 105 77 117 91 c 0
+ 121 95 122 98 122 101 c 0
+ 122 109 111 120 102 120 c 0
+ 99 119 85 109 73 109 c 0
+ 71 109 70 109 68 110 c 0
+ 45 119 40 135 20 151 c 1
+ 20 153 l 2
+ 20 174 57 183 93 183 c 0
+ 163 183 228 140 228 86 c 1
+ 228 49 174 21 138 21 c 0xe8
+308 54 m 0
+ 292 54 281 64 281 81 c 0
+ 281 93 290 102 302 109 c 0
+ 334 125 360 137 386 149 c 1
+ 339 214 l 2
+ 337 216 337 220 337 221 c 0
+ 337 237 360 251 378 251 c 0
+ 386 251 394 250 399 242 c 2
+ 448 174 l 1
+ 466 181 522 206 552 206 c 0
+ 570 206 584 184 584 170 c 0
+ 584 167 582 163 577 162 c 0xd8
+ 547 154 515 142 480 130 c 1
+ 522 70 l 2
+ 524 66 526 63 526 61 c 0
+ 526 45 504 31 487 31 c 0
+ 478 31 469 35 464 42 c 2
+ 420 103 l 1
+ 397 93 376 82 351 70 c 0
+ 340 65 326 54 308 54 c 0
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF5D u1CF81
+Colour: ffff
+EndChar
+
+StartChar: uniEAC5
+Encoding: 60101 60101 382
+Width: 398
+VWidth: 0
+Flags: W
+HStem: 22 67<159.506 276.287> 256 85<135.781 211.046>
+VStem: 122 104<270.062 328.109> 293 85<115.379 192.106>
+LayerCount: 3
+Fore
+SplineSet
+226 288 m 0
+ 226 268 200 256 181 256 c 0
+ 149 256 122 286 122 311 c 0
+ 122 330 144 341 165 341 c 0
+ 195 341 226 319 226 288 c 0
+337 205 m 27
+ 360 205 378 187 378 161 c 0
+ 378 121 376 99 348 68 c 8
+ 314 31 277 22 226 22 c 19
+ 145 22 100 52 59 96 c 8
+ 36 121 20 143 20 170 c 0
+ 20 187 42 200 61 200 c 0
+ 68 200 75 198 80 194 c 8
+ 114 173 115 142 147 119 c 24
+ 172 99 189 89 221 89 c 27
+ 246 89 265 96 281 115 c 24
+ 300 140 286 166 304 193 c 24
+ 311 205 323 205 337 205 c 27
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF6F u1CF30
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF6F u1CF3C
+Colour: ffff
+EndChar
+
+StartChar: uniEAFA
+Encoding: 60154 60154 383
+Width: 696
+VWidth: 0
+Flags: W
+HStem: 225 21G<43.25 53.75> 352 20G<253.75 263.25>
+VStem: 456 112<343.146 406.781> 473 92<569.972 654.353> 538 87<-189.718 291.618> 552 95<179.753 292>
+DStem2: 28 283 80 233 0.925778 0.378067<-2.64252 246.752> 134 153 167 96 0.926322 0.376734<-5.29346 244.017>
+LayerCount: 3
+Fore
+SplineSet
+579 -199 m 0xc8
+ 554 -199 537 -190 537 -169 c 2
+ 537 93 l 1xc8
+ 537 125 538 142 538 176 c 0
+ 538 221 547 246 552 292 c 1
+ 508 295 456 313 456 359 c 0xe0
+ 456 420 531 427 567 507 c 1
+ 521 533 473 544 473 596 c 0
+ 473 654 533 686 561 718 c 1
+ 563 709 565 705 565 697 c 0
+ 565 686 579 683 579 672 c 0
+ 579 640 565 624 565 593 c 0xd0
+ 565 575 588 568 607 568 c 0
+ 635 568 676 566 676 536 c 0
+ 676 459 568 448 568 371 c 0xe0
+ 568 331 647 341 647 301 c 0
+ 647 251 625 227 625 179 c 0
+ 625 63 625 -53 625 -169 c 0
+ 625 -183 609 -199 579 -199 c 0xc8
+157 94 m 0
+ 138 94 121 112 121 133 c 0
+ 121 142 125 150 134 153 c 0
+ 241 195 255 202 348 239 c 0
+ 352 241 356 241 360 241 c 0
+ 378 241 391 225 391 206 c 0
+ 391 195 386 186 376 181 c 0
+ 288 146 251 128 167 96 c 0
+ 164 95 160 94 157 94 c 0
+52 225 m 0
+ 33 225 18 241 18 263 c 0
+ 18 272 21 280 28 283 c 0
+ 137 325 151 332 244 369 c 0
+ 248 371 252 372 256 372 c 0
+ 272 372 287 356 287 337 c 0
+ 287 326 282 316 271 311 c 0
+ 185 276 148 258 63 227 c 0
+ 59 225 55 225 52 225 c 0
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF86 u1CF85
+Colour: ffff
+EndChar
+
+StartChar: uniEC22
+Encoding: 60450 60450 384
+Width: 1514
+VWidth: 0
+Flags: W
+HStem: 22 21G<204 226> 149 63<499.689 665.04> 172 44<83.3403 165.5 279.437 339.377> 263.5 51.5<809.673 839.843> 288 24<93.5842 167.593 285.669 327.914> 299 63<493.283 664.887> 342 48<1279.75 1493.24>
+VStem: 20 61<220.343 280.48> 169 104<51.2197 172 217.157 282.988> 180 130<339.25 411.25> 180 102<312.563 360> 351 58<223.14 275.376>
+DStem2: 823 315 840 258 0.992846 0.119403<-18.7969 236.386 511.134 644.094>
+AnchorPoint: "Tonal" 1077.62 392.067 basechar 0
+AnchorPoint: "Podchashie" 1144.6 228.646 basechar 0
+AnchorPoint: "Right" 1570.38 374.434 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+168 284 m 5xb340
+ 158 287 149 288 140 288 c 4
+ 127 288 114 285 100 280 c 4
+ 88 276 81 262 81 248 c 4
+ 81 238 85 227 96 223 c 5
+ 111 216 123 213 136 213 c 4
+ 145 213 154 214 166 217 c 5
+ 165 222 165 227 165 231 c 4
+ 165 246 168 257 168 284 c 5xb340
+351 246 m 4
+ 351 274 317 283 290 283 c 4
+ 286 283 282 283 279 282 c 5
+ 279 275 278 269 278 264 c 4
+ 278 248 280 238 280 222 c 5
+ 292 217 300 216 308 216 c 4
+ 319 216 327 219 340 225 c 4
+ 348 229 351 237 351 246 c 4
+226 454 m 4
+ 236 454 248 454 260 450 c 12
+ 284 443 310 438 310 410 c 4
+ 310 391 289 381 285 360 c 4
+ 284 352 282 344 282 337 c 4xb2c0
+ 282 329 284 323 291 318 c 12
+ 319 299 345 316 375 300 c 28
+ 394 290 409 279 409 255 c 4
+ 409 233 409 221 395 209 c 28
+ 368 186 351 172 312 172 c 4
+ 299 172 287 174 273 174 c 5
+ 273 150 l 22
+ 273 134 274 122 274 109 c 4
+ 274 101 273 92 273 83 c 6
+ 273 69 l 6
+ 273 63 272 57 267 51 c 12
+ 250 33 236 22 212 22 c 4
+ 188 22 184 27 172 39 c 20
+ 167 44 166 50 166 57 c 6
+ 166 102 l 6xb340
+ 166 130 169 148 169 178 c 5
+ 155 178 l 6
+ 119 178 88 184 49 202 c 4
+ 24 214 20 236 20 263 c 4
+ 20 306 59 313 101 313 c 4
+ 122 313 143 311 160 311 c 4
+ 165 311 170 312 174 312 c 5
+ 178 324 180 336 180 347 c 4xb2c0
+ 180 359 178 371 172 382 c 12
+ 165 396 150 398 150 417 c 4
+ 150 450 193 454 226 454 c 4
+1465 391 m 0x8640
+ 1483 391 1494 385 1494 370 c 0
+ 1494 348 1477 344 1458 342 c 0
+ 1167 307 1019 289 840 258 c 9
+ 826 268 804 259 804 283 c 0
+ 804 298 808 312 823 315 c 0
+ 887 329 1141 363 1442 389 c 0
+ 1448 390 1457 391 1465 391 c 0x8640
+531 149 m 0xc240
+ 509 149 497 165 497 186 c 0
+ 497 198 501 210 513 212 c 0
+ 630 227 643 231 744 244 c 0
+ 746 245 748 245 750 245 c 0
+ 767 245 778 228 778 211 c 0
+ 778 198 771 185 756 182 c 0
+ 664 168 622 160 534 149 c 0
+ 533 149 532 149 531 149 c 0xc240
+517 299 m 2x8a40
+ 497 299 484 316 484 335 c 0
+ 484 349 489 360 501 362 c 0x8a40
+ 616 378 612 375 711 390 c 0
+ 712 391 714 391 715 391 c 0x8640
+ 735 391 747 371 747 353 c 0
+ 747 340 740 329 725 327 c 0
+ 631 314 610 310 521 299 c 1
+ 517 299 l 2x8a40
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CFC1 u1CF92
+Colour: ffff
+EndChar
+
+StartChar: uniEB5F
+Encoding: 60255 60255 385
+Width: 797
+VWidth: 0
+Flags: W
+HStem: 83 46.5<266.064 298.25> 95 46<21.8789 87.3799> 118 39<393.93 455.07> 155 41<537.088 659.468> 199 50<393.25 432> 224 63<738 765.14> 309 52<192.38 359.391>
+VStem: 164 342<235 319.5> 330 63<158.637 198.91>
+DStem2: 30 141 124 124 0.934572 0.355774<0.0349998 199.385> 104 62 130.5 19.5 0.922459 0.386096<-2.92158 194.802>
+LayerCount: 3
+Fore
+SplineSet
+466 195 m 19x56
+ 451 195 431 199 416 199 c 0
+ 403 199 393 196 393 182 c 11
+ 393 164 413 157 430 157 c 27
+ 445 157 456 169 456 184 c 27
+ 456 190 472 195 466 195 c 19x56
+280 361 m 2
+ 409 361 506 282 506 235 c 9
+ 539 219 557 196 594 196 c 16
+ 683 196 706 287 754 287 c 2
+ 756 287 l 10
+ 770 287 777 273 777 259 c 27
+ 777 238 759 224 738 224 c 17
+ 738 171 680 155 618 155 c 0x2e
+ 580 155 539 161 513 168 c 9
+ 477 148 462 118 421 118 c 27
+ 379 118 330 136 330 178 c 27
+ 330 213 347 252 382 252 c 27
+ 402 252 412 249 432 249 c 25
+ 374 272 345 309 284 309 c 19
+ 256 309 217 294 192 294 c 0
+ 175 294 164 301 164 319 c 3
+ 164 358 208 361 250 361 c 2
+ 280 361 l 2
+104 62 m 1
+ 185 95 195 100 266 129 c 1
+ 269 129 273 130 274 130 c 0
+ 288 130 299 115 299 102 c 0
+ 299 95 295 88 287 83 c 1
+ 220 56 192 44 128 19 c 0
+ 127 18 123 18 121 18 c 0
+ 107 18 93 35 93 48 c 0
+ 93 55 95 60 104 62 c 1
+206 208 m 1
+ 219 208 229 190 229 183 c 0
+ 229 174 223 166 215 162 c 0
+ 149 136 121 122 56 97 c 0
+ 54 97 51 95 47 95 c 0
+ 33 95 21 109 21 125 c 0
+ 21 132 24 137 30 141 c 1x86
+ 91 164 156 190 206 208 c 1
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF86 u1CFC3
+Colour: ffff
+EndChar
+
+StartChar: uniEB49
+Encoding: 60233 60233 386
+Width: 630
+VWidth: 0
+Flags: W
+HStem: 22 98<344.399 406.628> 256 60<174.859 427.77>
+VStem: 206 111<91.5816 180.609>
+LayerCount: 3
+Fore
+SplineSet
+23 197 m 0
+ 23 252 189 316 302 316 c 0
+ 452 316 582 261 615 95 c 0
+ 616 90 618 81 618 70 c 0
+ 618 52 613 32 590 32 c 0
+ 559 32 546 53 538 76 c 0
+ 533 92 533 110 532 117 c 0
+ 514 218 396 256 336 256 c 0
+ 96 256 101 166 68 166 c 3
+ 44 166 23 172 23 197 c 0
+317 90 m 9
+ 363 101 386 120 435 120 c 0
+ 455 120 470 113 470 85 c 0
+ 470 60 367 22 298 22 c 0
+ 270 22 249 29 242 45 c 0
+ 228 83 212 126 206 170 c 1
+ 235 187 263 192 275 192 c 0
+ 308 192 301 152 317 90 c 9
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF56 u1CFC4
+Colour: ffff
+EndChar
+
+StartChar: uniEB4A
+Encoding: 60234 60234 387
+Width: 630
+VWidth: 0
+Flags: W
+HStem: 22 21G<310 338> 120 64<258.517 304.068> 256 60<174.859 427.77>
+VStem: 305 105<78.2809 119.135>
+LayerCount: 3
+Fore
+SplineSet
+320 22 m 0
+ 300 22 274 34 274 65 c 0
+ 274 76 287 78 301 92 c 0
+ 304 95 305 98 305 101 c 0
+ 305 110 294 120 284 120 c 0
+ 282 119 269 110 258 110 c 0
+ 256 110 254 110 252 111 c 8
+ 229 119 222 134 202 150 c 17
+ 202 152 l 2
+ 202 175 239 184 275 184 c 0
+ 345 184 410 141 410 87 c 0
+ 410 50 356 22 320 22 c 0
+23 197 m 0
+ 23 252 189 316 302 316 c 0
+ 452 316 582 261 615 95 c 0
+ 616 90 618 81 618 70 c 0
+ 618 52 613 32 590 32 c 0
+ 559 32 546 53 538 76 c 0
+ 533 92 533 110 532 117 c 0
+ 514 218 396 256 336 256 c 0
+ 96 256 101 166 68 166 c 3
+ 44 166 23 172 23 197 c 0
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF5D u1CFC4
+Colour: ffff
+EndChar
+
+StartChar: uniEB4B
+Encoding: 60235 60235 388
+Width: 630
+VWidth: 0
+Flags: W
+HStem: 22 21G<384 412> 98 64<136.517 181.813> 120 64<332.517 377.813> 256 60<174.859 427.77>
+VStem: 183 105<56.2809 97.1346>
+LayerCount: 3
+Fore
+SplineSet
+394 22 m 0xb8
+ 374 22 348 35 348 66 c 0
+ 348 77 361 79 375 93 c 0
+ 378 96 379 99 379 102 c 0
+ 379 111 368 120 358 120 c 0
+ 356 119 343 111 332 111 c 0
+ 330 111 328 111 326 112 c 8
+ 303 119 296 135 276 151 c 17
+ 276 153 l 2
+ 276 175 313 184 349 184 c 0
+ 419 184 479 142 484 87 c 1
+ 484 50 430 22 394 22 c 0xb8
+198 0 m 0
+ 178 0 152 12 152 43 c 0
+ 152 54 165 56 179 70 c 0
+ 182 73 183 76 183 79 c 0
+ 183 88 172 98 162 98 c 0
+ 160 97 147 88 136 88 c 0
+ 134 88 132 88 130 89 c 8
+ 107 97 100 112 80 128 c 17
+ 80 130 l 2
+ 80 153 117 162 153 162 c 0xd8
+ 223 162 283 119 288 65 c 1
+ 288 28 234 0 198 0 c 0
+23 197 m 0
+ 23 252 189 316 302 316 c 0
+ 452 316 582 261 615 95 c 0
+ 616 90 618 81 618 70 c 0
+ 618 52 613 32 590 32 c 0
+ 559 32 546 53 538 76 c 0
+ 533 92 533 110 532 117 c 0
+ 514 218 396 256 336 256 c 0
+ 96 256 101 166 68 166 c 3
+ 44 166 23 172 23 197 c 0
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF6B u1CFC4
+Colour: ffff
+EndChar
+
+StartChar: uniEB4C
+Encoding: 60236 60236 389
+Width: 630
+VWidth: 0
+Flags: W
+HStem: 196 20G<269 285.5> 287 57<107.02 367.618>
+LayerCount: 3
+Fore
+SplineSet
+531.5 55 m 0
+ 500.5 55 487.5 76 479.5 99 c 0
+ 474.5 115 474.5 133 473.5 140 c 0
+ 463.5 220 355.5 287 295.5 287 c 0
+ 227.5 287 183.5 269 109.5 269 c 0
+ 92.5 269 70.5 269 70.5 294 c 0
+ 70.5 328 172.5 344 239.5 344 c 0
+ 391.5 344 519.5 285 556.5 118 c 0
+ 557.5 113 559.5 104 559.5 93 c 0
+ 559.5 75 554.5 55 531.5 55 c 0
+235.5 191 m 0
+ 235.5 211 260.5 216 277.5 216 c 0
+ 293.5 216 302.5 211 313.5 198 c 0
+ 327.5 184 448.5 70 448.5 17 c 0
+ 448.5 -1 437.5 -6 425.5 -6 c 0
+ 409.5 -6 392.5 1 383.5 10 c 8
+ 323.5 61 297.5 100 249.5 163 c 16
+ 242.5 172 235.5 181 235.5 191 c 0
+71.5 186 m 0
+ 71.5 204 94.5 211 108.5 211 c 0
+ 135.5 211 144.5 205 156.5 189 c 16
+ 170.5 170 284.5 47 284.5 -8 c 0
+ 284.5 -23 270.5 -32 254.5 -32 c 0
+ 239.5 -32 225.5 -23 212.5 -11 c 8
+ 152.5 47 129.5 89 84.5 158 c 16
+ 78.5 168 71.5 177 71.5 186 c 0
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF7D u1CFC4
+Colour: ffff
+EndChar
+
+StartChar: uniEB4D
+Encoding: 60237 60237 390
+Width: 560
+Flags: W
+HStem: 22 59<103.102 167.133> 109 60<302.545 366.688> 124 58<28.0256 89.0892> 210 61<227.581 291.406> 341 57<81.5202 342.118>
+AnchorPoint: "Podchashie" 400 0 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+506 109 m 4xd8
+ 475 109 462 130 454 153 c 4
+ 449 169 449 187 448 194 c 4
+ 438 274 330 341 270 341 c 4
+ 202 341 158 323 84 323 c 4
+ 67 323 45 323 45 348 c 4
+ 45 382 147 398 214 398 c 4
+ 366 398 494 339 531 172 c 4
+ 532 167 534 158 534 147 c 4
+ 534 129 529 109 506 109 c 4xd8
+135 22 m 0
+ 116 22 99 40 99 61 c 0
+ 99 70 103 78 112 81 c 0
+ 219 123 233 130 326 167 c 0
+ 330 169 334 169 338 169 c 0
+ 356 169 369 153 369 134 c 0
+ 369 123 364 114 354 109 c 0
+ 266 74 229 54 145 22 c 0
+ 142 21 138 22 135 22 c 0
+59 124 m 0xb8
+ 40 124 25 140 25 162 c 0
+ 25 171 28 179 35 182 c 0
+ 144 224 158 231 251 268 c 0
+ 255 270 259 271 263 271 c 0
+ 279 271 294 255 294 236 c 0
+ 294 225 289 215 278 210 c 0
+ 192 175 155 155 70 124 c 0
+ 66 122 62 124 59 124 c 0xb8
+EndSplineSet
+Ligature2: "'ccmp' Znamenny Ligatures 0-1" u1CF86 u1CFC4
+Colour: ffff
+EndChar
+
+StartChar: uniEB4E
+Encoding: 60238 60238 391
+Width: 541
+VWidth: 0
+Flags: W
+HStem: 22 61<399.439 436> 83 34<342.737 367.307> 210 49<105.244 354.1>
+VStem: 436 84<83 140.708>
+LayerCount: 3
+Fore
+SplineSet
+196 259 m 0
+ 341 259 520 201 520 67 c 0
+ 520 39 506 22 455 22 c 1
+ 397 22 367 83 335 83 c 1
+ 337 94 330 117 360 117 c 0
+ 406 117 409 85 434 85 c 1
+ 436 92 436 97 436 104 c 0
+ 436 184 307 210 247 210 c 0
+ 179 210 133 185 59 185 c 19
+ 42 185 20 185 20 210 c 0
+ 20 245 130 259 196 259 c 0
+EndSplineSet
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
