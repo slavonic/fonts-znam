@@ -1,7 +1,5 @@
 # fonts-znam
 
-[![Build Status](https://api.travis-ci.com/slavonic/fonts-znam.svg?branch=master)](https://travis-ci.com/slavonic/fonts-znam/)
-
 OpenType fonts for Znamenny Notation
 
 OpenType шрифты для знаменной нотации
@@ -11,16 +9,17 @@ OpenType шрифты для знаменной нотации
 This repository provides fonts for typesetting Znamenny and other related
 Slavic neumatic music notations systems (Demestvenny, Put, Kondakarian).
 
-All fonts provide necessary OpenType and SIL Graphite features and come
-both with PostScript (.otf) and TrueType (.ttf) outlines.
+All fonts provide necessary OpenType features and come
+both with PostScript (.otf) outlines. Note that support for SIL Graphite
+features has been discontinued.
 
 ## Encoding
 
 Znamenny and related notation systems are not yet available in Unicode.
-As an encoding model is developed, the notation symbols are temporarily
-encoded in the Private Use Area portion of Unicode for testing purposes.
-See the [Ponomar Private Use Area Policy](http://www.ponomar.net/files/pua_policy.pdf)
-for information and codepoints.
+The proposed codepoints are specified in the
+[proposal](https://www.ponomar.net/files/palaeoslavic.pdf). These codepoints
+have not yet been approved by the 
+[UTC](http://www.unicode.org/consortium/utc.html) and may be subject to change.
 
 ## Building
 
@@ -31,13 +30,12 @@ make fonts
 ```
 ## Requirements
 
-Building the fonts requires Python, FontForge and the SIL GDL compiler.
+Building the fonts requires Python and FontForge.
 
 ## License
 
-Fonts are licensed under either the GNU General Public License v. 3.0
-(with the font exception) or under the SIL Open Font License v. 1.1
-without reserved font name, at your choosing.
+Fonts are licensed under the SIL Open Font License v. 1.1
+without reserved font names.
 
 ## Disclaimer
 
