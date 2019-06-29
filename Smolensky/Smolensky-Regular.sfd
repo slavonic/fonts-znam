@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485932044
-ModificationTime: 1556982585
+ModificationTime: 1557081532
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -768,7 +768,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 234 18 7
+WinInfo: 270 18 7
 BeginPrivate: 6
 BlueValues 23 [20 28 216 226 370 380]
 OtherBlues 11 [-148 -140]
@@ -52605,7 +52605,7 @@ Flags: W
 HStem: 20 21G<139.5 154.5> 303 62<979.734 1120.81>
 DStem2: 161 92 176 24.5 0.954302 0.298844<0 230.644 868.361 982.044>
 AnchorPoint: "Right" 1165.52 340.04 basechar 0
-AnchorPoint: "Podchashie" 467.28 54.2803 basechar 0
+AnchorPoint: "Podchashie" 685.28 130.28 basechar 0
 AnchorPoint: "Tonal" 526.72 253.32 basechar 0
 LayerCount: 3
 Fore
@@ -52667,9 +52667,12 @@ StartChar: u1CF52
 Encoding: 118610 118610 242
 Width: 711
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 21G<35.5 66.5> 166 88<504.181 688.986>
 VStem: 98 88<451.105 491.656>
+AnchorPoint: "Tonal" 464.72 273.32 basechar 0
+AnchorPoint: "Podchashie" 429.28 98.2803 basechar 0
+AnchorPoint: "Right" 748.52 226.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52708,10 +52711,13 @@ StartChar: u1CF53
 Encoding: 118611 118611 243
 Width: 975
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 42<130.813 266.866> 143 42<731.656 858> 206 20G<409 494.5>
 VStem: 20 101<74.0303 167.23>
 DStem2: 336 139 269 71 0.425272 -0.905066<-52.2103 32.3369>
+AnchorPoint: "Tonal" 636.72 201.32 basechar 0
+AnchorPoint: "Podchashie" 625.28 48.2803 basechar 0
+AnchorPoint: "Right" 1017.52 154.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52748,7 +52754,7 @@ HStem: 19 21G<139.5 154.5 449.75 465.25> 302 62<975.156 1120.81>
 VStem: 360 60<192.217 258.234>
 DStem2: 161 91 176 23.5 0.954302 0.298844<0 186.601 643.462 982.044> 381 172 339 147 0.937425 -0.348187<-62.379 -30.6672 122.08 167.785> 420 248 364 221 0.359313 -0.933217<-14.2822 56.9113 162.689 214.327>
 AnchorPoint: "Right" 1174.96 339.04 basechar 0
-AnchorPoint: "Podchashie" 351.28 -14.7197 basechar 0
+AnchorPoint: "Podchashie" 779.28 153.28 basechar 0
 AnchorPoint: "Tonal" 601.2 300.32 basechar 0
 LayerCount: 3
 Fore
@@ -52832,9 +52838,12 @@ StartChar: u1CF56
 Encoding: 118614 118614 246
 Width: 305
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 98<157.088 223.988>
 VStem: 20 264
+AnchorPoint: "Tonal" 354.72 121.32 basechar 0
+AnchorPoint: "Podchashie" 143.28 376.336 basechar 0
+AnchorPoint: "Right" 353.52 124.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52853,9 +52862,12 @@ StartChar: u1CF57
 Encoding: 118615 118615 247
 Width: 375
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 97<157.184 223.988> 218 88<255.657 340.255>
 VStem: 239 116<235.488 289.997>
+AnchorPoint: "Tonal" 162.72 472.376 basechar 0
+AnchorPoint: "Podchashie" 164.28 471.392 basechar 0
+AnchorPoint: "Right" 168.52 473.152 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52879,9 +52891,12 @@ StartChar: u1CF58
 Encoding: 118616 118616 248
 Width: 527
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 97<157.184 223.988> 189 102<219.814 304.529> 277 102<406.814 491.045>
 VStem: 207 113<205.501 275.488> 394 112<293.501 363.488>
+AnchorPoint: "Tonal" 143.72 376.376 basechar 0
+AnchorPoint: "Podchashie" 142.28 376.336 basechar 0
+AnchorPoint: "Right" 141.52 376.096 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52910,9 +52925,12 @@ StartChar: u1CF59
 Encoding: 118617 118617 249
 Width: 700
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 97<158.399 220.628> 189 102<220.298 305.244> 277 102<407.289 491.605> 376.056 102<575.298 660.244>
 VStem: 20 111<89.209 180.453> 207 113<202.631 274.939> 394 112<290.631 363.25> 562 113<389.687 461.995>
+AnchorPoint: "Tonal" 132.72 439.432 basechar 0
+AnchorPoint: "Podchashie" 132.28 439.392 basechar 0
+AnchorPoint: "Right" 131.52 439.096 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53016,9 +53034,12 @@ StartChar: u1CF5C
 Encoding: 118620 118620 252
 Width: 426
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 21G<365 385.5>
 DStem2: 93 433 43 359 0.618774 -0.785569<-21.1807 421.253>
+AnchorPoint: "Tonal" 500.72 72.32 basechar 0
+AnchorPoint: "Podchashie" 333.28 -35.7197 basechar 0
+AnchorPoint: "Right" 499.52 71.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53038,9 +53059,12 @@ StartChar: u1CF5D
 Encoding: 118621 118621 253
 Width: 249
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 21G<132 156> 120 64<77.1599 121.863>
 VStem: 123 105<77.4779 119.899>
+AnchorPoint: "Tonal" 280.72 181.32 basechar 0
+AnchorPoint: "Podchashie" 127.28 -39.7197 basechar 0
+AnchorPoint: "Right" 279.52 182.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53063,9 +53087,12 @@ StartChar: u1CF5E
 Encoding: 118622 118622 254
 Width: 468
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 11 94<339.987 427.405> 22 21G<131.75 155.25> 122 62<74.1604 119.735> 168 88<262.509 345.496>
 VStem: 121 106<78.8606 121.986> 247 114<184.473 239.497> 324 123<23.7798 90.4651>
+AnchorPoint: "Tonal" 223.72 367.32 basechar 0
+AnchorPoint: "Podchashie" 223.28 368.28 basechar 0
+AnchorPoint: "Right" 223.52 367.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53132,9 +53159,12 @@ StartChar: u1CF60
 Encoding: 118624 118624 256
 Width: 396
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 21G<132.75 156.25> 121 62<102 120.735> 127 88<276.509 359.625>
 VStem: 122 106<77.8606 120.986> 261 114<143.473 198.497>
+AnchorPoint: "Tonal" 194.72 331.32 basechar 0
+AnchorPoint: "Podchashie" 193.28 334.28 basechar 0
+AnchorPoint: "Right" 193.52 334.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53162,9 +53192,12 @@ StartChar: u1CF61
 Encoding: 118625 118625 257
 Width: 540
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 21G<128 156> 121 62<51.5741 120.446> 127 88<277.353 359.09> 191 88<420.353 502.09>
 VStem: 122 106<77.5405 120.458> 261 114<144.25 198.625> 404 114<208.25 262.625>
+AnchorPoint: "Tonal" 214.72 375.376 basechar 0
+AnchorPoint: "Podchashie" 215.28 374.336 basechar 0
+AnchorPoint: "Right" 211.52 374.096 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53197,9 +53230,12 @@ StartChar: u1CF62
 Encoding: 118626 118626 258
 Width: 675
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 21G<128 156> 121 62<51.5741 120.446> 127 88<277.353 359.09> 191 88<420.353 502.09> 266 88<562.353 644.09>
 VStem: 122 106<77.5405 120.458> 261 114<144.25 198.625> 404 114<208.25 262.625> 546 114<283.25 337.625>
+AnchorPoint: "Tonal" 251.72 376.432 basechar 0
+AnchorPoint: "Podchashie" 256.28 375.336 basechar 0
+AnchorPoint: "Right" 254.52 376.152 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53247,16 +53283,16 @@ AnchorPoint: "Right" 1134.56 334.36 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-258 125 m 4xb0
- 246 125 236 131 236 145 c 4
- 236 156 244 167 254 169 c 12
- 552 249 671 264 1023 342 c 4
- 1029 344 1034 344 1039 344 c 4
- 1055 344 1078 335 1078 316 c 4
- 1078 300 1059 289 1041 286 c 4
- 744 228 564 189 275 124 c 5
- 272 125 268 125 265 125 c 4
- 263 125 260 125 258 125 c 4xb0
+258 125 m 0xb0
+ 246 125 236 131 236 145 c 0
+ 236 156 244 167 254 169 c 8
+ 552 249 671 264 1023 342 c 0
+ 1029 344 1034 344 1039 344 c 0
+ 1055 344 1078 335 1078 316 c 0
+ 1078 300 1059 289 1041 286 c 0
+ 744 228 564 189 275 124 c 1
+ 272 125 268 125 265 125 c 0
+ 263 125 260 125 258 125 c 0xb0
 117 21 m 0
  101 21 79 32 79 57 c 0
  79 65 89 67 101 79 c 0
@@ -53365,9 +53401,12 @@ StartChar: u1CF66
 Encoding: 118630 118630 262
 Width: 1660
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 21G<128 156> 121 62<51.5741 120.446> 127 88<277.353 359.09> 191 88<420.353 502.09> 266 88<562.353 644.09>
 VStem: 122 106<77.5405 120.458> 261 114<144.25 198.625> 404 114<208.25 262.625> 546 114<283.25 337.625>
+AnchorPoint: "Tonal" 1087.72 595.32 basechar 0
+AnchorPoint: "Podchashie" 1195.28 376.28 basechar 0
+AnchorPoint: "Right" 1705.52 646.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53550,9 +53589,12 @@ StartChar: u1CF6B
 Encoding: 118635 118635 267
 Width: 445
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 137 64<77.1599 121.863> 199 64<274.19 317.863>
 VStem: 123 105<95.159 136.899> 319 105<157.366 198.639>
+AnchorPoint: "Tonal" 160.72 337.32 basechar 0
+AnchorPoint: "Podchashie" 159.28 338.28 basechar 0
+AnchorPoint: "Right" 160.52 338.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53587,9 +53629,12 @@ StartChar: u1CF6C
 Encoding: 118636 118636 268
 Width: 511
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 21 21G<132 156> 120 63<76.1909 121.863> 154 99<363.088 427.612>
 VStem: 122 106<76.4585 119.944>
+AnchorPoint: "Tonal" 572.72 271.32 basechar 0
+AnchorPoint: "Podchashie" 175.28 433.28 basechar 0
+AnchorPoint: "Right" 571.52 271.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53723,9 +53768,12 @@ StartChar: u1CF6F
 Encoding: 118639 118639 271
 Width: 398
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 67<159.242 276.457>
 VStem: 293 85<115.409 199.922>
+AnchorPoint: "Tonal" 194.72 271.32 basechar 0
+AnchorPoint: "Podchashie" 219.28 -51.7197 basechar 0
+AnchorPoint: "Right" 195.52 270.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53908,7 +53956,7 @@ HStem: 23 74<261.903 351.649> 63 76<447.49 529.557> 269 39<632.367 708.78>
 VStem: 254 101<29.1064 73.9026> 443 91<67.4922 133.576>
 DStem2: 168 171 152 121 0.965768 0.259408<-1.83277 434.594>
 AnchorPoint: "Tonal" 352.76 277.92 basechar 0
-AnchorPoint: "Podchashie" 419.64 22.7197 basechar 0
+AnchorPoint: "Podchashie" 422.64 3.7197 basechar 0
 AnchorPoint: "Right" 775.16 306.08 basechar 0
 LayerCount: 3
 Fore
@@ -54224,22 +54272,22 @@ AnchorPoint: "Right" 372.6 211.8 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-184 245 m 4
- 184 265 209 270 226 270 c 4
- 242 270 251 265 262 252 c 4
- 276 238 397 124 397 71 c 4
- 397 53 386 48 374 48 c 4
- 358 48 341 55 332 64 c 12
- 272 115 246 154 198 217 c 20
- 191 226 184 235 184 245 c 4
-20 240 m 4
- 20 258 43 265 57 265 c 4
- 84 265 93 259 105 243 c 20
- 119 224 233 101 233 46 c 4
- 233 31 219 22 203 22 c 4
- 188 22 174 31 161 43 c 12
- 101 101 78 143 33 212 c 20
- 27 222 20 231 20 240 c 4
+184 245 m 0
+ 184 265 209 270 226 270 c 0
+ 242 270 251 265 262 252 c 0
+ 276 238 397 124 397 71 c 0
+ 397 53 386 48 374 48 c 0
+ 358 48 341 55 332 64 c 8
+ 272 115 246 154 198 217 c 16
+ 191 226 184 235 184 245 c 0
+20 240 m 0
+ 20 258 43 265 57 265 c 0
+ 84 265 93 259 105 243 c 16
+ 119 224 233 101 233 46 c 0
+ 233 31 219 22 203 22 c 0
+ 188 22 174 31 161 43 c 8
+ 101 101 78 143 33 212 c 16
+ 27 222 20 231 20 240 c 0
 EndSplineSet
 EndChar
 
@@ -55126,9 +55174,12 @@ StartChar: u1CF91
 Encoding: 118673 118673 305
 Width: 630
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 22 58<124.182 185.09> 108 61<324.535 387.536> 152 58<20.0256 79.4465> 238 61<219.581 282.922> 282 76<380.268 456.031> 337 76<528.268 604.031>
 VStem: 369 98<294.476 345.973> 517 98<349.476 400.973>
+AnchorPoint: "Tonal" 496.72 175.32 basechar 0
+AnchorPoint: "Podchashie" 387.28 -0.7197 basechar 0
+AnchorPoint: "Right" 495.52 176.04 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -55171,7 +55222,7 @@ Flags: W
 HStem: 21 21G<169.5 180.5> 220 21G<461 558.5>
 DStem2: 118 209 258 195 0.932322 0.361628<-94.1177 133.329> 156 79 198 25.5 0.926273 0.376852<-3.9392 245.906> 438 273 463 220 0.921416 0.388577<-27.0517 883.158>
 AnchorPoint: "Right" 1334.12 612.32 basechar 0
-AnchorPoint: "Podchashie" 740.24 149.48 basechar 0
+AnchorPoint: "Podchashie" 908.24 241.48 basechar 0
 AnchorPoint: "Tonal" 670.72 443.32 basechar 0
 LayerCount: 3
 Fore
