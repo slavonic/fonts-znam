@@ -1,4 +1,6 @@
 \documentclass[11pt]{article}
+\usepackage{adjustbox}
+
 \usepackage{polyglossia}
    \setmainlanguage{english}
    \setotherlanguage{churchslavonic}
@@ -12,6 +14,7 @@
 \newfontfamily{\contracted}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=3]{MezenetsUnicode}
 \usepackage{churchslavonic}
 \usepackage{cu-kruk}
+\usepackage{ruby}
 \usepackage{pdfpages}
 \usepackage[unicode,
   pdftitle={fonts-znam: fonts for Znamenny Notation},
@@ -37,16 +40,14 @@
 This package provides OpenType-CFF PostScript fonts (\texttt{.OTF} fonts)
 for typesetting Znamenny Musical Notation encoded in Unicode. Znamenny
 Notation has been proposed for inclusion in Unicode by the authors.
-The codechart indicating the codepoints used for Znamenny Notation
-is presented in the Appendix to this document. The latest version of
-the fonts may be downloaded from the \href{https://sci.ponomar.net/music.html}
-{Slavonic Computing Initiative website}.
+The latest version of the fonts may be downloaded from the
+\href{https://sci.ponomar.net/music.html}{Slavonic Computing Initiative website}.
 
-\cuKinovar{Warning:} the codepoints used in this font have been proposed
+\cuKinovar{Warning}: the codepoints used in this font have been proposed
 by the authors for inclusion into the Unicode standard, but have not yet
 been approved by the Unicode Technical Committee (UTC). Codepoints are not
 final until approved by the UTC, and so the encoding model is subject to change.
-As such, these fonts are provided as a BETA-stage software, and should be used
+As such, these fonts are provided as BETA-stage software, and should be used
 for SOFTWARE-TESTING PURPOSES ONLY.
 
 \cuKinovar{Color Data}: the fonts provide information about the color of some
@@ -70,9 +71,12 @@ it is not clear that this would improve support in software.
 \section{Mezenets Unicode}
 
 Mezenets Unicode is a font intended for typesetting Type~A Znamenny Notation (notation
-that includes \emph{priznaki}), though it may also be used for Type~B Notation (without
-\emph{priznaki}). It also provide glyphs necessary for Demestvenny notation. An example in
-Znamenny Notation is presented in Figure~\ref{mezenets}.
+that includes \emph{priznaki}) and Type~B Notation (notation without
+\emph{priznaki}). It also provide glyphs necessary for Put / Demestvenny notation. An example in
+Znamenny Notation bearing \emph{priznaki} is presented in Figure~\ref{mezenets}. 
+The main neumes of Znamenny Notation are encoded at codepoints indicated in the
+table and may be entered directly by codepoint, for example, from a Character Map
+utility (this is not recommended), or by using one of the entry methods provided.
 
 \begin{figure}[tbp]
 %\begin{adjustbox}[width=\textwidth]
@@ -87,6 +91,164 @@ Znamenny Notation is presented in Figure~\ref{mezenets}.
 \caption{Example of Type~A Znamenny Notation \label{mezenets}}
 %\end{adjustbox}
 \end{figure}
+
+\subsection{Black and Red Modifier Marks}
+
+All modifying marks are entered following the base neume that they modify and
+are positioned by the rendering system in accordance with the anchor points
+provided in the font. This includes the cinnabar pitch marks, which are still
+entered following the base neume, even though they are generally positioned
+to the left of the neume that they modify.
+
+\begin{figure}[h]
+\centering
+\begin{tabular}{lcl}
+\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼰} } & \large → & {\large { \musicFont 𜽐𜼰 } }  \\
+\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼦} } & \large → & {\large { \musicFont 𜽐𜼦 } }  \\
+\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼇} } & \large → & {\large { \musicFont 𜽐𜼇 } }   \\
+\end{tabular}
+\end{figure}
+
+\textbf{Note}: The font provides both left-attaching and right-attaching cinnabar
+pitch marks. The left-attaching pitch marks (which are standard) are encoded in
+Unicode at the codepoints U+1CF00 to U+1CF0B. The right-attaching pitch marks
+are rarely encountered in standard Znamenny Notation; they are encoded at the
+codepoints U+1CF0C to U+1CF17.
+
+\begin{figure}[h]
+\centering
+\begin{tabular}{lcl}
+\large
+\ruby{\ttfamily \tiny 1CF57}{\musicFont \large 𜽗}
++
+\ruby{\ttfamily \tiny 1CF06}{\musicFont \large ◌𜼆}
++
+\ruby{\ttfamily \tiny 1CF10}{\musicFont \large ◌𜼐}
+ & \large → & {\large { \musicFont 𜽗𜼆𜼐 } }  \\
+\end{tabular}
+\end{figure}
+
+Multiple modifying marks may be entered following any base neume. Generally speaking,
+the rendering system will position the marks correctly in accordance with the anchor
+points specified in the font for each mark. It is expected that the combining marks
+are encoded in the order given in Table~\ref{entry}. Note that the priznak
+control modifiers, if present, must be entered directly following the base neume
+(see below for more information).
+
+\begin{table}[htb]
+\centering
+\caption{Order of encoding (from left to right) \label{entry}}
+\begin{adjustbox}{max width=0.75\textwidth}
+\begin{tabular}{ccccccc}
+ \rotatebox{65}{\textbf{Base Neumes}} & \rotatebox{65}{\textbf{Control Characters}} & \rotatebox{65}{\textbf{Black Pitch Marks}} & \rotatebox{65}{\textbf{Black Modification Marks}}	& \rotatebox{65}{\textbf{Left-Attaching Pitch Marks}} & \rotatebox{65}{\textbf{Red Modification Marks}} & \rotatebox{65}{\textbf{Right-Attaching Pitch Marks}} \\
+
+{\Huge \musicFont \char"1CF50}		& {\Huge \musicFont \char"1CF42} & {\Huge \musicFont ◌\char"1CF30}	&  {\Huge \musicFont ◌\char"1CF33}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF00}} 	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF22}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0C}} \\
+
+{\Huge \musicFont \char"1CF52}		& {\Huge \musicFont \char"1CF43} & {\Huge \musicFont ◌\char"1CF31}	&  {\Huge \musicFont ◌\char"1CF35}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF01}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF23}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0D}} \\
+
+{\Huge \musicFont \char"1CF53}		& {\Huge \musicFont \char"1CF44} 	& {\Huge \musicFont ◌\char"1CF32}	&  {\Huge \musicFont ◌\char"1CF36}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF02}} & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF24}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0E}} \\
+
+{\Huge \musicFont \char"1CF6F}		&  				 & 					& 	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF03}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF25}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0F}} \\
+
+{\Huge \musicFont \char"1CF86}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF38}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF04}} & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF26}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF10}}		\\
+
+{\Huge \musicFont \char"1CF92}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF39}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF05}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF27}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF11}}	\\
+
+{\Huge \musicFont \char"1CFA2}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3A}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF06}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF28}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF12}} 	\\
+
+{\Huge \musicFont \char"1CFAC}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3B} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF07}} & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF29}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF13}} \\
+
+{\Huge \musicFont \char"1CFAD}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3C} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF08}}	 & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF2A}}&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF14}}		\\
+
+{\Huge \musicFont \char"1CFAF}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3D} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF09}}	 & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF2B}}&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF15}}	\\
+
+{\Huge \musicFont \char"1CFC1}		&  				 & 					&  					&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0A}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF2C}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF16}}	\\
+
+{\Huge \musicFont \char"1CFC3}		&  				 & 					&  					&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0B}}	& & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF17}}	\\
+
+{ \emph{etc.} }		&  				 & 					&  					&  	&  &	\\
+
+\end{tabular}
+\end{adjustbox}
+\end{table}
+
+Multiple combining pitch marks may be applied to a single neume, in which case
+the marks interact typographically and are stacked diagonally along the main beam
+of the neume:
+
+\begin{figure}[h]
+\centering
+\begin{tabular}{lcl}
+\large{  {\musicFont 𜾒}  + {\musicFont ◌𜼆} + {\musicFont ◌𜼇} } & \large → & {\large { \musicFont 𜾒𜼆𜼇 } }  \\
+\end{tabular}
+\end{figure}
+
+\subsection{Support for Priznaki}
+
+The priznaki are tiny markers (narrow slashes or dashes) that are added
+to the base neume to clarify its pitch within a Tonal Range (tetrachord).
+For neumes pitched at the first scale degree of a Tonal Range (as indicated 
+by a cinnabar mark {\musicFont ◌𜼀}, {\musicFont ◌𜼃}, {\musicFont ◌𜼆}, or {\musicFont ◌𜼉}),
+no additional mark is added. For neumes pitched at the second scale degree
+(as indicated by a cinnabar mark {\musicFont ◌𜼁}, {\musicFont ◌𜼄}, {\musicFont ◌𜼇},
+or {\musicFont ◌𜼊}), a mark is placed on the left or lower part of the neume.
+For neumes pitched at the third scale degree (as indicated by a cinnabar mark 
+{\musicFont ◌𜼂}, {\musicFont ◌𜼅}, {\musicFont ◌𜼈}, or {\musicFont ◌𜼋}), a mark is
+placed on the right or upper part of the neume. For some neumes, the priznaki may
+attach to the tonal range markers placed above the neume rather
+than to the base neume itself.
+
+Priznaki are supported by the use of control characters. Two control characters
+are available, U+1CF42 Znamenny Priznak Modifier Level~2 and
+U+1CF43 Znamenny Priznak Modifier Level~3, which are used to indicate the second and
+third scale degrees, respectively. The presence of a Priznak Modifier indicates
+that a priznak for the given scale degree should be turned on.
+The absence of a Priznak Modifier indicates either that a neume is pitched at the
+first scale degree of a tonal range (which is indicated by an absence of priznaki)
+or that Type~B or Type~C Notation is being encoded
+(where priznaki are not used at all).
+The prinzak modifiers should be entered immediately following the base neume to
+which they apply, even if the actual priznak attaches to the tonal range marks.
+\textbf{Note}: the precomposed ``priznakified'' glyphs are encoded in the
+Private Use Area (PUA) at codepoints U+EB60 to U+EBFF. They can be accessed directly
+in settings where relying on OpenType features is not possible or not desirable.
+
+\begin{figure}[h]
+\centering
+%\caption{Encoding model for Priznaki \label{priznakusage}}
+\begin{tabular}{cccccccccl}
+\large
+\ruby{\ttfamily \tiny U+1CF50}{\musicFont \large \char"1CF50} & {\large +} & 
+\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰}
+& {\large + } &  
+\large \ruby{\ttfamily \tiny U+1CF04}{\musicFont \large ◌𜼄} & & & {\large → } &
+\musicFont \large 𜽐𜼰𜼄  & \emph{no priznaki} \\
+\large \ruby{\ttfamily \tiny U+1CF50}{\musicFont \large 𜽐} & \large + &
+\large \ruby{\ttfamily \tiny U+1CF42}{\musicFont \large 𜽂} & \large + &
+\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} & 
+\large \ruby{\ttfamily \tiny U+1CF04}{\musicFont \large ◌𜼄} & {\large →} &
+\musicFont \large 𜽐𜽂𜼰𜼄 & \emph{with lower priznak} \\
+\large \ruby{\ttfamily \tiny U+1CF86}{\musicFont \large 𜾆} & {\large +} & 
+\large \ruby{\ttfamily \tiny U+1CF42}{\musicFont \large 𜽂}  & {\large +} & 
+\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} &
+\large \ruby{\ttfamily \tiny U+1CF04}{\musicFont \large ◌𜼄} & {\large →} &
+\musicFont \large 𜾆𜽂𜼰𜼄 &  \emph{with left priznak} \\
+\large \ruby{\ttfamily \tiny U+1CF50}{\musicFont \large 𜽐} & {\large +} &
+\large \ruby{\ttfamily \tiny U+1CF43}{\musicFont \large 𜽃} & {\large + } &
+\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} & 
+\large \ruby{\ttfamily \tiny U+1CF05}{\musicFont \large ◌𜼅} & {\large →} &
+\musicFont \large 𜽐𜽃𜼰𜼅 & \emph{with upper priznak} \\
+\large \ruby{\ttfamily \tiny U+1CF86}{\musicFont \large 𜾆} & {\large +} &
+\large \ruby{\ttfamily \tiny U+1CF43}{\musicFont \large 𜽃} & {\large +} &
+\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} &
+\large \ruby{\ttfamily \tiny U+1CF05}{\musicFont \large ◌𜼅} & {\large →} &
+\musicFont \large 𜾆𜽃𜼰𜼅 &  \emph{with right priznak} \\
+% TODO: add malformed example
+%{\musicFont \Huge \char"1CF86} & {\large +} & {\musicFont \Huge \char"25CC\char"1CF30} & {\large +} & {\musicFont \Huge \char"1CF43} & {\large +} & {\musicFont \Huge \char"00A0\char"25CC\textcolor{kinovar}{\char"1CF05}} & {\large →} & {\musicFont \Huge \char"1CF86\char"1CF30\char"200C\char"1CF43\textcolor{kinovar}{\char"1CF05}} &  \emph{malformed} \\
+%{\tiny \ttfamily U+1CF86} & & {\tiny \ttfamily U+1CF30} & & {\tiny \ttfamily U+1CF43} & & {\tiny \ttfamily U+1CF05} & & \\
+\end{tabular}
+\end{figure}
+
 
 \subsection{Font Features}
 
