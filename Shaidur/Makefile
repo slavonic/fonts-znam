@@ -7,12 +7,6 @@ ShaidurUnicode.zip:
 	ttx -m ShaidurUnicode.otf colordata.ttx
 	rm ShaidurUnicode.otf
 	mv colordata.otf ShaidurUnicode.otf
-	rm -f colordata2.ttx
-	sed 's/"OTTO"/"\\x00\\x01\\x00\\x00"/' < colordata.ttx > colordata2.ttx
-	ttx -m ShaidurUnicode.ttf colordata2.ttx
-	rm ShaidurUnicode.ttf
-	mv colordata2.ttf ShaidurUnicode.ttf
-	rm colordata2.ttx
 	cp README.md README
 	zip -j $@ ShaidurUnicode.otf ShaidurUnicode.ttf README
 	rm -f README

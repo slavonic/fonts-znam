@@ -7,12 +7,6 @@ MezenetsUnicode.zip:
 	ttx -m MezenetsUnicode.otf colordata.ttx
 	rm MezenetsUnicode.otf
 	mv colordata.otf MezenetsUnicode.otf
-#	rm -f colordata2.ttx
-#	sed 's/"OTTO"/"\\x00\\x01\\x00\\x00"/' < colordata.ttx > colordata2.ttx
-#	ttx -m MezenetsUnicode.ttf colordata2.ttx
-#	rm MezenetsUnicode.ttf
-#	mv colordata2.ttf MezenetsUnicode.ttf
-#	rm colordata2.ttx
 	cp README.md README
 	zip -j $@ MezenetsUnicode.otf README
 	rm -f README
