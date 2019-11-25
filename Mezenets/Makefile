@@ -7,7 +7,7 @@ MezenetsUnicode.zip:
 	ttx -m MezenetsUnicode.otf colordata.ttx
 	rm MezenetsUnicode.otf
 	mv colordata.otf MezenetsUnicode.otf
-	python3 ../../opentype-svg/addSVGtable.py -s SVGs/ MezenetsUnicode.otf 
+	addSVGtable -s SVGs/ MezenetsUnicode.otf 
 	cp README.md README
 	zip -j $@ MezenetsUnicode.otf README
 	rm -f README

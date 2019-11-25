@@ -63,14 +63,16 @@ and advanced publishing software} and partially supported in
 Office 365}. Color fonts are not supported in \XeTeX{} or \LuaTeX{}, however
 the \pkg{churchslavonic} \LaTeX{} package provides the \texttt{autocolormarks} option,
 which uses the \cs{cuKinovar} macro to automatically typeset the cinnabar marks in red.
+The latest version of the fonts also provides color data in SVG tables,
+which allows for automatically coloring cinnabar marks in software that
+supports OpenType-SVG fonts, such as Adobe Photoshop, InDesign and Illustrator.
 
 In other software that does not support color fonts, cinnabar marks will appear in black.
 Additionally, attempting to manually color the marks using formatting will generally
 break the OpenType glyph positioning rules, leading to improper mark positioning.
 You are encouraged to only use the fonts in software that supports color fonts. You
 can report your results \href{https://github.com/slavonic/fonts-znam/issues/19}{in
-the issue tracker}. The authors plan to add support for OpenType-SVG as well, though
-it is not clear that this would improve support in software.
+the issue tracker}.
 
 \section{Mezenets Unicode}
 
@@ -360,7 +362,7 @@ Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓
 \end{center}
 
 \item \textbf{ss04} (Stylistic Set 4) -- Render cinnabar marks in black. This stylistic
-set turns off the coloring of cinnabar marks specified by the COLR and CPAL tables and
+set turns off the coloring of cinnabar marks as specified by the COLR / CPAL or SVG tables and
 renders them in black. \cuKinovar{NB}: turning on this feature will have a visible
 effect only in software that supports color fonts.
 
@@ -395,6 +397,19 @@ will enable Stylistic Set~1:
 \begin{verbatim}
 Mezenets Unicode:ss01
 \end{verbatim}
+
+In HTML, Stylistic Sets and other advanced features may be turned on using the
+\verb+font-feature-settings+ CSS property, for example:
+
+\begin{verbatim}
+.class {
+  font-family: 'Mezenets Unicode';
+  font-feature-settings: "ss04";
+}
+\end{verbatim}
+
+The feature is supported in the 
+\href{https://caniuse.com/#search=font-feature-settings}{latest version} of most browsers.
 
 \section{Shaidur Unicode}
 
