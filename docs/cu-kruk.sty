@@ -1,7 +1,8 @@
 \NeedsTeXFormat{LaTeX2e}%
 \RequirePackage{keyval}%
 \RequirePackage{ifluatex}%
-\ProvidesPackage{cu-kruk}[2018/03/01 v0.1 support for kruk music notations]%
+\RequirePackage{cu-kinovar}%
+\ProvidesPackage{cu-kruk}[2019/04/20 v0.2 support for kruk music notations]%
 %
 %% 'autocolormarks' and noautocolormarks options
 \newif\ifcu@autocolormarks
@@ -38,6 +39,7 @@
 \define@key{cuKruk}{topMargin}{\setlength{\cuKrukTopMargin}{#1}}%
 \define@key{cuKruk}{sylRuleHeight}{\setlength{\cuKrukSylRuleHeight}{#1}}%
 \define@key{cuKruk}{krukRaise}{\setlength{\cuKrukRaise}{#1}}%
+\define@boolkey{cuKruk}{invertColor}[true]{}%
 
 \newcommand{\cuKruk}[3][]{%
   \bgroup
@@ -47,7 +49,12 @@
 }%
 \def\cu@@Kruk#1#2{{%
   \edef\cu@tmp{\csname \detokenize{#2}cu@@@\endcsname}%
-  \setbox1=\hbox{{\cuKrukFont#1}}%
+  \setbox1=\hbox{{%
+    \ifKV@cuKruk@invertColor
+      \colorlet{tmp}{.}\color{kinovar}\colorlet{kinovar}{tmp}%
+    \fi
+    \cuKrukFont#1%
+  }}%
   \dimen0=\ht1\advance\dimen0 by \cuKrukTopMargin\ht1=\dimen0%
   \if\relax\detokenize{#2}\relax
     \setbox2=\hbox{\vrule height \cuKrukSylRuleHeight width \wd1}%
@@ -66,6 +73,30 @@
   \hskip0.5\wd2\hskip-0.5\wd1\raise\cuKrukRaise\copy1\kern-0.5\wd2\kern-0.5\wd1\copy2\hss
   }\penalty10000\hskip\cuKrukSylSpace
 }}%
+%
+\newlength{\cuSupRaise} %% controls extra vertical space between Sup and Base
+\setlength{\cuSupRaise}{0ex}
+\define@key{cuSup}{raise}{\setlength{\cuSupRaise}{#1}}%
+
+\newcommand{\cuSup}[3][]{%
+  \bgroup
+  \setkeys{cuSup}{#1}%
+  \cu@@Sup{#2}{#3}%
+  \egroup
+}%
+\def\cu@@Sup#1#2{{%
+  \leavevmode
+  \setbox1=\hbox{#1}%
+  \setbox2=\hbox{#2}%
+  \dimen0=\ht2%
+  \advance\dimen0 by \dp1%
+  \message{\the\dimen0}%
+  \advance\dimen0 by \cuSupRaise
+  \advance\dimen0 by -0.25\ht1%
+  \hbox to \wd2{%
+  \hskip0.5\wd2\hskip-0.5\wd1\raise\dimen0\copy1\kern-0.5\wd2\kern-0.5\wd1\copy2\hss
+  }%
+}}
 %
 \newcounter{cu@KrukPos}%
 \newcounter{cu@SylPos}%

@@ -9,10 +9,10 @@
 \setmainfont[Script=Latin,Ligatures=TeX,HyphenChar=-]{Linux Libertine O}
 \setmonofont[Scale=MatchLowercase]{FiraSlav}
 \newfontfamily\churchslavonicfont[Script=Cyrillic,Ligatures=TeX,Scale=MatchLowercase,HyphenChar=_]{PonomarUnicode.otf}
-\newfontfamily\musicFont[Path=../Mezenets/,Extension=.otf,Scale=1.5]{MezenetsUnicode}
-\newfontfamily{\oldstyle}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=1]{MezenetsUnicode}
-\newfontfamily{\newstyle}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=2]{MezenetsUnicode}
-\newfontfamily{\contracted}[Path=../Mezenets/,Extension=.otf,Scale=1.5,StylisticSet=3]{MezenetsUnicode}
+\newfontfamily\musicFont[Scale=1.5]{MezenetsUnicode}
+\newfontfamily{\oldstyle}[Scale=1.5,StylisticSet=1]{MezenetsUnicode}
+\newfontfamily{\newstyle}[Scale=1.5,StylisticSet=2]{MezenetsUnicode}
+\newfontfamily{\contracted}[Scale=1.5,StylisticSet=3]{MezenetsUnicode}
 %\newfontfamily{\smol}[Path=../Smolensky/,Extension=.otf,Scale=1.5]{Smolensky-Regular}
 \newfontfamily{\smol}[Scale=1.5]{SmolenskyRegular}
 \newfontfamily{\archaic}[Scale=MatchLowercase]{Menaion Unicode}
@@ -82,12 +82,11 @@ the issue tracker}.
 
 Mezenets Unicode is a font intended for typesetting Type~A Znamenny Notation (notation
 that includes \emph{priznaki}) and Type~B Notation (notation without
-\emph{priznaki}). It also provide glyphs necessary for Put / Demestvenny notation. An example of
-Znamenny Notation bearing \emph{priznaki} is presented in Figure~\ref{mezenets}. 
-The main neumes of Znamenny Notation are encoded at codepoints indicated in Table~\ref{znampts}
+\emph{priznaki}), as well as both old-style and new-style Put / Demestvenny notation.
+An example of Znamenny Notation bearing \emph{priznaki} is presented in Figure~\ref{mezenets}. 
+The neumes are encoded at codepoints indicated in Table~\ref{znampts},
 and may be entered directly by codepoint, for example, from a Character Map
-utility (this is not recommended), or by using one of the entry methods provided
-(see the section on Input Methods, below).
+utility (this is not recommended), or by using one of the entry methods provided.
 
 \begin{figure}[tbp]
 %\begin{adjustbox}[width=\textwidth]
@@ -109,6 +108,7 @@ utility (this is not recommended), or by using one of the entry methods provided
 %%%% put here the table %%%%
 \begin{table}[p]
 \centering
+\caption{Unicode Codepoints for Znamenny and Put / Demestvenny Notations \label{znampts}}
 \begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l||c|c|c|c|c|c|c|c|c|c|c|c|c||}
  & 1CF0 & 1CF1 & 1CF2 & 1CF3 & 1CF4 & 1CF5 & 1CF6 & 1CF7 & 1CF8 & 1CF9 & 1CFA & 1CFB & 1CFC \\
@@ -156,7 +156,6 @@ F & \cuKruk{\Large ◌𜼏}{\scriptsize 1CF0F} & \cuKruk{\Large ◌𜼟}{\script
               & \cellcolor{archaic}~~~ & Characters for Archaic Znamenny Notation \\\cline{2-2}
               & \cellcolor{demestvo}~~~ & Characters for Put / Demestvenny Notation \\\cline{2-2}
 \end{tabular}
-\caption{Unicode Codepoints for Znamenny and Put / Demestvenny Notations \label{znampts}}
 \end{table}
 %%%% end of table %%%%%
 
@@ -181,18 +180,18 @@ to the left of the neume that they modify.
 pitch marks. The left-attaching pitch marks (which are standard) are encoded in
 Unicode at the codepoints U+1CF00 to U+1CF0B. The right-attaching pitch marks
 are rarely encountered in standard Znamenny Notation; they are encoded at the
-codepoints U+1CF0C to U+1CF17.
+codepoints U+1CF0C to U+1CF17 (see Table~\ref{znampts}).
 
 \begin{figure}[h]
 \centering
 \begin{tabular}{lcl}
 \large
-\ruby{\ttfamily \tiny 1CF57}{\musicFont \large 𜽗}
+\cuKruk{\large 𜽗}{\ttfamily \tiny 1CF57}
 +
-\ruby{\ttfamily \tiny 1CF06}{\musicFont \large ◌𜼆}
+\cuKruk{\large ◌𜼆}{\ttfamily \tiny 1CF06}
 +
-\ruby{\ttfamily \tiny 1CF10}{\musicFont \large ◌𜼐}
- & \large → & {\large { \musicFont 𜽗𜼆𜼐 } }  \\
+\cuKruk{\large ◌𜼐}{\ttfamily \tiny 1CF10}
+ & \large $\rightarrow$ & {\large { \musicFont 𜽗𜼆𜼐 } }  \\
 \end{tabular}
 \end{figure}
 
@@ -206,7 +205,7 @@ control modifiers, if present, must be entered directly following the base neume
 \begin{table}[htb]
 \centering
 \caption{Order of encoding (from left to right) \label{entry}}
-\begin{adjustbox}{max width=0.75\textwidth}
+\begin{adjustbox}{max width=0.67\textwidth}
 \begin{tabular}{ccccccc}
  \rotatebox{65}{\textbf{Base Neumes}} & \rotatebox{65}{\textbf{Control Characters}} & \rotatebox{65}{\textbf{Black Pitch Marks}} & \rotatebox{65}{\textbf{Black Modification Marks}}	& \rotatebox{65}{\textbf{Left-Attaching Pitch Marks}} & \rotatebox{65}{\textbf{Red Modification Marks}} & \rotatebox{65}{\textbf{Right-Attaching Pitch Marks}} \\
 
@@ -244,13 +243,13 @@ Multiple combining pitch marks may be applied to a single neume, in which case
 the marks interact typographically and are stacked diagonally along the main beam
 of the neume:
 
-\begin{figure}[h]
-\centering
+\begin{center}
 \begin{tabular}{lcl}
 \large{  {\musicFont 𜾒}  + {\musicFont ◌𜼆} + {\musicFont ◌𜼇} } & \large → & {\large { \musicFont 𜾒𜼆𜼇 } }  \\
 \end{tabular}
-\end{figure}
+\end{center}
 
+\clearpage
 \noindent The Tonal Range marks encoded at U+1CF30 to U+1CF32 may
 form ligatures in certain instances:
 
@@ -276,8 +275,8 @@ placed on the right or upper part of the neume. For some neumes, the priznaki ma
 attach to the tonal range markers placed above the neume rather
 than to the base neume itself.
 
-Priznaki are supported by the use of control characters. Two control characters
-are available, U+1CF42 Znamenny Priznak Modifier Level~2 and
+Priznaki are supported by the use of control characters, marked in yellow in Table~\ref{znampts}.
+Two control characters are available, U+1CF42 Znamenny Priznak Modifier Level~2 and
 U+1CF43 Znamenny Priznak Modifier Level~3, which are used to indicate the second and
 third scale degrees, respectively. The presence of a Priznak Modifier indicates
 that a priznak for the given scale degree should be turned on.
@@ -285,103 +284,159 @@ The absence of a Priznak Modifier indicates either that a neume is pitched at th
 first scale degree of a tonal range (which is indicated by an absence of priznaki)
 or that Type~B or Type~C Notation is being encoded
 (where priznaki are not used at all).
-The prinzak modifiers should be entered immediately following the base neume to
+The priznak modifiers should be entered immediately following the base neume to
 which they apply, even if the actual priznak attaches to the tonal range marks.
 
-\begin{figure}[h]
-\centering
+\begin{center}
 %\caption{Encoding model for Priznaki \label{priznakusage}}
 \begin{tabular}{cccccccccl}
 \large
-\ruby{\ttfamily \tiny U+1CF50}{\musicFont \large \char"1CF50} & {\large +} & 
-\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰}
+\cuKruk{\large 𜽐}{\ttfamily \tiny U+1CF50} & {\large +} & 
+\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30}
 & {\large + } &  
-\large \ruby{\ttfamily \tiny U+1CF04}{\musicFont \large ◌𜼄} & & & {\large → } &
+\large \cuKruk{\large ◌𜼄}{\ttfamily \tiny U+1CF04} & & & {\large $\rightarrow$ } &
 \musicFont \large 𜽐𜼰𜼄  & \emph{no priznaki} \\
-\large \ruby{\ttfamily \tiny U+1CF50}{\musicFont \large 𜽐} & \large + &
-\large \ruby{\ttfamily \tiny U+1CF42}{\musicFont \large 𜽂} & \large + &
-\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} & 
-\large \ruby{\ttfamily \tiny U+1CF04}{\musicFont \large ◌𜼄} & {\large →} &
+\large \cuKruk{\large 𜽐}{\ttfamily \tiny U+1CF50} & \large + &
+\large \cuKruk{\large 𜽂}{\ttfamily \tiny U+1CF42} & \large + &
+\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} & 
+\large \cuKruk{\large ◌𜼄}{\ttfamily \tiny U+1CF04} & \large $\rightarrow$ &
 \musicFont \large 𜽐𜽂𜼰𜼄 & \emph{with lower priznak} \\
-\large \ruby{\ttfamily \tiny U+1CF86}{\musicFont \large 𜾆} & {\large +} & 
-\large \ruby{\ttfamily \tiny U+1CF42}{\musicFont \large 𜽂}  & {\large +} & 
-\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} &
-\large \ruby{\ttfamily \tiny U+1CF04}{\musicFont \large ◌𜼄} & {\large →} &
+\large \cuKruk{\large 𜾆}{\ttfamily \tiny U+1CF86} & {\large +} & 
+\large \cuKruk{\large 𜽂}{\ttfamily \tiny U+1CF42}  & {\large +} & 
+\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} &
+\large \cuKruk{\large ◌𜼄}{\ttfamily \tiny U+1CF04} & \large $\rightarrow$ &
 \musicFont \large 𜾆𜽂𜼰𜼄 &  \emph{with left priznak} \\
-\large \ruby{\ttfamily \tiny U+1CF50}{\musicFont \large 𜽐} & {\large +} &
-\large \ruby{\ttfamily \tiny U+1CF43}{\musicFont \large 𜽃} & {\large + } &
-\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} & 
-\large \ruby{\ttfamily \tiny U+1CF05}{\musicFont \large ◌𜼅} & {\large →} &
+\large \cuKruk{\large 𜽐}{\ttfamily \tiny U+1CF50} & {\large +} &
+\large \cuKruk{\large 𜽃}{\ttfamily \tiny U+1CF43} & {\large + } &
+\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} & 
+\large \cuKruk{\large ◌𜼅}{\ttfamily \tiny U+1CF05} & {\large $\rightarrow$} &
 \musicFont \large 𜽐𜽃𜼰𜼅 & \emph{with upper priznak} \\
-\large \ruby{\ttfamily \tiny U+1CF86}{\musicFont \large 𜾆} & {\large +} &
-\large \ruby{\ttfamily \tiny U+1CF43}{\musicFont \large 𜽃} & {\large +} &
-\large \ruby{\ttfamily \tiny U+1CF30}{\musicFont \large ◌𜼰} & {\large +} &
-\large \ruby{\ttfamily \tiny U+1CF05}{\musicFont \large ◌𜼅} & {\large →} &
+\large \cuKruk{\large 𜾆}{\ttfamily \tiny U+1CF86} & {\large +} &
+\large \cuKruk{\large 𜽃}{\ttfamily \tiny U+1CF43} & {\large +} &
+\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} &
+\large \cuKruk{\large ◌𜼅}{\ttfamily \tiny U+1CF05} & {\large $\rightarrow$} &
 \musicFont \large 𜾆𜽃𜼰𜼅 &  \emph{with right priznak} \\
 % TODO: add malformed example
 %{\musicFont \Huge \char"1CF86} & {\large +} & {\musicFont \Huge \char"25CC\char"1CF30} & {\large +} & {\musicFont \Huge \char"1CF43} & {\large +} & {\musicFont \Huge \char"00A0\char"25CC\textcolor{kinovar}{\char"1CF05}} & {\large →} & {\musicFont \Huge \char"1CF86\char"1CF30\char"200C\char"1CF43\textcolor{kinovar}{\char"1CF05}} &  \emph{malformed} \\
 %{\tiny \ttfamily U+1CF86} & & {\tiny \ttfamily U+1CF30} & & {\tiny \ttfamily U+1CF43} & & {\tiny \ttfamily U+1CF05} & & \\
 \end{tabular}
-\end{figure}
+\end{center}
 
 The Mezents font also provides additional support for the more complex system of
 Priznaki used in the \emph{Krug} of Arseny Morozov. For this purpose, the
 additional control character U+1CF44 Priznak Modifier Direction Flip may be entered,
 which modifies the direction of the priznak:
 
-\begin{figure}[h]
-\centering
+\begin{center}
 \begin{tabular}{lcl}
 \large{  {\musicFont 𜽐}  + {\musicFont 𜽂} } & \large → & {\large { \musicFont 𜽐𜽂 } }  \\
 \large{  {\musicFont 𜽐}  + {\musicFont 𜽂} + {\musicFont 𜽄} } & \large → & {\large { \musicFont 𜽐𜽂𜽄 } }  \\
 \end{tabular}
-\end{figure}
+\end{center}
 
 \noindent Note that the Zapyataya has additional priznakified forms that may be
-accessed by using the Priznak Modifier Direction Flip control character:
+accessed by using the Priznak Modifier Direction Flip control character, as demonstrated
+in Figure~\ref{zapyataya2}.
 
-[Figure 16 from the Proposal will go here]
+\begin{figure}[htb]
+\centering
+\begin[staffsize=20]{lilypond}
+<<
+\new Staff \with { \remove "Time_signature_engraver" }
+    {
+    \new Voice = "one"
+         \with { \consists "Horizontal_bracket_engraver"  }
+         
+        { \cadenzaOn
+        \relative c' {
+        \override Score.PaperColumn #'keep-inside-line = ##t
+	\override TextScript.outside-staff-priority = ##f
+	% ee5c is podtinka
+	 b2^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + ◌𜽁} }
+	  \bar "|"
+	c^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝} }
+	
+	d^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + 𜽂} }
+	e^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + 𜽃} } 
+	\bar "|"
 
-\textbf{Note}: the precomposed priznakified glyphs are encoded in the
+%	\once \override HorizontalBracket #'direction = #UP
+
+	f^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + 𜽄} }
+	
+	g^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + 𜽂} }
+	\once \override Stem #'direction = #DOWN
+	a^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + 𜽃} } 
+	\bar "|"
+
+%	\override TextScript #'Y-extent = #'(-3.0 . 3.0)
+	bes^\markup { \override #'(font-name . "MezenetsUnicode") \abs-fontsize #18 {𜽝 + 𜽄𜽄} }
+	\bar "|"
+       }
+       }
+   }
+
+  \new Lyrics \lyricsto "one" {
+	𜽝𜽁𜼂 𜽝𜼃 𜽝𜽂𜼄 𜽝𜽃𜼅 𜽝𜽄𜼆 𜽝𜽂𜼇 𜽝𜽃𜼈 𜽝𜽄𜽄𜼉
+   }
+>> 
+\layout {
+    \context {
+      \Score
+     \override SpacingSpanner #'base-shortest-duration = #(ly:make-moment 1 64)
+   }
+   \context {
+	\Lyrics
+      \override LyricText.font-size = #+8
+      \override LyricText.font-name = #"Mezenets Unicode"
+  }
+}
+\end{lilypond}
+\caption{The Zapyataya with Different Priznaki in the \emph{Krug} \label{zapyataya2}}
+\end{figure}%
+
+\textbf{Note Further}: the precomposed priznakified glyphs are encoded in the
 Private Use Area (PUA) at codepoints U+EB60 to U+EBFF. They can be accessed directly
 in settings where relying on OpenType features is not possible or not desirable. See
-the seciton on PUA usage, below.
+the section on PUA usage, below.
 
 \subsection{Demestvenny / Put Notation}
 
-\begin{figure}[t]
-%\begin{adjustbox}[width=\textwidth]
-\let\cuKrukFont=\newstyle
+The Mezenets Unicode font also provides the characters necessary for typesetting
+Demestvenny / Put (Kazan) Notations. An example of the new style of Demestvenny
+Notation presented in Figure~\ref{demestvenny}. The additional glyphs
+necessary for Demestvenny / Put (Kazan) Notations are labeled in green
+in Figure~\ref{znampts}. In addition, the system of priznaki used in the older Put Notation
+is supported via the two additional control characters U+1CF45 Priznak Modifier
+Kryzh and U+1CF46 Priznak Modifier Rog (likewise marked in yellow in
+Figure~\ref{znampts}):
+
+\begin{center}
+\begin{tabular}{lcl}
+\large{  {\musicFont 𜽐}  + {\musicFont 𜽅} } & \large → & {\large { \musicFont 𜽐𜽅 } }  \\
+\large{  {\musicFont 𜽐}  + {\musicFont 𜽆} } & \large → & {\large { \musicFont 𜽐𜽆 } }  \\
+\end{tabular}
+\end{center}
+
+\noindent Note that support of ligatures used in Demestvenny Notation requires
+the use of one of the stylistic sets described below.
+
+\begin{figure}[tb]
+\centering
+\begin{minipage}{0.75\textwidth}
 \begin{churchslavonic}
 \noindent
-\cuKrukPara[sylRuleHeight=0.02em]{
+\cuKrukPara[krukFont=\newstyle,sylRuleHeight=0.02em]{
 𜽛𜼆𜼓 𜾆𜼈𜾩𜼢𜽐𜼶 𜽐𜽂𜼇 𜽝𜽂𜼢 𜽛𜽃𜼈𜼉 𜽖𜽃𜼈 𜽵𜼢𜼥 𜾆𜽂𜼱𜼇 𜽖𜽀𜼆 𜽛𜼆 𜽖𜽃𜼈 𜽔𜽀𜽀𜼉 𜽝𜽔𜼻𜼊 𜽝𜼤𜽐𜽃𜼈 𜽖𜽃𜽀𜼈 𜽛𜽃𜼈 𜽖𜽂𜼊 𜽵𜼢𜼥 𜽖𜼉 𜽖𜽀𜼢 𜽐𜽂𜼇 𜽖𜼉 𜽛𜽃𜼈𜼒 𜾆𜼱𜼊 𜾩𜼾𜼢𜽝𜼈𜽔𜼻𜼊 𜽝𜼤𜽐𜽃𜼈 𜽝𜽂𜼈 𜽛𜽃𜼈𜼉 𜽖𜽃𜼈 𜽵𜼢𜼥 𜾆𜼇𜾩𜽀𜼢 𜽔𜼆 𜽤𜼅𜼇 𜽚𜼢 𜾆𜽃𜼱𜼈 𜽝𜼻𜼆 𜾁𜼄
 \\
 тво-рѧ-и а---нге-лы сво-ѧ дꙋ---хи и слꙋ-ги- сво-ѧ- ѡ----гнь па--лѧ--------щь.
 }
 \end{churchslavonic}
+\end{minipage}
 \caption{Example of Demestvenny Notation \label{demestvenny}}
-%\end{adjustbox}
-\let\cuKrukFont=\musicFont
 \end{figure}
 
-The Mezenets Unicode font also provides the characters necessary for typesetting
-Demestvenny / Put (Kazan) Notations; an example is presented in Figure~\ref{demestvenny}. In addition, the system of priznaki used in the older Put Notation
-is supported via the two additional control characters U+1CF45 Priznak Modifier
-Kryzh and U+1CF46 Priznak Modifier Rog:
-
-\begin{figure}[h]
-\centering
-\begin{tabular}{lcl}
-\large{  {\musicFont 𜽐}  + {\musicFont 𜽅} } & \large → & {\large { \musicFont 𜽐𜽅 } }  \\
-\large{  {\musicFont 𜽐}  + {\musicFont 𜽆} } & \large → & {\large { \musicFont 𜽐𜽆 } }  \\
-\end{tabular}
-\end{figure}
-
-\noindent Note that support of ligatures used in Demestvenny Notation requires
-the use of one of the stylistic sets described below (see Font Features).
-
-\subsection{Font Features}
+\subsection{Stylistic Sets}
 
 The Mezenets Unicode font provides the following stylistic sets:
 
@@ -425,7 +480,8 @@ Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓
 \item \textbf{ss04} (Stylistic Set 4) -- Render cinnabar marks in black. This stylistic
 set turns off the coloring of cinnabar marks as specified by the COLR / CPAL or SVG tables and
 renders them in black. \cuKinovar{NB}: turning on this feature will have a visible
-effect only in software that supports color fonts.
+effect only in software that supports color fonts. In \XeTeX{} and \LuaTeX{} use instead
+the \pkg{churchslavonic} package with the \texttt{noautocolormarks} option.
 
 \begin{center}
 \begin{tabular}{lr}
@@ -436,12 +492,11 @@ Regular             & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫
 
 \end{itemize}
 
-In \XeTeX{} and \LuaTeX{}, features may be turned on using methods provided in the
+\noindent In \XeTeX{} and \LuaTeX{}, features may be turned on using methods provided in the
 \pkg{fontspec} package, for example:
 
 \begin{verbatim}
-\newfontfamily{\znamFont}
-      [StylisticSet=1]{Mezenets Unicode}
+\newfontfamily{\znamFont}[StylisticSet=1]{Mezenets Unicode}
 \end{verbatim}
 
 \noindent Please consult the \pkg{fontspec} documentation for more information.
@@ -457,6 +512,8 @@ will enable Stylistic Set~1:
 
 \begin{verbatim}
 Mezenets Unicode:ss01
+Mezenets Unicode:ss01=1
+Mezenets Unicode:ss01&ss04
 \end{verbatim}
 
 In HTML, Stylistic Sets and other advanced features may be turned on using the
@@ -465,7 +522,7 @@ In HTML, Stylistic Sets and other advanced features may be turned on using the
 \begin{verbatim}
 .class {
   font-family: 'Mezenets Unicode';
-  font-feature-settings: "ss04";
+  font-feature-settings: 'ss04';
 }
 \end{verbatim}
 
@@ -474,12 +531,13 @@ The feature is supported in the
 
 \section{Shaidur Unicode}
 
-Lorem ipsum
+This font is still under development.
 
-\section{Smolensky Unicode}
+\section{Smolensky}
 
-\begin{figure}[t]
-%\begin{adjustbox}[width=\textwidth]
+\begin{figure}[tb]
+\centering
+\begin{minipage}{0.75\textwidth}
 \begin{churchslavonic}
 \archaic
 \noindent
@@ -490,11 +548,11 @@ Lorem ipsum
 Ко-нѧ и въ-са-дь-ни-ки· въ мо-ре чь-рмь-но-ѥ· съ-крᲂу-ша-ꙗ-и бра-ни· мꙑ-ше-це-ю вꙑ-со-ко-ю· хри-сто-съ ис-трѧ-слъ ѥ-сть· иꙁ-дра-и-лѧ же съ-па-се· по-бѣ-дь-нᲂу-ю пѣс-нь по-ю-щ⁘
 }
 \end{churchslavonic}
+\end{minipage}
 \caption{Example of Archaic Znamenny Notation (Hirmologion of Grigorovich) \label{smolensky}}
-%\end{adjustbox}
 \end{figure}
 
-Smolensky Unicode is a font intended for the typesetting of archaic Znamenny Notation
+Smolensky is a font intended for the typesetting of archaic Znamenny Notation
 as found in musical manuscripts of the 12\textsuperscript{th}--15\textsuperscript{th}
 centuries. The font is named after the renowned Russian musicologist,
 choir director and composer
@@ -502,15 +560,20 @@ choir director and composer
 The glyphs were traced on the basis of photographs of the following manuscripts:
 
 \begin{itemize}
-\item Hirmologion of Grigorovich (Chilandar 308, RSL Grig. 37, NLR Q.п.I.75)
-\item St. Petersburg Sticherarion (RASL 34.7.6)
-\item Novgorod Sticherarion (NLR Sof. 384)
+\item Novgorod Sticherarion (NLR Sof. 384) -- 12\textsuperscript{th}~century
+\item St. Petersburg Sticherarion (RASL 34.7.6) -- 12\textsuperscript{th}~century
+\item Hirmologion of Grigorovich (Chilandar Slav. 308, RSL Grig. 37, NLR Q.п.I.75) -- 13\textsuperscript{th}~century
 \end{itemize}
+
+\noindent The font provides additional characters needed for the archaic Znamenny
+Notation (in particular, the \emph{kryukovye strely} -- ``hook-based arrows''), which
+are colored in light blue in Table~\ref{znampts}.
 
 \textbf{Note that}: this font does not provide any glyphs for the cinnabar marks,
 for neumes used in Demestvenny / Put Notation, or any support for priznaki, as these
-are entirely anachronistic to the intended period. The font is primarily of
-interest to Slavic musicologists studying early Slavic musical manuscripts.
+are entirely anachronistic to the notation of the period that the font reproduces.
+The font is primarily of interest to Slavic musicologists studying early
+Slavic musical manuscripts. 
 An example of text typeset in this font is presented in Figure~\ref{smolensky}.
 
 \end{document}
