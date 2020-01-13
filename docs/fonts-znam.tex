@@ -1,6 +1,7 @@
 \documentclass[11pt]{article}
 \usepackage{adjustbox}
-
+\usepackage[top=1in, bottom=1in, left=0.75in, right=0.75in]{geometry}
+\usepackage{xcolor,colortbl}
 \usepackage{polyglossia}
    \setmainlanguage{english}
    \setotherlanguage{churchslavonic}
@@ -18,7 +19,6 @@
 \usepackage{churchslavonic}
 \usepackage{cu-kruk}
 \usepackage{ruby}
-\usepackage{pdfpages}
 \usepackage[unicode,
   pdftitle={fonts-znam: fonts for Znamenny Notation},
   pdfauthor={Aleksandr Andreev},
@@ -30,6 +30,10 @@
 \def\pkg#1{\textsf{#1}}
 \def\cs#1{\texttt{\textbackslash #1}}
 %
+\definecolor{control}{rgb}{1,1,0.4}
+\definecolor{empty}{rgb}{0.5,0.5,0.5}
+\definecolor{demestvo}{rgb}{0.522,0.878,0.522}
+\definecolor{archaic}{rgb}{0.4,0.76,1}
 
 \begin{document}
 \title{\pkg{fonts-znam} --- fonts for Znamenny Notation}
@@ -87,6 +91,8 @@ utility (this is not recommended), or by using one of the entry methods provided
 
 \begin{figure}[tbp]
 %\begin{adjustbox}[width=\textwidth]
+\centering
+\begin{minipage}{0.75\textwidth}
 \begin{churchslavonic}
 \noindent
 \cuKrukPara[sylRuleHeight=0.02em]{
@@ -95,9 +101,64 @@ utility (this is not recommended), or by using one of the entry methods provided
 хри-стосъ ра-жда-ет-сѧ, сла-ви-те: хри-стосъ съ нб҃съ, срѧ-щи-те: хри-стосъ на зе-мли, воз-но-си-те-сѧ. пои-те го-спо-де-ви всѧ-~ зе-млѧ, и ве-се-лі-емъ вос-по--ите лю-ді-е, ꙗ-кѡ про-сла-ви-сѧ.
 }
 \end{churchslavonic}
+\end{minipage}
 \caption{Example of Type~A Znamenny Notation \label{mezenets}}
 %\end{adjustbox}
 \end{figure}
+
+%%%% put here the table %%%%
+\begin{table}[p]
+\centering
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{l||c|c|c|c|c|c|c|c|c|c|c|c|c||}
+ & 1CF0 & 1CF1 & 1CF2 & 1CF3 & 1CF4 & 1CF5 & 1CF6 & 1CF7 & 1CF8 & 1CF9 & 1CFA & 1CFB & 1CFC \\
+\hline
+\hline
+0 & \cuKruk{\Large ◌𜼀}{\scriptsize 1CF00} & \cuKruk{\Large ◌𜼐}{\scriptsize 1CF10} & \cuKruk{\Large ◌𜼠}{\scriptsize 1CF20} & \cuKruk{\Large ◌𜼰}{\scriptsize 1CF30} & \cellcolor{demestvo}\cuKruk{\Large ◌𜽀}{\scriptsize 1CF40} & \cuKruk{\Large 𜽐}{\scriptsize 1CF50} & \cellcolor{demestvo}\cuKruk{\Large 𜽠}{\scriptsize 1CF60} & \cuKruk{\Large 𜽰}{\scriptsize 1CF70} & \cellcolor{demestvo}\cuKruk{\Large 𜾀}{\scriptsize 1CF80} & \cuKruk{\Large 𜾐}{\scriptsize 1CF90} & \cellcolor{archaic}\cuKruk{\Large 𜾠}{\scriptsize 1CFA0} & \cellcolor{demestvo}\cuKruk{\Large 𜾰}{\scriptsize 1CFB0} & \cellcolor{archaic}\cuKruk{\Large 𜿀}{\scriptsize 1CFC0} \\
+\hline
+1 & \cuKruk{\Large ◌𜼁}{\scriptsize 1CF01} & \cuKruk{\Large ◌𜼑}{\scriptsize 1CF11} & \cuKruk{\Large ◌𜼡}{\scriptsize 1CF21} & \cuKruk{\Large ◌𜼱}{\scriptsize 1CF31} & \cuKruk{\Large ◌𜽁}{\scriptsize 1CF41} & \cuKruk{\Large 𜽑}{\scriptsize 1CF51} & \cellcolor{demestvo}\cuKruk{\Large 𜽡}{\scriptsize 1CF61} & \cuKruk{\Large 𜽱}{\scriptsize 1CF71} & \cuKruk{\Large 𜾁}{\scriptsize 1CF81} & \cellcolor{demestvo}\cuKruk{\Large 𜾑}{\scriptsize 1CF91} & \cellcolor{archaic}\cuKruk{\Large 𜾡}{\scriptsize 1CFA1} & \cellcolor{demestvo}\cuKruk{\Large 𜾱}{\scriptsize 1CFB1} & \cuKruk{\Large 𜿁}{\scriptsize 1CFC1} \\
+\hline
+2 & \cuKruk{\Large ◌𜼂}{\scriptsize 1CF02} & \cuKruk{\Large ◌𜼒}{\scriptsize 1CF12} & \cuKruk{\Large ◌𜼢}{\scriptsize 1CF22} & \cuKruk{\Large ◌𜼲}{\scriptsize 1CF32} & \cellcolor{control}\cuKruk{\Large 𜽂}{\scriptsize 1CF42} & \cuKruk{\Large 𜽒}{\scriptsize 1CF52} & \cellcolor{demestvo}\cuKruk{\Large 𜽢}{\scriptsize 1CF62} & \cuKruk{\Large 𜽲}{\scriptsize 1CF72} & \cuKruk{\Large 𜾂}{\scriptsize 1CF82} & \cuKruk{\Large 𜾒}{\scriptsize 1CF92} & \cuKruk{\Large 𜾢}{\scriptsize 1CFA2} & \cellcolor{archaic}\cuKruk{\Large 𜾲}{\scriptsize 1CFB2} & \cuKruk{\Large 𜿂}{\scriptsize 1CFC2} \\
+\hline
+3 & \cuKruk{\Large ◌𜼃}{\scriptsize 1CF03} & \cuKruk{\Large ◌𜼓}{\scriptsize 1CF13} & \cuKruk{\Large ◌𜼣}{\scriptsize 1CF23} & \cuKruk{\Large ◌𜼳}{\scriptsize 1CF33} & \cellcolor{control}\cuKruk{\Large 𜽃}{\scriptsize 1CF43} & \cuKruk{\Large 𜽓}{\scriptsize 1CF53} & \cellcolor{demestvo}\cuKruk{\Large 𜽣}{\scriptsize 1CF63} & \cuKruk{\Large 𜽳}{\scriptsize 1CF73} & \cuKruk{\Large 𜾃}{\scriptsize 1CF83} & \cuKruk{\Large 𜾓}{\scriptsize 1CF93} & \cuKruk{\Large 𜾣}{\scriptsize 1CFA3} & \cellcolor{demestvo}\cuKruk{\Large 𜾳}{\scriptsize 1CFB3} & \cuKruk{\Large 𜿃}{\scriptsize 1CFC3} \\
+\hline
+4 & \cuKruk{\Large ◌𜼄}{\scriptsize 1CF04} & \cuKruk{\Large ◌𜼔}{\scriptsize 1CF14} & \cuKruk{\Large ◌𜼤}{\scriptsize 1CF24} & \cellcolor{demestvo}\cuKruk{\Large ◌𜼴}{\scriptsize 1CF34} & \cellcolor{control}\cuKruk{\Large 𜽄}{\scriptsize 1CF44} & \cuKruk{\Large 𜽔}{\scriptsize 1CF54} & \cellcolor{demestvo}\cuKruk{\Large 𜽤}{\scriptsize 1CF64} & \cuKruk{\Large 𜽴}{\scriptsize 1CF74} & \cuKruk{\Large 𜾄}{\scriptsize 1CF84} & \cuKruk{\Large 𜾔}{\scriptsize 1CF94} & \cellcolor{archaic}\cuKruk{\Large 𜾤}{\scriptsize 1CFA4} & \cellcolor{demestvo}\cuKruk{\Large 𜾴}{\scriptsize 1CFB4} & \cellcolor{archaic}\cuKruk{\Large 𜿄}{\scriptsize 1CFC4} \\
+\hline
+5 & \cuKruk{\Large ◌𜼅}{\scriptsize 1CF05} & \cuKruk{\Large ◌𜼕}{\scriptsize 1CF15} & \cuKruk{\Large ◌𜼥}{\scriptsize 1CF25} & \cuKruk{\Large ◌𜼵}{\scriptsize 1CF35} & \cellcolor{control}\cuKruk{\Large 𜽅}{\scriptsize 1CF45} & \cellcolor{demestvo}\cuKruk{\Large 𜽕}{\scriptsize 1CF55} & \cellcolor{demestvo}\cuKruk{\Large 𜽥}{\scriptsize 1CF65} & \cellcolor{demestvo}\cuKruk{\Large 𜽵}{\scriptsize 1CF75} & \cuKruk{\Large 𜾅}{\scriptsize 1CF85} & \cellcolor{demestvo}\cuKruk{\Large 𜾕}{\scriptsize 1CF95} & \cuKruk{\Large 𜾥}{\scriptsize 1CFA5} & \cellcolor{archaic}\cuKruk{\Large 𜾵}{\scriptsize 1CFB5} & \cellcolor{empty} \\
+\hline
+6 & \cuKruk{\Large ◌𜼆}{\scriptsize 1CF06} & \cuKruk{\Large ◌𜼖}{\scriptsize 1CF16} & \cuKruk{\Large ◌𜼦}{\scriptsize 1CF26} & \cuKruk{\Large ◌𜼶}{\scriptsize 1CF36} & \cellcolor{control}\cuKruk{\Large 𜽆}{\scriptsize 1CF46} & \cuKruk{\Large 𜽖}{\scriptsize 1CF56} & \cellcolor{demestvo}\cuKruk{\Large 𜽦}{\scriptsize 1CF66} & \cellcolor{demestvo}\cuKruk{\Large 𜽶}{\scriptsize 1CF76} & \cuKruk{\Large 𜾆}{\scriptsize 1CF86} & \cuKruk{\Large 𜾖}{\scriptsize 1CF96} & \cuKruk{\Large 𜾦}{\scriptsize 1CFA6} & \cellcolor{archaic}\cuKruk{\Large 𜾶}{\scriptsize 1CFB6} & \cellcolor{empty} \\
+\hline
+7 & \cuKruk{\Large ◌𜼇}{\scriptsize 1CF07} & \cuKruk{\Large ◌𜼗}{\scriptsize 1CF17} & \cuKruk{\Large ◌𜼧}{\scriptsize 1CF27} & \cellcolor{demestvo}\cuKruk{\Large ◌𜼷}{\scriptsize 1CF37} & \cellcolor{empty} & \cuKruk{\Large 𜽗}{\scriptsize 1CF57} & \cellcolor{demestvo}\cuKruk{\Large 𜽧}{\scriptsize 1CF67} & \cellcolor{demestvo}\cuKruk{\Large 𜽷}{\scriptsize 1CF77} & \cuKruk{\Large 𜾇}{\scriptsize 1CF87} & \cellcolor{demestvo}\cuKruk{\Large 𜾗}{\scriptsize 1CF97} & \cuKruk{\Large 𜾧}{\scriptsize 1CFA7} & \cellcolor{archaic}\cuKruk{\Large 𜾷}{\scriptsize 1CFB7} & \cellcolor{empty} \\
+\hline
+8 & \cuKruk{\Large ◌𜼈}{\scriptsize 1CF08} & \cuKruk{\Large ◌𜼘}{\scriptsize 1CF18} & \cuKruk{\Large ◌𜼨}{\scriptsize 1CF28} & \cuKruk{\Large ◌𜼸}{\scriptsize 1CF38} & \cellcolor{empty} & \cuKruk{\Large 𜽘}{\scriptsize 1CF58} & \cellcolor{demestvo}\cuKruk{\Large 𜽨}{\scriptsize 1CF68} & \cellcolor{demestvo}\cuKruk{\Large 𜽸}{\scriptsize 1CF78} & \cuKruk{\Large 𜾈}{\scriptsize 1CF88} & \cellcolor{demestvo}\cuKruk{\Large 𜾘}{\scriptsize 1CF98} & \cuKruk{\Large 𜾨}{\scriptsize 1CFA8} & \cellcolor{archaic}\cuKruk{\Large 𜾸}{\scriptsize 1CFB8} & \cellcolor{empty} \\
+\hline
+9 & \cuKruk{\Large ◌𜼉}{\scriptsize 1CF09} & \cuKruk{\Large ◌𜼙}{\scriptsize 1CF19} & \cuKruk{\Large ◌𜼩}{\scriptsize 1CF29} & \cuKruk{\Large ◌𜼹}{\scriptsize 1CF39} & \cellcolor{empty} & \cellcolor{demestvo}\cuKruk{\Large 𜽙}{\scriptsize 1CF59} & \cellcolor{demestvo}\cuKruk{\Large 𜽩}{\scriptsize 1CF69} & \cellcolor{demestvo}\cuKruk{\Large 𜽹}{\scriptsize 1CF79} & \cuKruk{\Large 𜾉}{\scriptsize 1CF89} & \cellcolor{demestvo}\cuKruk{\Large 𜾙}{\scriptsize 1CF99} & \cellcolor{demestvo}\cuKruk{\Large 𜾩}{\scriptsize 1CFA9} & \cellcolor{archaic}\cuKruk{\Large 𜾹}{\scriptsize 1CFB9} & \cellcolor{empty} \\
+\hline
+A & \cuKruk{\Large ◌𜼊}{\scriptsize 1CF0A} & \cuKruk{\Large ◌𜼚}{\scriptsize 1CF1A} & \cuKruk{\Large ◌𜼪}{\scriptsize 1CF2A} & \cuKruk{\Large ◌𜼺}{\scriptsize 1CF3A} & \cellcolor{empty} & \cellcolor{demestvo}\cuKruk{\Large 𜽚}{\scriptsize 1CF5A} & \cellcolor{demestvo}\cuKruk{\Large 𜽪}{\scriptsize 1CF6A} & \cellcolor{demestvo}\cuKruk{\Large 𜽺}{\scriptsize 1CF7A} & \cuKruk{\Large 𜾊}{\scriptsize 1CF8A} & \cellcolor{demestvo}\cuKruk{\Large 𜾚}{\scriptsize 1CF9A} & \cellcolor{demestvo}\cuKruk{\Large 𜾪}{\scriptsize 1CFAA} & \cellcolor{archaic}\cuKruk{\Large 𜾺}{\scriptsize 1CFBA} & \cellcolor{empty} \\
+\hline
+B & \cuKruk{\Large ◌𜼋}{\scriptsize 1CF0B} & \cuKruk{\Large ◌𜼛}{\scriptsize 1CF1B} & \cuKruk{\Large ◌𜼫}{\scriptsize 1CF2B} & \cuKruk{\Large ◌𜼻}{\scriptsize 1CF3B} & \cellcolor{empty} & \cuKruk{\Large 𜽛}{\scriptsize 1CF5B} & \cellcolor{archaic}\cuKruk{\Large 𜽫}{\scriptsize 1CF6B} & \cellcolor{demestvo}\cuKruk{\Large 𜽻}{\scriptsize 1CF7B} & \cuKruk{\Large 𜾋}{\scriptsize 1CF8B} & \cellcolor{demestvo}\cuKruk{\Large 𜾛}{\scriptsize 1CF9B} & \cellcolor{demestvo}\cuKruk{\Large 𜾫}{\scriptsize 1CFAB} & \cellcolor{archaic}\cuKruk{\Large 𜾻}{\scriptsize 1CFBB} & \cellcolor{empty} \\
+\hline
+C & \cuKruk{\Large ◌𜼌}{\scriptsize 1CF0C} & \cuKruk{\Large ◌𜼜}{\scriptsize 1CF1C} & \cuKruk{\Large ◌𜼬}{\scriptsize 1CF2C} & \cuKruk{\Large ◌𜼼}{\scriptsize 1CF3C} & \cellcolor{empty} & \cuKruk{\Large 𜽜}{\scriptsize 1CF5C} & \cellcolor{archaic}\cuKruk{\Large 𜽬}{\scriptsize 1CF6C} & \cellcolor{demestvo}\cuKruk{\Large 𜽼}{\scriptsize 1CF7C} & \cuKruk{\Large 𜾌}{\scriptsize 1CF8C} & \cellcolor{demestvo}\cuKruk{\Large 𜾜}{\scriptsize 1CF9C} & \cuKruk{\Large 𜾬}{\scriptsize 1CFAC} & \cellcolor{archaic}\cuKruk{\Large 𜾼}{\scriptsize 1CFBC} & \cellcolor{empty} \\
+\hline
+D & \cuKruk{\Large ◌𜼍}{\scriptsize 1CF0D} & \cuKruk{\Large ◌𜼝}{\scriptsize 1CF1D} & \cuKruk{\Large ◌𜼭}{\scriptsize 1CF2D} & \cuKruk{\Large ◌𜼽}{\scriptsize 1CF3D} & \cellcolor{empty} & \cuKruk{\Large 𜽝}{\scriptsize 1CF5D} & \cuKruk{\Large 𜽭}{\scriptsize 1CF6D} & \cuKruk{\Large 𜽽}{\scriptsize 1CF7D} & \cellcolor{archaic}\cuKruk{\Large 𜾍}{\scriptsize 1CF8D} & \cellcolor{demestvo}\cuKruk{\Large 𜾝}{\scriptsize 1CF9D} & \cuKruk{\Large 𜾭}{\scriptsize 1CFAD} & \cellcolor{archaic}\cuKruk{\Large 𜾽}{\scriptsize 1CFBD} & \cellcolor{empty} \\
+\hline
+E & \cuKruk{\Large ◌𜼎}{\scriptsize 1CF0E} & \cuKruk{\Large ◌𜼞}{\scriptsize 1CF1E} & \cellcolor{empty} & \cellcolor{demestvo}\cuKruk{\Large ◌𜼾}{\scriptsize 1CF3E} & \cellcolor{empty} & \cuKruk{\Large 𜽞}{\scriptsize 1CF5E} & \cuKruk{\Large 𜽮}{\scriptsize 1CF6E} & \cuKruk{\Large 𜽾}{\scriptsize 1CF7E} & \cellcolor{archaic}\cuKruk{\Large 𜾎}{\scriptsize 1CF8E} & \cellcolor{demestvo}\cuKruk{\Large 𜾞}{\scriptsize 1CF9E} & \cuKruk{\Large 𜾮}{\scriptsize 1CFAE} & \cellcolor{archaic}\cuKruk{\Large 𜾾}{\scriptsize 1CFBE} & \cellcolor{empty} \\
+\hline
+F & \cuKruk{\Large ◌𜼏}{\scriptsize 1CF0F} & \cuKruk{\Large ◌𜼟}{\scriptsize 1CF1F} & \cellcolor{empty} & \cellcolor{demestvo}\cuKruk{\Large ◌𜼿}{\scriptsize 1CF3F} & \cellcolor{empty} & \cuKruk{\Large 𜽟}{\scriptsize 1CF5F} & \cuKruk{\Large 𜽯}{\scriptsize 1CF6F} & \cuKruk{\Large 𜽿}{\scriptsize 1CF7F} & \cellcolor{archaic}\cuKruk{\Large 𜾏}{\scriptsize 1CF8F} & \cellcolor{demestvo}\cuKruk{\Large 𜾟}{\scriptsize 1CF9F} & \cuKruk{\Large 𜾯}{\scriptsize 1CFAF} & \cellcolor{archaic}\cuKruk{\Large 𜾿}{\scriptsize 1CFBF} & \cellcolor{empty} \\
+\hline
+\hline
+\end{tabular}
+\end{adjustbox}
+
+\begin{tabular}{c|c|l}
+\cline{2-2}
+\textbf{Key:} & \cellcolor{control}~~~ & Control Characters \\\cline{2-2}
+              & \cellcolor{archaic}~~~ & Characters for Archaic Znamenny Notation \\\cline{2-2}
+              & \cellcolor{demestvo}~~~ & Characters for Put / Demestvenny Notation \\\cline{2-2}
+\end{tabular}
+\caption{Unicode Codepoints for Znamenny and Put / Demestvenny Notations \label{znampts}}
+\end{table}
+%%%% end of table %%%%%
 
 \subsection{Black and Red Modifier Marks}
 
@@ -451,10 +512,5 @@ for neumes used in Demestvenny / Put Notation, or any support for priznaki, as t
 are entirely anachronistic to the intended period. The font is primarily of
 interest to Slavic musicologists studying early Slavic musical manuscripts.
 An example of text typeset in this font is presented in Figure~\ref{smolensky}.
-
-\clearpage
-\phantomsection
-\addcontentsline{toc}{section}{Codecharts}
-\includepdf[pages=-]{charts.pdf}
 
 \end{document}
