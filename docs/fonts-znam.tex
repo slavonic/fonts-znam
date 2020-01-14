@@ -1,15 +1,16 @@
 \documentclass[11pt]{article}
 \usepackage{adjustbox}
 \usepackage[top=1in, bottom=1in, left=0.75in, right=0.75in]{geometry}
-\usepackage{xcolor,colortbl}
 \usepackage{polyglossia}
    \setmainlanguage{english}
    \setotherlanguage{churchslavonic}
 \usepackage{fontspec,luacolor,metalogo}
+\usepackage{colortbl}
 \setmainfont[Script=Latin,Ligatures=TeX,HyphenChar=-]{Linux Libertine O}
 \setmonofont[Scale=MatchLowercase]{FiraSlav}
 \newfontfamily\churchslavonicfont[Script=Cyrillic,Ligatures=TeX,Scale=MatchLowercase,HyphenChar=_]{PonomarUnicode.otf}
 \newfontfamily\musicFont[Scale=1.5]{MezenetsUnicode}
+\newfontfamily\musicsmaller{MezenetsUnicode}
 \newfontfamily{\oldstyle}[Scale=1.5,StylisticSet=1]{MezenetsUnicode}
 \newfontfamily{\newstyle}[Scale=1.5,StylisticSet=2]{MezenetsUnicode}
 \newfontfamily{\contracted}[Scale=1.5,StylisticSet=3]{MezenetsUnicode}
@@ -18,7 +19,9 @@
 \newfontfamily{\archaic}[Scale=MatchLowercase]{Menaion Unicode}
 \usepackage{churchslavonic}
 \usepackage{cu-kruk}
-\usepackage{ruby}
+\usepackage{tikz}
+\usetikzlibrary{backgrounds}
+\usetikzlibrary{calc}
 \usepackage[unicode,
   pdftitle={fonts-znam: fonts for Znamenny Notation},
   pdfauthor={Aleksandr Andreev},
@@ -34,6 +37,64 @@
 \definecolor{empty}{rgb}{0.5,0.5,0.5}
 \definecolor{demestvo}{rgb}{0.522,0.878,0.522}
 \definecolor{archaic}{rgb}{0.4,0.76,1}
+\definecolor{lightgray}{rgb}{0.8,0.8,0.8}
+
+\newcommand*\keystroke[1]{%
+  \begin{tikzpicture}[baseline=(key.base), very thin, line cap=round, black, rounded corners=0pt]%
+    \node [draw, fill=white, fill opacity=1, rectangle, rounded corners=2pt, inner sep=1pt, minimum width=1.2em, font=\musicsmaller] (key) {#1\strut};
+
+    \begin{scope}[on background layer]
+      \draw [rounded corners=1pt, fill=white] ($ (key.north west) + (-2pt, 2pt) $) rectangle ($ (key.south east) + (2pt, -2pt) $);
+
+      \fill [gray!60] ($ (key.south west) + (2pt, 0.1pt) $) -- ($ (key.south west) + (-1pt, -2pt) $)
+                  -- ($ (key.south east) + (1pt, -2pt) $)  -- ($ (key.south east) + (-2pt, 0.1pt) $) -- cycle;
+
+      \fill [gray!60] ($ (key.south east) + (-0.1pt, 2pt) $) -- ($ (key.south east) + (2pt, -1pt) $)
+                  -- ($ (key.north east) + (2pt, 1pt) $)    -- ($ (key.north east) + (-0.1pt, -2pt) $) -- cycle;
+    \end{scope}
+
+    \draw ($ (key.north west) + (0.1pt, -2pt) $) -- ($ (key.north west) + (-2pt, 1pt) $);
+    \draw ($ (key.north west) + (2pt, -0.1pt) $) -- ($ (key.north west) + (-1pt, 2pt) $);
+
+    \draw ($ (key.north east) + (-0.1pt, -2pt) $) -- ($ (key.north east) + (2pt, 1pt) $);
+    \draw ($ (key.north east) + (-2pt, -0.1pt) $) -- ($ (key.north east) + (1pt, 2pt) $);
+
+    \draw ($ (key.south west) + (0.1pt, 2pt) $) -- ($ (key.south west) + (-2pt, -1pt) $);
+    \draw ($ (key.south west) + (2pt, 0.1pt) $) -- ($ (key.south west) + (-1pt, -2pt) $);
+
+    \draw ($ (key.south east) + (-0.1pt, 2pt) $) -- ($ (key.south east) + (2pt, -1pt) $);
+    \draw ($ (key.south east) + (-2pt, 0.1pt) $) -- ($ (key.south east) + (1pt, -2pt) $);
+  \end{tikzpicture}%
+}
+
+\newcommand*\pressedkey[1]{%
+  \begin{tikzpicture}[baseline=(key.base), very thin, line cap=round, black, rounded corners=0pt]%
+    \node [draw, fill=gray!60, fill opacity=1, rectangle, rounded corners=2pt, inner sep=1pt, minimum width=1.2em, font=\musicsmaller] (key) {#1\strut};
+
+    \begin{scope}[on background layer]
+      \draw [rounded corners=1pt, fill=white] ($ (key.north west) + (-2pt, 2pt) $) rectangle ($ (key.south east) + (2pt, -2pt) $);
+
+      \fill [gray!60] ($ (key.north west) + (2pt, -0.1pt) $) -- ($ (key.north west) + (-1pt, 2pt) $)
+                 -- ($ (key.north east) + (1pt, 2pt) $) -- ($ (key.north east) + (-2pt, -0.1pt) $) -- cycle;
+
+    \fill [gray!60] ($ (key.north west) + (-2pt, 1pt) $) -- ($ (key.north west) + (-0.1pt, -1pt) $)
+                  -- ($ (key.south west) + (-0.1pt, 1pt) $)   -- ($ (key.south west) + (-2pt, -1pt) $) -- cycle;
+
+    \end{scope}
+
+    \draw ($ (key.north west) + (0.1pt, -2pt) $) -- ($ (key.north west) + (-2pt, 1pt) $);
+    \draw ($ (key.north west) + (2pt, -0.1pt) $) -- ($ (key.north west) + (-1pt, 2pt) $);
+
+    \draw ($ (key.north east) + (-0.1pt, -2pt) $) -- ($ (key.north east) + (2pt, 1pt) $);
+    \draw ($ (key.north east) + (-2pt, -0.1pt) $) -- ($ (key.north east) + (1pt, 2pt) $);
+
+    \draw ($ (key.south west) + (0.1pt, 2pt) $) -- ($ (key.south west) + (-2pt, -1pt) $);
+    \draw ($ (key.south west) + (2pt, 0.1pt) $) -- ($ (key.south west) + (-1pt, -2pt) $);
+
+    \draw ($ (key.south east) + (-0.1pt, 2pt) $) -- ($ (key.south east) + (2pt, -1pt) $);
+    \draw ($ (key.south east) + (-2pt, 0.1pt) $) -- ($ (key.south east) + (1pt, -2pt) $);
+  \end{tikzpicture}%
+}
 
 \begin{document}
 \title{\pkg{fonts-znam} --- fonts for Znamenny Notation}
@@ -575,5 +636,66 @@ are entirely anachronistic to the notation of the period that the font reproduce
 The font is primarily of interest to Slavic musicologists studying early
 Slavic musical manuscripts. 
 An example of text typeset in this font is presented in Figure~\ref{smolensky}.
+
+\section{Input Methods}
+
+The authors of the font also offer a keyboard layout (input method) for typesetting
+Znamenny Notation in Unicode.
+
+\begin{figure}[htbp]
+\centering
+\makebox[0.6\textwidth][s]{\keystroke{~◌𜼢} \keystroke{~◌𜼀} \keystroke{~◌𜼁} \keystroke{~◌𜼂} \keystroke{~◌𜼃} \keystroke{~◌𜼄} \keystroke{~◌𜼅} \keystroke{~◌𜼆} \keystroke{~◌𜼇} \keystroke{~◌𜼈} \keystroke{~◌𜼉} \keystroke{~◌𜼊} \keystroke{~◌𜼋} \keystroke{Bckspc}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜾃} \keystroke{𜽵} \keystroke{𜾕} \keystroke{𜾥} \keystroke{𜾬} \keystroke{𜾧} \keystroke{𜽯} \keystroke{𜽜} \keystroke{◌𜼦} \keystroke{𜽰} \keystroke{◌𜼣} \keystroke{◌𜼨} \keystroke{~𜾯~}}
+
+\makebox[0.6\textwidth][s]{\keystroke{CapsLk}  \keystroke{𜽒} \keystroke{𜽖} \keystroke{𜽣} \keystroke{𜽧} \keystroke{𜽝} \keystroke{𜾒} \keystroke{𜾢} \keystroke{𜽐} \keystroke{𜽽} \keystroke{◌𜼰} \keystroke{◌𜼼} \keystroke{~~Enter}}
+  
+\makebox[0.6\textwidth][s]{\keystroke{Shift $\uparrow$~~~} \keystroke{𜾆𜾅} \keystroke{𜽛} \keystroke{𜽱} \keystroke{𜽹} \keystroke{𜾆} \keystroke{𜾈} \keystroke{𜾐} \keystroke{◌𜼺} \keystroke{◌𜼶} \keystroke{◌𜼵} \keystroke{~~~$\uparrow$ Shift}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Ctrl~~} \keystroke{Super} \keystroke{Alt~~} \keystroke{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} \keystroke{AltGr} \keystroke{Fn~} \keystroke{Ctrl~~}}
+\caption{Znamenny Keyboard Mappings (no modifier keys depressed) \label{znamkeysmain}}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\makebox[0.6\textwidth][s]{\keystroke{◌𜽁} \keystroke{◌𜼌} \keystroke{◌𜼍} \keystroke{◌𜼎} \keystroke{◌𜼏} \keystroke{◌𜼐} \keystroke{◌𜼑} \keystroke{◌𜼒} \keystroke{◌𜼓} \keystroke{◌𜼔} \keystroke{◌𜼕} \keystroke{◌𜼖} \keystroke{◌𜼗} \keystroke{Bckspc}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜾂} \keystroke{𜽶} \keystroke{𜾖} \keystroke{𜾦} \keystroke{𜾭} \keystroke{𜾨} \keystroke{𜽮} \keystroke{𜽭} \keystroke{◌𜼧} \keystroke{𜽓} \keystroke{◌𜼤} \keystroke{◌𜼩} \keystroke{~𜾰~}}
+
+\makebox[0.6\textwidth][s]{\keystroke{CapsLk}  \keystroke{𜾁} \keystroke{𜽗} \keystroke{𜽤} \keystroke{𜽨} \keystroke{𜽞} \keystroke{𜾓} \keystroke{𜾣} \keystroke{𜽑} \keystroke{𜽾} \keystroke{◌𜼱} \keystroke{◌𜼽} \keystroke{~~Enter}}
+  
+\makebox[0.6\textwidth][s]{\pressedkey{Shift $\uparrow$~~~} \keystroke{𜾅} \keystroke{𜽔} \keystroke{𜽲} \keystroke{𜽺} \keystroke{𜾆𜼰} \keystroke{𜾇} \keystroke{𜾐𜼰} \keystroke{◌𜼻} \keystroke{◌𜼸} \keystroke{◌𜼳} \pressedkey{~~~$\uparrow$ Shift}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Ctrl~~} \keystroke{Super} \keystroke{Alt~~} \keystroke{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} \keystroke{AltGr} \keystroke{Fn~} \keystroke{Ctrl~~}}
+\caption{Znamenny Keyboard Mappings (with Shift key depressed) \label{znamkeyshift}}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\makebox[0.6\textwidth][s]{\keystroke{\textcolor{lightgray}{`}} \keystroke{\textcolor{lightgray}{1}} \keystroke{\textcolor{lightgray}{2}} \keystroke{\textcolor{lightgray}{3}} \keystroke{~◌𜼘} \keystroke{\textcolor{lightgray}{5}} \keystroke{\textcolor{lightgray}{6}} \keystroke{~◌𜼙} \keystroke{~◌𜼚} \keystroke{~◌𜼛} \keystroke{\textcolor{lightgray}{0}} \keystroke{\textcolor{lightgray}{-}} \keystroke{\textcolor{lightgray}{=}} \keystroke{Bckspc}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜿁} \keystroke{𜽷} \keystroke{𜾗} \keystroke{\textcolor{lightgray}{R}} \keystroke{𜾮} \keystroke{𜾠} \keystroke{\textcolor{lightgray}{U}} \keystroke{𜽫} \keystroke{◌𜼪} \keystroke{𜿃} \keystroke{◌𜼥} \keystroke{◌𜼫} \keystroke{~𜾱~}}
+
+\makebox[0.6\textwidth][s]{\keystroke{CapsLk}  \keystroke{\textcolor{lightgray}{A}} \keystroke{𜽘} \keystroke{𜽥} \keystroke{𜽩} \keystroke{𜽟} \keystroke{𜾄} \keystroke{𜾉} \keystroke{𜽚} \keystroke{𜽿} \keystroke{◌𜼲} \keystroke{◌𜼬} \keystroke{~~Enter}}
+  
+\makebox[0.6\textwidth][s]{\keystroke{Shift $\uparrow$~~~} \keystroke{𜽡} \keystroke{𜾳} \keystroke{𜽳} \keystroke{𜽻} \keystroke{𜾆𜼱} \keystroke{\textcolor{lightgray}{N}} \keystroke{𜾋} \keystroke{\textcolor{lightgray}{,}} \keystroke{◌𜼹} \keystroke{~◌𜼴} \keystroke{~~~$\uparrow$ Shift}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Ctrl~~} \keystroke{Super} \keystroke{Alt~~} \keystroke{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} \pressedkey{AltGr} \keystroke{Fn~} \keystroke{Ctrl~~}}
+\caption{Znamenny Keyboard Mappings (with AltGr key depressed) \label{znamkeysalt}}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\makebox[0.6\textwidth][s]{\keystroke{\textcolor{lightgray}{`}} \keystroke{\textcolor{lightgray}{1}} \keystroke{\textcolor{lightgray}{2}} \keystroke{\textcolor{lightgray}{3}} \keystroke{\textcolor{lightgray}{4}} \keystroke{\textcolor{lightgray}{5}} \keystroke{\textcolor{lightgray}{6}} \keystroke{\textcolor{lightgray}{7}} \keystroke{\textcolor{lightgray}{8}} \keystroke{\textcolor{lightgray}{9}} \keystroke{\textcolor{lightgray}{0}} \keystroke{\textcolor{lightgray}{-}} \keystroke{\textcolor{lightgray}{=}} \keystroke{Bckspc}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜿂} \keystroke{𜽸} \keystroke{\textcolor{lightgray}{E}} \keystroke{\textcolor{lightgray}{R}} \keystroke{\textcolor{lightgray}{T}} \keystroke{𜾪} \keystroke{\textcolor{lightgray}{U}} \keystroke{𜽬} \keystroke{\textcolor{lightgray}{O}} \keystroke{𜾆𜿃} \keystroke{\textcolor{lightgray}{[}} \keystroke{\textcolor{lightgray}{]}} \keystroke{\textcolor{lightgray}{\textbackslash}~~}}
+
+\makebox[0.6\textwidth][s]{\keystroke{CapsLk} \keystroke{\textcolor{lightgray}{A}} \keystroke{𜽙} \keystroke{𜽦} \keystroke{𜽪} \keystroke{𜽠} \keystroke{\textcolor{lightgray}{H}} \keystroke{𜾊} \keystroke{𜽕} \keystroke{\textcolor{lightgray}{L}} \keystroke{\textcolor{lightgray}{;}} \keystroke{\textcolor{lightgray}{'}} \keystroke{~~Enter}}
+  
+\makebox[0.6\textwidth][s]{\pressedkey{Shift $\uparrow$~~~} \keystroke{𜽢} \keystroke{𜾴} \keystroke{𜽴} \keystroke{𜽼} \keystroke{𜾑} \keystroke{\textcolor{lightgray}{N}} \keystroke{𜾋𜼰} \keystroke{\textcolor{lightgray}{,}} \keystroke{\textcolor{lightgray}{.}} \keystroke{\textcolor{lightgray}{/}} \pressedkey{~~~$\uparrow$ Shift}}
+
+\makebox[0.6\textwidth][s]{\keystroke{Ctrl~~} \keystroke{Super} \keystroke{Alt~~} \keystroke{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} \pressedkey{AltGr} \keystroke{Fn~} \keystroke{Ctrl~~}}
+\caption{Znamenny Keyboard Mappings (with AltGr and Shift keys depressed) \label{znamkeysaltshift}}
+\end{figure}
 
 \end{document}
