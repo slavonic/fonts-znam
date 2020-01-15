@@ -639,8 +639,23 @@ An example of text typeset in this font is presented in Figure~\ref{smolensky}.
 
 \section{Input Methods}
 
-The authors of the font also offer a keyboard layout (input method) for typesetting
-Znamenny Notation in Unicode.
+The authors of the font also offer a keyboard layout -- that is,
+an input method for entering Znamenny Notation symbols ont he keyboard.
+The keyboard layout is distributed separately from the fonts; see
+below for installation instructions.
+
+The keyboard layout is a four-level layout. The first level provides
+access to the left-side combining cinnabar pitch marks and various neumes, 
+as demonstrated in Figure~\ref{znamkeysmain}. The second level
+may be turned on by pressing the Shift key, and provides access to
+the right-side combning cinnabar pitch marks and various other neumes,
+as demonstrated in Figure~\ref{znamkeyshift}. A third level,
+which provides access to additional neumes (see Figure~\ref{znamkeysalt}),
+is turned on by pressing
+the \texttt{AltGr} key. On Windows systems, this is usually the right Alt key;
+on GNU / Linux this may be either Alt key. A final level is turned on by
+pressing both the \texttt{AltGr} and Shift keys simultaneously; it provides the neumes
+demonstrated in Figure~\ref{znamkeysaltshift}.
 
 \begin{figure}[htbp]
 \centering
@@ -676,9 +691,9 @@ Znamenny Notation in Unicode.
 
 \makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜿁} \keystroke{𜽷} \keystroke{𜾗} \keystroke{\textcolor{lightgray}{R}} \keystroke{𜾮} \keystroke{𜾠} \keystroke{\textcolor{lightgray}{U}} \keystroke{𜽫} \keystroke{◌𜼪} \keystroke{𜿃} \keystroke{◌𜼥} \keystroke{◌𜼫} \keystroke{~𜾱~}}
 
-\makebox[0.6\textwidth][s]{\keystroke{CapsLk}  \keystroke{\textcolor{lightgray}{A}} \keystroke{𜽘} \keystroke{𜽥} \keystroke{𜽩} \keystroke{𜽟} \keystroke{𜾄} \keystroke{𜾉} \keystroke{𜽚} \keystroke{𜽿} \keystroke{◌𜼲} \keystroke{◌𜼬} \keystroke{~~Enter}}
+\makebox[0.6\textwidth][s]{\keystroke{CapsLk}  \keystroke{\textcolor{lightgray}{A}} \keystroke{𜽘} \keystroke{𜽥} \keystroke{𜽩} \keystroke{𜽟} \keystroke{𜾄} \keystroke{\textcolor{lightgray}{J}} \keystroke{𜽚} \keystroke{𜽿} \keystroke{◌𜼲} \keystroke{◌𜼬} \keystroke{~~Enter}}
   
-\makebox[0.6\textwidth][s]{\keystroke{Shift $\uparrow$~~~} \keystroke{𜽡} \keystroke{𜾳} \keystroke{𜽳} \keystroke{𜽻} \keystroke{𜾆𜼱} \keystroke{\textcolor{lightgray}{N}} \keystroke{𜾋} \keystroke{\textcolor{lightgray}{,}} \keystroke{◌𜼹} \keystroke{~◌𜼴} \keystroke{~~~$\uparrow$ Shift}}
+\makebox[0.6\textwidth][s]{\keystroke{Shift $\uparrow$~~~} \keystroke{𜽡} \keystroke{𜾳} \keystroke{𜽳} \keystroke{𜽻} \keystroke{𜾆𜼱} \keystroke{𜾉} \keystroke{𜾋} \keystroke{\textcolor{lightgray}{,}} \keystroke{◌𜼹} \keystroke{~◌𜼴} \keystroke{~~~$\uparrow$ Shift}}
 
 \makebox[0.6\textwidth][s]{\keystroke{Ctrl~~} \keystroke{Super} \keystroke{Alt~~} \keystroke{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} \pressedkey{AltGr} \keystroke{Fn~} \keystroke{Ctrl~~}}
 \caption{Znamenny Keyboard Mappings (with AltGr key depressed) \label{znamkeysalt}}
@@ -690,12 +705,94 @@ Znamenny Notation in Unicode.
 
 \makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜿂} \keystroke{𜽸} \keystroke{\textcolor{lightgray}{E}} \keystroke{\textcolor{lightgray}{R}} \keystroke{\textcolor{lightgray}{T}} \keystroke{𜾪} \keystroke{\textcolor{lightgray}{U}} \keystroke{𜽬} \keystroke{\textcolor{lightgray}{O}} \keystroke{𜾆𜿃} \keystroke{\textcolor{lightgray}{[}} \keystroke{\textcolor{lightgray}{]}} \keystroke{\textcolor{lightgray}{\textbackslash}~~}}
 
-\makebox[0.6\textwidth][s]{\keystroke{CapsLk} \keystroke{\textcolor{lightgray}{A}} \keystroke{𜽙} \keystroke{𜽦} \keystroke{𜽪} \keystroke{𜽠} \keystroke{\textcolor{lightgray}{H}} \keystroke{𜾊} \keystroke{𜽕} \keystroke{\textcolor{lightgray}{L}} \keystroke{\textcolor{lightgray}{;}} \keystroke{\textcolor{lightgray}{'}} \keystroke{~~Enter}}
+\makebox[0.6\textwidth][s]{\keystroke{CapsLk} \keystroke{\textcolor{lightgray}{A}} \keystroke{𜽙} \keystroke{𜽦} \keystroke{𜽪} \keystroke{𜽠} \keystroke{\textcolor{lightgray}{H}} \keystroke{\textcolor{lightgray}{J}} \keystroke{𜽕} \keystroke{\textcolor{lightgray}{L}} \keystroke{\textcolor{lightgray}{;}} \keystroke{\textcolor{lightgray}{'}} \keystroke{~~Enter}}
   
-\makebox[0.6\textwidth][s]{\pressedkey{Shift $\uparrow$~~~} \keystroke{𜽢} \keystroke{𜾴} \keystroke{𜽴} \keystroke{𜽼} \keystroke{𜾑} \keystroke{\textcolor{lightgray}{N}} \keystroke{𜾋𜼰} \keystroke{\textcolor{lightgray}{,}} \keystroke{\textcolor{lightgray}{.}} \keystroke{\textcolor{lightgray}{/}} \pressedkey{~~~$\uparrow$ Shift}}
+\makebox[0.6\textwidth][s]{\pressedkey{Shift $\uparrow$~~~} \keystroke{𜽢} \keystroke{𜾴} \keystroke{𜽴} \keystroke{𜽼} \keystroke{𜾑} \keystroke{𜾊} \keystroke{𜾋𜼰} \keystroke{\textcolor{lightgray}{,}} \keystroke{\textcolor{lightgray}{.}} \keystroke{\textcolor{lightgray}{/}} \pressedkey{~~~$\uparrow$ Shift}}
 
 \makebox[0.6\textwidth][s]{\keystroke{Ctrl~~} \keystroke{Super} \keystroke{Alt~~} \keystroke{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} \pressedkey{AltGr} \keystroke{Fn~} \keystroke{Ctrl~~}}
 \caption{Znamenny Keyboard Mappings (with AltGr and Shift keys depressed) \label{znamkeysaltshift}}
 \end{figure}
+
+\subsection{Installation Instructions}
+
+\subsubsection{On GNU / Linux}
+
+On Linux and other Unix-like systems Znamenny keyboard entry requires
+use of the Intelligent Input Bus (IBus) and the \texttt{m17n} library.
+The m17n library realizes multilingualization for
+GNU/Linux and other Unix-based applications. The Slavonic Computing Initiative
+maintains the package \texttt{m17n-cu}, which provides Church Slavonic data for
+the m17n library. The Znamenny keyboard layout is provided in this library
+together with the other Church Slavonic (Cyrillic and Glagolitic) and Russian
+Extended layouts.
+
+For Debian-based systems such as Ubuntu and Linux Mint:
+\begin{enumerate}
+\item Add the SCI ppa to your sources: \texttt{sudo add-apt-repository ppa:aleksandr-andreev/sci}
+\item Update your source: \texttt{sudo apt-get update}
+\item Install the library: \texttt{sudo apt install m17n-cu}
+\end{enumerate}
+
+On other systems, you may need to install the data manually:
+
+\begin{enumerate}
+\item \href{https://github.com/typiconman/m17n-cu/releases}{Download the m17n-cu package}
+and extract its contents to some directory in your home folder (for
+example, \texttt{/home/jblow/m17n-cu/}).
+
+\item Check that the m17n database data (usually packaged as \texttt{m17n-db}) were
+properly installed in your \texttt{/usr/share/m17n/} directory.
+(You can run \texttt{m17n-db} to check). If the data are installed to some
+other location, you will need to edit Makefile and point it to the correct
+path for your m17n data. See the INSTALL file for details.
+
+\item Now install the additional Church Slavonic m17n data.
+To do this, in the directory where you have downloaded the
+files of this package, run: \texttt{sudo make install DESTDIR=/}.
+This command installs the keyboard data files into your m17n data directory.
+\end{enumerate}
+
+Once you've installed the \texttt{m17n-cu} data, you need to configure IBus:
+
+\begin{enumerate}
+\item Install the \texttt{ibus-m17n} package for your distribution.
+This is probably provided by your package manager, alternatively,
+you may download the latest version of \texttt{ibus-m17n} from the
+\href{https://github.com/ibus/ibus/}{IBus project website}.
+
+\item Run \texttt{im-config} and set IBus to be your default intput method.
+
+\item Load the Slavonic input method.
+From the Terminal shell, run \verb+ibus-setup+.
+\begin{itemize}
+\item On the \texttt{Input Method} tab, check \texttt{Customize active input methods}.
+\item Click on \texttt{Select input method}.
+\item Click on \texttt{Show all input methods}.
+\item Scroll down and select \texttt{Church Slavic; Old Slavonic; Old ...}, then
+select the Znamenny keyboard (select the \texttt{znamstd} variant)
+\item Click Add
+\item Click Close
+\end{itemize}
+\end{enumerate}
+
+Installation should be complete at this point.
+By default, \texttt{IBus} can be turned off and on by pressing 
+\keystroke{Ctrl} and \keystroke{Space} on the keyboard. 
+You can switch between input methods by pressing 
+\keystroke{Ctrl} \keystroke{Shift} \keystroke{Space}. 
+You can customize these keyboard shortcuts by running \verb+ibus-setup+ and changing 
+the options on the \texttt{General} tab. 
+To uninstall the keyboard layouts, the \texttt{m17n-cu} data, \texttt{IBus} 
+or other components, follow the instructions in the \texttt{INSTALL}
+file that comes with \texttt{m17n-cu}. 
+
+While the authors do not provide technical support, 
+community-based support for \texttt{m17n-cu} 
+is available on the 
+\href{https://ponomar.net/mailman/listinfo/sci-users_ponomar.net}{Slavonic Computing Initiative mailing list \texttt{sci-users}}.
+
+\subsubsection{On Microsoft Windows}
+
+Lorem ipsum dolor sit amet ...
 
 \end{document}
