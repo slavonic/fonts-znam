@@ -3,7 +3,7 @@
 \usepackage[top=1in, bottom=1in, left=0.75in, right=0.75in]{geometry}
 \usepackage{polyglossia}
    \setmainlanguage{english}
-   \setotherlanguage{churchslavonic}
+   \setotherlanguages{churchslavonic,russian}
 \usepackage{fontspec,luacolor,metalogo}
 \usepackage{colortbl}
 \setmainfont[Script=Latin,Ligatures=TeX,HyphenChar=-]{Linux Libertine O}
@@ -28,7 +28,7 @@
   pdfkeywords={Church Slavonic, Old Church Slavonic, Church Slavic, Znamenny Notation, OpenType, Unicode, церковнославянский, старославянский, знаменная нотация, крюки, столповая нотация}
 ]{hyperref}
 
-\def\fileversion{0.4}
+\def\fileversion{0.99}
 \let\cuKrukFont=\musicFont
 \def\pkg#1{\textsf{#1}}
 \def\cs#1{\texttt{\textbackslash #1}}
@@ -109,17 +109,19 @@ This package provides OpenType-CFF PostScript fonts (\texttt{.OTF} fonts)
 for typesetting Znamenny Musical Notation encoded in Unicode. Znamenny
 Notation was proposed for inclusion in Unicode by the authors and has
 been accepted for encoding in a future version of the Unicode Standard.
-The latest version of the fonts may be downloaded from the
+The latest versions of the fonts may be downloaded from the
 \href{https://sci.ponomar.net/music.html}{Slavonic Computing Initiative website}.
+Before using the fonts, we suggest reading the Proposal to become familiar with
+the encoding methodology (see \cite{PROP}).
 
-\cuKinovar{Warning}: the characters used to write the Znamenny Musical Notation
+\cuKinovar{Warning}: The characters used to write the Znamenny Musical Notation
 \href{http://www.unicode.org/alloc/Pipeline.html}{have been accepted}
 for encoding in a future version of the Unicode Standard,
 however the codepoints may still be subject to change. As such,
 these fonts should be considered BETA-stage software, and should be used
 for SOFTWARE-TESTING PURPOSES ONLY.
 
-\cuKinovar{Color Data}: the fonts provide information about the color of some
+\cuKinovar{Color Data}: The fonts provide information about the color of some
 glyphs (such as the cinnabar marks) via data in the COLR and CPAL tables.
 However, COLR / CPAL technology is presently not supported by some software.
 Color fonts are supported in \href{https://www.colorfonts.wtf/}{modern browsers
@@ -142,8 +144,10 @@ the issue tracker}.
 \section{Mezenets Unicode}
 
 Mezenets Unicode is a font intended for typesetting Type~A Znamenny Notation (notation
-that includes \emph{priznaki}) and Type~B Notation (notation without
-\emph{priznaki}), as well as both old-style and new-style Put / Demestvenny notation.
+that includes \emph{priznaki}\footnote{The Church Slavonic term ``priznaki''
+(sing. ``priznak'') is pronounced with the stress on the second syllable,
+unlike its modern Russian paronym.}) and Type~B Notation (notation without
+\emph{priznaki}), as well as both old-style and new-style Put / Demestvenny (Kazan) Notation.
 An example of Znamenny Notation bearing \emph{priznaki} is presented in Figure~\ref{mezenets}. 
 The neumes are encoded at codepoints indicated in Table~\ref{znampts},
 and may be entered directly by codepoint, for example, from a Character Map
@@ -155,6 +159,7 @@ utility (this is not recommended), or by using one of the entry methods provided
 \begin{minipage}{0.75\textwidth}
 \begin{churchslavonic}
 \noindent
+\Large
 \cuKrukPara[sylRuleHeight=0.02em]{
 𜽟 𜾆𜽂𜼱𜼇 𜽗𜼆 𜽐𜼱𜼢 𜽖𜽃𜼅 𜽜𜼄𜼦 𜾖𜼆𜼤 𜽝𜽃𜼅𜼤𜽘 𜾆𜽃𜼱𜼈 𜽞 𜾬𜽃𜼈𜼤 𜽖𜽃𜼅 𜾒𜼰𜼺𜼆𜼣 𜾖𜼆𜼤 𜾋𜽃𜼅 𜾆𜼄 𜽝𜼄 𜽐𜽃𜼅 𜽗𜽂𜼄 𜽞 𜽐𜽃𜼰𜼅 𜽖𜽃𜼢 𜽗𜽃𜼢 𜾆𜾅𜼇 𜽝𜽂𜼄𜼤𜽘 𜾆𜽂𜼱𜼇 𜾒𜽃𜼱𜼈𜼤 𜽗𜽂𜼇 𜽐𜽂𜼱𜼢 𜽖𜼆 𜽗𜽃𜼅 𜽞 𜾒𜼰𜼺𜼆 𜽝𜽂𜼄 𜽜𜽃𜼅 𜾆𜽂𜼄 𜽗𜽃𜼅 𜽞 𜽐𜽂𜼱𜼇 𜽜𜼆 𜾆𜽃𜼅 𜽞 𜽐𜽃𜼱𜼈 𜽗𜽂𜼇 𜽞 𜽐𜽂𜼱𜼇 𜽖𜼆 𜽗𜽃𜼅 𜽐𜼱𜼆 𜽖𜽃𜼅 𜽜𜽂𜼄𜼦 𜾖𜼆𜼤 𜾋𜽃𜼅 𜾁
 \\
@@ -214,8 +219,8 @@ F & \cuKruk{\Large ◌𜼏}{\scriptsize 1CF0F} & \cuKruk{\Large ◌𜼟}{\script
 \begin{tabular}{c|c|l}
 \cline{2-2}
 \textbf{Key:} & \cellcolor{control}~~~ & Control Characters \\\cline{2-2}
-              & \cellcolor{archaic}~~~ & Characters for Archaic Znamenny Notation \\\cline{2-2}
-              & \cellcolor{demestvo}~~~ & Characters for Put / Demestvenny Notation \\\cline{2-2}
+              & \cellcolor{archaic}~~~ & Characters Unique to Archaic Znamenny Notation \\\cline{2-2}
+              & \cellcolor{demestvo}~~~ & Characters Unique to Put / Demestvenny Notation \\\cline{2-2}
 \end{tabular}
 \end{table}
 %%%% end of table %%%%%
@@ -228,33 +233,32 @@ provided in the font. This includes the cinnabar pitch marks, which are still
 entered following the base neume, even though they are generally positioned
 to the left of the neume that they modify.
 
-\begin{figure}[h]
-\centering
+\begin{center}
 \begin{tabular}{lcl}
-\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼰} } & \large → & {\large { \musicFont 𜽐𜼰 } }  \\
-\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼦} } & \large → & {\large { \musicFont 𜽐𜼦 } }  \\
-\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼇} } & \large → & {\large { \musicFont 𜽐𜼇 } }   \\
+\Large{  {\musicFont 𜽐}  + {\musicFont ◌𜼰} } & \Large → & {\Large { \musicFont 𜽐𜼰 } }  \\
+\Large{  {\musicFont 𜽐}  + {\musicFont ◌𜼦} } & \Large → & {\Large { \musicFont 𜽐𜼦 } }  \\
+\Large{  {\musicFont 𜽐}  + {\musicFont ◌𜼇} } & \Large → & {\Large { \musicFont 𜽐𜼇 } }   \\
 \end{tabular}
-\end{figure}
+\end{center}
 
-\textbf{Note}: The font provides both left-attaching and right-attaching cinnabar
+\cuKinovar{Note}: The font provides both left-attaching and right-attaching cinnabar
 pitch marks. The left-attaching pitch marks (which are standard) are encoded in
 Unicode at the codepoints U+1CF00 to U+1CF0B. The right-attaching pitch marks
-are rarely encountered in standard Znamenny Notation; they are encoded at the
+are rarely encountered in standard Znamenny Notation, but are commonly used
+in Put / Demestvenny Notation; they are encoded at the
 codepoints U+1CF0C to U+1CF17 (see Table~\ref{znampts}).
 
-\begin{figure}[h]
-\centering
+\begin{center}
 \begin{tabular}{lcl}
-\large
-\cuKruk{\large 𜽗}{\ttfamily \tiny 1CF57}
+\Large
+\cuKruk{\Large 𜽗}{\ttfamily \scriptsize 1CF57}
 +
-\cuKruk{\large ◌𜼆}{\ttfamily \tiny 1CF06}
+\cuKruk{\Large ◌𜼆}{\ttfamily \scriptsize 1CF06}
 +
-\cuKruk{\large ◌𜼐}{\ttfamily \tiny 1CF10}
- & \large $\rightarrow$ & {\large { \musicFont 𜽗𜼆𜼐 } }  \\
+\cuKruk{\Large ◌𜼐}{\ttfamily \scriptsize 1CF10}
+ & \Large $\rightarrow$ & {\Large { \musicFont 𜽗𜼆𜼐 } }  \\
 \end{tabular}
-\end{figure}
+\end{center}
 
 Multiple modifying marks may be entered following any base neume. Generally speaking,
 the rendering system will position the marks correctly in accordance with the anchor
@@ -263,41 +267,41 @@ are encoded in the order given in Table~\ref{entry}. Note that the \emph{priznak
 control modifiers, if present, must be entered directly following the base neume
 (see below for more information).
 
-\begin{table}[htb]
+\begin{table}[tb]
 \centering
-\caption{Order of encoding (from left to right) \label{entry}}
-\begin{adjustbox}{max width=0.67\textwidth}
+\begin{adjustbox}{max width=0.95\textwidth}
 \begin{tabular}{ccccccc}
  \rotatebox{65}{\textbf{Base Neumes}} & \rotatebox{65}{\textbf{Control Characters}} & \rotatebox{65}{\textbf{Black Pitch Marks}} & \rotatebox{65}{\textbf{Black Modification Marks}}	& \rotatebox{65}{\textbf{Left-Attaching Pitch Marks}} & \rotatebox{65}{\textbf{Red Modification Marks}} & \rotatebox{65}{\textbf{Right-Attaching Pitch Marks}} \\
 
-{\Huge \musicFont \char"1CF50}		& {\Huge \musicFont \char"1CF42} & {\Huge \musicFont ◌\char"1CF30}	&  {\Huge \musicFont ◌\char"1CF33}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF00}} 	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF22}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0C}} \\
+{\Large \musicFont \char"1CF50}		& {\Large \musicFont \char"1CF42} & {\Large \musicFont ◌\char"1CF30}	&  {\Large \musicFont ◌\char"1CF33}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF00}} 	& {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF22}}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF0C}} \\
 
-{\Huge \musicFont \char"1CF52}		& {\Huge \musicFont \char"1CF43} & {\Huge \musicFont ◌\char"1CF31}	&  {\Huge \musicFont ◌\char"1CF35}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF01}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF23}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0D}} \\
+{\Large \musicFont \char"1CF52}		& {\Large \musicFont \char"1CF43} & {\Large \musicFont ◌\char"1CF31}	&  {\Large \musicFont ◌\char"1CF35}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF01}}	& {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF23}}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF0D}} \\
 
-{\Huge \musicFont \char"1CF53}		& {\Huge \musicFont \char"1CF44} 	& {\Huge \musicFont ◌\char"1CF32}	&  {\Huge \musicFont ◌\char"1CF36}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF02}} & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF24}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0E}} \\
+{\Large \musicFont \char"1CF53}		& {\Large \musicFont \char"1CF44} 	& {\Large \musicFont ◌\char"1CF32}	&  {\Large \musicFont ◌\char"1CF36}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF02}} & {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF24}}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF0E}} \\
 
-{\Huge \musicFont \char"1CF6F}		&  				 & 					& 	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF03}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF25}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0F}} \\
+{\Large \musicFont \char"1CF6F}		&  				 & 					& 	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF03}}	& {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF25}}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF0F}} \\
 
-{\Huge \musicFont \char"1CF86}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF38}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF04}} & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF26}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF10}}		\\
+{\Large \musicFont \char"1CF86}		&  				 & 					&  {\Large \musicFont ◌\char"1CF38}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF04}} & {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF26}} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF10}}		\\
 
-{\Huge \musicFont \char"1CF92}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF39}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF05}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF27}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF11}}	\\
+{\Large \musicFont \char"1CF92}		&  				 & 					&  {\Large \musicFont ◌\char"1CF39}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF05}}	& {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF27}} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF11}}	\\
 
-{\Huge \musicFont \char"1CFA2}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3A}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF06}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF28}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF12}} 	\\
+{\Large \musicFont \char"1CFA2}		&  				 & 					&  {\Large \musicFont ◌\char"1CF3A}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF06}}	& {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF28}} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF12}} 	\\
 
-{\Huge \musicFont \char"1CFAC}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3B} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF07}} & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF29}}	&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF13}} \\
+{\Large \musicFont \char"1CFAC}		&  				 & 					&  {\Large \musicFont ◌\char"1CF3B} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF07}} & {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF29}}	&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF13}} \\
 
-{\Huge \musicFont \char"1CFAD}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3C} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF08}}	 & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF2A}}&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF14}}		\\
+{\Large \musicFont \char"1CFAD}		&  				 & 					&  {\Large \musicFont ◌\char"1CF3C} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF08}}	 & {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF2A}}&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF14}}		\\
 
-{\Huge \musicFont \char"1CFAF}		&  				 & 					&  {\Huge \musicFont ◌\char"1CF3D} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF09}}	 & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF2B}}&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF15}}	\\
+{\Large \musicFont \char"1CFAF}		&  				 & 					&  {\Large \musicFont ◌\char"1CF3D} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF09}}	 & {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF2B}}&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF15}}	\\
 
-{\Huge \musicFont \char"1CFC1}		&  				 & 					&  					&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0A}}	& {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF2C}} &  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF16}}	\\
+{\Large \musicFont \char"1CFC1}		&  				 & 					&  					&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF0A}}	& {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF2C}} &  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF16}}	\\
 
-{\Huge \musicFont \char"1CFC3}		&  				 & 					&  					&  {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF0B}}	& & {\Huge \musicFont ◌\textcolor{kinovar}{\char"1CF17}}	\\
+{\Large \musicFont \char"1CFC3}		&  				 & 					&  					&  {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF0B}}	& & {\Large \musicFont ◌\textcolor{kinovar}{\char"1CF17}}	\\
 
 { \emph{etc.} }		&  				 & 					&  					&  	&  &	\\
 
 \end{tabular}
 \end{adjustbox}
+\caption{Order of encoding (from left to right) \label{entry}}
 \end{table}
 
 Multiple combining pitch marks may be applied to a single neume, in which case
@@ -306,7 +310,7 @@ of the neume:
 
 \begin{center}
 \begin{tabular}{lcl}
-\large{  {\musicFont 𜾒}  + {\musicFont ◌𜼆} + {\musicFont ◌𜼇} } & \large → & {\large { \musicFont 𜾒𜼆𜼇 } }  \\
+\Large{  {\musicFont 𜾒}  + {\musicFont ◌𜼆} + {\musicFont ◌𜼇} } & \Large → & {\Large { \musicFont 𜾒𜼆𜼇 } }  \\
 \end{tabular}
 \end{center}
 
@@ -316,8 +320,8 @@ form ligatures in certain instances:
 
 \begin{center}
 \begin{tabular}{lcl}
-\large{  {\musicFont 𜽐}  + {\musicFont ◌𜼰} } & \large → & {\large { \musicFont 𜽐𜼰 } }  \\
-\large{  {\musicFont 𜾆}  + {\musicFont ◌𜼰} } & \large → & {\large { \musicFont 𜾆𜼰 } }
+\Large{  {\musicFont 𜽐}  + {\musicFont ◌𜼰} } & \Large → & {\Large { \musicFont 𜽐𜼰 } }  \\
+\Large{  {\musicFont 𜾆}  + {\musicFont ◌𜼰} } & \Large → & {\Large { \musicFont 𜾆𜼰 } }
 \end{tabular}
 \end{center}
 
@@ -351,32 +355,32 @@ which they apply, even if the actual priznak attaches to the tonal range marks.
 \begin{center}
 %\caption{Encoding model for Priznaki \label{priznakusage}}
 \begin{tabular}{cccccccccl}
-\large
-\cuKruk{\large 𜽐}{\ttfamily \tiny U+1CF50} & {\large +} & 
-\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30}
-& {\large + } &  
-\large \cuKruk{\large ◌𜼄}{\ttfamily \tiny U+1CF04} & & & {\large $\rightarrow$ } &
-\musicFont \large 𜽐𜼰𜼄  & \emph{no priznaki} \\
-\large \cuKruk{\large 𜽐}{\ttfamily \tiny U+1CF50} & \large + &
-\large \cuKruk{\large 𜽂}{\ttfamily \tiny U+1CF42} & \large + &
-\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} & 
-\large \cuKruk{\large ◌𜼄}{\ttfamily \tiny U+1CF04} & \large $\rightarrow$ &
-\musicFont \large 𜽐𜽂𜼰𜼄 & \emph{with lower priznak} \\
-\large \cuKruk{\large 𜾆}{\ttfamily \tiny U+1CF86} & {\large +} & 
-\large \cuKruk{\large 𜽂}{\ttfamily \tiny U+1CF42}  & {\large +} & 
-\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} &
-\large \cuKruk{\large ◌𜼄}{\ttfamily \tiny U+1CF04} & \large $\rightarrow$ &
-\musicFont \large 𜾆𜽂𜼰𜼄 &  \emph{with left priznak} \\
-\large \cuKruk{\large 𜽐}{\ttfamily \tiny U+1CF50} & {\large +} &
-\large \cuKruk{\large 𜽃}{\ttfamily \tiny U+1CF43} & {\large + } &
-\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} & 
-\large \cuKruk{\large ◌𜼅}{\ttfamily \tiny U+1CF05} & {\large $\rightarrow$} &
-\musicFont \large 𜽐𜽃𜼰𜼅 & \emph{with upper priznak} \\
-\large \cuKruk{\large 𜾆}{\ttfamily \tiny U+1CF86} & {\large +} &
-\large \cuKruk{\large 𜽃}{\ttfamily \tiny U+1CF43} & {\large +} &
-\large \cuKruk{\large ◌𜼰}{\ttfamily \tiny U+1CF30} & {\large +} &
-\large \cuKruk{\large ◌𜼅}{\ttfamily \tiny U+1CF05} & {\large $\rightarrow$} &
-\musicFont \large 𜾆𜽃𜼰𜼅 &  \emph{with right priznak} \\
+\Large
+\cuKruk{\Large 𜽐}{\ttfamily \scriptsize U+1CF50} & {\Large +} & 
+\Large \cuKruk{\Large ◌𜼰}{\ttfamily \scriptsize U+1CF30}
+& {\Large + } &  
+\Large \cuKruk{\Large ◌𜼄}{\ttfamily \scriptsize U+1CF04} & & & {\Large $\rightarrow$ } &
+\musicFont \Large 𜽐𜼰𜼄  & \emph{no priznaki} \\
+\Large \cuKruk{\Large 𜽐}{\ttfamily \scriptsize U+1CF50} & \Large + &
+\Large \cuKruk{\Large 𜽂}{\ttfamily \scriptsize U+1CF42} & \Large + &
+\Large \cuKruk{\Large ◌𜼰}{\ttfamily \scriptsize U+1CF30} & {\Large +} & 
+\Large \cuKruk{\Large ◌𜼄}{\ttfamily \scriptsize U+1CF04} & \Large $\rightarrow$ &
+\musicFont \Large 𜽐𜽂𜼰𜼄 & \emph{with lower priznak} \\
+\Large \cuKruk{\Large 𜾆}{\ttfamily \scriptsize U+1CF86} & {\Large +} & 
+\Large \cuKruk{\Large 𜽂}{\ttfamily \scriptsize U+1CF42}  & {\Large +} & 
+\Large \cuKruk{\Large ◌𜼰}{\ttfamily \scriptsize U+1CF30} & {\Large +} &
+\Large \cuKruk{\Large ◌𜼄}{\ttfamily \scriptsize U+1CF04} & \Large $\rightarrow$ &
+\musicFont \Large 𜾆𜽂𜼰𜼄 &  \emph{with left priznak} \\
+\Large \cuKruk{\Large 𜽐}{\ttfamily \scriptsize U+1CF50} & {\Large +} &
+\Large \cuKruk{\Large 𜽃}{\ttfamily \scriptsize U+1CF43} & {\Large + } &
+\Large \cuKruk{\Large ◌𜼰}{\ttfamily \scriptsize U+1CF30} & {\Large +} & 
+\Large \cuKruk{\Large ◌𜼅}{\ttfamily \scriptsize U+1CF05} & {\Large $\rightarrow$} &
+\musicFont \Large 𜽐𜽃𜼰𜼅 & \emph{with upper priznak} \\
+\Large \cuKruk{\Large 𜾆}{\ttfamily \scriptsize U+1CF86} & {\Large +} &
+\Large \cuKruk{\Large 𜽃}{\ttfamily \scriptsize U+1CF43} & {\Large +} &
+\Large \cuKruk{\Large ◌𜼰}{\ttfamily \scriptsize U+1CF30} & {\Large +} &
+\Large \cuKruk{\Large ◌𜼅}{\ttfamily \scriptsize U+1CF05} & {\Large $\rightarrow$} &
+\musicFont \Large 𜾆𜽃𜼰𜼅 &  \emph{with right priznak} \\
 % TODO: add malformed example
 %{\musicFont \Huge \char"1CF86} & {\large +} & {\musicFont \Huge \char"25CC\char"1CF30} & {\large +} & {\musicFont \Huge \char"1CF43} & {\large +} & {\musicFont \Huge \char"00A0\char"25CC\textcolor{kinovar}{\char"1CF05}} & {\large →} & {\musicFont \Huge \char"1CF86\char"1CF30\char"200C\char"1CF43\textcolor{kinovar}{\char"1CF05}} &  \emph{malformed} \\
 %{\tiny \ttfamily U+1CF86} & & {\tiny \ttfamily U+1CF30} & & {\tiny \ttfamily U+1CF43} & & {\tiny \ttfamily U+1CF05} & & \\
@@ -384,14 +388,14 @@ which they apply, even if the actual priznak attaches to the tonal range marks.
 \end{center}
 
 The Mezents font also provides additional support for the more complex system of
-Priznaki used in the \emph{Krug} of Arseny Morozov. For this purpose, the
+Priznaki used in \cite{morozov}. For this purpose, the
 additional control character U+1CF44 Priznak Modifier Direction Flip may be entered,
 which modifies the direction of the priznak:
 
 \begin{center}
 \begin{tabular}{lcl}
-\large{  {\musicFont 𜽐}  + {\musicFont 𜽂} } & \large → & {\large { \musicFont 𜽐𜽂 } }  \\
-\large{  {\musicFont 𜽐}  + {\musicFont 𜽂} + {\musicFont 𜽄} } & \large → & {\large { \musicFont 𜽐𜽂𜽄 } }  \\
+\Large{  {\musicFont 𜽐}  + {\musicFont 𜽂} } & \Large → & {\Large { \musicFont 𜽐𜽂 } }  \\
+\Large{  {\musicFont 𜽐}  + {\musicFont 𜽂} + {\musicFont 𜽄} } & \Large → & {\Large { \musicFont 𜽐𜽂𜽄 } }  \\
 \end{tabular}
 \end{center}
 
@@ -453,10 +457,10 @@ in Figure~\ref{zapyataya2}.
   }
 }
 \end{lilypond}
-\caption{The Zapyataya with Different Priznaki in the \emph{Krug} \label{zapyataya2}}
+\caption{The Zapyataya with Different Priznaki in \cite{morozov} \label{zapyataya2}}
 \end{figure}%
 
-\textbf{Note Further}: the precomposed priznakified glyphs are encoded in the
+\cuKinovar{Note Further}: The precomposed priznakified glyphs are encoded in the
 Private Use Area (PUA) at codepoints U+EB60 to U+EBFF. They can be accessed directly
 in settings where relying on OpenType features is not possible or not desirable. See
 the section on PUA usage, below.
@@ -465,7 +469,7 @@ the section on PUA usage, below.
 
 The Mezenets Unicode font also provides the characters necessary for typesetting
 Demestvenny / Put (Kazan) Notations. An example of the new style of Demestvenny
-Notation presented in Figure~\ref{demestvenny}. The additional glyphs
+Notation is presented in Figure~\ref{demestvenny}. The additional glyphs
 necessary for Demestvenny / Put (Kazan) Notations are labeled in green
 in Figure~\ref{znampts}. In addition, the system of priznaki used in the older Put Notation
 is supported via the two additional control characters U+1CF45 Priznak Modifier
@@ -474,8 +478,8 @@ Figure~\ref{znampts}):
 
 \begin{center}
 \begin{tabular}{lcl}
-\large{  {\musicFont 𜽐}  + {\musicFont 𜽅} } & \large → & {\large { \musicFont 𜽐𜽅 } }  \\
-\large{  {\musicFont 𜽐}  + {\musicFont 𜽆} } & \large → & {\large { \musicFont 𜽐𜽆 } }  \\
+\Large{  {\musicFont 𜽐}  + {\musicFont 𜽅} } & \Large → & {\Large { \musicFont 𜽐𜽅 } }  \\
+\Large{  {\musicFont 𜽐}  + {\musicFont 𜽆} } & \Large → & {\Large { \musicFont 𜽐𜽆 } }  \\
 \end{tabular}
 \end{center}
 
@@ -487,6 +491,7 @@ the use of one of the stylistic sets described below.
 \begin{minipage}{0.75\textwidth}
 \begin{churchslavonic}
 \noindent
+\Large
 \cuKrukPara[krukFont=\newstyle,sylRuleHeight=0.02em]{
 𜽛𜼆𜼓 𜾆𜼈𜾩𜼢𜽐𜼶 𜽐𜽂𜼇 𜽝𜽂𜼢 𜽛𜽃𜼈𜼉 𜽖𜽃𜼈 𜽵𜼢𜼥 𜾆𜽂𜼱𜼇 𜽖𜽀𜼆 𜽛𜼆 𜽖𜽃𜼈 𜽔𜽀𜽀𜼉 𜽝𜽔𜼻𜼊 𜽝𜼤𜽐𜽃𜼈 𜽖𜽃𜽀𜼈 𜽛𜽃𜼈 𜽖𜽂𜼊 𜽵𜼢𜼥 𜽖𜼉 𜽖𜽀𜼢 𜽐𜽂𜼇 𜽖𜼉 𜽛𜽃𜼈𜼒 𜾆𜼱𜼊 𜾩𜼾𜼢𜽝𜼈𜽔𜼻𜼊 𜽝𜼤𜽐𜽃𜼈 𜽝𜽂𜼈 𜽛𜽃𜼈𜼉 𜽖𜽃𜼈 𜽵𜼢𜼥 𜾆𜼇𜾩𜽀𜼢 𜽔𜼆 𜽤𜼅𜼇 𜽚𜼢 𜾆𜽃𜼱𜼈 𜽝𜼻𜼆 𜾁𜼄
 \\
@@ -509,32 +514,32 @@ are typeset in the old style, commonly found in the manuscript tradition.
 
 \begin{center}
 \begin{tabular}{lr}
-Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
-\textbf{ss01}   & {\oldstyle 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+Regular         & {\Large \musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss01}   & {\Large \oldstyle 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
 \end{tabular}
 \end{center}
 
 \item \textbf{ss02} (Stylistic Set 2) -- New-style Demestvenny. This stylistic set turns
 on kerning rules that force adjoining neumes to make ligatures, as is customary
 in Demestvenny Notation. The Zanozhek, Mechik, and other neumes are typeset in the
-new style, as used in the Demestvenny Azbuka printed by L.~Kalashnikov.
+new style, as used in \cite{kalashnikov2}.
 
 \begin{center}
 \begin{tabular}{lr}
-Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
-\textbf{ss02}   & {\newstyle 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+Regular         & {\Large \musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss02}   & {\Large \newstyle 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
 \end{tabular}
 \end{center}
 
 \item \textbf{ss03} (Stylistic Set 3) -- New-style Contracted Demestvenny. This stylistic
 set turns on additional kerning rules that force some adjoining neumes to make
 contracted ligatures. The Zanozhek, Mechik, and other neumes are typeset in the
-new style, as used in the Demestvenny Azbuka printed by L.~Kalashnikov.
+new style, as used in \cite{kalashnikov2}.
 
 \begin{center}
 \begin{tabular}{lr}
-Regular         & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
-\textbf{ss03}   & {\contracted 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+Regular         & {\Large \musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss03}   & {\Large \contracted 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
 \end{tabular}
 \end{center}
 
@@ -546,8 +551,8 @@ the \pkg{churchslavonic} package with the \texttt{noautocolormarks} option.
 
 \begin{center}
 \begin{tabular}{lr}
-Regular             & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
-\textbf{ss04}       & {\musicFont 𜽐𜽖 𜾩𜼾𜽝 𜾩𜾫} \\
+Regular             & {\Large \musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫𜼓} \\
+\textbf{ss04}       & {\Large \musicFont 𜽐𜽖 𜾩𜼾𜽝 𜾩𜾫} \\
 \end{tabular}
 \end{center}
 
@@ -560,7 +565,7 @@ Regular             & {\musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩𜼈𜾫
 \newfontfamily{\znamFont}[StylisticSet=1]{Mezenets Unicode}
 \end{verbatim}
 
-\noindent Please consult the \pkg{fontspec} documentation for more information.
+\noindent Please consult the \href{https://ctan.org/pkg/fontspec}{\pkg{fontspec} documentation} for more information.
 
 In LibreOffice, Stylistic Sets and other advanced OpenType features are available
 starting with version 4.1. However, there is no graphical interface that can be used
@@ -568,12 +573,17 @@ to turn these features on and off. Instead, a special extended font name
 syntax has been developed: in order to activate an optional feature, its ID,
 followed by (optionally) an equals sign and the ID of the desired setting, are appended
 directly to the font name string. An amperstand is used to separate
-different feature/settings pairs. For example, setting the font to the following
+different feature/settings pairs. For example, setting the font to either of the following
 will enable Stylistic Set~1:
 
 \begin{verbatim}
 Mezenets Unicode:ss01
 Mezenets Unicode:ss01=1
+\end{verbatim}
+
+\noindent while setting the following will turn on both Stylistic Sets 1 and 4:
+
+\begin{verbatim}
 Mezenets Unicode:ss01&ss04
 \end{verbatim}
 
@@ -602,8 +612,8 @@ This font is still under development.
 \begin{churchslavonic}
 \archaic
 \noindent
-\let\cuKrukFont=\smol
-\cuKrukPara[sylRuleHeight=0.02em]{
+\Large
+\cuKrukPara[sylRuleHeight=0.02em,krukFont=\smol]{
 𜽒 𜽐 𜽖 𜽖 𜽐𜼱 𜽖 𜽖 𜽖 𜽖 𜽐 𜽞 𜽜 𜾐 𜾆 𜾆 𜽖 𜽖 𜽘 𜽖 𜽐𜼰 𜽜 𜽫 𜽖 𜽖 𜽐𜼰 𜽖 𜽖 𜾵 𜾆 𜾆 𜽞 𜽐𜼱 𜽖 𜽖 𜽐 𜽖 𜽐𜼰 𜽖 𜽖 𜽖 𜽖 𜽐𜼰 𜽖 𜽐 𜽖 𜾆𜼱 𜽖 𜽖 𜽐 𜽖 𜽖 𜽖 𜽜 𜾐 𜾆 𜾁
 \\
 Ко-нѧ и въ-са-дь-ни-ки· въ мо-ре чь-рмь-но-ѥ· съ-крᲂу-ша-ꙗ-и бра-ни· мꙑ-ше-це-ю вꙑ-со-ко-ю· хри-сто-съ ис-трѧ-слъ ѥ-сть· иꙁ-дра-и-лѧ же съ-па-се· по-бѣ-дь-нᲂу-ю пѣс-нь по-ю-щ⁘
@@ -630,7 +640,7 @@ The glyphs were traced on the basis of photographs of the following manuscripts:
 Notation (in particular, the \emph{kryukovye strely} -- ``hook-based arrows''), which
 are colored in light blue in Table~\ref{znampts}.
 
-\textbf{Note that}: this font does not provide any glyphs for the cinnabar marks,
+\cuKinovar{Note}: This font does not provide any glyphs for the cinnabar marks,
 for neumes used in Demestvenny / Put Notation, or any support for priznaki, as these
 are entirely anachronistic to the notation of the period that the font reproduces.
 The font is primarily of interest to Slavic musicologists studying early
@@ -639,22 +649,21 @@ An example of text typeset in this font is presented in Figure~\ref{smolensky}.
 
 \section{Input Methods}
 
-The authors of the font also offer a keyboard layout -- that is,
-an input method for entering Znamenny Notation symbols ont he keyboard.
-The keyboard layout is distributed separately from the fonts; see
-below for installation instructions.
-
-The keyboard layout is a four-level layout. The first level provides
+The authors of the font also offer a keyboard layout for entering
+Znamenny Notation symbols via the keyboard.
+The keyboard layout is distributed separately from the fonts (see
+below for installation instructions). It is a four-level layout.
+The first level provides
 access to the left-side combining cinnabar pitch marks and various neumes, 
 as demonstrated in Figure~\ref{znamkeysmain}. The second level
-may be turned on by pressing the Shift key, and provides access to
-the right-side combning cinnabar pitch marks and various other neumes,
+may be turned on by pressing the \keystroke{Shift} key, and provides access to
+the right-side combining cinnabar pitch marks and various other neumes,
 as demonstrated in Figure~\ref{znamkeyshift}. A third level,
 which provides access to additional neumes (see Figure~\ref{znamkeysalt}),
 is turned on by pressing
-the \texttt{AltGr} key. On Windows systems, this is usually the right Alt key;
-on GNU / Linux this may be either Alt key. A final level is turned on by
-pressing both the \texttt{AltGr} and Shift keys simultaneously; it provides the neumes
+the \keystroke{AltGr} key. On Windows systems, this is usually the right \keystroke{Alt} key;
+on GNU / Linux this may be either \keystroke{Alt} key. A final level is turned on by
+pressing both the \keystroke{AltGr} and \keystroke{Shift} keys simultaneously; it provides the neumes
 demonstrated in Figure~\ref{znamkeysaltshift}.
 
 \begin{figure}[htbp]
@@ -687,7 +696,7 @@ demonstrated in Figure~\ref{znamkeysaltshift}.
 
 \begin{figure}[htbp]
 \centering
-\makebox[0.6\textwidth][s]{\keystroke{\textcolor{lightgray}{`}} \keystroke{\textcolor{lightgray}{1}} \keystroke{\textcolor{lightgray}{2}} \keystroke{\textcolor{lightgray}{3}} \keystroke{~◌𜼘} \keystroke{\textcolor{lightgray}{5}} \keystroke{\textcolor{lightgray}{6}} \keystroke{~◌𜼙} \keystroke{~◌𜼚} \keystroke{~◌𜼛} \keystroke{\textcolor{lightgray}{0}} \keystroke{\textcolor{lightgray}{-}} \keystroke{\textcolor{lightgray}{=}} \keystroke{Bckspc}}
+\makebox[0.6\textwidth][s]{\keystroke{\textcolor{lightgray}{`}} \keystroke{\textcolor{lightgray}{1}} \keystroke{\textcolor{lightgray}{2}} \keystroke{~◌𜼘} \keystroke{\textcolor{lightgray}{4}} \keystroke{\textcolor{lightgray}{5}} \keystroke{\textcolor{lightgray}{6}} \keystroke{~◌𜼙} \keystroke{~◌𜼚} \keystroke{~◌𜼛} \keystroke{\textcolor{lightgray}{0}} \keystroke{\textcolor{lightgray}{-}} \keystroke{\textcolor{lightgray}{=}} \keystroke{Bckspc}}
 
 \makebox[0.6\textwidth][s]{\keystroke{Tab~~} \keystroke{𜿁} \keystroke{𜽷} \keystroke{𜾗} \keystroke{\textcolor{lightgray}{R}} \keystroke{𜾮} \keystroke{𜾠} \keystroke{\textcolor{lightgray}{U}} \keystroke{𜽫} \keystroke{◌𜼪} \keystroke{𜿃} \keystroke{◌𜼥} \keystroke{◌𜼫} \keystroke{~𜾱~}}
 
@@ -729,7 +738,7 @@ Extended layouts.
 For Debian-based systems such as Ubuntu and Linux Mint:
 \begin{enumerate}
 \item Add the SCI ppa to your sources: \texttt{sudo add-apt-repository ppa:aleksandr-andreev/sci}
-\item Update your source: \texttt{sudo apt-get update}
+\item Update your source tree: \texttt{sudo apt update}
 \item Install the library: \texttt{sudo apt install m17n-cu}
 \end{enumerate}
 
@@ -793,6 +802,34 @@ is available on the
 
 \subsubsection{On Microsoft Windows}
 
-Lorem ipsum dolor sit amet ...
+On Windows systems, download the Znamenny Keyboard Layout
+\href{https://www.ponomar.net/files/cu-znams.zip}{zip archive}.
+Extract the archive and run \texttt{setup.exe}. Follow the on-screen instructions.
+Note that because Microsoft Corporation does not recognize Znamenny Notation
+as a valid writing system, the software installs as a Russian keyboard layout
+and will appear in your language bar as \texttt{Russian (Znamenny Notation)}.
+Anecdotal evidence also suggests that Microsoft Windows is unable to
+recognize keyboard entry of characters outside of the Unicode 10.0 range.
+Please note that we do not provide any technical support for Microsoft products.
+Please do not write to the SCI-users mailing list with Windows-related issues.
+
+\begin{thebibliography}{9}
+
+\bibitem{PROP}
+  Andreev A. and N. Simmons.
+  ``Proposal to Encode Znamenny Musical Notation in Unicode''.
+  (L2/19-053). 2019.
+  \url{https://www.ponomar.net/files/palaeoslavic.pdf}
+
+\bibitem{morozov}
+  Morozov, A. I. \textrussian{Круг церковного древнего знаменного пения. В шести частях. Иждивением потомственного почетного гражданина Арсения Ивановича Морозова},
+  St. Petersburg: Tipografiya V.~S. Balasheva, 1884--1885.
+
+\bibitem{kalashnikov2}
+  Kalashnikov, L. F. \textrussian{Азбука Демественного пения}. 
+  Kiev: Tipografiya S.~V. Kulʹzhenko, 1911.
+
+
+\end{thebibliography}
 
 \end{document}
