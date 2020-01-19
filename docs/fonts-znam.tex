@@ -14,6 +14,8 @@
 \newfontfamily{\oldstyle}[Scale=1.5,StylisticSet=1]{MezenetsUnicode}
 \newfontfamily{\newstyle}[Scale=1.5,StylisticSet=2]{MezenetsUnicode}
 \newfontfamily{\contracted}[Scale=1.5,StylisticSet=3]{MezenetsUnicode}
+\newfontfamily{\musicFontSalt}[Scale=1.5,Alternate=0]{MezenetsUnicode}
+\newfontfamily{\musicFontSaltTwo}[Scale=1.5,Alternate=1]{MezenetsUnicode}
 %\newfontfamily{\smol}[Path=../Smolensky/,Extension=.otf,Scale=1.5]{Smolensky-Regular}
 \newfontfamily{\smol}[Scale=1.5]{SmolenskyRegular}
 \newfontfamily{\archaic}[Scale=MatchLowercase]{Menaion Unicode}
@@ -502,9 +504,11 @@ the use of one of the stylistic sets described below.
 \caption{Example of Demestvenny Notation \label{demestvenny}}
 \end{figure}
 
-\subsection{Stylistic Sets}
+\subsection{Advanced Font Features}
 
-The Mezenets Unicode font provides the following stylistic sets:
+The Mezenets Unicode font provides additional glyphs via the
+Stylistic Alternates and Stylistic Sets features.
+The following stylistic sets are available:
 
 \begin{itemize}
 \item \textbf{ss01} (Stylistic Set 1) -- Old-style Demestvenny. This stylistic set turns
@@ -558,7 +562,57 @@ Regular             & {\Large \musicFont 𜽐𜼆𜽖𜼢 𜾩𜼾𜼆𜽝 𜾩�
 
 \end{itemize}
 
-\noindent In \XeTeX{} and \LuaTeX{}, features may be turned on using methods provided in the
+The Stylisic Alternates (\emph{salt}) feature may be used to access
+alternate glyph forms, certain non-contextual variants and various
+non-standard glyphs, as demonstrated in Table~\ref{salts}. The
+codepoints of the glyphs are indicated in parentheses; for alternate
+glyph forms, these are codepoints in the Private Use Area (PUA).
+Accessing glyph alternates from the PUA directly by codepoint
+is not recommended, but may be necessary in certain instances where
+support for OpenType features is not available. See the
+section on the PUA, below.
+
+\begin{table}[htbp]
+\centering
+\caption{Glyphs Accessible via Stylistic Alternates (\emph{salt}) \label{salts}}
+\begin{tabular}{r|ll}
+\textbf{Base Form} & \multicolumn{2}{c}{\textbf{Alternate Forms}} \\
+                   & \texttt{salt=1} & \texttt{salt=2} \\
+\hline
+\musicFont | \texttt{(U+007C)} & \musicFontSalt | \texttt{(U+EA1B)} \\
+\musicFont - \texttt{(U+002D)} & \musicFontSalt - \texttt{(U+EA1D)} \\
+\musicFont э \texttt{(U+044D)} & \musicFontSalt э \texttt{(U+EA1C)} \\
+\musicFont ◌𜼀 \texttt{(U+1CF00)} & \musicFontSalt ◌𜼀 \texttt{(U+EA00)} \\
+\musicFont ◌𜼁 \texttt{(U+1CF01)} & \musicFontSalt ◌𜼁 \texttt{(U+EA02)} \\
+\musicFont ◌𜼃 \texttt{(U+1CF03)} & \musicFontSalt ◌𜼃 \texttt{(U+EA01)}  \\
+\musicFont ◌𜼄 \texttt{(U+1CF04)} & \musicFontSalt ◌𜼄 \texttt{(U+EA03)} \\
+\musicFont ◌𜼅 \texttt{(U+1CF05)} & \musicFontSalt ◌𜼅 \texttt{(U+EA04)} \\
+\musicFont ◌𜼉 \texttt{(U+1CF09)} & \musicFontSalt ◌𜼉 \texttt{(U+EA08)} \\
+\musicFont ◌𜼢 \texttt{(U+1CF22)} & \musicFontSalt ◌𜼢 \texttt{(U+EA10)} \\
+\musicFont ◌𜼣 \texttt{(U+1CF23)} & \musicFontSalt ◌𜼣 \texttt{(U+EA11)} \\
+\musicFont ◌𜼤 \texttt{(U+1CF24)} & \musicFontSalt ◌𜼤 \texttt{(U+EA12)} \\
+\musicFont ◌𜼧 \texttt{(U+1CF27)} & \musicFontSalt ◌𜼧 \texttt{(U+EA13)} \\
+\musicFont ◌𜼭 \texttt{(U+1CF2D)} & \musicFontSalt ◌𜼭 \texttt{(U+EA15)} \\
+\musicFont ◌𜼳 \texttt{(U+1CF33)} & \musicFontSalt ◌𜼳 \texttt{(U+EA16)} \\
+\musicFont ◌𜼵 \texttt{(U+1CF35)} & \musicFontSalt ◌𜼵 \texttt{(U+EA17)} \\
+\musicFont 𜽟 \texttt{(U+1CF5F)} & \musicFontSalt 𜽟 \texttt{(U+EAA1)} \\
+\musicFont 𜽽 \texttt{(U+1CF7D)} & \musicFontSalt 𜽽 \texttt{(U+EAE3)} & \musicFontSaltTwo 𜽽  \texttt{(U+EAE7)} \\
+\musicFont 𜽾 \texttt{(U+1CF7E)} & \musicFontSalt 𜽾  \texttt{(U+EAEE)} & \musicFontSaltTwo 𜽾  \texttt{(U+EAF1)} \\
+\musicFont 𜽿 \texttt{(U+1CF7F)} & \musicFontSalt 𜽿  \texttt{(U+EC21)} \\
+\musicFont 𜾂 \texttt{(U+1CF82)} & \musicFontSalt 𜾂 \texttt{(U+EAF4)} \\
+\musicFont 𜾄 \texttt{(U+1CF84)} & \musicFontSalt 𜾄  \texttt{(U+EAF6)} \\
+\musicFont 𜾅 \texttt{(U+1CF85)} & \musicFontSalt 𜾅  \texttt{(U+EAF8)}\\
+\musicFont 𜾑 \texttt{(U+1CF91)} & \musicFontSalt 𜾑  \texttt{(U+EB0B)}\\
+\musicFont 𜾘 \texttt{(U+1CF98)} & \musicFontSalt 𜾘  \texttt{(U+EB20)}\\
+\musicFont 𜾙 \texttt{(U+1CF99)} & \musicFontSalt 𜾙  \texttt{(U+EB22)} \\
+\musicFont 𜿁 \texttt{(U+1CFC1)} & \musicFontSalt 𜿁  \texttt{(U+EA55)} \\
+\musicFont 𜿂 \texttt{(U+1CFC2)} & \musicFontSalt 𜿂  \texttt{(U+EA56)} \\
+\musicFont 𜿄 \texttt{(U+1CFC4)} & \musicFontSalt 𜿄  \texttt{(U+EB4E)} \\
+\hline
+\end{tabular}
+\end{table}
+
+In \XeTeX{} and \LuaTeX{}, features may be turned on using methods provided in the
 \pkg{fontspec} package, for example:
 
 \begin{verbatim}
@@ -588,7 +642,7 @@ Mezenets Unicode:ss01&ss04
 \end{verbatim}
 
 In HTML, Stylistic Sets and other advanced features may be turned on using the
-\verb+font-feature-settings+ CSS property, for example:
+\texttt{font-feature-settings} CSS property, for example:
 
 \begin{verbatim}
 .class {
@@ -597,8 +651,8 @@ In HTML, Stylistic Sets and other advanced features may be turned on using the
 }
 \end{verbatim}
 
-The feature is supported in the 
-\href{https://caniuse.com/#search=font-feature-settings}{latest version} of most browsers.
+%The feature is supported in the 
+%\href{https://caniuse.com/#search=font-feature-settings}{latest version} of most browsers.
 
 \section{Shaidur Unicode}
 
