@@ -5,7 +5,7 @@ FamilyName: Mezenets Unicode
 Weight: Medium
 Copyright: Copyright 2013-2019 Aleksandr Andreev and Nikita Simmons.\n\nThis font is part of the Ponomar Project Slavonic Computing Initiative. See http://sci.ponomar.net/ for more information.\n\nOriginal glyph design by Nikita Simmons. Reencoding for Unicode, OpenType and Graphite feature creation and some tweaking by Aleksandr Andreev.
 UComments: "2014-4-19: Created.+AAoA-See README for more information."
-Version: 0.875
+Version: 0.90
 ItalicAngle: 0
 UnderlinePosition: -80
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1586324368
+ModificationTime: 1587617593
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
