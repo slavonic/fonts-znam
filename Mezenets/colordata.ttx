@@ -156,12 +156,24 @@
     </ColorGlyph>
     <!-- KAZAN NOTATION PRIZNAKI -->
     <ColorGlyph name="uniEF60">
-      <layer colorID="1" name="uniEA5F"/>
+      <layer colorID="1" name="uniEA46"/>
       <layer colorID="0" name="u1CF50"/>
     </ColorGlyph>
     <ColorGlyph name="uniEF61">
       <layer colorID="1" name="uniEA47"/>
       <layer colorID="0" name="u1CF50"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEF62">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="u1CF52"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEF63">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="u1CF54"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEF64">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="u1CF54"/>
     </ColorGlyph>
     <!-- GLYPHS ENCODED IN UNICODE -->
     <ColorGlyph name="u1CF00">
