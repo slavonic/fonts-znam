@@ -154,7 +154,7 @@
     <ColorGlyph name="uniEA43">
       <layer colorID="1" name="uniEA43"/>
     </ColorGlyph>
-    <!-- KAZAN NOTATION PRIZNAKI -->
+    <!-- KAZAN NOTATION PRIZNAKI
     <ColorGlyph name="uniEF60">
       <layer colorID="1" name="uniEA46"/>
       <layer colorID="0" name="u1CF50"/>
@@ -174,7 +174,7 @@
     <ColorGlyph name="uniEF64">
       <layer colorID="1" name="uniEA47"/>
       <layer colorID="0" name="u1CF54"/>
-    </ColorGlyph>
+    </ColorGlyph> -->
     <!-- GLYPHS ENCODED IN UNICODE -->
     <ColorGlyph name="u1CF00">
       <layer colorID="1" name="u1CF00"/>
