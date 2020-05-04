@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1588360968
+ModificationTime: 1588597024
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 702 26 8
+WinInfo: 837 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -2289,7 +2289,7 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: afii301
+StartChar: uni200D
 Encoding: 8205 8205 49
 Width: 817
 VWidth: 2048
@@ -2799,7 +2799,7 @@ EndSplineSet
 Validated: 3073
 EndChar
 
-StartChar: uniEE00
+StartChar: u1CF00.ss04
 Encoding: 60928 60928 67
 Width: 0
 VWidth: 999
@@ -2854,7 +2854,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE01
+StartChar: u1CF01.ss04
 Encoding: 60929 60929 68
 Width: 0
 VWidth: 999
@@ -2915,7 +2915,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE02
+StartChar: u1CF02.ss04
 Encoding: 60930 60930 69
 Width: 0
 VWidth: 999
@@ -2961,7 +2961,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE03
+StartChar: u1CF03.ss04
 Encoding: 60931 60931 70
 Width: 0
 VWidth: 999
@@ -2996,7 +2996,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE04
+StartChar: u1CF04.ss04
 Encoding: 60932 60932 71
 Width: 0
 VWidth: 999
@@ -3037,7 +3037,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE05
+StartChar: u1CF05.ss04
 Encoding: 60933 60933 72
 Width: 0
 VWidth: 999
@@ -3060,7 +3060,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE06
+StartChar: u1CF06.ss04
 Encoding: 60934 60934 73
 Width: 0
 VWidth: 999
@@ -3102,7 +3102,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE07
+StartChar: u1CF07.ss04
 Encoding: 60935 60935 74
 Width: 0
 VWidth: 999
@@ -3142,7 +3142,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE08
+StartChar: u1CF08.ss04
 Encoding: 60936 60936 75
 Width: 0
 VWidth: 999
@@ -3187,7 +3187,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE09
+StartChar: u1CF09.ss04
 Encoding: 60937 60937 76
 Width: 0
 VWidth: 999
@@ -3234,7 +3234,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE0A
+StartChar: u1CF0A.ss04
 Encoding: 60938 60938 77
 Width: 0
 VWidth: 999
@@ -3279,7 +3279,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE0B
+StartChar: u1CF0B.ss04
 Encoding: 60939 60939 78
 Width: 0
 GlyphClass: 4
@@ -3328,7 +3328,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE11
+StartChar: u1CF19.ss04
 Encoding: 60945 60945 79
 Width: 0
 VWidth: 999
@@ -3387,7 +3387,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE13
+StartChar: u1CF1B.ss04
 Encoding: 60947 60947 80
 Width: 0
 VWidth: 999
@@ -3445,7 +3445,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE15
+StartChar: u1CF1D.ss04
 Encoding: 60949 60949 81
 Width: 0
 VWidth: 999
@@ -6819,7 +6819,7 @@ LCarets2: 1 0
 Colour: ffc259
 EndChar
 
-StartChar: uniEE17
+StartChar: u1CF1F.ss04
 Encoding: 60951 60951 139
 Width: 0
 VWidth: 999
@@ -7004,7 +7004,7 @@ Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffc259
 EndChar
 
-StartChar: uniEE10
+StartChar: u1CF18.ss04
 Encoding: 60944 60944 142
 Width: 0
 VWidth: 999
@@ -7068,7 +7068,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE12
+StartChar: u1CF1A.ss04
 Encoding: 60946 60946 143
 Width: 0
 VWidth: 999
@@ -7129,7 +7129,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE14
+StartChar: u1CF1C.ss04
 Encoding: 60948 60948 144
 Width: 0
 VWidth: 999
@@ -7181,7 +7181,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE16
+StartChar: u1CF1E.ss04
 Encoding: 60950 60950 145
 Width: 0
 VWidth: 999
@@ -7241,7 +7241,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE1F
+StartChar: u1CF2D.ss04
 Encoding: 60959 60959 146
 Width: 0
 VWidth: 999
@@ -7492,7 +7492,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE30
+StartChar: u1CF20.ss04
 Encoding: 60976 60976 151
 Width: 0
 GlyphClass: 4
@@ -7531,7 +7531,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE31
+StartChar: u1CF21.ss04
 Encoding: 60977 60977 152
 Width: 0
 VWidth: 999
@@ -7558,7 +7558,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE32
+StartChar: u1CF22.ss04
 Encoding: 60978 60978 153
 Width: 0
 VWidth: 999
@@ -7594,7 +7594,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE33
+StartChar: u1CF23.ss04
 Encoding: 60979 60979 154
 Width: 0
 VWidth: 999
@@ -7614,7 +7614,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE34
+StartChar: u1CF24.ss04
 Encoding: 60980 60980 155
 Width: 0
 VWidth: 999
@@ -7656,7 +7656,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE35
+StartChar: u1CF25.ss04
 Encoding: 60981 60981 156
 Width: 0
 VWidth: 999
@@ -7691,7 +7691,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE36
+StartChar: u1CF26.ss04
 Encoding: 60982 60982 157
 Width: 0
 VWidth: 999
@@ -7720,7 +7720,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE37
+StartChar: u1CF27.ss04
 Encoding: 60983 60983 158
 Width: 0
 GlyphClass: 4
@@ -7756,7 +7756,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE38
+StartChar: u1CF28.ss04
 Encoding: 60984 60984 159
 Width: 0
 VWidth: 999
@@ -7788,7 +7788,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE39
+StartChar: u1CF29.ss04
 Encoding: 60985 60985 160
 Width: 0
 GlyphClass: 4
@@ -7819,7 +7819,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE3A
+StartChar: u1CF2A.ss04
 Encoding: 60986 60986 161
 Width: 0
 VWidth: 999
@@ -7856,7 +7856,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE3B
+StartChar: u1CF2B.ss04
 Encoding: 60987 60987 162
 Width: 0
 GlyphClass: 4
@@ -7887,7 +7887,7 @@ EndSplineSet
 Colour: ffc259
 EndChar
 
-StartChar: uniEE3C
+StartChar: u1CF2C.ss04
 Encoding: 60988 60988 163
 Width: 0
 VWidth: 999
@@ -29903,7 +29903,7 @@ Validated: 1
 Colour: ffc259
 EndChar
 
-StartChar: uniEE20
+StartChar: u1CF0C.ss04
 Encoding: 60960 60960 554
 Width: 0
 VWidth: 0
@@ -29919,7 +29919,7 @@ Refer: 1599 118540 S 1 0 0 1 20 0 2
 Colour: ffc259
 EndChar
 
-StartChar: uniEE21
+StartChar: u1CF0D.ss04
 Encoding: 60961 60961 555
 Width: 0
 VWidth: 0
@@ -29935,7 +29935,7 @@ Refer: 1600 118541 S 1 0 0 1 30 0 2
 Colour: ffc259
 EndChar
 
-StartChar: uniEE22
+StartChar: u1CF0E.ss04
 Encoding: 60962 60962 556
 Width: 0
 VWidth: 0
@@ -29951,7 +29951,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE23
+StartChar: u1CF0F.ss04
 Encoding: 60963 60963 557
 Width: 0
 VWidth: 0
@@ -29967,7 +29967,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE24
+StartChar: u1CF10.ss04
 Encoding: 60964 60964 558
 Width: 0
 VWidth: 0
@@ -29983,7 +29983,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE25
+StartChar: u1CF11.ss04
 Encoding: 60965 60965 559
 Width: 0
 VWidth: 0
@@ -29999,7 +29999,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE26
+StartChar: u1CF12.ss04
 Encoding: 60966 60966 560
 Width: 0
 VWidth: 0
@@ -30015,7 +30015,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE27
+StartChar: u1CF13.ss04
 Encoding: 60967 60967 561
 Width: 0
 VWidth: 0
@@ -30027,11 +30027,10 @@ AnchorPoint: "FinalPitch" 102 550 mark 0
 LayerCount: 2
 Fore
 Refer: 373 118547 N 1 0 0 1 0 0 2
-Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE28
+StartChar: u1CF14.ss04
 Encoding: 60968 60968 562
 Width: 0
 VWidth: 0
@@ -30047,7 +30046,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE29
+StartChar: u1CF15.ss04
 Encoding: 60969 60969 563
 Width: 0
 VWidth: 0
@@ -30063,7 +30062,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE2A
+StartChar: u1CF16.ss04
 Encoding: 60970 60970 564
 Width: 0
 VWidth: 0
@@ -30079,7 +30078,7 @@ Validated: 32769
 Colour: ffc259
 EndChar
 
-StartChar: uniEE2B
+StartChar: u1CF17.ss04
 Encoding: 60971 60971 565
 Width: 0
 VWidth: 0
@@ -30135,7 +30134,7 @@ Validated: 1
 Colour: ffc259
 EndChar
 
-StartChar: uniEE3D
+StartChar: uniEA18.ss04
 Encoding: 60989 60989 570
 Width: 0
 VWidth: 0
