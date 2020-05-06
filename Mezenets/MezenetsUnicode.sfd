@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1588704207
+ModificationTime: 1588737206
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1048,12 +1048,13 @@ OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
 OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60183 27 9
+WinInfo: 729 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -1076,7 +1077,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Stacking" "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya" "'mark' Cinnabar Mark Positioning-1" "Zevok" "'mark' Cinnabar Mark Positioning-1" "Kachka" "'mark' Cinnabar Mark Positioning-1" "Lomka" "'mark' Cinnabar Mark Positioning-1" "Podvertka" "'mark' Cinnabar Mark Positioning-1" "FinalPitch" "'mark' Cinnabar Mark Positioning-1" "Borzaya" "'mark' Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Mark Positioning-1" "Auxiliary" "'mark' Cinnabar Mark Positioning-1" "Podtinka" "'mark' Black Mark Positioning-1" "Flexion" "'mark' Black Mark Positioning-1" "PitchMark" "'mark' Cinnabar Mark Positioning-1" "Podchashie" "'mark' Black Mark Positioning-1" "TonalRange" "'mark' Black Mark Positioning-1" "Omet" "'mark' Black Mark Positioning-1" "Tochka" "'mark' Black Mark Positioning-1" "Zaderzhka" "'mark' Black Mark Positioning-1"
-BeginChars: 1114112 2145
+BeginChars: 1114112 2143
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -20431,9 +20432,9 @@ EndChar
 StartChar: uniEA5F
 Encoding: 59999 59999 378
 Width: 145
-Flags: HW
-HStem: 0 21G<43.0247 59.5714>
-VStem: 41 74<457.364 497> 41 26<28 69.1463>
+Flags: W
+HStem: 0 21G<43.0469 59.5714>
+DStem2: 41 0 67 28 0.101814 0.994803<30.5017 456.778>
 AnchorPoint: "Omet" 212 149 basechar 0
 AnchorPoint: "FinalPitch" 325 300 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -20456,7 +20457,7 @@ Fore
 SplineSet
 67 28 m 5
  41 0 l 5
- 89 469 l 5xa0
+ 89 469 l 5
  72 481 54.2421875 493.50390625 38 501 c 4
  25 507 39 514 42 515 c 4
  48 518 70 527 78 527 c 4
@@ -21563,7 +21564,7 @@ StartChar: uniEA46
 Encoding: 59974 59974 418
 Width: 625
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: -93 131
 VStem: -85 149
 LayerCount: 2
@@ -37317,8 +37318,9 @@ StartChar: uniEA65
 Encoding: 60005 60005 704
 Width: 650
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: 0 21G<32.0168 47.5> 451 125<478.289 545.226>
+DStem2: 18 290 70 162 0.103034 0.994678<-48.014 38.9803> 54 238 70 162 0.101556 0.99483<-73.9822 0 94.2742 193.785> 522 49 545 64 0.0999641 0.994991<17.224 126.568 268.471 376.578>
 AnchorPoint: "FinalPitch" 775 300 basechar 0
 AnchorPoint: "Auxiliary" 265 800 basechar 0
 AnchorPoint: "TonalRange" 425 680 basechar 0
@@ -97972,7 +97974,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
 EndSplineSet
-Validated: 527361
+Validated: 3073
 Colour: ffff00
 EndChar
 
@@ -98058,7 +98060,7 @@ SplineSet
  511 217 456 208 425 145 c 1
  437 272 l 1
 EndSplineSet
-Validated: 527361
+Validated: 3073
 Colour: ffff00
 EndChar
 
@@ -98222,7 +98224,7 @@ SplineSet
  441 96 386 87 355 24 c 1
  367 151 l 1
 EndSplineSet
-Validated: 527361
+Validated: 3073
 Colour: ffff00
 EndChar
 
@@ -98398,7 +98400,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
 EndSplineSet
-Validated: 527361
+Validated: 3073
 Colour: ffff00
 EndChar
 
@@ -98575,7 +98577,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
 EndSplineSet
-Validated: 527361
+Validated: 3073
 Colour: ffff00
 EndChar
 
@@ -98741,7 +98743,7 @@ SplineSet
  297 404 l 1
  381 481 498 576 519 576 c 0
 EndSplineSet
-Validated: 527365
+Validated: 3077
 Colour: ffff00
 EndChar
 
@@ -99714,7 +99716,7 @@ SplineSet
  455 39 426 30 400 30 c 0xc0d0
  364 30 340 48 337 80 c 0
 EndSplineSet
-Validated: 8915969
+Validated: 3073
 Colour: ffff00
 EndChar
 
@@ -117854,26 +117856,6 @@ EndChar
 
 StartChar: uniF61F
 Encoding: 63007 63007 2142
-Width: 1000
-VWidth: 0
-LayerCount: 2
-Fore
-Validated: 1
-Colour: ffff00
-EndChar
-
-StartChar: uniEA19
-Encoding: 59929 59929 2143
-Width: 1000
-VWidth: 0
-LayerCount: 2
-Fore
-Validated: 1
-Colour: ffff00
-EndChar
-
-StartChar: uniEA1A
-Encoding: 59930 59930 2144
 Width: 1000
 VWidth: 0
 LayerCount: 2
