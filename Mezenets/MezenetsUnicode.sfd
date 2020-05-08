@@ -70,16 +70,16 @@ Lookup: 257 0 0 "Advance neume with cinnabar mark" { "Advance neume with cinnaba
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 2 3 "'kern' Vertical Omet +- Zapyataya-based neumes"
- 207 uniEA60 uniEA64 uniEA67 uniEA6C uniEA77 uniEA7A uniEA8D uniEAC6 uniEAC9 uniEAD0 uniEAD8 uniEADA uniEADC uniEB17 uniEB1D uniEB24 uniEB27 uniEB33 uniEB38 uniEB3D uniEB41 uniEB52 uniEFA2 uniEFDF uniEFED uniEFF1
+ 207 uniEA60 uniEA64 uniEA67 uniEA6C uniEA77 uniEA7A uniEA8D uniEAC6 uniEAC9 uniEAD0 uniEAD8 uniEADA uniEADC uniEB17 uniEB1D uniEB24 uniEB27 uniEB33 uniEB38 uniEB3D uniEB41 uniEB52 uniF4D8 uniEFDF uniEFED uniEFF1
  276 uniEAA3 uniEAA4 uniEAA5 uniEAA6 uniEAA7 uniEAA8 uniEAA9 uniEAAA uniEAAB uniEAAD uniEAAE uniEAAF uniEAB0 uniEAB1 uniEAB2 uniEAB3 uniEAB4 uniEAB6 uniEAB7 uniEAB8 uniEAB9 uniEABA uniEABB uniEABC uniEABD u1CF60 u1CF61 u1CF62 u1CF63 u1CF64 u1CF65 u1CF66 u1CF67 u1CF68 u1CF69 u1CF6A
  6 u1CF5D
  0 {} 0 {} 0 {} 0 {} -140 {} -125 {}
 KernClass2: 2 2 "'kern' Demestvenny kerning - Newstyle"
- 361 uniEA76 uniEA8C uniEB26 uniEB2D uniEB30 uniF400 uniF401 uniF40A uniF41A uniF41B uniEFA0 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC1 uniEFC2 uniEFC5 uniEFC6 uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0 uniEFF5 uniEFF6 u1CF50 u1CF52 u1CF53 u1CF54 u1CF55 u1CF72 u1CF75 u1CF76 u1CF79 u1CF7A u1CF96 u1CF98 u1CF9B u1CF9D
+ 361 uniEA76 uniEA8C uniEB26 uniEB2D uniEB30 uniF400 uniF401 uniF40A uniF41A uniF41B uniF4D6 uniF4FC uniF504 uniF544 uniF545 uniF564 uniF565 uniF56A uniF56B uniF570 uniF571 uniF57C uniF57D uniEFE6 uniEFE7 uniEFE8 uniEFE9 uniEFEA uniEFEB uniEFEC uniEFF0 uniEFF5 uniEFF6 u1CF50 u1CF52 u1CF53 u1CF54 u1CF55 u1CF72 u1CF75 u1CF76 u1CF79 u1CF7A u1CF96 u1CF98 u1CF9B u1CF9D
  267 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEC12 uniEC17 uniEFD7 uniEFDF uniEFE0 uniEFE6 uniEFED uniEFEE uniEFEF uniEFF0 uniEFF1 uniEFF2 uniEFF3 uniEFF5 uniEFF7 u1CF50 u1CF54 u1CF56 u1CF59
  0 {} 0 {} 0 {} -140 {}
 KernClass2: 2 2 "'kern' Demestvenny kerning - Oldstyle"
- 312 uniEA76 uniEB26 uniEB2D uniEB30 uniEB3C uniF400 uniF401 uniF40A uniF41A uniF41B uniEFA0 uniEFA1 uniEFA7 uniEFA8 uniEFB3 uniEFB4 uniEFBD uniEFBE uniEFBF uniEFC0 uniEFC1 uniEFC2 uniEFC5 uniEFC6 uniEFCD uniEFCE u1CF50 u1CF53 u1CF54 u1CF55 u1CF72 u1CF75 u1CF76 u1CF79 u1CF7A u1CF96 u1CF98 u1CF9B u1CF9D u1CFA9 u1CFAA
+ 312 uniEA76 uniEB26 uniEB2D uniEB30 uniEB3C uniF400 uniF401 uniF40A uniF41A uniF41B uniF4D6 uniEFA1 uniF4FC uniF504 uniF544 uniF545 uniF564 uniF565 uniF56A uniF56B uniF570 uniF571 uniF57C uniF57D uniEFCD uniEFCE u1CF50 u1CF53 u1CF54 u1CF55 u1CF72 u1CF75 u1CF76 u1CF79 u1CF7A u1CF96 u1CF98 u1CF9B u1CF9D u1CFA9 u1CFAA
  263 uniEA60 uniEA61 uniEA62 uniEA6C uniEA6D uniEA6E uniEA6F uniEA7D uniEA7E uniEA7F uniEA81 uniEA82 uniEA83 uniEA85 uniEA86 uniEB33 uniEB34 uniEB38 uniEB39 uniEB3A uniEB3C uniEB3D uniEB3E uniEB3F uniEC12 uniEC17 u1CF50 u1CF54 u1CF56 u1CF59 u1CFA7 u1CFA9 u1CFAA u1CFAB
  0 {} 0 {} 0 {} -140 {}
 ChainSub2: class "'ss03' Contextual Demestvenny Contraction-3" 0 0 0 0
@@ -1043,17 +1043,17 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 62478 26 8
+WinInfo: 62686 26 8
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -27483,8 +27483,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB3
-Encoding: 61363 61363 517
+StartChar: uniF544
+Encoding: 62788 62788 517
 Width: 790
 VWidth: 0
 Flags: W
@@ -27563,7 +27563,6 @@ SplineSet
  516 218 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF45
 Colour: ffff00
 EndChar
@@ -28471,8 +28470,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFAB
-Encoding: 61355 61355 530
+StartChar: uniF515
+Encoding: 62741 62741 530
 Width: 240
 VWidth: 0
 Flags: W
@@ -28515,7 +28514,6 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF46
-LCarets2: 1 0
 Colour: ffff00
 EndChar
 
@@ -28693,8 +28691,8 @@ Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB5
-Encoding: 61365 61365 534
+StartChar: uniF54C
+Encoding: 62796 62796 534
 Width: 790
 VWidth: 0
 Flags: W
@@ -28779,12 +28777,11 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF45
-LCarets2: 1 0
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB2
-Encoding: 61362 61362 535
+StartChar: uniF541
+Encoding: 62785 62785 535
 Width: 790
 VWidth: 999
 Flags: W
@@ -28847,13 +28844,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFCA
-Encoding: 61386 61386 536
+StartChar: uniF587
+Encoding: 62855 62855 536
 Width: 990
 VWidth: 999
 Flags: W
@@ -28937,13 +28933,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB8
-Encoding: 61368 61368 537
+StartChar: uniF554
+Encoding: 62804 62804 537
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
@@ -29034,12 +29029,11 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF45
-LCarets2: 1 0
 Colour: ffff00
 EndChar
 
-StartChar: uniEFBE
-Encoding: 61374 61374 538
+StartChar: uniF565
+Encoding: 62821 62821 538
 Width: 790
 VWidth: 999
 Flags: W
@@ -29101,12 +29095,11 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF46
-LCarets2: 1 0
 Colour: ffff00
 EndChar
 
-StartChar: uniEFBA
-Encoding: 61370 61370 539
+StartChar: uniF55A
+Encoding: 62810 62810 539
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
@@ -29202,7 +29195,6 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF45
-LCarets2: 1 0
 Colour: ffff00
 EndChar
 
@@ -29440,8 +29432,8 @@ Ligature2: "Znamenny Priznakification-1" u1CFB4 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC6
-Encoding: 61382 61382 543
+StartChar: uniF57D
+Encoding: 62845 62845 543
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
@@ -29511,7 +29503,6 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF46
 Colour: ffff00
 EndChar
@@ -29674,8 +29665,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF9C u1CF40
 Colour: ffff
 EndChar
 
-StartChar: uniEFC8
-Encoding: 61384 61384 546
+StartChar: uniF581
+Encoding: 62849 62849 546
 Width: 990
 VWidth: 999
 Flags: W
@@ -29749,7 +29740,6 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF46
 Colour: ffff00
 EndChar
@@ -38256,8 +38246,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC0
-Encoding: 61376 61376 720
+StartChar: uniF56B
+Encoding: 62827 62827 720
 Width: 790
 VWidth: 999
 Flags: W
@@ -38323,8 +38313,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFBE u1CF30
+Ligature2: "Znamenny Priznakification Round 2-1" uniF565 u1CF30
 Colour: ffff00
 EndChar
 
@@ -54509,8 +54498,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEFA0
-Encoding: 61344 61344 1013
+StartChar: uniF4D6
+Encoding: 62678 62678 1013
 Width: 625
 VWidth: 0
 Flags: W
@@ -54578,13 +54567,12 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFA2
-Encoding: 61346 61346 1014
+StartChar: uniF4D8
+Encoding: 62680 62680 1014
 Width: 625
 VWidth: 0
 Flags: W
@@ -54656,14 +54644,13 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
+Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF3E
 Colour: ffff00
 EndChar
 
-StartChar: uniEFA4
-Encoding: 61348 61348 1015
+StartChar: uniF4DA
+Encoding: 62682 62682 1015
 Width: 625
 VWidth: 0
 Flags: W
@@ -54741,9 +54728,8 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
+Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEACA u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFA0 u1CF40
 Colour: ffff00
 EndChar
 
@@ -54756,8 +54742,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEFA8
-Encoding: 61352 61352 1017
+StartChar: uniF504
+Encoding: 62724 62724 1017
 Width: 625
 VWidth: 0
 Flags: W
@@ -54827,7 +54813,6 @@ SplineSet
  367 241 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF45
 Colour: ffff00
 EndChar
@@ -54841,8 +54826,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEFAD
-Encoding: 61357 61357 1019
+StartChar: uniF538
+Encoding: 62776 62776 1019
 Width: 790
 VWidth: 999
 Flags: W
@@ -54911,13 +54896,12 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFAE
-Encoding: 61358 61358 1020
+StartChar: uniF539
+Encoding: 62777 62777 1020
 Width: 790
 VWidth: 999
 Flags: W
@@ -54975,13 +54959,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFAF
-Encoding: 61359 61359 1021
+StartChar: uniF53E
+Encoding: 62782 62782 1021
 Width: 790
 VWidth: 0
 Flags: W
@@ -55063,13 +55046,12 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB0
-Encoding: 61360 61360 1022
+StartChar: uniF53F
+Encoding: 62783 62783 1022
 Width: 790
 VWidth: 0
 Flags: W
@@ -55140,13 +55122,12 @@ SplineSet
  115 272 135 290 155 302 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB6
-Encoding: 61366 61366 1023
+StartChar: uniF54D
+Encoding: 62797 62797 1023
 Width: 790
 VWidth: 0
 Flags: W
@@ -55219,13 +55200,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB9
-Encoding: 61369 61369 1024
+StartChar: uniF555
+Encoding: 62805 62805 1024
 Width: 790
 Flags: W
 HStem: 0 21G<194.869 196> 450 126<639.722 709.078>
@@ -55304,13 +55284,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFBB
-Encoding: 61371 61371 1025
+StartChar: uniF55B
+Encoding: 62811 62811 1025
 Width: 790
 Flags: W
 HStem: 0 15G<194.869 196 420.89 434.5> 450 126<639.722 709.078>
@@ -55394,7 +55373,6 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF46
 Colour: ffff00
 EndChar
@@ -55408,8 +55386,8 @@ Validated: 1
 Colour: ffff00
 EndChar
 
-StartChar: uniEFBD
-Encoding: 61373 61373 1027
+StartChar: uniF564
+Encoding: 62820 62820 1027
 Width: 790
 VWidth: 999
 Flags: W
@@ -55481,13 +55459,12 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFBF
-Encoding: 61375 61375 1028
+StartChar: uniF56A
+Encoding: 62826 62826 1028
 Width: 790
 VWidth: 999
 Flags: W
@@ -55564,13 +55541,12 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFBD u1CF30
+Ligature2: "Znamenny Priznakification Round 2-1" uniF564 u1CF30
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC1
-Encoding: 61377 61377 1029
+StartChar: uniF570
+Encoding: 62832 62832 1029
 Width: 790
 VWidth: 999
 Flags: W
@@ -55652,13 +55628,12 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFBD u1CF31
+Ligature2: "Znamenny Priznakification Round 2-1" uniF564 u1CF31
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC2
-Encoding: 61378 61378 1030
+StartChar: uniF571
+Encoding: 62833 62833 1030
 Width: 790
 VWidth: 999
 Flags: W
@@ -55729,13 +55704,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEFBE u1CF31
+Ligature2: "Znamenny Priznakification Round 2-1" uniF565 u1CF31
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC3
-Encoding: 61379 61379 1031
+StartChar: uniF574
+Encoding: 62836 62836 1031
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
@@ -55819,13 +55793,12 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC4
-Encoding: 61380 61380 1032
+StartChar: uniF575
+Encoding: 62837 62837 1032
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
@@ -55898,13 +55871,12 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC5
-Encoding: 61381 61381 1033
+StartChar: uniF57C
+Encoding: 62844 62844 1033
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083> 450 126<640.126 709.369>
@@ -55985,13 +55957,12 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC7
-Encoding: 61383 61383 1034
+StartChar: uniF580
+Encoding: 62848 62848 1034
 Width: 990
 VWidth: 999
 Flags: W
@@ -56076,13 +56047,12 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFC9
-Encoding: 61385 61385 1035
+StartChar: uniF586
+Encoding: 62854 62854 1035
 Width: 990
 VWidth: 999
 Flags: W
@@ -56177,7 +56147,6 @@ SplineSet
  802 668 872 713 885 713 c 0x80
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF45
 Colour: ffff00
 EndChar
@@ -58509,8 +58478,8 @@ Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFAA
-Encoding: 61354 61354 1067
+StartChar: uniF514
+Encoding: 62740 62740 1067
 Width: 240
 VWidth: 0
 Flags: W
@@ -58563,7 +58532,6 @@ SplineSet
  106 343 l 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF45
 Colour: ffff00
 EndChar
@@ -60820,8 +60788,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB1
-Encoding: 61361 61361 1109
+StartChar: uniF540
+Encoding: 62784 62784 1109
 Width: 790
 VWidth: 999
 Flags: W
@@ -60895,13 +60863,12 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF45
 Colour: ffff00
 EndChar
 
-StartChar: uniEFB4
-Encoding: 61364 61364 1110
+StartChar: uniF545
+Encoding: 62789 62789 1110
 Width: 790
 VWidth: 0
 Flags: W
@@ -60969,7 +60936,6 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF46
 Colour: ffff00
 EndChar
@@ -86534,8 +86500,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF46
 Colour: ffff00
 EndChar
 
-StartChar: uniEFA7
-Encoding: 61351 61351 1590
+StartChar: uniF4FC
+Encoding: 62716 62716 1590
 Width: 625
 VWidth: 0
 Flags: W
@@ -86595,7 +86561,6 @@ SplineSet
  442 532 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF45
 Colour: ffff00
 EndChar
