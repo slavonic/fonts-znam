@@ -30,7 +30,20 @@ make fonts
 ```
 ## Requirements
 
-Building the fonts requires Python and FontForge.
+The fonts include color data in both COLR / CPAL format and OpenType-SVG format.
+Building the fonts requires:
+
+* Python 3.6 or later
+* [FontForge](https://github.com/fontforge/fontforge)
+* [FontTools 3.1.0 or later](https://github.com/fonttools/fonttools)
+* [opentype-svg](https://github.com/adobe-type-tools/opentype-svg)
+
+The latter two packages can be installed via `pip`:
+
+```
+pip3 install fonttools
+pip3 install opentypesvg
+```
 
 ## License
 
