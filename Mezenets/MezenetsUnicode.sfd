@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1589137137
+ModificationTime: 1589155597
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -44,8 +44,9 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "Support for deprecated mappings (ccmp)" { "Support for deprecated mappings (ccmp)-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "Znamenny Priznakification" { "Znamenny Priznakification-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "Znamenny Priznakification Round 2" { "Znamenny Priznakification Round 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Priznaki for Znamenny Notation" { "Priznaki for Znamenny Notation-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Priznaki for Demestvenny Notation" { "Priznaki for Demestvenny Notation-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Priznaki for Put Notation" { "Priznaki for Put Notation-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "Precomposed forms for Znamenny Notation" { "Precomposed forms for Znamenny Notation-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "Precomposed forms for Znamenny Round 2" { "Precomposed forms for Znamenny Round 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "Precomposed forms for Znamenny Round 3" { "Precomposed forms for Znamenny Round 3-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -1054,7 +1055,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1118 26 8
+WinInfo: 1404 26 8
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -9474,7 +9475,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF50 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9524,7 +9525,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF50 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9579,7 +9580,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF51 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF51 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9632,7 +9633,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF51 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF51 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9693,7 +9694,7 @@ SplineSet
  365 512 359 482 354 450 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF52 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9757,7 +9758,7 @@ SplineSet
  169 275 281 387 414 498 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF52 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9817,7 +9818,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF53 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9875,7 +9876,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF53 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -9940,7 +9941,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF54 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10003,7 +10004,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF54 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10120,7 +10121,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB74 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB74 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10184,7 +10185,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB75 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB75 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10231,7 +10232,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB79 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB79 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10280,7 +10281,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB78 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB78 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10398,7 +10399,7 @@ SplineSet
  250 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF57 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10457,7 +10458,7 @@ SplineSet
  251 386 273 415 308 415 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5B u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10576,7 +10577,7 @@ SplineSet
  251 386 273 415 308 415 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB81 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB81 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10623,8 +10624,8 @@ SplineSet
  182 181 182 186 182 190 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB85 u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB84 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB84 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB85 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10672,7 +10673,7 @@ SplineSet
  182 181 182 186 182 190 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5C u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10789,7 +10790,7 @@ SplineSet
  126 39 l 1xd0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF41
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5D u1CF41
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10840,7 +10841,7 @@ SplineSet
  187 4 181 8 183 18 c 0xe0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5D u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10891,7 +10892,7 @@ SplineSet
  187 4 181 8 183 18 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5D u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -10945,7 +10946,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5D u1CF44
 Colour: ffff00
 EndChar
 
@@ -10994,8 +10995,8 @@ SplineSet
  20 271 56 364 120 364 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB8C u1CF44
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB8C u1CF44
 Colour: ffff00
 EndChar
 
@@ -11218,7 +11219,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB70 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB70 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11276,7 +11277,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB71 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB71 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11325,7 +11326,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF56 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11372,7 +11373,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF56 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11445,7 +11446,7 @@ EndSplineSet
 Validated: 3073
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB8F
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF6D u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -11582,7 +11583,7 @@ SplineSet
  36 150 57 178 88 178 c 0xd4
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF6D u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF6D u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11749,7 +11750,7 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF72 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11818,7 +11819,7 @@ SplineSet
  305 178 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF73 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11877,7 +11878,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF74 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF74 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11936,7 +11937,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBA2 uniEBA5
-Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF7E u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -11997,7 +11998,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF7E u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBA3 uniEBA6
 Colour: ffff00
 EndChar
@@ -12233,7 +12234,7 @@ SplineSet
  305 178 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF73 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -12294,7 +12295,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF74 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF74 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -12354,7 +12355,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBA1 uniEBA4
-Ligature2: "Znamenny Priznakification-1" u1CF7E u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF7E u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -12608,7 +12609,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBAD u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBAD u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -12686,7 +12687,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEAFA u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" uniEAFA u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -12817,8 +12818,8 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBAF u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBAE u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBAE u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBAF u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -12950,7 +12951,7 @@ SplineSet
  319 37 299 -3 265 -3 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF90 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -13008,7 +13009,7 @@ SplineSet
  319 37 299 -3 265 -3 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF90 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -13196,8 +13197,8 @@ SplineSet
  384 200 385 194 385 183 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF90 uniEB61
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" u1CF90 uniEB61
 Colour: ffff00
 EndChar
 
@@ -13257,8 +13258,8 @@ SplineSet
  330 83 319 13 311 -19 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF42
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBBB u1CF30
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBBB u1CF30
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF87 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -13318,8 +13319,8 @@ SplineSet
  330 83 319 13 311 -19 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF43
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBBC u1CF30
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBBC u1CF30
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF87 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -13743,7 +13744,7 @@ SplineSet
  -400 649 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF30 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF30 u1CF42
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -13769,7 +13770,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF30 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF30 u1CF43
 Colour: ffff00
 EndChar
 
@@ -13800,7 +13801,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF31 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF31 u1CF42
 Colour: ffff00
 EndChar
 
@@ -13830,7 +13831,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF31 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF31 u1CF43
 Colour: ffff00
 EndChar
 
@@ -13865,7 +13866,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF32 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF32 u1CF42
 Colour: ffff00
 EndChar
 
@@ -13900,7 +13901,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF32 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF32 u1CF43
 Colour: ffff00
 EndChar
 
@@ -15183,7 +15184,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB66 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB66 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15233,7 +15234,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB67 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB67 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15288,7 +15289,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB6A u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB6A u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15342,7 +15343,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB6B u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB6B u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15393,7 +15394,7 @@ SplineSet
  250 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF57 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15446,7 +15447,7 @@ SplineSet
  250 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB7C u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB7C u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15497,7 +15498,7 @@ SplineSet
  250 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB7D u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB7D u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15602,7 +15603,7 @@ EndSplineSet
 Validated: 3073
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEB85
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5C u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -15716,8 +15717,8 @@ SplineSet
  36 150 57 178 88 178 c 0xc9
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB8F u1CF44
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB8E u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB8E u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB8F u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15782,7 +15783,7 @@ SplineSet
  472 270 473 264 473 253 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF70 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF70 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15844,7 +15845,7 @@ SplineSet
  472 270 473 264 473 253 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF70 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF70 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15903,7 +15904,7 @@ SplineSet
  295 159 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF71 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -15959,7 +15960,7 @@ SplineSet
  295 159 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF71 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -16023,7 +16024,7 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF72 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -16157,7 +16158,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEAFA u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" uniEAFA u1CF42
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -16206,7 +16207,7 @@ EndSplineSet
 Validated: 3073
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF86 u1CF42
 Colour: ffff00
 EndChar
 
@@ -16251,7 +16252,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF86 u1CF43
 Colour: ffff00
 EndChar
 
@@ -16404,9 +16405,9 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBB2 u1CF30
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBB4
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF43
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBB2 u1CF30
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF86 u1CF30 u1CF43
 LCarets2: 2 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -16577,9 +16578,9 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBB2 u1CF31
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBB2 u1CF31
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF31 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF86 u1CF31 u1CF43
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBB7
 Colour: ffff00
 EndChar
@@ -16644,7 +16645,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEBB3 u1CF3A
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF3A u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF86 u1CF30 u1CF3A u1CF42
 LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -16710,7 +16711,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEBB5 u1CF3A
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF30 u1CF3A u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF86 u1CF30 u1CF3A u1CF43
 LCarets2: 3 0 0 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -16910,7 +16911,7 @@ SplineSet
  328 162 303 156 274 143 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF88 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -16970,7 +16971,7 @@ SplineSet
  328 162 303 156 274 143 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF88 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -17045,7 +17046,7 @@ SplineSet
  330 83 319 13 311 -19 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF89 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF89 u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -17118,7 +17119,7 @@ SplineSet
  330 83 319 13 311 -19 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF89 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF89 u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -17171,7 +17172,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF8B u1CF42
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -17222,7 +17223,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF8B u1CF43
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
@@ -17532,8 +17533,8 @@ SplineSet
  244 226 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF8C uniEB60
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" u1CF8C uniEB60
 Colour: ffff00
 EndChar
 
@@ -17601,8 +17602,8 @@ SplineSet
  244 226 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF8C uniEB61
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" u1CF8C uniEB61
 Colour: ffff00
 EndChar
 
@@ -17662,9 +17663,9 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBD5 u1CF44
 LCarets2: 1 0
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBD5 u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBD5
 Colour: ffff00
 EndChar
@@ -17726,7 +17727,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF92 u1CF42
 Colour: ffff00
 EndChar
 
@@ -17786,7 +17787,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF92 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -17851,8 +17852,8 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBD8 u1CF44
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBD8 u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBD8
 Colour: ffff00
 EndChar
@@ -17918,7 +17919,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF93 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF93 u1CF42
 Colour: ffff00
 EndChar
 
@@ -17982,7 +17983,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF93 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF93 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -18056,8 +18057,8 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBDB u1CF44
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBDB u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBDB
 Colour: ffff00
 EndChar
@@ -18132,7 +18133,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF94 u1CF42
 Colour: ffff00
 EndChar
 
@@ -18205,7 +18206,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF94 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -18276,8 +18277,8 @@ SplineSet
  516 218 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBE1 u1CF44
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBE1 u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBE1
 Colour: ffff00
 EndChar
@@ -18349,7 +18350,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF96 u1CF42
 Colour: ffff00
 EndChar
 
@@ -18419,7 +18420,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF96 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -18495,7 +18496,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA2 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -18581,7 +18582,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA3 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -18658,7 +18659,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA5 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA5 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -18745,7 +18746,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA6 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA6 u1CF43
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Colour: ffff00
 EndChar
@@ -19220,7 +19221,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFC3 u1CF42
 Colour: ffff00
 EndChar
 
@@ -19272,7 +19273,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFC3 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFC3 u1CF43
 Colour: ffff00
 EndChar
 
@@ -22165,7 +22166,7 @@ SplineSet
  184 404 199 372 208 334 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB87 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB87 u1CF44
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -22620,7 +22621,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB9A u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB9A u1CF44
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -22678,7 +22679,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB9B u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB9B u1CF44
 LCarets2: 1 0
 Colour: ffff00
 EndChar
@@ -23306,7 +23307,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA7 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF80
 Colour: ffff00
 EndChar
@@ -23370,7 +23371,7 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA7 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF81
 Comment: "Why is it mapped here?"
 Colour: ffff00
@@ -23566,7 +23567,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEB5F u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB5F u1CF42
 Colour: ffff00
 EndChar
 
@@ -23626,7 +23627,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFAF u1CF43
 Colour: ffff00
 EndChar
 
@@ -23943,7 +23944,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAC u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFAC u1CF43
 Colour: ffff00
 EndChar
 
@@ -24030,7 +24031,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAD u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFAD u1CF43
 Colour: ffff00
 EndChar
 
@@ -24120,7 +24121,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAE u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFAE u1CF43
 Colour: ffff00
 EndChar
 
@@ -24308,7 +24309,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFAF u1CF42
 Colour: ffff00
 EndChar
 
@@ -24493,7 +24494,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniEB5F u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB5F u1CF43
 Colour: ffff00
 EndChar
 
@@ -27680,7 +27681,7 @@ SplineSet
  516 218 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF96 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -27903,7 +27904,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF50 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -27975,7 +27976,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF52 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -28036,7 +28037,7 @@ SplineSet
  251 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF57 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -28104,7 +28105,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF58 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -28183,7 +28184,7 @@ SplineSet
  515 316 515 305 515 292 c 0xb1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF465 u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniF465 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF45
 Colour: 5effb2
 EndChar
@@ -28258,7 +28259,7 @@ SplineSet
  393 348 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF61 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -28339,7 +28340,7 @@ SplineSet
  393 348 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF470 u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniF470 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF46
 Colour: 5effb2
 EndChar
@@ -28412,7 +28413,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF62 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -28500,7 +28501,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF66 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -28583,7 +28584,7 @@ SplineSet
  207 79 227 60 236 51 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF67 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -28630,7 +28631,7 @@ SplineSet
  171 460 184 435 192 416 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF86 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -28718,7 +28719,7 @@ SplineSet
  251 256 273 285 308 285 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF434 u1CF5C
+Ligature2: "Priznaki for Put Notation-1" uniF434 u1CF5C
 Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF45
 Colour: 5effb2
 EndChar
@@ -28891,7 +28892,7 @@ SplineSet
  470 178 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF97 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -28959,7 +28960,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF95 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -29048,7 +29049,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF9F u1CF46
 Colour: 5effb2
 EndChar
 
@@ -29143,7 +29144,7 @@ SplineSet
  600 272 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF98 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -29209,7 +29210,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF9B u1CF46
 Colour: 5effb2
 EndChar
 
@@ -29309,7 +29310,7 @@ SplineSet
  600 272 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF99 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -29385,9 +29386,9 @@ StartChar: uniF001
 Encoding: 61441 61441 541
 Width: 750
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
-VStem: 40 83<91.2443 272.069>
+Flags: W
+HStem: -10 31G<30 33.5 156.869 158> 400 19<66 435> 451 125<604.474 670.206> 748 22<66 435>
+VStem: 37 22<434 733> 40 83<91.2443 272.069> 442 22<434 733>
 AnchorPoint: "FinalPitch" 905 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "Auxiliary" 380 800 basechar 0
@@ -29408,11 +29409,11 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-37 770 m 5
+37 770 m 5xfa
  464 770 l 5
  464 400 l 5
  37 400 l 5
- 37 770 l 5
+ 37 770 l 5xfa
 66 748 m 5
  250 598 l 5
  435 748 l 5
@@ -29454,14 +29455,12 @@ SplineSet
  45 6 34 -10 33 -10 c 2
  30 -10 l 1
  30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
+ 38 55 40 83 40 115 c 0xf6
  40 147 38 178 33 208 c 1
  29 217 30 226 35 234 c 2
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF46
-Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF002
 EndChar
 
 StartChar: uniF606
@@ -29560,7 +29559,7 @@ SplineSet
  949 605 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFB4 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFB4 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -29635,7 +29634,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF9D u1CF46
 Colour: 5effb2
 EndChar
 
@@ -29872,7 +29871,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF9E u1CF46
 Colour: 5effb2
 EndChar
 
@@ -38375,7 +38374,7 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF54 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -38446,7 +38445,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF565 u1CF30
+Ligature2: "Priznaki for Put Notation-1" uniF565 u1CF30
 Colour: 5effb2
 EndChar
 
@@ -38508,7 +38507,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF58 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -40127,7 +40126,7 @@ StartChar: u1CF41
 Encoding: 118593 118593 759
 Width: 0
 VWidth: 999
-Flags: HW
+Flags: W
 HStem: -68 48<-512 -376>
 VStem: -512 136<-68 -20>
 AnchorPoint: "Podtinka" -542 -20 mark 0
@@ -49601,9 +49600,9 @@ StartChar: uniF007
 Encoding: 61447 61447 911
 Width: 750
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
-VStem: 40 83<91.2443 272.069>
+Flags: W
+HStem: -10 31G<30 33.5 156.869 158> 400 19<66 435> 451 125<604.474 670.206> 748 22<66 435>
+VStem: 37 22<434 733> 40 83<91.2443 272.069> 442 22<434 733>
 AnchorPoint: "FinalPitch" 845 300 basechar 0
 AnchorPoint: "Borzaya" 690 50 basechar 0
 AnchorPoint: "Auxiliary" 380 800 basechar 0
@@ -49624,11 +49623,11 @@ AnchorPoint: "Podchashie" 491 49 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-37 770 m 5
+37 770 m 5xfa
  464 770 l 5
  464 400 l 5
  37 400 l 5
- 37 770 l 5
+ 37 770 l 5xfa
 66 748 m 5
  250 598 l 5
  435 748 l 5
@@ -49674,13 +49673,12 @@ SplineSet
  45 6 34 -10 33 -10 c 2
  30 -10 l 1
  30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
+ 38 55 40 83 40 115 c 0xf6
  40 147 38 178 33 208 c 1
  29 217 30 226 35 234 c 2
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF003
 EndChar
 
 StartChar: uniEB3F
@@ -51276,7 +51274,9 @@ EndChar
 StartChar: uniF63C
 Encoding: 63036 63036 945
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -51314,7 +51314,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -51341,7 +51341,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 -1 227 m 1
  19 414 l 1
  43 430 l 1
@@ -51356,7 +51356,7 @@ SplineSet
  51 209 l 1
  -1 227 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniF638 u1CF44
+Ligature2: "Priznaki for Demestvenny Notation-1" uniF638 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9C
 LCarets2: 1 0
 Colour: 1abfff
@@ -52215,7 +52215,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF5B u1CF42
 Colour: ffff00
 EndChar
 
@@ -52273,8 +52273,8 @@ SplineSet
  251 386 273 415 308 415 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEB80 u1CF44
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEB80 u1CF44
 Colour: ffff00
 EndChar
 
@@ -52325,7 +52325,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF81 u1CF42
 Colour: ffff00
 EndChar
 
@@ -52376,10 +52376,10 @@ SplineSet
  24 235 33 322 43 411 c 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBA7 u1CF41
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBAB
 LCarets2: 2 0 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBA7 u1CF41
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF81 u1CF41 u1CF42
 Colour: ffff00
 EndChar
 
@@ -52429,8 +52429,8 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 2 0 0
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41 u1CF43
-Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF81 u1CF41 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF81 u1CF43
 Colour: ffff00
 EndChar
 
@@ -52481,9 +52481,9 @@ SplineSet
  28 271 l 2
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBA9 u1CF41
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBAC
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBA9 u1CF41
 Colour: ffff00
 EndChar
 
@@ -52539,7 +52539,7 @@ SplineSet
  64 136 76 214 76 214 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF82 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF82 u1CF42
 Colour: ffff00
 EndChar
 
@@ -52596,7 +52596,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF82 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF82 u1CF43
 Colour: ffff00
 EndChar
 
@@ -52650,7 +52650,7 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF50 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -52700,7 +52700,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF56 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -52745,7 +52745,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF432 u1CF44
+Ligature2: "Priznaki for Put Notation-1" uniF432 u1CF44
 Colour: 5effb2
 EndChar
 
@@ -52814,7 +52814,7 @@ SplineSet
  251 256 273 285 308 285 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF5B u1CF45
 Colour: 5effb2
 EndChar
 
@@ -52866,7 +52866,7 @@ SplineSet
  251 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF57 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -52933,8 +52933,8 @@ SplineSet
  106 448 103 450 100 452 c 1
  70 162 l 1
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" u1CF59 u1CF46
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -53092,7 +53092,7 @@ SplineSet
  352 125 336 44 329 6 c 0xe0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF431 u1CF5C
+Ligature2: "Priznaki for Put Notation-1" uniF431 u1CF5C
 Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF45
 Colour: 5effb2
 EndChar
@@ -53166,7 +53166,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF435 u1CF5C
+Ligature2: "Priznaki for Put Notation-1" uniF435 u1CF5C
 Colour: 5effb2
 EndChar
 
@@ -53497,7 +53497,7 @@ SplineSet
  182 181 182 185 182 190 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF5C u1CF45
 Colour: 5effb2
 EndChar
 
@@ -53555,7 +53555,7 @@ SplineSet
  235 88 254 70 263 61 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF5D u1CF45
 Colour: 5effb2
 EndChar
 
@@ -53604,7 +53604,7 @@ SplineSet
  187 4 181 8 183 18 c 0xc0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF5D u1CF46
 Colour: 5effb2
 EndChar
 
@@ -53669,7 +53669,7 @@ SplineSet
  256 268 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF60 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -53736,7 +53736,7 @@ SplineSet
  393 348 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF61 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -53814,7 +53814,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF62 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -53906,7 +53906,7 @@ SplineSet
  782 471 782 460 782 447 c 0xf1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF479 u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniF479 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF45
 Colour: 5effb2
 EndChar
@@ -53982,7 +53982,7 @@ SplineSet
  550 621 587 647 600 647 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF63 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -54069,7 +54069,7 @@ SplineSet
  651 551 704 597 767 649 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF65 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -54149,7 +54149,7 @@ SplineSet
  651 551 704 597 767 649 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF65 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -54237,7 +54237,7 @@ SplineSet
  207 79 227 60 236 51 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF68 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -54318,7 +54318,7 @@ SplineSet
  653 592 724 646 740 646 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF68 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -54411,7 +54411,7 @@ SplineSet
  207 79 227 60 236 51 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF69 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -54497,7 +54497,7 @@ SplineSet
  789 673 860 727 876 727 c 0xb0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF69 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -54600,7 +54600,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF6A u1CF45
 Colour: 5effb2
 EndChar
 
@@ -54697,7 +54697,6 @@ SplineSet
  529 428 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF46
 Colour: 5effb2
 EndChar
 
@@ -54853,7 +54852,7 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF72 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -54930,7 +54929,7 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniF4D6 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
 Colour: 5effb2
 EndChar
@@ -55014,7 +55013,7 @@ SplineSet
  369 247 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniF4D6 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEACA u1CF45
 Colour: 5effb2
 EndChar
@@ -55189,8 +55188,8 @@ SplineSet
  367 241 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Put Notation-1" u1CF7A u1CF45
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF45
 Colour: 5effb2
 EndChar
 
@@ -55349,7 +55348,7 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF92 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -55412,7 +55411,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF92 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -55499,7 +55498,7 @@ SplineSet
  567 66 542 60 513 47 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF94 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -55575,7 +55574,7 @@ SplineSet
  115 272 135 290 155 302 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF94 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -55653,7 +55652,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF97 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -55737,7 +55736,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF98 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -55826,7 +55825,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF99 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -55997,7 +55996,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF9B u1CF45
 Colour: 5effb2
 EndChar
 
@@ -56079,7 +56078,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF564 u1CF30
+Ligature2: "Priznaki for Put Notation-1" uniF564 u1CF30
 Colour: 5effb2
 EndChar
 
@@ -56166,7 +56165,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF564 u1CF31
+Ligature2: "Priznaki for Put Notation-1" uniF564 u1CF31
 Colour: 5effb2
 EndChar
 
@@ -56242,7 +56241,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF565 u1CF31
+Ligature2: "Priznaki for Put Notation-1" uniF565 u1CF31
 Colour: 5effb2
 EndChar
 
@@ -56331,7 +56330,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF9C u1CF45
 Colour: 5effb2
 EndChar
 
@@ -56409,7 +56408,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF9C u1CF46
 Colour: 5effb2
 EndChar
 
@@ -56495,7 +56494,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF9D u1CF45
 Colour: 5effb2
 EndChar
 
@@ -56585,7 +56584,7 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF9E u1CF45
 Colour: 5effb2
 EndChar
 
@@ -56685,7 +56684,7 @@ SplineSet
  802 668 872 713 885 713 c 0x80
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF9F u1CF45
 Colour: 5effb2
 EndChar
 
@@ -56768,7 +56767,7 @@ SplineSet
  594 550 631 576 644 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFA8 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5CC
 Colour: 5effb2
 EndChar
@@ -56842,7 +56841,7 @@ SplineSet
  594 550 631 576 644 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFA7 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5BE
 Colour: 5effb2
 EndChar
@@ -56928,7 +56927,7 @@ SplineSet
  597 555 629 576 642 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFA9 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D0
 Colour: 5effb2
 EndChar
@@ -57024,7 +57023,7 @@ SplineSet
  560 272 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFAA u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5EA
 Colour: 5effb2
 EndChar
@@ -57125,7 +57124,7 @@ SplineSet
  560 272 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFAB u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5EE
 Colour: 5effb2
 EndChar
@@ -57303,7 +57302,7 @@ SplineSet
  559 550 597 576 610 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFAF u1CF45
 Colour: 5effb2
 EndChar
 
@@ -57388,7 +57387,7 @@ SplineSet
  819 698 857 724 870 724 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFB0 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -57479,7 +57478,7 @@ SplineSet
  951 781 988 806 1001 806 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFB1 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -57588,7 +57587,7 @@ SplineSet
  564 550 601 576 614 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" uniEF60 u1CF42
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF60 u1CF42
 Colour: 1abfff
 EndChar
 
@@ -57643,7 +57642,7 @@ SplineSet
  564 550 601 576 614 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF80 u1CF44
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF80 u1CF44
 Colour: 1abfff
 EndChar
 
@@ -57698,7 +57697,7 @@ SplineSet
  564 550 601 576 614 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEF81 u1CF44
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF81 u1CF44
 Colour: 1abfff
 EndChar
 
@@ -57759,6 +57758,7 @@ SplineSet
  -1 227 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF60 u1CF44
 Colour: 1abfff
 EndChar
 
@@ -57825,7 +57825,7 @@ SplineSet
  104 496 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" uniEF60 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniEF60 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -57833,8 +57833,9 @@ StartChar: uniF002
 Encoding: 61442 61442 1051
 Width: 720
 VWidth: 999
-Flags: HW
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
+Flags: W
+HStem: 0 21G<32.0417 48.5714 126.869 128> 400 19<66 435> 451 125<574.474 640.206> 748 22<66 435>
+VStem: 37 22<434 733> 442 22<434 733>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -57899,7 +57900,6 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" uniEF60 u1CF46
 EndChar
 
 StartChar: uniEA1C
@@ -58031,7 +58031,7 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBDE u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBDE u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBDE
 Colour: ffff00
 EndChar
@@ -58097,7 +58097,7 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF95 u1CF42
 Colour: ffff00
 EndChar
 
@@ -58162,7 +58162,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF95 u1CF43
 Colour: ffff00
 EndChar
 
@@ -58237,7 +58237,7 @@ SplineSet
  470 178 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBE4 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBE4 u1CF44
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBE4
 Colour: ffff00
 EndChar
@@ -58313,7 +58313,7 @@ SplineSet
  470 178 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF97 u1CF42
 Colour: ffff00
 EndChar
 
@@ -58388,7 +58388,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF97 u1CF43
 Colour: ffff00
 EndChar
 
@@ -58466,7 +58466,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA2 u1CF42
 Colour: ffff00
 EndChar
 
@@ -58539,9 +58539,9 @@ SplineSet
  52 130 73 158 104 158 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBE6 u1CF41
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBD3 u1CF42
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBD3 u1CF42
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBE6 u1CF41
 Colour: ffff00
 EndChar
 
@@ -58611,9 +58611,9 @@ SplineSet
  52 130 73 158 104 158 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBE7 u1CF41
+Ligature2: "Priznaki for Znamenny Notation-1" uniEBD3 u1CF43
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBD3 u1CF43
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBE7 u1CF41
 Colour: ffff00
 EndChar
 
@@ -58701,7 +58701,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA3 u1CF42
 Colour: ffff00
 EndChar
 
@@ -58780,7 +58780,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA5 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA5 u1CF42
 Colour: ffff00
 EndChar
 
@@ -58869,7 +58869,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA6 u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA6 u1CF42
 Colour: ffff00
 EndChar
 
@@ -59055,7 +59055,7 @@ SplineSet
  393 348 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF46F u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniF46F u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF45
 Colour: 5effb2
 EndChar
@@ -59114,7 +59114,7 @@ SplineSet
  106 343 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF86 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -59184,8 +59184,9 @@ StartChar: uniF004
 Encoding: 61444 61444 1069
 Width: 720
 VWidth: 999
-Flags: HW
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
+Flags: W
+HStem: 0 21G<32.0417 48.5714 126.869 128> 400 19<66 435> 451 125<574.474 640.206> 748 22<66 435>
+VStem: 37 22<434 733> 442 22<434 733>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 750 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -59399,6 +59400,7 @@ SplineSet
  -1 227 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF69 u1CF44
 Colour: 1abfff
 EndChar
 
@@ -59534,6 +59536,7 @@ SplineSet
  80 491 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF99 u1CF44
 Colour: 1abfff
 EndChar
 
@@ -59626,7 +59629,7 @@ SplineSet
  253 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CFB3 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CFB3 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -59696,7 +59699,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CFA2 u1CF41
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA2 u1CF41
 Colour: ffff00
 EndChar
 
@@ -59762,7 +59765,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF8C u1CF42
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF8C u1CF42
 Colour: ffff00
 EndChar
 
@@ -59826,7 +59829,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF8C u1CF43
+Ligature2: "Priznaki for Znamenny Notation-1" u1CF8C u1CF43
 Colour: ffff00
 EndChar
 
@@ -59970,9 +59973,9 @@ StartChar: uniF006
 Encoding: 61446 61446 1084
 Width: 750
 VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
-VStem: 40 83<90.1986 272.069>
+Flags: W
+HStem: -10 31G<30 33.5 156.869 158> 400 19<66 435> 451 125<604.474 670.206> 748 22<66 435>
+VStem: 37 22<434 733> 40 83<90.1986 272.069> 442 22<434 733>
 AnchorPoint: "FinalPitch" 905 300 basechar 0
 AnchorPoint: "Borzaya" 770 50 basechar 0
 AnchorPoint: "Auxiliary" 380 800 basechar 0
@@ -59993,11 +59996,11 @@ AnchorPoint: "Podchashie" 465 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-37 770 m 5
+37 770 m 5xfa
  464 770 l 5
  464 400 l 5
  37 400 l 5
- 37 770 l 5
+ 37 770 l 5xfa
 66 748 m 5
  250 598 l 5
  435 748 l 5
@@ -60051,13 +60054,12 @@ SplineSet
  48 4 34 -10 33 -10 c 2
  30 -10 l 1
  30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
+ 38 55 40 83 40 115 c 0xf6
  40 147 38 178 33 208 c 1
  29 217 30 226 35 234 c 2
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
-Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF004
 EndChar
 
 StartChar: uniEADA
@@ -60411,7 +60413,7 @@ SplineSet
  256 268 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF60 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -60419,8 +60421,9 @@ StartChar: uniF003
 Encoding: 61443 61443 1094
 Width: 720
 VWidth: 999
-Flags: HW
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.206>
+Flags: W
+HStem: 0 21G<32.0417 48.5714 126.869 128> 400 19<66 435> 451 125<574.474 640.206> 748 22<66 435>
+VStem: 37 22<434 733> 442 22<434 733>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 690 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -60559,7 +60562,7 @@ SplineSet
  515 316 515 305 515 292 c 0xf4
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF466 u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniF466 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF46
 Colour: 5effb2
 EndChar
@@ -60617,7 +60620,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF56 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -60751,7 +60754,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF5B u1CF46
 Colour: 5effb2
 EndChar
 
@@ -60820,6 +60823,7 @@ SplineSet
  104 496 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF69 u1CF42
 Colour: 1abfff
 EndChar
 
@@ -60888,6 +60892,7 @@ SplineSet
  104 496 l 2xe0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF69 u1CF43
 Colour: 1abfff
 EndChar
 
@@ -60954,6 +60959,7 @@ SplineSet
  104 496 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF98 u1CF44
 Colour: 1abfff
 EndChar
 
@@ -61027,7 +61033,7 @@ SplineSet
  255 271 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF59 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -61113,7 +61119,7 @@ SplineSet
  782 471 782 460 782 447 c 0xfa
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF47A u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniF47A u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF46
 Colour: 5effb2
 EndChar
@@ -61484,7 +61490,7 @@ SplineSet
  550 621 587 647 600 647 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF63 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -61563,7 +61569,7 @@ SplineSet
  634 550 671 576 684 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF95 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -61636,7 +61642,7 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF96 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -61730,7 +61736,7 @@ SplineSet
  529 428 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF66 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -61905,7 +61911,7 @@ SplineSet
  513 592 584 646 600 646 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF67 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -61962,7 +61968,7 @@ SplineSet
  564 550 601 576 614 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" uniEF60 u1CF43
+Ligature2: "Priznaki for Demestvenny Notation-1" uniEF60 u1CF43
 Colour: 1abfff
 EndChar
 
@@ -62136,7 +62142,6 @@ SplineSet
  104 496 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" uniEF66 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -62204,7 +62209,7 @@ SplineSet
  239 128 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF71 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -62282,7 +62287,7 @@ SplineSet
  469 550 506 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF73 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -66233,8 +66238,8 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Priznaki for Put Notation-1" u1CF54 u1CF45
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -66291,7 +66296,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF432 u1CF5C
+Ligature2: "Priznaki for Put Notation-1" uniF432 u1CF5C
 Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF46
 Colour: 5effb2
 EndChar
@@ -85652,7 +85657,9 @@ EndChar
 StartChar: uniF63B
 Encoding: 63035 63035 1561
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -85690,7 +85697,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -85717,7 +85724,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 80 491 m 1
  154 511 l 1
  144 413 l 1
@@ -85726,7 +85733,6 @@ SplineSet
  30 0 l 1
  80 491 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9B
 LCarets2: 1 0
 Colour: 1abfff
@@ -86363,7 +86369,9 @@ EndChar
 StartChar: uniF638
 Encoding: 63032 63032 1576
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -86401,7 +86409,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -86428,7 +86436,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 104 496 m 1
  94 386 67 133 56 28 c 1
  30 0 l 1
@@ -86439,7 +86447,6 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF98
 LCarets2: 1 0
 Colour: 1abfff
@@ -86448,11 +86455,13 @@ EndChar
 StartChar: uniF639
 Encoding: 63033 63033 1577
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 30 74<457.364 497> 30 26<28 69.1463> 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
-202 664 m 4xbc
+202 664 m 4xb3
  202 672 200 680 198 687 c 4
  196 694 194 701 190 707 c 4
  186 713 181 717 175 720 c 4
@@ -86468,7 +86477,7 @@ SplineSet
  154 604 161 606 167 608 c 4
  173 610 180 615 185 620 c 4
  190 625 194 631 197 638 c 4
- 200 645 202 654 202 664 c 4xbc
+ 200 645 202 654 202 664 c 4xb3
 246 684 m 4
  246 667 243 651 237 637 c 4
  231 623 221 610 211 600 c 4
@@ -86486,7 +86495,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xd1
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -86513,17 +86522,16 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
-104 496 m 1
+ 567 555 599 576 612 576 c 0xd1
+104 496 m 1x99
  94 386 67 133 56 28 c 1
  30 0 l 1
  71 405 l 1
  19 421 l 1
- 30 521 l 1
+ 30 521 l 1x95
  104 497 l 1
- 104 496 l 1
+ 104 496 l 1x99
 EndSplineSet
-Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF99
 LCarets2: 1 0
 Colour: 1abfff
@@ -86532,7 +86540,9 @@ EndChar
 StartChar: uniF63A
 Encoding: 63034 63034 1578
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -86570,7 +86580,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -86597,7 +86607,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 104 496 m 1
  53 0 l 1
  -22 -20 l 1
@@ -86606,7 +86616,7 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Ligature2: "Znamenny Priznakification Round 2-1" uniF639 u1CF44
+Ligature2: "Priznaki for Demestvenny Notation-1" uniF639 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9A
 LCarets2: 1 0
 Colour: 1abfff
@@ -86761,7 +86771,7 @@ SplineSet
  442 532 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF7B u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF7B u1CF45
 Colour: 5effb2
 EndChar
 
@@ -86851,7 +86861,7 @@ SplineSet
  237 122 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF7C u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF7C u1CF45
 Colour: 5effb2
 EndChar
 
@@ -87017,7 +87027,6 @@ Refer: 453 60400 N 1 0 0 1 0 0 2
 Refer: 1529 117 N 0.450933 0 0 0.463093 62 457 2
 Validated: 32769
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBF0 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF84
 Colour: ffff00
 EndChar
@@ -87034,7 +87043,6 @@ Fore
 Refer: 1529 117 N 0.466446 0 0 0.468447 85 436 2
 Refer: 454 60401 N 1 0 0 1 0 0 2
 Validated: 32769
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBF1 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF82
 Colour: ffff00
 EndChar
@@ -87115,7 +87123,7 @@ SplineSet
  690 621 727 647 740 647 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF64 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -87188,7 +87196,7 @@ SplineSet
  690 621 727 647 740 647 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF46
+Ligature2: "Priznaki for Put Notation-1" u1CF64 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -87253,7 +87261,7 @@ SplineSet
  442 532 501 576 519 576 c 0
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF45
+Ligature2: "Priznaki for Put Notation-1" u1CF79 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -87431,7 +87439,7 @@ Fore
 Refer: 1529 117 N 0.476636 0 0 0.461596 43 453 2
 Refer: 844 118695 N 1 0 0 1 0 0 2
 Validated: 32769
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF44
+Ligature2: "Priznaki for Znamenny Notation-1" u1CFA7 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF83
 Colour: ffff00
 EndChar
@@ -95595,7 +95603,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA60 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF400 u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniF400 u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -95653,8 +95661,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA60 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF401 u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA60 u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF401 u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -95730,8 +95738,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA61 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF400 u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniEA61 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF400 u1CF3F
 Colour: 5effb2
 EndChar
 
@@ -95801,8 +95809,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA61 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF401 u1CF3F
+Ligature2: "Priznaki for Put Notation-1" uniEA61 u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF401 u1CF3F
 Colour: 5effb2
 EndChar
 
@@ -95874,8 +95882,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA62 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF400 u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA62 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF400 u1CF40
 Colour: 5effb2
 EndChar
 
@@ -96006,8 +96014,8 @@ SplineSet
  168 283 280 395 406 498 c 0
  468 550 506 576 519 576 c 0
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" u1CF52 u1CF46
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -96082,8 +96090,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniF40A u1CF3E
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA65 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF40A u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA65 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -96151,8 +96159,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA64 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF40B u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA64 u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF40B u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -96234,8 +96242,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA65 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF40A u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA65 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF40A u1CF40
 Colour: 5effb2
 EndChar
 
@@ -96310,8 +96318,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA65 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF40B u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA65 u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF40B u1CF40
 Colour: 5effb2
 EndChar
 
@@ -96568,8 +96576,8 @@ SplineSet
  355 457 379 477 406 498 c 0
  468 550 506 576 519 576 c 0
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" u1CF53 u1CF45
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -96631,8 +96639,8 @@ SplineSet
  355 457 379 477 406 498 c 0
  468 550 506 576 519 576 c 0
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" u1CF53 u1CF46
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF46
 Colour: 5effb2
 EndChar
 
@@ -96704,8 +96712,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA67 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF412 u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA67 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF412 u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -96771,8 +96779,8 @@ SplineSet
  468 550 506 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA67 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF413 u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA67 u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF413 u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -96851,8 +96859,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA68 u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF412 u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA68 u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF412 u1CF40
 Colour: 5effb2
 EndChar
 
@@ -96925,8 +96933,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA68 u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF413 u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA68 u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF413 u1CF40
 Colour: 5effb2
 EndChar
 
@@ -97003,8 +97011,8 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA6C u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA6C u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF41A u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -97075,8 +97083,8 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA6C u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF3E
+Ligature2: "Priznaki for Put Notation-1" uniEA6C u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF41B u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -97160,8 +97168,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA6D u1CF45
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA6D u1CF45
+Ligature2: "Priznaki for Put Notation-1" uniF41A u1CF40
 Colour: 5effb2
 EndChar
 
@@ -97239,8 +97247,8 @@ SplineSet
  610 205 585 200 557 187 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEA6D u1CF46
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF40
+Ligature2: "Priznaki for Put Notation-1" uniEA6D u1CF46
+Ligature2: "Priznaki for Put Notation-1" uniF41B u1CF40
 Colour: 5effb2
 EndChar
 
@@ -97726,9 +97734,9 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF34 u1CF30
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF30 u1CF34
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF31
+Ligature2: "Priznaki for Put Notation-1" uniF41A u1CF34 u1CF30
+Ligature2: "Priznaki for Put Notation-1" uniF41A u1CF30 u1CF34
+Ligature2: "Priznaki for Put Notation-1" uniF41A u1CF31
 Colour: 5effb2
 EndChar
 
@@ -97807,9 +97815,9 @@ SplineSet
  468 559 501 576 519 576 c 0
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF34 u1CF30
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF30 u1CF34
-Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF31
+Ligature2: "Priznaki for Put Notation-1" uniF41B u1CF34 u1CF30
+Ligature2: "Priznaki for Put Notation-1" uniF41B u1CF30 u1CF34
+Ligature2: "Priznaki for Put Notation-1" uniF41B u1CF31
 Colour: 5effb2
 EndChar
 
@@ -98057,8 +98065,8 @@ SplineSet
  224 289 336 401 455 498 c 0
  518 550 556 576 569 576 c 0
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" u1CF55 u1CF45
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" u1CF55 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -113643,6 +113651,7 @@ SplineSet
  343 332 407 396 531 498 c 0
  594 550 631 576 644 576 c 0
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" u1CFA7 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -117024,6 +117033,7 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
 EndSplineSet
+Ligature2: "Priznaki for Put Notation-1" uniEF60 u1CF46
 Colour: 5effb2
 EndChar
 
