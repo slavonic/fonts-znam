@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1589603973
+ModificationTime: 1589639670
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1048,13 +1048,12 @@ OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
 OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1512 27 9
+WinInfo: 62478 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -25345,16 +25344,16 @@ AnchorPoint: "Podchashie" 100 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-70 162 m 1
- 83 184 100 203 122 220 c 0
- 144 237 162 249 177 254 c 2
- 200 262 l 1
- 185 122 l 1
- 177 120 163 115 146 107 c 0
- 90 82 51 46 30 0 c 1
- 79 480 l 1
- 105 496 l 1
- 70 162 l 1
+70 162 m 5
+ 83 184 100 203 122 220 c 4
+ 144 237 162 249 177 254 c 6
+ 200 262 l 5
+ 185 122 l 5
+ 177 120 163 115 146 107 c 4
+ 90 82 51 46 30 0 c 5
+ 79 480 l 5
+ 105 496 l 5
+ 70 162 l 5
 311 209 m 1
  305 145 297 72 297 72 c 1
  275 66 l 1
@@ -25824,11 +25823,63 @@ EndChar
 
 StartChar: uniEA88
 Encoding: 60040 60040 491
-Width: 1000
+Width: 450
 VWidth: 999
+Flags: W
+HStem: -12 21G<82.0455 90.5 393 397.5> 151 134<325.663 389.257> 300 60<21.6347 97.3965>
+VStem: 297 10<97.6833 118.65> 398 27<24.9733 195.5>
+AnchorPoint: "FinalPitch" 595 300 basechar 0
+AnchorPoint: "PitchMark" 50 770 basechar 0
+AnchorPoint: "Lomka" 460 150 basechar 0
+AnchorPoint: "Tikhaya" 0 -30 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Zevok" 240 60 basechar 0
+AnchorPoint: "Kachka" 50 660 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Auxiliary" 265 660 basechar 0
+AnchorPoint: "Podvertka" 290 90 basechar 0
+AnchorPoint: "Flexion" 395 640 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "TonalRange" 415 660 basechar 0
+AnchorPoint: "Tochka" 460 325 basechar 0
+AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Omet" 205 500 basechar 0
+AnchorPoint: "Podchashie" 150 -30 basechar 0
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+368 285 m 4
+ 406 285 425 240 425 151 c 4
+ 425 101 418 49 405 -5 c 4
+ 404 -10 400 -12 395 -12 c 4
+ 391 -12 386 -7 387 -2 c 4
+ 394 49 398 82 398 96 c 4
+ 398 123 384 151 353 151 c 4
+ 330 151 315 135 307 104 c 4
+ 306 98 297 89 297 100 c 4
+ 297 102 304 196 304 197 c 4
+ 311 256 333 285 368 285 c 4
+120 162 m 1
+ 140 197 187 241 224 254 c 2
+ 246 262 l 1
+ 234 122 l 1
+ 226 120 213 115 196 107 c 0
+ 140 82 101 46 80 0 c 1
+ 107 264 l 1
+ 100 281 83 292 56 298 c 0
+ 52 299 48 300 43 300 c 0
+ 29 300 19 293 12 279 c 1
+ 21 335 l 2
+ 24 354 33 360 50 360 c 0
+ 64 360 81 352 101 337 c 1
+ 39 425 l 1
+ 48 487 l 1
+ 119 381 l 1
+ 129 480 l 1
+ 155 496 l 1
+ 120 162 l 1
+EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF5A u1CF3F
 Colour: ffff
 EndChar
 
@@ -50229,11 +50280,54 @@ EndChar
 
 StartChar: uniEA7C
 Encoding: 60028 60028 925
-Width: 1000
+Width: 385
 VWidth: 0
+Flags: W
+HStem: -12 33G<32.0417 40.5 333 337.5> 151 134<265.663 329.257>
+VStem: 237 10<97.6833 118.65> 338 27<24.9733 195.5>
+AnchorPoint: "FinalPitch" 535 220 basechar 0
+AnchorPoint: "PitchMark" 130 770 basechar 0
+AnchorPoint: "Podchashie" 110 0 basechar 0
+AnchorPoint: "Lomka" 540 150 basechar 0
+AnchorPoint: "Tikhaya" 0 -30 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Zevok" 180 60 basechar 0
+AnchorPoint: "Kachka" 50 660 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Auxiliary" 265 660 basechar 0
+AnchorPoint: "Podvertka" 250 90 basechar 0
+AnchorPoint: "Flexion" 395 640 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "TonalRange" 415 660 basechar 0
+AnchorPoint: "Tochka" 395 325 basechar 0
+AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Omet" 205 500 basechar 0
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+70 162 m 1
+ 83 184 100 203 122 220 c 0
+ 144 237 162 249 177 254 c 2
+ 200 262 l 1
+ 185 122 l 1
+ 177 120 163 115 146 107 c 0
+ 90 82 51 46 30 0 c 1
+ 79 480 l 1
+ 105 496 l 1
+ 70 162 l 1
+308 285 m 4
+ 346 285 365 240 365 151 c 4
+ 365 101 358 49 345 -5 c 4
+ 344 -10 340 -12 335 -12 c 4
+ 331 -12 326 -7 327 -2 c 4
+ 334 49 338 82 338 96 c 4
+ 338 123 324 151 293 151 c 4
+ 270 151 255 135 247 104 c 4
+ 246 98 237 89 237 100 c 4
+ 237 102 244 196 244 197 c 4
+ 251 256 273 285 308 285 c 4
+EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF56 u1CF3F
 Colour: ffff
 EndChar
 
@@ -52814,6 +52908,7 @@ SplineSet
  251 256 273 285 308 285 c 0
 EndSplineSet
 Validated: 3073
+Ligature2: "Post-composition Priznakification-1" uniEA7C u1CF45
 Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF45
 Colour: 5effb2
 EndChar
@@ -52870,8 +52965,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF46
 Colour: 5effb2
 EndChar
 
-StartChar: uniF44D
-Encoding: 62541 62541 988
+StartChar: uniF450
+Encoding: 62544 62544 988
 Width: 650
 VWidth: 999
 Flags: W
@@ -52933,8 +53028,8 @@ SplineSet
  106 448 103 450 100 452 c 1
  70 162 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF46
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
@@ -60752,6 +60847,7 @@ SplineSet
  70 162 l 1
 EndSplineSet
 Validated: 3073
+Ligature2: "Post-composition Priznakification-1" uniEA7C u1CF46
 Ligature2: "Znamenny Priznakification-1" u1CF5B u1CF46
 Colour: 5effb2
 EndChar
@@ -99167,8 +99263,8 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF447 u1CF40
 Colour: 5effb2
 EndChar
 
-StartChar: uniF44E
-Encoding: 62542 62542 1733
+StartChar: uniF451
+Encoding: 62545 62545 1733
 Width: 750
 VWidth: 0
 Flags: W
@@ -99248,8 +99344,8 @@ SplineSet
  716 260 l 1
  716 260 691 254 662 241 c 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44C u1CF40
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
@@ -99329,12 +99425,12 @@ SplineSet
  716 260 691 254 662 241 c 1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44D u1CF40
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF450 u1CF40
 Colour: 5effb2
 EndChar
 
-StartChar: uniF450
-Encoding: 62544 62544 1735
+StartChar: uniF44D
+Encoding: 62541 62541 1735
 Width: 790
 VWidth: 999
 Flags: W
@@ -99421,8 +99517,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44C u1CF3F
 Colour: 5effb2
 EndChar
 
-StartChar: uniF451
-Encoding: 62545 62545 1736
+StartChar: uniF44E
+Encoding: 62542 62542 1736
 Width: 790
 VWidth: 999
 Flags: W
@@ -99498,7 +99594,7 @@ SplineSet
  637 409 l 1xe0
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44D u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF450 u1CF3F
 Colour: 5effb2
 EndChar
 
@@ -99570,8 +99666,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF5A u1CF45
 Colour: 5effb2
 EndChar
 
-StartChar: uniF455
-Encoding: 62549 62549 1738
+StartChar: uniF456
+Encoding: 62550 62550 1738
 Width: 450
 VWidth: 999
 Flags: W
@@ -99645,13 +99741,13 @@ SplineSet
  415 228 l 1
  415 228 390 222 361 209 c 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF454 u1CF40
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
-StartChar: uniF456
-Encoding: 62550 62550 1739
+StartChar: uniF457
+Encoding: 62551 62551 1739
 Width: 555
 VWidth: 999
 Flags: W
@@ -99677,40 +99773,40 @@ AnchorPoint: "Podchashie" 150 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-120 162 m 1
- 140 197 187 241 224 254 c 2
- 246 262 l 1
- 234 122 l 1
- 183.422544961 109.35563624 134.183243083 69.8472864889 106.677273591 38.6326082823 c 1
- 108 38 l 1
- 86.9853515625 13.482421875 82.3740234375 3.1982421875 53 -24 c 1
- 63 -37 71 -54 73 -58 c 0
- 76 -64 68 -66 63 -66 c 0
- 59 -67 55 -68 52 -62 c 0
- 48 -56 43 -49 36 -39 c 1
- 9 -65 -5 -80 -27 -93 c 0
- -29 -94 -29 -94 -31 -94 c 0
- -33 -94 -41 -90 -41 -83 c 0
- -41 -81 -41 -79 -39 -78 c 0
- -24 -65 6 -44 26 -23 c 1
- 17 -13 7 -3 2 2 c 0
- -7 10 2 10 5 10 c 0
- 7.69006843763 10.4483879119 10.0996495697 10.6607947715 12.2800402747 10.6607947715 c 0
- 26.539866087 10.6607947715 30.9967535584 1.57572357427 40 -10 c 1
- 49.8804402151 -0.119559784917 67.2160819239 15.6768080445 84.3771112074 47.8257293156 c 1
- 107 264 l 1
- 100 281 83 292 56 298 c 0
- 52 299 48 300 43 300 c 0
- 29 300 19 293 12 279 c 1
- 21 335 l 2
- 24 354 33 360 50 360 c 0
- 64 360 81 352 101 337 c 1
- 39 425 l 1
- 48 487 l 1
- 119 381 l 1
- 129 480 l 1
- 155 496 l 1
- 120 162 l 1
+120 162 m 5
+ 140 197 187 241 224 254 c 6
+ 246 262 l 5
+ 234 122 l 5
+ 183.422544961 109.35563624 134.183243083 69.8472864889 106.677273591 38.6326082823 c 5
+ 108 38 l 5
+ 86.9853515625 13.482421875 82.3740234375 3.1982421875 53 -24 c 5
+ 63 -37 71 -54 73 -58 c 4
+ 76 -64 68 -66 63 -66 c 4
+ 59 -67 55 -68 52 -62 c 4
+ 48 -56 43 -49 36 -39 c 5
+ 9 -65 -5 -80 -27 -93 c 4
+ -29 -94 -29 -94 -31 -94 c 4
+ -33 -94 -41 -90 -41 -83 c 4
+ -41 -81 -41 -79 -39 -78 c 4
+ -24 -65 6 -44 26 -23 c 5
+ 17 -13 7 -3 2 2 c 4
+ -7 10 2 10 5 10 c 4
+ 7.69006843763 10.4483879119 10.0996495697 10.6607947715 12.2800402747 10.6607947715 c 4
+ 26.539866087 10.6607947715 30.9967535584 1.57572357427 40 -10 c 5
+ 49.8804402151 -0.119559784917 67.2160819239 15.6768080445 84.3771112074 47.8257293156 c 5
+ 107 264 l 5
+ 100 281 83 292 56 298 c 4
+ 52 299 48 300 43 300 c 4
+ 29 300 19 293 12 279 c 5
+ 21 335 l 6
+ 24 354 33 360 50 360 c 4
+ 64 360 81 352 101 337 c 5
+ 39 425 l 5
+ 48 487 l 5
+ 119 381 l 5
+ 129 480 l 5
+ 155 496 l 5
+ 120 162 l 5
 361 209 m 1
  355 145 347 72 347 72 c 1
  325 66 l 1
@@ -99738,8 +99834,8 @@ SplineSet
  527 116 l 1
  527 116 502 110 473 97 c 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF456 u1CF40
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF455 u1CF40
 Colour: 5effb2
 EndChar
 
@@ -118843,16 +118939,86 @@ LayerCount: 2
 Colour: 5effb2
 EndChar
 
-StartChar: uniF453
-Encoding: 62547 62547 2025
-Width: 1000
+StartChar: uniF455
+Encoding: 62549 62549 2025
+Width: 450
+VWidth: 999
+Flags: W
+HStem: 0 21G<82.0455 90.5> 300 60<21.6347 97.3965>
+AnchorPoint: "FinalPitch" 595 300 basechar 0
+AnchorPoint: "PitchMark" 50 770 basechar 0
+AnchorPoint: "Lomka" 460 150 basechar 0
+AnchorPoint: "Tikhaya" 0 -30 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Zevok" 240 60 basechar 0
+AnchorPoint: "Kachka" 50 660 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Auxiliary" 265 660 basechar 0
+AnchorPoint: "Podvertka" 290 90 basechar 0
+AnchorPoint: "Flexion" 395 640 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "TonalRange" 415 660 basechar 0
+AnchorPoint: "Tochka" 460 325 basechar 0
+AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Omet" 205 500 basechar 0
+AnchorPoint: "Podchashie" 150 -30 basechar 0
 LayerCount: 2
+Fore
+SplineSet
+120 162 m 5
+ 140 197 187 241 224 254 c 6
+ 246 262 l 5
+ 234 122 l 5
+ 183.422544961 109.35563624 134.183243083 69.8472864889 106.677273591 38.6326082823 c 5
+ 108 38 l 5
+ 86.9853515625 13.482421875 82.3740234375 3.1982421875 53 -24 c 5
+ 63 -37 71 -54 73 -58 c 4
+ 76 -64 68 -66 63 -66 c 4
+ 59 -67 55 -68 52 -62 c 4
+ 48 -56 43 -49 36 -39 c 5
+ 9 -65 -5 -80 -27 -93 c 4
+ -29 -94 -29 -94 -31 -94 c 4
+ -33 -94 -41 -90 -41 -83 c 4
+ -41 -81 -41 -79 -39 -78 c 4
+ -24 -65 6 -44 26 -23 c 5
+ 17 -13 7 -3 2 2 c 4
+ -7 10 2 10 5 10 c 4
+ 7.69006843763 10.4483879119 10.0996495697 10.6607947715 12.2800402747 10.6607947715 c 4
+ 26.539866087 10.6607947715 30.9967535584 1.57572357427 40 -10 c 5
+ 49.8804402151 -0.119559784917 67.2160819239 15.6768080445 84.3771112074 47.8257293156 c 5
+ 107 264 l 5
+ 100 281 83 292 56 298 c 4
+ 52 299 48 300 43 300 c 4
+ 29 300 19 293 12 279 c 5
+ 21 335 l 6
+ 24 354 33 360 50 360 c 4
+ 64 360 81 352 101 337 c 5
+ 39 425 l 5
+ 48 487 l 5
+ 119 381 l 5
+ 129 480 l 5
+ 155 496 l 5
+ 120 162 l 5
+368 285 m 0
+ 406 285 425 240 425 151 c 0
+ 425 101 418 49 405 -5 c 0
+ 404 -10 400 -12 395 -12 c 0
+ 391 -12 386 -7 387 -2 c 0
+ 394 49 398 82 398 96 c 0
+ 398 123 384 151 353 151 c 0
+ 330 151 315 135 307 104 c 0
+ 306 98 297 89 297 100 c 0
+ 297 102 304 196 304 197 c 0
+ 311 256 333 285 368 285 c 0
+EndSplineSet
+Ligature2: "Post-composition Priznakification-1" uniEA88 u1CF45
 Colour: 5effb2
 EndChar
 
-StartChar: uniF457
-Encoding: 62551 62551 2026
+StartChar: uniF453
+Encoding: 62547 62547 2026
 Width: 1000
+Flags: H
 LayerCount: 2
 Colour: 5effb2
 EndChar
