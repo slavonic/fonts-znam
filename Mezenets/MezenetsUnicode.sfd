@@ -1043,10 +1043,10 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1458 27 9
+WinInfo: 1404 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -38425,7 +38425,9 @@ SplineSet
  170 361 182 337 190 319 c 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF565 u1CF30
+Ligature2: "Post-composition Priznakification-1" uniEB26 u1CF46
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF34
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF30
 Colour: 5effb2
 EndChar
 
@@ -55989,7 +55991,9 @@ SplineSet
  42 -9 l 1
 EndSplineSet
 Validated: 3073
-Ligature2: "Znamenny Priznakification Round 2-1" uniF564 u1CF30
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF564 u1CF34
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF564 u1CF30
+Ligature2: "Post-composition Priznakification-1" uniEB26 u1CF45
 Colour: 5effb2
 EndChar
 
@@ -90784,8 +90788,8 @@ SplineSet
  563 371 529 337 513 305 c 1
  527 431 l 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniF606 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB50 u1CF45
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF606 u1CF40
 LCarets2: 1 0
 Colour: 5effb2
 EndChar
@@ -90886,8 +90890,8 @@ SplineSet
  977 683 942 660 906 633 c 1
  949 605 l 1
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB4F u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF606 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEB4F u1CF45
 LCarets2: 1 0
 Colour: 5effb2
 EndChar
@@ -107208,8 +107212,9 @@ SplineSet
  205 299 125 280 94 217 c 1
  106 343 l 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniF514 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniEAFD u1CF45
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF514 u1CF30
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF51E
 LCarets2: 1 0
 Colour: 5effb2
 EndChar
@@ -107260,9 +107265,10 @@ SplineSet
  141 43 61 24 30 -39 c 1
  42 87 l 1
 EndSplineSet
-LCarets2: 1 0
-Ligature2: "Znamenny Priznakification-1" uniF515 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniEAFD u1CF46
+Ligature2: "Znamenny Priznakification-1" uniF515 u1CF30
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF51F
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
@@ -108031,8 +108037,9 @@ SplineSet
  397 403 317 384 286 321 c 1
  298 447 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF91 u1CF45
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF52E
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
@@ -108087,8 +108094,9 @@ SplineSet
  397 403 317 384 286 321 c 1
  298 447 l 1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF91 u1CF46
+AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF52F
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
@@ -110179,9 +110187,9 @@ SplineSet
  605 532 664 576 682 576 c 0
  707 576 751 523 753 496 c 1
 EndSplineSet
-LCarets2: 1 0
-Ligature2: "Post-composition Priznakification-1" uniEB25 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF40
+Ligature2: "Post-composition Priznakification-1" uniEB25 u1CF46
+LCarets2: 1 0
 Colour: 5effb2
 EndChar
 
@@ -110266,8 +110274,8 @@ SplineSet
  205 203 125 184 94 121 c 1
  106 247 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56A u1CF3E
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF56A u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -110341,8 +110349,8 @@ SplineSet
  141 -53 61 -72 30 -135 c 1
  42 -9 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56B u1CF3E
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF56B u1CF3E
 Colour: 5effb2
 EndChar
 
@@ -110434,8 +110442,8 @@ SplineSet
  360 361 305 352 274 289 c 1
  286 416 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56A u1CF40
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF56A u1CF40
 Colour: 5effb2
 EndChar
 
@@ -110516,8 +110524,8 @@ SplineSet
  360 361 305 352 274 289 c 1
  286 416 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56B u1CF40
 LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF56B u1CF40
 Colour: 5effb2
 EndChar
 
@@ -111791,7 +111799,7 @@ SplineSet
  451 433 493 469 545 512 c 0
  597 555 629 576 642 576 c 0
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" u1CFA9 u1CF46
+Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D1
 LCarets2: 1 0
 Colour: 5effb2
@@ -111961,8 +111969,8 @@ SplineSet
  597 555 629 576 642 576 c 0
  666.994726753 576 713 521.566899163 713 495 c 2
 EndSplineSet
-Ligature2: "Post-composition Priznakification-1" uniEB38 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59D u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEB38 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D3
 LCarets2: 1 0
 Colour: 5effb2
@@ -118598,6 +118606,7 @@ SplineSet
  563 371 529 337 513 305 c 1
  527 431 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5FC u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB49 u1CF45
 Colour: 5effb2
 EndChar
@@ -118709,6 +118718,7 @@ SplineSet
  291 211 257 177 241 145 c 1
  255 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5FC u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB48 u1CF45
 Colour: 5effb2
 EndChar
@@ -118817,6 +118827,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF601 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB4E u1CF45
 Colour: 5effb2
 EndChar
@@ -125046,6 +125057,7 @@ SplineSet
  289 211 255 177 239 145 c 1
  253 271 l 1
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF601 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB4D u1CF45
 Colour: 5effb2
 EndChar
