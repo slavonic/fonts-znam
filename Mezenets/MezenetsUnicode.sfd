@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1589960491
+ModificationTime: 1589982032
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,10 +1043,10 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 540 27 9
+WinInfo: 1485 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -20931,8 +20931,25 @@ EndChar
 StartChar: uniEA5F
 Encoding: 59999 59999 398
 Width: 145
-Flags: W
+Flags: HW
 HStem: 0 21G<43.0469 59.5714>
+AnchorPoint: "Tochka" 145 325 basechar 0
+AnchorPoint: "Podchashie" 70 -30 basechar 0
+AnchorPoint: "TonalRange" 305 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 285 640 basechar 0
+AnchorPoint: "Podvertka" 120 0 basechar 0
+AnchorPoint: "Auxiliary" 155 660 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Kachka" 50 660 basechar 0
+AnchorPoint: "Zevok" 50 0 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Tikhaya" 0 -30 basechar 0
+AnchorPoint: "Lomka" 190 150 basechar 0
+AnchorPoint: "PitchMark" 130 770 basechar 0
+AnchorPoint: "FinalPitch" 325 300 basechar 0
+AnchorPoint: "Omet" 256 149 basechar 0
+AnchorPoint: "Zaderzhka" 144 357 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21227,7 +21244,7 @@ AnchorPoint: "Podvertka" 120 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Zaderzhka" 114 357 basechar 0
 AnchorPoint: "Podchashie" 50 -30 basechar 0
 AnchorPoint: "Tochka" 135 325 basechar 0
 LayerCount: 2
@@ -21239,16 +21256,16 @@ SplineSet
  79 480 l 1
  104 496 l 1
 EndSplineSet
-Validated: 3073
 Colour: ff00
 EndChar
 
 StartChar: uniEA59
 Encoding: 59993 59993 413
 Width: 162
-Flags: W
+Flags: HW
 HStem: 0 21G<60.0747 76.5714>
 VStem: 30 102
+AnchorPoint: "Zaderzhka" 144 357 basechar 0
 AnchorPoint: "Omet" 179 146 basechar 0
 AnchorPoint: "FinalPitch" 325 300 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -21263,7 +21280,6 @@ AnchorPoint: "Podvertka" 140 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Podchashie" 50 -30 basechar 0
 AnchorPoint: "Tochka" 155 325 basechar 0
 LayerCount: 2
@@ -21279,7 +21295,6 @@ SplineSet
  107 480 l 1
  132 496 l 1
 EndSplineSet
-Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA58 u1CF42
 Colour: ff00
 EndChar
@@ -21287,9 +21302,10 @@ EndChar
 StartChar: uniEA5A
 Encoding: 59994 59994 414
 Width: 145
-Flags: W
+Flags: HW
 HStem: 0 21G<43.0247 59.5714>
 VStem: 41 74<457.364 497> 41 26<28 69.1463>
+AnchorPoint: "Zaderzhka" 134 357 basechar 0
 AnchorPoint: "Omet" 212 149 basechar 0
 AnchorPoint: "FinalPitch" 325 300 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -21304,7 +21320,6 @@ AnchorPoint: "Podvertka" 120 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 251 452 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Podchashie" 50 -30 basechar 0
 AnchorPoint: "Tochka" 135 325 basechar 0
 LayerCount: 2
@@ -21319,7 +21334,6 @@ SplineSet
  115 497 l 2
  115 496 l 2xc0
 EndSplineSet
-Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA58 u1CF43
 Colour: ff00
 EndChar
@@ -21327,8 +21341,9 @@ EndChar
 StartChar: uniEA5B
 Encoding: 59995 59995 415
 Width: 186
-Flags: W
+Flags: HW
 VStem: 30 126
+AnchorPoint: "Zaderzhka" 164 357 basechar 0
 AnchorPoint: "Omet" 248 149 basechar 0
 AnchorPoint: "FinalPitch" 253 304 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -21343,7 +21358,6 @@ AnchorPoint: "Podvertka" 150 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Podchashie" 50 -30 basechar 0
 AnchorPoint: "Tochka" 185 325 basechar 0
 LayerCount: 2
@@ -21357,7 +21371,6 @@ SplineSet
  131 480 l 1
  156 496 l 1
 EndSplineSet
-Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA5A u1CF44
 Colour: ff00
 EndChar
@@ -21365,9 +21378,10 @@ EndChar
 StartChar: uniEA5C
 Encoding: 59996 59996 416
 Width: 184
-Flags: W
+Flags: HW
 HStem: 0 21G<32.0367 48.5714>
 VStem: 30 124
+AnchorPoint: "Zaderzhka" 144 357 basechar 0
 AnchorPoint: "Omet" 236 151 basechar 0
 AnchorPoint: "FinalPitch" 325 300 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -21382,7 +21396,6 @@ AnchorPoint: "Podvertka" 120 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Podchashie" 50 -30 basechar 0
 AnchorPoint: "Tochka" 135 325 basechar 0
 LayerCount: 2
@@ -21396,7 +21409,6 @@ SplineSet
  30 0 l 1
  80 491 l 1
 EndSplineSet
-Validated: 3073
 Ligature2: "Znamenny Priznakification-1" uniEA58 u1CF44
 Colour: ff00
 EndChar
@@ -21404,9 +21416,10 @@ EndChar
 StartChar: uniEA5D
 Encoding: 59997 59997 417
 Width: 214
-Flags: W
+Flags: HW
 HStem: 0 21G<63.0096 79.5714>
 VStem: 30 155
+AnchorPoint: "Zaderzhka" 174 357 basechar 0
 AnchorPoint: "Omet" 214 145 basechar 0
 AnchorPoint: "FinalPitch" 355 300 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -21421,7 +21434,6 @@ AnchorPoint: "Podvertka" 140 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Podchashie" 50 -30 basechar 0
 AnchorPoint: "Tochka" 155 325 basechar 0
 LayerCount: 2
@@ -21441,7 +21453,6 @@ SplineSet
  82 209 l 1
  30 227 l 1
 EndSplineSet
-Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA59 u1CF44
 Colour: ff00
 EndChar
@@ -21449,8 +21460,9 @@ EndChar
 StartChar: uniEA5E
 Encoding: 59998 59998 418
 Width: 259
-Flags: W
+Flags: HW
 VStem: 30 199
+AnchorPoint: "Zaderzhka" 244 357 basechar 0
 AnchorPoint: "Omet" 366 149 basechar 0
 AnchorPoint: "FinalPitch" 435 300 basechar 0
 AnchorPoint: "PitchMark" 130 770 basechar 0
@@ -21465,7 +21477,6 @@ AnchorPoint: "Podvertka" 230 0 basechar 0
 AnchorPoint: "Flexion" 395 640 basechar 0
 AnchorPoint: "Podtinka" 0 -50 basechar 0
 AnchorPoint: "TonalRange" 415 660 basechar 0
-AnchorPoint: "Zaderzhka" 30 -120 basechar 0
 AnchorPoint: "Podchashie" 180 -30 basechar 0
 AnchorPoint: "Tochka" 255 325 basechar 0
 LayerCount: 2
@@ -21492,7 +21503,6 @@ SplineSet
  204 480 l 1
  229 496 l 1
 EndSplineSet
-Validated: 3073
 Ligature2: "Znamenny Priznakification-1" uniEA58 u1CF45
 Colour: ff00
 EndChar
@@ -51283,7 +51293,9 @@ EndChar
 StartChar: uniF63C
 Encoding: 63036 63036 943
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -51321,7 +51333,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -51348,7 +51360,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 -1 227 m 1
  19 414 l 1
  43 430 l 1
@@ -66141,20 +66153,19 @@ StartChar: u1CF34
 Encoding: 118580 118580 1211
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 388 196
 VStem: -621 96
 LayerCount: 2
 Fore
 SplineSet
--609 514 m 1
- -599 543 -570 573 -541 580 c 2
- -525 584 l 1
- -535 460 l 1
- -570 454 -605 420 -621 388 c 1
- -609 514 l 1
+-609 434 m 5
+ -599 463 -570 493 -541 500 c 6
+ -525 504 l 5
+ -535 380 l 5
+ -570 374 -605 340 -621 308 c 5
+ -609 434 l 5
 EndSplineSet
-Validated: 3073
 EndChar
 
 StartChar: afii61352
@@ -85774,7 +85785,9 @@ EndChar
 StartChar: uniF638
 Encoding: 63032 63032 1568
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -85812,7 +85825,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -85839,7 +85852,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 104 496 m 1
  94 386 67 133 56 28 c 1
  30 0 l 1
@@ -85859,11 +85872,13 @@ EndChar
 StartChar: uniF639
 Encoding: 63033 63033 1569
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 30 74<457.364 497> 30 26<28 69.1463> 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
-202 664 m 4xbc
+202 664 m 4xb3
  202 672 200 680 198 687 c 4
  196 694 194 701 190 707 c 4
  186 713 181 717 175 720 c 4
@@ -85879,7 +85894,7 @@ SplineSet
  154 604 161 606 167 608 c 4
  173 610 180 615 185 620 c 4
  190 625 194 631 197 638 c 4
- 200 645 202 654 202 664 c 4xbc
+ 200 645 202 654 202 664 c 4xb3
 246 684 m 4
  246 667 243 651 237 637 c 4
  231 623 221 610 211 600 c 4
@@ -85897,7 +85912,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xd1
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -85924,15 +85939,15 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
-104 496 m 1
+ 567 555 599 576 612 576 c 0xd1
+104 496 m 1x99
  94 386 67 133 56 28 c 1
  30 0 l 1
  71 405 l 1
  19 421 l 1
- 30 521 l 1
+ 30 521 l 1x95
  104 497 l 1
- 104 496 l 1
+ 104 496 l 1x99
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF99
@@ -85943,7 +85958,9 @@ EndChar
 StartChar: uniF63A
 Encoding: 63034 63034 1570
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<124.869 126> 450 126<569.722 639.078> 566 38<115.203 187.699> 725 39<117.503 190.771>
+VStem: 58 46<610.892 713.108> 202 44<615.834 716.852>
 LayerCount: 2
 Fore
 SplineSet
@@ -85981,7 +85998,7 @@ SplineSet
  208 753 217 747 224 740 c 4
  231 733 237 725 241 715 c 4
  245 705 246 694 246 684 c 4
-612 576 m 0
+612 576 m 0xdc
  625 576 640 566 658 545 c 0
  675 525 683 509 683 495 c 2
  683 492 l 1
@@ -86008,7 +86025,7 @@ SplineSet
  400 506 l 1
  390 404 l 1
  421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
+ 567 555 599 576 612 576 c 0xdc
 104 496 m 1
  53 0 l 1
  -22 -20 l 1
@@ -86510,8 +86527,6 @@ Refer: 453 60400 N 1 0 0 1 0 0 2
 Refer: 1521 117 N 0.450933 0 0 0.463093 62 457 2
 Validated: 32769
 LCarets2: 1 0
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBF0 u1CF44
-Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF84
 Colour: ffff00
 EndChar
 
@@ -86527,8 +86542,6 @@ Fore
 Refer: 1521 117 N 0.466446 0 0 0.468447 85 436 2
 Refer: 454 60401 N 1 0 0 1 0 0 2
 Validated: 32769
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBF1 u1CF44
-Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF82
 Colour: ffff00
 EndChar
 
@@ -86924,8 +86937,6 @@ Fore
 Refer: 1521 117 N 0.476636 0 0 0.461596 43 453 2
 Refer: 843 118695 N 1 0 0 1 0 0 2
 Validated: 32769
-Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF44
-Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF83
 Colour: ffff00
 EndChar
 
@@ -119465,15 +119476,17 @@ EndChar
 StartChar: uniF622
 Encoding: 63010 63010 2160
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119488,7 +119501,7 @@ SplineSet
  39 92 l 1
  79 480 l 1
  104 496 l 1
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 492 l 1
@@ -119503,23 +119516,27 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 EndSplineSet
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF82
+Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF44
 Colour: 1abfff
 EndChar
 
 StartChar: uniF623
 Encoding: 63011 63011 2161
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119534,7 +119551,7 @@ SplineSet
  83 277 64 109 56 28 c 1
  30 0 l 1
  80 491 l 1
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 492 l 1
@@ -119549,23 +119566,27 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 EndSplineSet
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF83
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBF0 u1CF44
 Colour: 1abfff
 EndChar
 
 StartChar: uniF624
 Encoding: 63012 63012 2162
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119573,7 +119594,7 @@ SplineSet
  213.445596577 764 246 729.898099997 246 684 c 4
  246 628.445415913 213.411800492 592.728523304 175 575 c 4
  162 569 150 566 137 566 c 4
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 492 l 1
@@ -119588,7 +119609,7 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 -1 227 m 1
  19 414 l 1
  43 430 l 1
@@ -119603,6 +119624,8 @@ SplineSet
  51 209 l 1
  -1 227 l 1
 EndSplineSet
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF84
+Ligature2: "Znamenny Priznakification Round 2-1" uniEBF1 u1CF44
 Colour: 1abfff
 EndChar
 
