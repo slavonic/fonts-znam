@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1589985760
+ModificationTime: 1590062477
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,10 +1043,10 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
 OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1080 27 9
+WinInfo: 1026 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -1077,7 +1077,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "FinalPitch" "'mark' Cinnabar Mark Positioning-2" "Stacking" "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya" "'mark' Cinnabar Mark Positioning-1" "Zevok" "'mark' Cinnabar Mark Positioning-1" "Kachka" "'mark' Cinnabar Mark Positioning-1" "Lomka" "'mark' Cinnabar Mark Positioning-1" "Podvertka" "'mark' Cinnabar Mark Positioning-1" "Borzaya" "'mark' Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Mark Positioning-1" "Auxiliary" "'mark' Cinnabar Mark Positioning-2" "Podtinka" "'mark' Black Mark Positioning-1" "Flexion" "'mark' Black Mark Positioning-1" "PitchMark" "'mark' Cinnabar Mark Positioning-2" "Podchashie" "'mark' Black Mark Positioning-1" "TonalRange" "'mark' Black Mark Positioning-1" "Omet" "'mark' Black Mark Positioning-1" "Tochka" "'mark' Black Mark Positioning-1" "Zaderzhka" "'mark' Black Mark Positioning-1"
-BeginChars: 1114112 2255
+BeginChars: 1114112 2252
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -30023,7 +30023,7 @@ AnchorPoint: "Stacking" 225 563 basemark 0
 AnchorPoint: "FinalPitch" 225 551 mark 0
 LayerCount: 2
 Fore
-Refer: 1592 118540 S 1 0 0 1 20 0 2
+Refer: 1589 118540 S 1 0 0 1 20 0 2
 Colour: ffc259
 EndChar
 
@@ -30039,7 +30039,7 @@ AnchorPoint: "Stacking" 231 562 basemark 0
 AnchorPoint: "FinalPitch" 229 545 mark 0
 LayerCount: 2
 Fore
-Refer: 1593 118541 S 1 0 0 1 30 0 2
+Refer: 1590 118541 S 1 0 0 1 30 0 2
 Colour: ffc259
 EndChar
 
@@ -30054,7 +30054,7 @@ AnchorPoint: "Stacking" 128 561 basemark 0
 AnchorPoint: "FinalPitch" 117 549 mark 0
 LayerCount: 2
 Fore
-Refer: 1594 118542 N 1 0 0 1 0 0 2
+Refer: 1591 118542 N 1 0 0 1 0 0 2
 Validated: 32769
 Colour: ffc259
 EndChar
@@ -30449,11 +30449,11 @@ VStem: -29 52
 LayerCount: 2
 Fore
 SplineSet
-23 202 m 1
- -7 -94 l 1
- -29 -94 l 1
- 1 202 l 1
- 23 202 l 1
+23 202 m 5
+ -7 -94 l 5
+ -29 -94 l 5
+ 1 202 l 5
+ 23 202 l 5
 EndSplineSet
 Validated: 3073
 Colour: ffc259
@@ -86508,61 +86508,8 @@ Validated: 3073
 Colour: ff
 EndChar
 
-StartChar: uniEBF7
-Encoding: 60407 60407 1578
-Width: 750
-VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 158 159> 450.98 23.6177<129.39 171.752> 451 125<604.474 670.206> 621.398 7.87258<69.6659 88.4459 179.243 198.755>
-VStem: 40 83<91.2443 272.069> 93.5653 28.4088<481.824 615.753> 205.397 28.4088<497.275 615.753>
-LayerCount: 2
-Fore
-SplineSet
-622 -69 m 5
- 619 -68 615 -67 610 -65 c 4
- 605 -63 602 -62 597 -60 c 4
- 592 -58 588 -56 584 -54 c 4
- 580 -52 576 -50 574 -48 c 5
- 283 727 l 5
- 298 736 l 5
- 314 732 331 726 346 716 c 5
- 637 -59 l 5
- 622 -69 l 5
-EndSplineSet
-Refer: 453 60400 N 1 0 0 1 0 0 2
-Refer: 1521 117 N 0.450933 0 0 0.463093 62 457 2
-LCarets2: 1 0
-Colour: ffff00
-EndChar
-
-StartChar: uniEBF8
-Encoding: 60408 60408 1579
-Width: 750
-VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 429.91 23.8908<154.709 198.527> 451 125<604.474 670.206> 602.299 7.9636<92.9296 112.356 206.276 226.459>
-VStem: 40 83<91.2443 272.069> 117.651 29.3861<461.111 596.589> 233.33 29.3861<476.74 596.589>
-LayerCount: 2
-Fore
-SplineSet
-622 -69 m 5
- 619 -68 615 -67 610 -65 c 4
- 605 -63 602 -62 597 -60 c 4
- 592 -58 588 -56 584 -54 c 4
- 580 -52 576 -50 574 -48 c 5
- 283 727 l 5
- 298 736 l 5
- 314 732 331 726 346 716 c 5
- 637 -59 l 5
- 622 -69 l 5
-EndSplineSet
-Refer: 1521 117 N 0.466446 0 0 0.468447 85 436 2
-Refer: 454 60401 N 1 0 0 1 0 0 2
-Colour: ffff00
-EndChar
-
 StartChar: uniF48F
-Encoding: 62607 62607 1580
+Encoding: 62607 62607 1578
 Width: 845
 VWidth: 999
 Flags: W
@@ -86642,7 +86589,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF490
-Encoding: 62608 62608 1581
+Encoding: 62608 62608 1579
 Width: 845
 VWidth: 999
 Flags: W
@@ -86715,7 +86662,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4FC
-Encoding: 62716 62716 1582
+Encoding: 62716 62716 1580
 Width: 625
 VWidth: 0
 Flags: W
@@ -86780,7 +86727,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniEFA9
-Encoding: 61353 61353 1583
+Encoding: 61353 61353 1581
 Width: 730
 VWidth: 999
 Flags: W
@@ -86868,7 +86815,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF63
-Encoding: 61283 61283 1584
+Encoding: 61283 61283 1582
 Width: 720
 VWidth: 999
 Flags: W
@@ -86941,34 +86888,8 @@ Validated: 3073
 Colour: 2694ff
 EndChar
 
-StartChar: uniEBF9
-Encoding: 60409 60409 1585
-Width: 720
-VWidth: 999
-Flags: HW
-HStem: -10 31G<30 33.5 156.869 158> 446.999 23.5414<114.231 159.007> 451 125<604.474 670.206> 616.867 7.84713<51.1028 70.9533 166.925 187.55>
-VStem: 40 83<91.2443 272.069> 76.3645 30.0281<477.744 611.24> 194.57 30.0281<493.144 611.24>
-LayerCount: 2
-Fore
-SplineSet
-622 -69 m 5
- 619 -68 615 -67 610 -65 c 4
- 605 -63 602 -62 597 -60 c 4
- 592 -58 588 -56 584 -54 c 4
- 580 -52 576 -50 574 -48 c 5
- 283 727 l 5
- 298 736 l 5
- 314 732 331 726 346 716 c 5
- 637 -59 l 5
- 622 -69 l 5
-EndSplineSet
-Refer: 1521 117 N 0.476636 0 0 0.461596 43 453 2
-Refer: 843 118695 N 1 0 0 1 0 0 2
-Colour: ffff00
-EndChar
-
 StartChar: uniEB5E
-Encoding: 60254 60254 1586
+Encoding: 60254 60254 1583
 Width: 420
 VWidth: 0
 Flags: W
@@ -87038,7 +86959,7 @@ Colour: ff
 EndChar
 
 StartChar: uniEF8C
-Encoding: 61324 61324 1587
+Encoding: 61324 61324 1584
 Width: 740
 VWidth: 999
 Flags: W
@@ -87114,7 +87035,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF8D
-Encoding: 61325 61325 1588
+Encoding: 61325 61325 1585
 Width: 740
 VWidth: 999
 Flags: W
@@ -87190,7 +87111,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA1
-Encoding: 61345 61345 1589
+Encoding: 61345 61345 1586
 Width: 720
 VWidth: 999
 Flags: W
@@ -87279,7 +87200,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA3
-Encoding: 61347 61347 1590
+Encoding: 61347 61347 1587
 Width: 760
 VWidth: 999
 Flags: W
@@ -87373,7 +87294,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA5
-Encoding: 61349 61349 1591
+Encoding: 61349 61349 1588
 Width: 760
 VWidth: 999
 Flags: W
@@ -87466,7 +87387,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: u1CF0C
-Encoding: 118540 118540 1592
+Encoding: 118540 118540 1589
 Width: 0
 VWidth: 999
 Flags: W
@@ -87520,7 +87441,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: u1CF0D
-Encoding: 118541 118541 1593
+Encoding: 118541 118541 1590
 Width: 0
 VWidth: 999
 Flags: W
@@ -87580,7 +87501,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: u1CF0E
-Encoding: 118542 118542 1594
+Encoding: 118542 118542 1591
 Width: 0
 VWidth: 999
 Flags: W
@@ -87626,7 +87547,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniEA08
-Encoding: 59912 59912 1595
+Encoding: 59912 59912 1592
 Width: 0
 VWidth: 999
 Flags: W
@@ -87665,7 +87586,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniEA1B
-Encoding: 59931 59931 1596
+Encoding: 59931 59931 1593
 Width: 241
 VWidth: 999
 Flags: W
@@ -87701,7 +87622,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEFE4
-Encoding: 61412 61412 1597
+Encoding: 61412 61412 1594
 Width: 625
 VWidth: 999
 Flags: W
@@ -87761,7 +87682,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFE6
-Encoding: 61414 61414 1598
+Encoding: 61414 61414 1595
 Width: 665
 VWidth: 999
 Flags: W
@@ -87848,7 +87769,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFE7
-Encoding: 61415 61415 1599
+Encoding: 61415 61415 1596
 Width: 625
 VWidth: 0
 Flags: W
@@ -87930,7 +87851,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFE8
-Encoding: 61416 61416 1600
+Encoding: 61416 61416 1597
 Width: 625
 VWidth: 0
 Flags: W
@@ -88017,7 +87938,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFE9
-Encoding: 61417 61417 1601
+Encoding: 61417 61417 1598
 Width: 625
 VWidth: 0
 Flags: W
@@ -88081,7 +88002,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFEA
-Encoding: 61418 61418 1602
+Encoding: 61418 61418 1599
 Width: 625
 VWidth: 0
 Flags: W
@@ -88155,7 +88076,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFEB
-Encoding: 61419 61419 1603
+Encoding: 61419 61419 1600
 Width: 625
 VWidth: 0
 Flags: W
@@ -88234,7 +88155,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFF0
-Encoding: 61424 61424 1604
+Encoding: 61424 61424 1601
 Width: 950
 VWidth: 0
 Flags: W
@@ -88324,7 +88245,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFF1
-Encoding: 61425 61425 1605
+Encoding: 61425 61425 1602
 Width: 950
 VWidth: 0
 Flags: W
@@ -88418,7 +88339,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFCA
-Encoding: 61386 61386 1606
+Encoding: 61386 61386 1603
 Width: 760
 VWidth: 999
 Flags: W
@@ -88523,7 +88444,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFCB
-Encoding: 61387 61387 1607
+Encoding: 61387 61387 1604
 Width: 760
 VWidth: 999
 Flags: W
@@ -88627,7 +88548,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFCC
-Encoding: 61388 61388 1608
+Encoding: 61388 61388 1605
 Width: 760
 VWidth: 999
 Flags: W
@@ -88730,7 +88651,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFCD
-Encoding: 61389 61389 1609
+Encoding: 61389 61389 1606
 Width: 760
 VWidth: 999
 Flags: W
@@ -88833,7 +88754,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFCE
-Encoding: 61390 61390 1610
+Encoding: 61390 61390 1607
 Width: 760
 VWidth: 999
 Flags: W
@@ -88942,7 +88863,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFCF
-Encoding: 61391 61391 1611
+Encoding: 61391 61391 1608
 Width: 730
 VWidth: 999
 Flags: W
@@ -89042,7 +88963,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD0
-Encoding: 61392 61392 1612
+Encoding: 61392 61392 1609
 Width: 730
 VWidth: 999
 Flags: W
@@ -89141,7 +89062,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD1
-Encoding: 61393 61393 1613
+Encoding: 61393 61393 1610
 Width: 730
 VWidth: 999
 Flags: W
@@ -89239,7 +89160,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD2
-Encoding: 61394 61394 1614
+Encoding: 61394 61394 1611
 Width: 730
 VWidth: 999
 Flags: W
@@ -89337,7 +89258,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD3
-Encoding: 61395 61395 1615
+Encoding: 61395 61395 1612
 Width: 730
 VWidth: 999
 Flags: W
@@ -89441,7 +89362,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD6
-Encoding: 61398 61398 1616
+Encoding: 61398 61398 1613
 Width: 720
 VWidth: 999
 Flags: W
@@ -89531,7 +89452,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD7
-Encoding: 61399 61399 1617
+Encoding: 61399 61399 1614
 Width: 720
 VWidth: 999
 Flags: W
@@ -89620,7 +89541,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD8
-Encoding: 61400 61400 1618
+Encoding: 61400 61400 1615
 Width: 720
 VWidth: 999
 Flags: W
@@ -89708,7 +89629,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFD9
-Encoding: 61401 61401 1619
+Encoding: 61401 61401 1616
 Width: 720
 VWidth: 999
 Flags: W
@@ -89796,7 +89717,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFDA
-Encoding: 61402 61402 1620
+Encoding: 61402 61402 1617
 Width: 720
 VWidth: 999
 Flags: W
@@ -89890,7 +89811,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFDB
-Encoding: 61403 61403 1621
+Encoding: 61403 61403 1618
 Width: 720
 VWidth: 0
 Flags: W
@@ -89985,7 +89906,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFDC
-Encoding: 61404 61404 1622
+Encoding: 61404 61404 1619
 Width: 720
 VWidth: 0
 Flags: W
@@ -90079,7 +90000,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFDD
-Encoding: 61405 61405 1623
+Encoding: 61405 61405 1620
 Width: 720
 VWidth: 0
 Flags: W
@@ -90172,7 +90093,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFDE
-Encoding: 61406 61406 1624
+Encoding: 61406 61406 1621
 Width: 720
 VWidth: 0
 Flags: W
@@ -90265,7 +90186,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFDF
-Encoding: 61407 61407 1625
+Encoding: 61407 61407 1622
 Width: 720
 VWidth: 0
 Flags: W
@@ -90364,7 +90285,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF91
-Encoding: 61329 61329 1626
+Encoding: 61329 61329 1623
 Width: 720
 VWidth: 999
 Flags: W
@@ -90442,7 +90363,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF92
-Encoding: 61330 61330 1627
+Encoding: 61330 61330 1624
 Width: 720
 VWidth: 999
 Flags: W
@@ -90519,7 +90440,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF93
-Encoding: 61331 61331 1628
+Encoding: 61331 61331 1625
 Width: 720
 VWidth: 999
 Flags: W
@@ -90595,7 +90516,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF94
-Encoding: 61332 61332 1629
+Encoding: 61332 61332 1626
 Width: 720
 VWidth: 999
 Flags: W
@@ -90671,7 +90592,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF95
-Encoding: 61333 61333 1630
+Encoding: 61333 61333 1627
 Width: 720
 VWidth: 999
 Flags: W
@@ -90753,7 +90674,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF5F9
-Encoding: 62969 62969 1631
+Encoding: 62969 62969 1628
 Width: 960
 VWidth: 0
 Flags: W
@@ -90841,7 +90762,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5FA
-Encoding: 62970 62970 1632
+Encoding: 62970 62970 1629
 Width: 990
 VWidth: 0
 Flags: W
@@ -90937,7 +90858,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF608
-Encoding: 62984 62984 1633
+Encoding: 62984 62984 1630
 Width: 1090
 Flags: W
 HStem: 460 21G<807.151 828> 679 127<961.096 1027.59>
@@ -91046,7 +90967,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF607
-Encoding: 62983 62983 1634
+Encoding: 62983 62983 1631
 Width: 1090
 Flags: W
 HStem: 460 21G<807.105 828> 683 123<961.157 1026.49>
@@ -91148,7 +91069,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF61C
-Encoding: 63004 63004 1635
+Encoding: 63004 63004 1632
 Width: 466
 VWidth: 999
 Flags: W
@@ -91225,11 +91146,12 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniEF85
-Encoding: 61317 61317 1636
+Encoding: 61317 61317 1633
 Width: 720
 VWidth: 999
 Flags: W
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.772>
+HStem: 0 21G<32.0747 48.5714 126.869 128> 451 125<574.474 640.772>
+DStem2: 30 0 56 28 0.101556 0.99483<30.4957 242.293 341.797 482.495> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -91250,33 +91172,17 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-104 496 m 5
- 94 386 67 133 56 28 c 5
- 30 0 l 5
- 55 241 l 5
- 2 257 l 5
- 13 357 l 5
- 65 340 l 5
- 79 480 l 5
- 104 496 l 5
--1 642.400390625 m 1
- -33.9091796875 699.400390625 l 1
- -99.7265625 699.400390625 l 1
- -66.818359375 756.400390625 l 1
- -99.7265625 813.400390625 l 1
- -33.9091796875 813.400390625 l 1
- -1 870.400390625 l 1
- 31.9091796875 813.400390625 l 1
- 97.7265625 813.400390625 l 1
- 64.818359375 756.400390625 l 1
- 97.7265625 699.400390625 l 1
- 31.9091796875 699.400390625 l 1
- -1 642.400390625 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 493 l 1
- 683 492 l 2
+104 496 m 1
+ 94 386 67 133 56 28 c 1
+ 30 0 l 1
+ 55 241 l 1
+ 2 257 l 1
+ 13 357 l 1
+ 65 340 l 1
+ 79 480 l 1
+ 104 496 l 1
+683 494 m 0
+ 683 493.333333333 683 492.666666667 683 492 c 0
  683 489 682 486 682 483 c 2
  641 68 l 1
  618 53 l 1
@@ -91285,23 +91191,26 @@ SplineSet
  618 450 613 451 608 451 c 2
  607 451 l 2
  590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
+ 423.212926353 331.659694765 326.722749102 227.895024013 225 116 c 0
  165 50 131 11 125 0 c 1
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
+ 627 576 641 566 659 545 c 0
+ 676 525 683 508 683 494 c 0
 EndSplineSet
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF86
-Encoding: 61318 61318 1637
+Encoding: 61318 61318 1634
 Width: 720
 VWidth: 999
 Flags: W
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.772>
+HStem: 0 21G<32.0247 48.5714 126.869 128> 451 125<574.474 640.772>
+VStem: 30 74<457.364 497>
+DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -91322,32 +91231,16 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-104 496 m 6xe0
- 94 386 67 133 56 28 c 5
- 30 0 l 5
- 71 405 l 5
- 19 421 l 5
- 30 521 l 5xd0
- 104 497 l 6
- 104 496 l 6xe0
--1 642.400390625 m 1
- -33.9091796875 699.400390625 l 1
- -99.7265625 699.400390625 l 1
- -66.818359375 756.400390625 l 1
- -99.7265625 813.400390625 l 1
- -33.9091796875 813.400390625 l 1
- -1 870.400390625 l 1
- 31.9091796875 813.400390625 l 1
- 97.7265625 813.400390625 l 1
- 64.818359375 756.400390625 l 1
- 97.7265625 699.400390625 l 1
- 31.9091796875 699.400390625 l 1
- -1 642.400390625 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 493 l 1
- 683 492 l 2
+104 496 m 1
+ 94 386 67 133 56 28 c 1
+ 30 0 l 1
+ 71 405 l 1
+ 19 421 l 1
+ 30 521 l 1
+ 104 497 l 1
+ 104 496 l 1
+683 494 m 0
+ 683 493.333333333 683 492.666666667 683 492 c 0
  683 489 682 486 682 483 c 2
  641 68 l 1
  618 53 l 1
@@ -91356,23 +91249,25 @@ SplineSet
  618 450 613 451 608 451 c 2
  607 451 l 2
  590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
+ 423.212926353 331.659694765 326.722749102 227.895024013 225 116 c 0
  165 50 131 11 125 0 c 1
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
+ 627 576 641 566 659 545 c 0
+ 676 525 683 508 683 494 c 0
 EndSplineSet
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF87
-Encoding: 61319 61319 1638
+Encoding: 61319 61319 1635
 Width: 720
 VWidth: 999
 Flags: W
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.772>
+HStem: 0 21G<126.869 128> 451 125<574.474 640.772>
+DStem2: 39 92 53 0 0.102283 0.994755<0 390.056> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -91393,31 +91288,15 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-104 496 m 5
- 53 0 l 5
- -22 -20 l 5
- -11 78 l 5
- 39 92 l 5
- 79 480 l 5
- 104 496 l 5
--1 642.400390625 m 1
- -33.9091796875 699.400390625 l 1
- -99.7265625 699.400390625 l 1
- -66.818359375 756.400390625 l 1
- -99.7265625 813.400390625 l 1
- -33.9091796875 813.400390625 l 1
- -1 870.400390625 l 1
- 31.9091796875 813.400390625 l 1
- 97.7265625 813.400390625 l 1
- 64.818359375 756.400390625 l 1
- 97.7265625 699.400390625 l 1
- 31.9091796875 699.400390625 l 1
- -1 642.400390625 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 493 l 1
- 683 492 l 2
+104 496 m 1
+ 53 0 l 1
+ -22 -20 l 1
+ -11 78 l 1
+ 39 92 l 1
+ 79 480 l 1
+ 104 496 l 1
+683 494 m 0
+ 683 493.333333333 683 492.666666667 683 492 c 0
  683 489 682 486 682 483 c 2
  641 68 l 1
  618 53 l 1
@@ -91426,23 +91305,25 @@ SplineSet
  618 450 613 451 608 451 c 2
  607 451 l 2
  590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
+ 423.212926353 331.659694765 326.722749102 227.895024013 225 116 c 0
  165 50 131 11 125 0 c 1
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
+ 627 576 641 566 659 545 c 0
+ 676 525 683 508 683 494 c 0
 EndSplineSet
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF88
-Encoding: 61320 61320 1639
+Encoding: 61320 61320 1636
 Width: 720
 VWidth: 999
 Flags: W
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.772>
+HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.772>
+DStem2: 30 0 56 28 0.101309 0.994855<30.49 404.527> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -91463,31 +91344,15 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-80 491 m 5
- 154 511 l 5
- 144 413 l 5
- 95 400 l 5
- 83 277 64 109 56 28 c 5
- 30 0 l 5
- 80 491 l 5
--1 642.400390625 m 1
- -33.9091796875 699.400390625 l 1
- -99.7265625 699.400390625 l 1
- -66.818359375 756.400390625 l 1
- -99.7265625 813.400390625 l 1
- -33.9091796875 813.400390625 l 1
- -1 870.400390625 l 1
- 31.9091796875 813.400390625 l 1
- 97.7265625 813.400390625 l 1
- 64.818359375 756.400390625 l 1
- 97.7265625 699.400390625 l 1
- 31.9091796875 699.400390625 l 1
- -1 642.400390625 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 493 l 1
- 683 492 l 2
+80 491 m 1
+ 154 511 l 1
+ 144 413 l 1
+ 95 400 l 1
+ 83 277 64 109 56 28 c 1
+ 30 0 l 1
+ 80 491 l 1
+683 494 m 0
+ 683 493.333333333 683 492.666666667 683 492 c 0
  683 489 682 486 682 483 c 2
  641 68 l 1
  618 53 l 1
@@ -91496,23 +91361,25 @@ SplineSet
  618 450 613 451 608 451 c 2
  607 451 l 2
  590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
+ 423.212926353 331.659694765 326.722749102 227.895024013 225 116 c 0
  165 50 131 11 125 0 c 1
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
+ 627 576 641 566 659 545 c 0
+ 676 525 683 508 683 494 c 0
 EndSplineSet
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF89
-Encoding: 61321 61321 1640
+Encoding: 61321 61321 1637
 Width: 720
 VWidth: 999
 Flags: W
-HStem: 0 21G<32.0417 48.5714 126.869 128> 451 125<574.474 640.772>
+HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.772>
+DStem2: 19 414 32 320 0.106345 0.994329<-92.0845 0> 30 0 56 28 0.101309 0.994855<30.49 210.052 310.551 404.527> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 AnchorPoint: "FinalPitch" 875 300 basechar 0
 AnchorPoint: "Borzaya" 490 50 basechar 0
 AnchorPoint: "PitchMark" 120 770 basechar 0
@@ -91533,37 +91400,21 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--1 227 m 5
- 19 414 l 5
- 43 430 l 5
- 32 320 l 5
- 61 309 l 5
- 80 491 l 5
- 154 511 l 5
- 144 413 l 5
- 95 400 l 5
- 83 277 64 109 56 28 c 5
- 30 0 l 5
- 51 209 l 5
- -1 227 l 5
--1 642.400390625 m 1
- -33.9091796875 699.400390625 l 1
- -99.7265625 699.400390625 l 1
- -66.818359375 756.400390625 l 1
- -99.7265625 813.400390625 l 1
- -33.9091796875 813.400390625 l 1
- -1 870.400390625 l 1
- 31.9091796875 813.400390625 l 1
- 97.7265625 813.400390625 l 1
- 64.818359375 756.400390625 l 1
- 97.7265625 699.400390625 l 1
- 31.9091796875 699.400390625 l 1
- -1 642.400390625 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 493 l 1
- 683 492 l 2
+-1 227 m 1
+ 19 414 l 1
+ 43 430 l 1
+ 32 320 l 1
+ 61 309 l 1
+ 80 491 l 1
+ 154 511 l 1
+ 144 413 l 1
+ 95 400 l 1
+ 83 277 64 109 56 28 c 1
+ 30 0 l 1
+ 51 209 l 1
+ -1 227 l 1
+683 494 m 0
+ 683 493.333333333 683 492.666666667 683 492 c 0
  683 489 682 486 682 483 c 2
  641 68 l 1
  618 53 l 1
@@ -91572,19 +91423,20 @@ SplineSet
  618 450 613 451 608 451 c 2
  607 451 l 2
  590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
+ 423.212926353 331.659694765 326.722749102 227.895024013 225 116 c 0
  165 50 131 11 125 0 c 1
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0
+ 627 576 641 566 659 545 c 0
+ 676 525 683 508 683 494 c 0
 EndSplineSet
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF8A
-Encoding: 61322 61322 1641
+Encoding: 61322 61322 1638
 Width: 740
 VWidth: 999
 Flags: W
@@ -91662,7 +91514,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF8B
-Encoding: 61323 61323 1642
+Encoding: 61323 61323 1639
 Width: 740
 VWidth: 999
 Flags: W
@@ -91739,7 +91591,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF9D
-Encoding: 61341 61341 1643
+Encoding: 61341 61341 1640
 Width: 720
 VWidth: 999
 Flags: W
@@ -91824,7 +91676,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEF9E
-Encoding: 61342 61342 1644
+Encoding: 61342 61342 1641
 Width: 720
 VWidth: 999
 Flags: W
@@ -91908,7 +91760,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA0
-Encoding: 61344 61344 1645
+Encoding: 61344 61344 1642
 Width: 720
 VWidth: 999
 Flags: W
@@ -91991,7 +91843,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA2
-Encoding: 61346 61346 1646
+Encoding: 61346 61346 1643
 Width: 760
 VWidth: 999
 Flags: W
@@ -92086,7 +91938,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA4
-Encoding: 61348 61348 1647
+Encoding: 61348 61348 1644
 Width: 760
 VWidth: 999
 Flags: W
@@ -92179,7 +92031,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA7
-Encoding: 61351 61351 1648
+Encoding: 61351 61351 1645
 Width: 730
 VWidth: 999
 Flags: W
@@ -92269,7 +92121,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFA8
-Encoding: 61352 61352 1649
+Encoding: 61352 61352 1646
 Width: 730
 VWidth: 999
 Flags: W
@@ -92358,7 +92210,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFAA
-Encoding: 61354 61354 1650
+Encoding: 61354 61354 1647
 Width: 730
 VWidth: 999
 Flags: W
@@ -92446,7 +92298,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFAB
-Encoding: 61355 61355 1651
+Encoding: 61355 61355 1648
 Width: 730
 VWidth: 999
 Flags: W
@@ -92540,7 +92392,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFAD
-Encoding: 61357 61357 1652
+Encoding: 61357 61357 1649
 Width: 720
 VWidth: 999
 Flags: W
@@ -92624,7 +92476,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFAE
-Encoding: 61358 61358 1653
+Encoding: 61358 61358 1650
 Width: 720
 VWidth: 999
 Flags: W
@@ -92707,7 +92559,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFAF
-Encoding: 61359 61359 1654
+Encoding: 61359 61359 1651
 Width: 720
 VWidth: 999
 Flags: W
@@ -92790,7 +92642,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB0
-Encoding: 61360 61360 1655
+Encoding: 61360 61360 1652
 Width: 720
 VWidth: 999
 Flags: W
@@ -92879,7 +92731,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB1
-Encoding: 61361 61361 1656
+Encoding: 61361 61361 1653
 Width: 720
 VWidth: 999
 Flags: W
@@ -92969,7 +92821,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB2
-Encoding: 61362 61362 1657
+Encoding: 61362 61362 1654
 Width: 720
 VWidth: 999
 Flags: W
@@ -93058,7 +92910,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB3
-Encoding: 61363 61363 1658
+Encoding: 61363 61363 1655
 Width: 720
 VWidth: 999
 Flags: W
@@ -93146,7 +92998,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB4
-Encoding: 61364 61364 1659
+Encoding: 61364 61364 1656
 Width: 720
 VWidth: 999
 Flags: W
@@ -93234,7 +93086,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB5
-Encoding: 61365 61365 1660
+Encoding: 61365 61365 1657
 Width: 720
 VWidth: 999
 Flags: W
@@ -93328,7 +93180,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB6
-Encoding: 61366 61366 1661
+Encoding: 61366 61366 1658
 Width: 760
 VWidth: 999
 Flags: W
@@ -93428,7 +93280,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB8
-Encoding: 61368 61368 1662
+Encoding: 61368 61368 1659
 Width: 760
 VWidth: 999
 Flags: W
@@ -93526,7 +93378,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFB9
-Encoding: 61369 61369 1663
+Encoding: 61369 61369 1660
 Width: 760
 VWidth: 999
 Flags: W
@@ -93624,7 +93476,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFBA
-Encoding: 61370 61370 1664
+Encoding: 61370 61370 1661
 Width: 730
 VWidth: 999
 Flags: W
@@ -93723,7 +93575,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFBB
-Encoding: 61371 61371 1665
+Encoding: 61371 61371 1662
 Width: 730
 VWidth: 999
 Flags: W
@@ -93818,7 +93670,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFBD
-Encoding: 61373 61373 1666
+Encoding: 61373 61373 1663
 Width: 730
 VWidth: 999
 Flags: W
@@ -93911,7 +93763,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFBE
-Encoding: 61374 61374 1667
+Encoding: 61374 61374 1664
 Width: 730
 VWidth: 999
 Flags: W
@@ -94004,7 +93856,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFBF
-Encoding: 61375 61375 1668
+Encoding: 61375 61375 1665
 Width: 730
 VWidth: 999
 Flags: W
@@ -94103,7 +93955,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC0
-Encoding: 61376 61376 1669
+Encoding: 61376 61376 1666
 Width: 720
 VWidth: 999
 Flags: W
@@ -94193,7 +94045,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC1
-Encoding: 61377 61377 1670
+Encoding: 61377 61377 1667
 Width: 720
 VWidth: 999
 Flags: W
@@ -94282,7 +94134,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC2
-Encoding: 61378 61378 1671
+Encoding: 61378 61378 1668
 Width: 720
 VWidth: 999
 Flags: W
@@ -94370,7 +94222,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC3
-Encoding: 61379 61379 1672
+Encoding: 61379 61379 1669
 Width: 720
 VWidth: 999
 Flags: W
@@ -94458,7 +94310,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC4
-Encoding: 61380 61380 1673
+Encoding: 61380 61380 1670
 Width: 720
 VWidth: 999
 Flags: W
@@ -94552,7 +94404,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC5
-Encoding: 61381 61381 1674
+Encoding: 61381 61381 1671
 Width: 720
 VWidth: 999
 Flags: W
@@ -94647,7 +94499,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC6
-Encoding: 61382 61382 1675
+Encoding: 61382 61382 1672
 Width: 720
 VWidth: 999
 Flags: W
@@ -94741,7 +94593,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC7
-Encoding: 61383 61383 1676
+Encoding: 61383 61383 1673
 Width: 720
 VWidth: 999
 Flags: W
@@ -94834,7 +94686,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC8
-Encoding: 61384 61384 1677
+Encoding: 61384 61384 1674
 Width: 720
 VWidth: 999
 Flags: W
@@ -94927,7 +94779,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEFC9
-Encoding: 61385 61385 1678
+Encoding: 61385 61385 1675
 Width: 720
 VWidth: 999
 Flags: W
@@ -95026,7 +94878,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF402
-Encoding: 62466 62466 1679
+Encoding: 62466 62466 1676
 Width: 625
 VWidth: 999
 Flags: W
@@ -95091,7 +94943,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF403
-Encoding: 62467 62467 1680
+Encoding: 62467 62467 1677
 Width: 625
 VWidth: 999
 Flags: W
@@ -95150,7 +95002,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF404
-Encoding: 62468 62468 1681
+Encoding: 62468 62468 1678
 Width: 625
 VWidth: 999
 Flags: W
@@ -95227,7 +95079,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF405
-Encoding: 62469 62469 1682
+Encoding: 62469 62469 1679
 Width: 625
 VWidth: 999
 Flags: W
@@ -95298,7 +95150,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF406
-Encoding: 62470 62470 1683
+Encoding: 62470 62470 1680
 Width: 650
 VWidth: 999
 Flags: W
@@ -95371,7 +95223,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF407
-Encoding: 62471 62471 1684
+Encoding: 62471 62471 1681
 Width: 650
 VWidth: 999
 Flags: W
@@ -95438,7 +95290,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF40B
-Encoding: 62475 62475 1685
+Encoding: 62475 62475 1682
 Width: 625
 VWidth: 0
 Flags: W
@@ -95503,7 +95355,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF40C
-Encoding: 62476 62476 1686
+Encoding: 62476 62476 1683
 Width: 625
 VWidth: 999
 Flags: W
@@ -95579,7 +95431,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF40D
-Encoding: 62477 62477 1687
+Encoding: 62477 62477 1684
 Width: 625
 VWidth: 999
 Flags: W
@@ -95648,7 +95500,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF40E
-Encoding: 62478 62478 1688
+Encoding: 62478 62478 1685
 Width: 650
 VWidth: 999
 Flags: W
@@ -95731,7 +95583,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF40F
-Encoding: 62479 62479 1689
+Encoding: 62479 62479 1686
 Width: 650
 VWidth: 999
 Flags: W
@@ -95807,7 +95659,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF428
-Encoding: 62504 62504 1690
+Encoding: 62504 62504 1687
 Width: 650
 VWidth: 0
 Flags: W
@@ -95904,7 +95756,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF429
-Encoding: 62505 62505 1691
+Encoding: 62505 62505 1688
 Width: 650
 VWidth: 0
 Flags: W
@@ -95996,7 +95848,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF412
-Encoding: 62482 62482 1692
+Encoding: 62482 62482 1689
 Width: 625
 VWidth: 0
 Flags: W
@@ -96065,7 +95917,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF413
-Encoding: 62483 62483 1693
+Encoding: 62483 62483 1690
 Width: 625
 VWidth: 0
 Flags: W
@@ -96128,7 +95980,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF414
-Encoding: 62484 62484 1694
+Encoding: 62484 62484 1691
 Width: 625
 VWidth: 999
 Flags: W
@@ -96201,7 +96053,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF415
-Encoding: 62485 62485 1695
+Encoding: 62485 62485 1692
 Width: 625
 VWidth: 999
 Flags: W
@@ -96268,7 +96120,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF416
-Encoding: 62486 62486 1696
+Encoding: 62486 62486 1693
 Width: 650
 VWidth: 999
 Flags: W
@@ -96348,7 +96200,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF417
-Encoding: 62487 62487 1697
+Encoding: 62487 62487 1694
 Width: 650
 VWidth: 999
 Flags: W
@@ -96422,7 +96274,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF41C
-Encoding: 62492 62492 1698
+Encoding: 62492 62492 1695
 Width: 625
 VWidth: 999
 Flags: W
@@ -96500,7 +96352,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF41D
-Encoding: 62493 62493 1699
+Encoding: 62493 62493 1696
 Width: 625
 VWidth: 999
 Flags: W
@@ -96572,7 +96424,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF41E
-Encoding: 62494 62494 1700
+Encoding: 62494 62494 1697
 Width: 650
 VWidth: 999
 Flags: W
@@ -96657,7 +96509,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF41F
-Encoding: 62495 62495 1701
+Encoding: 62495 62495 1698
 Width: 650
 VWidth: 999
 Flags: W
@@ -96736,7 +96588,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF420
-Encoding: 62496 62496 1702
+Encoding: 62496 62496 1699
 Width: 763
 VWidth: 999
 Flags: W
@@ -96833,7 +96685,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF421
-Encoding: 62497 62497 1703
+Encoding: 62497 62497 1700
 Width: 763
 VWidth: 999
 Flags: W
@@ -96924,7 +96776,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF422
-Encoding: 62498 62498 1704
+Encoding: 62498 62498 1701
 Width: 875
 VWidth: 999
 Flags: W
@@ -97034,7 +96886,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF423
-Encoding: 62499 62499 1705
+Encoding: 62499 62499 1702
 Width: 875
 VWidth: 999
 Flags: W
@@ -97138,7 +96990,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF424
-Encoding: 62500 62500 1706
+Encoding: 62500 62500 1703
 Width: 625
 VWidth: 0
 Flags: W
@@ -97224,7 +97076,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF425
-Encoding: 62501 62501 1707
+Encoding: 62501 62501 1704
 Width: 625
 VWidth: 0
 Flags: W
@@ -97305,7 +97157,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF426
-Encoding: 62502 62502 1708
+Encoding: 62502 62502 1705
 Width: 625
 VWidth: 0
 Flags: W
@@ -97395,7 +97247,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF427
-Encoding: 62503 62503 1709
+Encoding: 62503 62503 1706
 Width: 625
 VWidth: 0
 Flags: W
@@ -97480,7 +97332,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF42C
-Encoding: 62508 62508 1710
+Encoding: 62508 62508 1707
 Width: 675
 VWidth: 0
 Flags: W
@@ -97554,7 +97406,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF42D
-Encoding: 62509 62509 1711
+Encoding: 62509 62509 1708
 Width: 675
 VWidth: 999
 Flags: W
@@ -97632,7 +97484,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF42E
-Encoding: 62510 62510 1712
+Encoding: 62510 62510 1709
 Width: 700
 VWidth: 999
 Flags: W
@@ -97717,7 +97569,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF436
-Encoding: 62518 62518 1713
+Encoding: 62518 62518 1710
 Width: 400
 VWidth: 999
 Flags: W
@@ -97788,7 +97640,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF437
-Encoding: 62519 62519 1714
+Encoding: 62519 62519 1711
 Width: 400
 VWidth: 999
 Flags: W
@@ -97853,7 +97705,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF438
-Encoding: 62520 62520 1715
+Encoding: 62520 62520 1712
 Width: 512
 VWidth: 999
 Flags: W
@@ -97936,7 +97788,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF439
-Encoding: 62521 62521 1716
+Encoding: 62521 62521 1713
 Width: 512
 VWidth: 999
 Flags: W
@@ -98013,7 +97865,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF43A
-Encoding: 62522 62522 1717
+Encoding: 62522 62522 1714
 Width: 625
 VWidth: 999
 Flags: W
@@ -98109,7 +97961,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF43B
-Encoding: 62523 62523 1718
+Encoding: 62523 62523 1715
 Width: 625
 VWidth: 999
 Flags: W
@@ -98199,7 +98051,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF444
-Encoding: 62532 62532 1719
+Encoding: 62532 62532 1716
 Width: 655
 VWidth: 999
 Flags: W
@@ -98285,7 +98137,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF445
-Encoding: 62533 62533 1720
+Encoding: 62533 62533 1717
 Width: 655
 VWidth: 999
 Flags: W
@@ -98363,7 +98215,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF446
-Encoding: 62534 62534 1721
+Encoding: 62534 62534 1718
 Width: 615
 VWidth: 999
 Flags: W
@@ -98445,7 +98297,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF447
-Encoding: 62535 62535 1722
+Encoding: 62535 62535 1719
 Width: 615
 VWidth: 999
 Flags: W
@@ -98521,7 +98373,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF448
-Encoding: 62536 62536 1723
+Encoding: 62536 62536 1720
 Width: 725
 VWidth: 999
 Flags: W
@@ -98615,7 +98467,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF449
-Encoding: 62537 62537 1724
+Encoding: 62537 62537 1721
 Width: 725
 VWidth: 999
 Flags: W
@@ -98702,7 +98554,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF451
-Encoding: 62545 62545 1725
+Encoding: 62545 62545 1722
 Width: 750
 VWidth: 0
 Flags: W
@@ -98788,7 +98640,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF44F
-Encoding: 62543 62543 1726
+Encoding: 62543 62543 1723
 Width: 750
 VWidth: 0
 Flags: W
@@ -98868,7 +98720,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF44D
-Encoding: 62541 62541 1727
+Encoding: 62541 62541 1724
 Width: 790
 VWidth: 999
 Flags: W
@@ -98956,7 +98808,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF44E
-Encoding: 62542 62542 1728
+Encoding: 62542 62542 1725
 Width: 790
 VWidth: 999
 Flags: W
@@ -99037,7 +98889,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF454
-Encoding: 62548 62548 1729
+Encoding: 62548 62548 1726
 Width: 275
 VWidth: 0
 Flags: W
@@ -99105,7 +98957,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF456
-Encoding: 62550 62550 1730
+Encoding: 62550 62550 1727
 Width: 450
 VWidth: 999
 Flags: W
@@ -99185,7 +99037,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF457
-Encoding: 62551 62551 1731
+Encoding: 62551 62551 1728
 Width: 555
 VWidth: 999
 Flags: W
@@ -99278,7 +99130,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF45A
-Encoding: 62554 62554 1732
+Encoding: 62554 62554 1729
 Width: 425
 VWidth: 999
 Flags: W
@@ -99345,7 +99197,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF45F
-Encoding: 62559 62559 1733
+Encoding: 62559 62559 1730
 Width: 430
 VWidth: 999
 Flags: W
@@ -99416,7 +99268,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF460
-Encoding: 62560 62560 1734
+Encoding: 62560 62560 1731
 Width: 430
 VWidth: 999
 Flags: W
@@ -99480,7 +99332,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF461
-Encoding: 62561 62561 1735
+Encoding: 62561 62561 1732
 Width: 240
 Flags: W
 HStem: 0 21G<159 168.948> 204 108<88.6072 156.56>
@@ -99553,7 +99405,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF462
-Encoding: 62562 62562 1736
+Encoding: 62562 62562 1733
 Width: 420
 Flags: W
 HStem: 0 21G<159 168.948 287.832 308> 204 108<88.6072 156.56>
@@ -99640,7 +99492,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF469
-Encoding: 62569 62569 1737
+Encoding: 62569 62569 1734
 Width: 390
 VWidth: 999
 Flags: W
@@ -99709,7 +99561,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF46A
-Encoding: 62570 62570 1738
+Encoding: 62570 62570 1735
 Width: 390
 VWidth: 999
 Flags: W
@@ -99771,7 +99623,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF46D
-Encoding: 62573 62573 1739
+Encoding: 62573 62573 1736
 Width: 585
 VWidth: 999
 Flags: W
@@ -99861,7 +99713,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF46E
-Encoding: 62574 62574 1740
+Encoding: 62574 62574 1737
 Width: 585
 VWidth: 999
 Flags: W
@@ -99945,7 +99797,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF473
-Encoding: 62579 62579 1741
+Encoding: 62579 62579 1738
 Width: 605
 VWidth: 999
 Flags: W
@@ -100031,7 +99883,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF474
-Encoding: 62580 62580 1742
+Encoding: 62580 62580 1739
 Width: 605
 VWidth: 999
 Flags: W
@@ -100111,7 +99963,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF475
-Encoding: 62581 62581 1743
+Encoding: 62581 62581 1740
 Width: 725
 VWidth: 999
 Flags: W
@@ -100210,7 +100062,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF476
-Encoding: 62582 62582 1744
+Encoding: 62582 62582 1741
 Width: 725
 VWidth: 999
 Flags: W
@@ -100303,7 +100155,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF47D
-Encoding: 62589 62589 1745
+Encoding: 62589 62589 1742
 Width: 750
 VWidth: 999
 Flags: W
@@ -100393,7 +100245,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF47E
-Encoding: 62590 62590 1746
+Encoding: 62590 62590 1743
 Width: 750
 VWidth: 999
 Flags: W
@@ -100477,7 +100329,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF489
-Encoding: 62601 62601 1747
+Encoding: 62601 62601 1744
 Width: 705
 VWidth: 999
 Flags: W
@@ -100556,7 +100408,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF48A
-Encoding: 62602 62602 1748
+Encoding: 62602 62602 1745
 Width: 705
 VWidth: 999
 Flags: W
@@ -100628,7 +100480,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF48B
-Encoding: 62603 62603 1749
+Encoding: 62603 62603 1746
 Width: 715
 VWidth: 999
 Flags: W
@@ -100715,7 +100567,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF48C
-Encoding: 62604 62604 1750
+Encoding: 62604 62604 1747
 Width: 715
 VWidth: 999
 Flags: W
@@ -100796,7 +100648,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF491
-Encoding: 62609 62609 1751
+Encoding: 62609 62609 1748
 Width: 845
 VWidth: 999
 Flags: W
@@ -100881,7 +100733,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF492
-Encoding: 62610 62610 1752
+Encoding: 62610 62610 1749
 Width: 845
 VWidth: 999
 Flags: W
@@ -100960,7 +100812,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF493
-Encoding: 62611 62611 1753
+Encoding: 62611 62611 1750
 Width: 855
 VWidth: 999
 Flags: W
@@ -101053,7 +100905,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF494
-Encoding: 62612 62612 1754
+Encoding: 62612 62612 1751
 Width: 855
 VWidth: 999
 Flags: W
@@ -101140,7 +100992,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF499
-Encoding: 62617 62617 1755
+Encoding: 62617 62617 1752
 Width: 970
 Flags: W
 HStem: 0 21G<159 168.948> 204 108<88.6072 156.56> 602 125<840.145 906.79>
@@ -101229,7 +101081,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF49A
-Encoding: 62618 62618 1756
+Encoding: 62618 62618 1753
 Width: 970
 Flags: W
 HStem: 0 21G<159 165> 602 125<840.145 906.79>
@@ -101312,7 +101164,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF49B
-Encoding: 62619 62619 1757
+Encoding: 62619 62619 1754
 Width: 995
 Flags: W
 HStem: 0 21G<159 168.948> 204 108<88.6072 156.56> 602 125<840.145 906.79>
@@ -101409,7 +101261,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF49C
-Encoding: 62620 62620 1758
+Encoding: 62620 62620 1755
 Width: 995
 Flags: W
 HStem: 0 21G<159 165> 602 125<840.145 906.79>
@@ -101500,7 +101352,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4A1
-Encoding: 62625 62625 1759
+Encoding: 62625 62625 1756
 Width: 1090
 VWidth: 999
 Flags: W
@@ -101595,7 +101447,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4A2
-Encoding: 62626 62626 1760
+Encoding: 62626 62626 1757
 Width: 1090
 VWidth: 999
 Flags: W
@@ -101683,7 +101535,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4A3
-Encoding: 62627 62627 1761
+Encoding: 62627 62627 1758
 Width: 1090
 VWidth: 999
 Flags: W
@@ -101788,7 +101640,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4A4
-Encoding: 62628 62628 1762
+Encoding: 62628 62628 1759
 Width: 1090
 VWidth: 999
 Flags: W
@@ -101887,7 +101739,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4A9
-Encoding: 62633 62633 1763
+Encoding: 62633 62633 1760
 Width: 705
 VWidth: 0
 Flags: W
@@ -101974,7 +101826,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4AA
-Encoding: 62634 62634 1764
+Encoding: 62634 62634 1761
 Width: 705
 VWidth: 0
 Flags: W
@@ -102055,7 +101907,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4AB
-Encoding: 62635 62635 1765
+Encoding: 62635 62635 1762
 Width: 705
 VWidth: 0
 Flags: W
@@ -102150,7 +102002,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4AC
-Encoding: 62636 62636 1766
+Encoding: 62636 62636 1763
 Width: 705
 VWidth: 0
 Flags: W
@@ -102239,7 +102091,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4B1
-Encoding: 62641 62641 1767
+Encoding: 62641 62641 1764
 Width: 845
 VWidth: 0
 Flags: W
@@ -102331,7 +102183,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4B2
-Encoding: 62642 62642 1768
+Encoding: 62642 62642 1765
 Width: 845
 VWidth: 0
 Flags: W
@@ -102417,7 +102269,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4B3
-Encoding: 62643 62643 1769
+Encoding: 62643 62643 1766
 Width: 845
 VWidth: 0
 Flags: W
@@ -102517,7 +102369,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4B4
-Encoding: 62644 62644 1770
+Encoding: 62644 62644 1767
 Width: 845
 VWidth: 0
 Flags: W
@@ -102611,7 +102463,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4B9
-Encoding: 62649 62649 1771
+Encoding: 62649 62649 1768
 Width: 970
 Flags: W
 HStem: 0 21G<159 168.948> 204 108<88.6072 156.56> 601 126<835.958 902.346> 650 20G<593.252 625>
@@ -102707,7 +102559,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4BA
-Encoding: 62650 62650 1772
+Encoding: 62650 62650 1769
 Width: 970
 Flags: W
 HStem: 0 21G<159 165> 601 126<835.958 902.346> 650 20G<593.252 625>
@@ -102797,7 +102649,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4BB
-Encoding: 62651 62651 1773
+Encoding: 62651 62651 1770
 Width: 990
 Flags: W
 HStem: 0 21G<159 168.948> 204 108<88.6072 156.56> 601 126<835.958 902.346> 650 20G<593.252 625>
@@ -102902,7 +102754,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4BC
-Encoding: 62652 62652 1774
+Encoding: 62652 62652 1771
 Width: 990
 Flags: W
 HStem: 0 21G<159 165> 601 126<835.958 902.346> 650 20G<593.252 625>
@@ -103001,7 +102853,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C1
-Encoding: 62657 62657 1775
+Encoding: 62657 62657 1772
 Width: 1090
 VWidth: 999
 Flags: W
@@ -103106,7 +102958,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C2
-Encoding: 62658 62658 1776
+Encoding: 62658 62658 1773
 Width: 1090
 VWidth: 999
 Flags: W
@@ -103205,7 +103057,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C3
-Encoding: 62659 62659 1777
+Encoding: 62659 62659 1774
 Width: 1090
 VWidth: 999
 Flags: W
@@ -103319,7 +103171,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C4
-Encoding: 62660 62660 1778
+Encoding: 62660 62660 1775
 Width: 1090
 VWidth: 999
 Flags: W
@@ -103427,7 +103279,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C6
-Encoding: 62662 62662 1779
+Encoding: 62662 62662 1776
 Width: 545
 VWidth: 0
 Flags: W
@@ -103517,7 +103369,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C8
-Encoding: 62664 62664 1780
+Encoding: 62664 62664 1777
 Width: 625
 VWidth: 0
 Flags: W
@@ -103579,7 +103431,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4C9
-Encoding: 62665 62665 1781
+Encoding: 62665 62665 1778
 Width: 625
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
@@ -103634,7 +103486,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4CA
-Encoding: 62666 62666 1782
+Encoding: 62666 62666 1779
 Width: 625
 Flags: W
 HStem: -19.3393 20G<-43.8106 -35.5904> 451 125<479.474 545.772>
@@ -103699,7 +103551,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4CB
-Encoding: 62667 62667 1783
+Encoding: 62667 62667 1780
 Width: 625
 Flags: W
 HStem: -0 21G<31.9512 48.4818> 450 126<479.639 545.394>
@@ -103753,7 +103605,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4CC
-Encoding: 62668 62668 1784
+Encoding: 62668 62668 1781
 Width: 625
 Flags: W
 HStem: -19.3393 20G<-43.8106 -35.5904> 451 125<479.474 545.263>
@@ -103826,7 +103678,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4CD
-Encoding: 62669 62669 1785
+Encoding: 62669 62669 1782
 Width: 625
 Flags: W
 HStem: -0 21G<31.9512 48.4818> 450 126<479.639 545.394>
@@ -103888,7 +103740,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4CE
-Encoding: 62670 62670 1786
+Encoding: 62670 62670 1783
 Width: 620
 Flags: W
 HStem: -19.3393 20G<-43.8106 -35.5904> 451 125<479.474 545.206>
@@ -103973,7 +103825,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4CF
-Encoding: 62671 62671 1787
+Encoding: 62671 62671 1784
 Width: 620
 Flags: W
 HStem: 0 21G<31.8692 33> 451 125<479.474 545.206>
@@ -104052,7 +103904,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4D3
-Encoding: 62675 62675 1788
+Encoding: 62675 62675 1785
 Width: 625
 VWidth: 0
 Flags: W
@@ -104113,7 +103965,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4D7
-Encoding: 62679 62679 1789
+Encoding: 62679 62679 1786
 Width: 625
 VWidth: 0
 Flags: W
@@ -104179,7 +104031,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4D9
-Encoding: 62681 62681 1790
+Encoding: 62681 62681 1787
 Width: 625
 VWidth: 0
 Flags: W
@@ -104244,7 +104096,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4DB
-Encoding: 62683 62683 1791
+Encoding: 62683 62683 1788
 Width: 625
 VWidth: 0
 Flags: W
@@ -104317,7 +104169,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4DF
-Encoding: 62687 62687 1792
+Encoding: 62687 62687 1789
 Width: 625
 VWidth: 0
 Flags: W
@@ -104388,7 +104240,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E2
-Encoding: 62690 62690 1793
+Encoding: 62690 62690 1790
 Width: 625
 VWidth: 999
 Flags: W
@@ -104465,7 +104317,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E3
-Encoding: 62691 62691 1794
+Encoding: 62691 62691 1791
 Width: 625
 VWidth: 0
 Flags: W
@@ -104532,7 +104384,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E4
-Encoding: 62692 62692 1795
+Encoding: 62692 62692 1792
 Width: 625
 VWidth: 999
 Flags: W
@@ -104611,7 +104463,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E5
-Encoding: 62693 62693 1796
+Encoding: 62693 62693 1793
 Width: 625
 VWidth: 999
 Flags: W
@@ -104682,7 +104534,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E6
-Encoding: 62694 62694 1797
+Encoding: 62694 62694 1794
 Width: 665
 VWidth: 999
 Flags: W
@@ -104774,7 +104626,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E7
-Encoding: 62695 62695 1798
+Encoding: 62695 62695 1795
 Width: 665
 VWidth: 999
 Flags: W
@@ -104856,7 +104708,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E8
-Encoding: 62696 62696 1799
+Encoding: 62696 62696 1796
 Width: 625
 VWidth: 999
 Flags: W
@@ -104946,7 +104798,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4E9
-Encoding: 62697 62697 1800
+Encoding: 62697 62697 1797
 Width: 625
 VWidth: 999
 Flags: W
@@ -105024,7 +104876,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4EC
-Encoding: 62700 62700 1801
+Encoding: 62700 62700 1798
 Width: 625
 VWidth: 0
 Flags: W
@@ -105113,7 +104965,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4ED
-Encoding: 62701 62701 1802
+Encoding: 62701 62701 1799
 Width: 625
 VWidth: 0
 Flags: W
@@ -105190,7 +105042,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4EE
-Encoding: 62702 62702 1803
+Encoding: 62702 62702 1800
 Width: 625
 VWidth: 999
 Flags: W
@@ -105279,7 +105131,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4EF
-Encoding: 62703 62703 1804
+Encoding: 62703 62703 1801
 Width: 625
 VWidth: 999
 Flags: W
@@ -105360,7 +105212,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4F0
-Encoding: 62704 62704 1805
+Encoding: 62704 62704 1802
 Width: 625
 VWidth: 999
 Flags: W
@@ -105460,7 +105312,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4F1
-Encoding: 62705 62705 1806
+Encoding: 62705 62705 1803
 Width: 625
 VWidth: 999
 Flags: W
@@ -105548,7 +105400,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4F4
-Encoding: 62708 62708 1807
+Encoding: 62708 62708 1804
 Width: 625
 VWidth: 0
 Flags: W
@@ -105642,7 +105494,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4F5
-Encoding: 62709 62709 1808
+Encoding: 62709 62709 1805
 Width: 625
 VWidth: 0
 Flags: W
@@ -105724,7 +105576,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4F8
-Encoding: 62712 62712 1809
+Encoding: 62712 62712 1806
 Width: 625
 VWidth: 0
 Flags: W
@@ -105807,7 +105659,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4F9
-Encoding: 62713 62713 1810
+Encoding: 62713 62713 1807
 Width: 625
 VWidth: 0
 Flags: W
@@ -105884,7 +105736,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4FD
-Encoding: 62717 62717 1811
+Encoding: 62717 62717 1808
 Width: 625
 VWidth: 0
 Flags: W
@@ -105944,7 +105796,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4FE
-Encoding: 62718 62718 1812
+Encoding: 62718 62718 1809
 Width: 625
 VWidth: 0
 Flags: W
@@ -106015,7 +105867,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF4FF
-Encoding: 62719 62719 1813
+Encoding: 62719 62719 1810
 Width: 625
 VWidth: 0
 Flags: W
@@ -106079,7 +105931,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF500
-Encoding: 62720 62720 1814
+Encoding: 62720 62720 1811
 Width: 640
 VWidth: 999
 Flags: W
@@ -106157,7 +106009,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF501
-Encoding: 62721 62721 1815
+Encoding: 62721 62721 1812
 Width: 640
 VWidth: 999
 Flags: W
@@ -106228,7 +106080,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF505
-Encoding: 62725 62725 1816
+Encoding: 62725 62725 1813
 Width: 625
 VWidth: 0
 Flags: W
@@ -106298,7 +106150,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF506
-Encoding: 62726 62726 1817
+Encoding: 62726 62726 1814
 Width: 625
 VWidth: 0
 Flags: W
@@ -106379,7 +106231,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF507
-Encoding: 62727 62727 1818
+Encoding: 62727 62727 1815
 Width: 625
 VWidth: 0
 Flags: W
@@ -106453,7 +106305,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF508
-Encoding: 62728 62728 1819
+Encoding: 62728 62728 1816
 Width: 625
 VWidth: 0
 Flags: W
@@ -106541,7 +106393,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF509
-Encoding: 62729 62729 1820
+Encoding: 62729 62729 1817
 Width: 625
 VWidth: 0
 Flags: W
@@ -106622,7 +106474,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF50D
-Encoding: 62733 62733 1821
+Encoding: 62733 62733 1818
 Width: 625
 VWidth: 0
 Flags: W
@@ -106697,7 +106549,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF511
-Encoding: 62737 62737 1822
+Encoding: 62737 62737 1819
 Width: 815
 VWidth: 0
 Flags: W
@@ -106782,7 +106634,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF516
-Encoding: 62742 62742 1823
+Encoding: 62742 62742 1820
 Width: 350
 VWidth: 0
 Flags: W
@@ -106853,7 +106705,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF517
-Encoding: 62743 62743 1824
+Encoding: 62743 62743 1821
 Width: 350
 VWidth: 0
 Flags: W
@@ -106916,7 +106768,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF518
-Encoding: 62744 62744 1825
+Encoding: 62744 62744 1822
 Width: 365
 VWidth: 0
 Flags: W
@@ -106988,7 +106840,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF519
-Encoding: 62745 62745 1826
+Encoding: 62745 62745 1823
 Width: 365
 VWidth: 0
 Flags: W
@@ -107050,7 +106902,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF51A
-Encoding: 62746 62746 1827
+Encoding: 62746 62746 1824
 Width: 350
 VWidth: 0
 Flags: W
@@ -107112,7 +106964,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF51B
-Encoding: 62747 62747 1828
+Encoding: 62747 62747 1825
 Width: 350
 VWidth: 0
 Flags: W
@@ -107164,7 +107016,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF51C
-Encoding: 62748 62748 1829
+Encoding: 62748 62748 1826
 Width: 355
 VWidth: 0
 Flags: W
@@ -107234,7 +107086,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF51D
-Encoding: 62749 62749 1830
+Encoding: 62749 62749 1827
 Width: 355
 VWidth: 0
 Flags: W
@@ -107293,7 +107145,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF51E
-Encoding: 62750 62750 1831
+Encoding: 62750 62750 1828
 Width: 368
 VWidth: 0
 Flags: W
@@ -107355,7 +107207,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF51F
-Encoding: 62751 62751 1832
+Encoding: 62751 62751 1829
 Width: 368
 VWidth: 0
 Flags: W
@@ -107407,7 +107259,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF520
-Encoding: 62752 62752 1833
+Encoding: 62752 62752 1830
 Width: 430
 VWidth: 0
 Flags: W
@@ -107471,7 +107323,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF521
-Encoding: 62753 62753 1834
+Encoding: 62753 62753 1831
 Width: 430
 VWidth: 0
 Flags: W
@@ -107524,7 +107376,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF522
-Encoding: 62754 62754 1835
+Encoding: 62754 62754 1832
 Width: 430
 VWidth: 0
 Flags: W
@@ -107601,7 +107453,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF523
-Encoding: 62755 62755 1836
+Encoding: 62755 62755 1833
 Width: 430
 VWidth: 0
 Flags: W
@@ -107667,7 +107519,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF524
-Encoding: 62756 62756 1837
+Encoding: 62756 62756 1834
 Width: 430
 VWidth: 999
 Flags: W
@@ -107744,7 +107596,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF525
-Encoding: 62757 62757 1838
+Encoding: 62757 62757 1835
 Width: 430
 VWidth: 999
 Flags: W
@@ -107810,7 +107662,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF526
-Encoding: 62758 62758 1839
+Encoding: 62758 62758 1836
 Width: 430
 VWidth: 0
 Flags: W
@@ -107878,7 +107730,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF527
-Encoding: 62759 62759 1840
+Encoding: 62759 62759 1837
 Width: 430
 VWidth: 0
 Flags: W
@@ -107935,7 +107787,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF528
-Encoding: 62760 62760 1841
+Encoding: 62760 62760 1838
 Width: 430
 VWidth: 0
 Flags: W
@@ -108016,7 +107868,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF529
-Encoding: 62761 62761 1842
+Encoding: 62761 62761 1839
 Width: 430
 VWidth: 0
 Flags: W
@@ -108086,7 +107938,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF52A
-Encoding: 62762 62762 1843
+Encoding: 62762 62762 1840
 Width: 430
 VWidth: 0
 Flags: W
@@ -108162,7 +108014,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF52B
-Encoding: 62763 62763 1844
+Encoding: 62763 62763 1841
 Width: 430
 VWidth: 0
 Flags: W
@@ -108227,7 +108079,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF52C
-Encoding: 62764 62764 1845
+Encoding: 62764 62764 1842
 Width: 625
 VWidth: 0
 Flags: W
@@ -108295,7 +108147,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF52D
-Encoding: 62765 62765 1846
+Encoding: 62765 62765 1843
 Width: 625
 VWidth: 0
 Flags: W
@@ -108352,7 +108204,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF52E
-Encoding: 62766 62766 1847
+Encoding: 62766 62766 1844
 Width: 560
 VWidth: 0
 Flags: W
@@ -108419,7 +108271,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF52F
-Encoding: 62767 62767 1848
+Encoding: 62767 62767 1845
 Width: 560
 VWidth: 0
 Flags: W
@@ -108475,7 +108327,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF530
-Encoding: 62768 62768 1849
+Encoding: 62768 62768 1846
 Width: 430
 VWidth: 0
 Flags: W
@@ -108543,7 +108395,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF531
-Encoding: 62769 62769 1850
+Encoding: 62769 62769 1847
 Width: 430
 VWidth: 0
 Flags: W
@@ -108600,7 +108452,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF53A
-Encoding: 62778 62778 1851
+Encoding: 62778 62778 1848
 Width: 790
 VWidth: 999
 Flags: W
@@ -108680,7 +108532,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF53B
-Encoding: 62779 62779 1852
+Encoding: 62779 62779 1849
 Width: 790
 VWidth: 999
 Flags: W
@@ -108749,7 +108601,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF53C
-Encoding: 62780 62780 1853
+Encoding: 62780 62780 1850
 Width: 810
 VWidth: 999
 Flags: W
@@ -108836,7 +108688,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF53D
-Encoding: 62781 62781 1854
+Encoding: 62781 62781 1851
 Width: 810
 VWidth: 999
 Flags: W
@@ -108912,7 +108764,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF546
-Encoding: 62790 62790 1855
+Encoding: 62790 62790 1852
 Width: 790
 VWidth: 0
 Flags: W
@@ -109000,7 +108852,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF547
-Encoding: 62791 62791 1856
+Encoding: 62791 62791 1853
 Width: 790
 VWidth: 0
 Flags: W
@@ -109077,7 +108929,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF548
-Encoding: 62792 62792 1857
+Encoding: 62792 62792 1854
 Width: 810
 VWidth: 0
 Flags: W
@@ -109172,7 +109024,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF549
-Encoding: 62793 62793 1858
+Encoding: 62793 62793 1855
 Width: 810
 VWidth: 0
 Flags: W
@@ -109256,7 +109108,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF54E
-Encoding: 62798 62798 1859
+Encoding: 62798 62798 1856
 Width: 790
 VWidth: 999
 Flags: W
@@ -109349,7 +109201,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF54F
-Encoding: 62799 62799 1860
+Encoding: 62799 62799 1857
 Width: 790
 VWidth: 999
 Flags: W
@@ -109431,7 +109283,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF550
-Encoding: 62800 62800 1861
+Encoding: 62800 62800 1858
 Width: 810
 VWidth: 999
 Flags: W
@@ -109531,7 +109383,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF551
-Encoding: 62801 62801 1862
+Encoding: 62801 62801 1859
 Width: 810
 VWidth: 999
 Flags: W
@@ -109620,7 +109472,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF556
-Encoding: 62806 62806 1863
+Encoding: 62806 62806 1860
 Width: 990
 VWidth: 999
 Flags: W
@@ -109714,7 +109566,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF557
-Encoding: 62807 62807 1864
+Encoding: 62807 62807 1861
 Width: 990
 VWidth: 999
 Flags: W
@@ -109797,7 +109649,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF55C
-Encoding: 62812 62812 1865
+Encoding: 62812 62812 1862
 Width: 990
 VWidth: 999
 Flags: W
@@ -109896,7 +109748,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF55D
-Encoding: 62813 62813 1866
+Encoding: 62813 62813 1863
 Width: 990
 VWidth: 999
 Flags: W
@@ -109984,7 +109836,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF560
-Encoding: 62816 62816 1867
+Encoding: 62816 62816 1864
 Width: 790
 VWidth: 999
 Flags: W
@@ -110060,7 +109912,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF561
-Encoding: 62817 62817 1868
+Encoding: 62817 62817 1865
 Width: 790
 VWidth: 999
 Flags: W
@@ -110125,7 +109977,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF566
-Encoding: 62822 62822 1869
+Encoding: 62822 62822 1866
 Width: 790
 VWidth: 999
 Flags: W
@@ -110207,7 +110059,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF567
-Encoding: 62823 62823 1870
+Encoding: 62823 62823 1867
 Width: 790
 VWidth: 999
 Flags: W
@@ -110278,7 +110130,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF568
-Encoding: 62824 62824 1871
+Encoding: 62824 62824 1868
 Width: 810
 VWidth: 999
 Flags: W
@@ -110367,7 +110219,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF569
-Encoding: 62825 62825 1872
+Encoding: 62825 62825 1869
 Width: 810
 VWidth: 999
 Flags: W
@@ -110445,7 +110297,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF56C
-Encoding: 62828 62828 1873
+Encoding: 62828 62828 1870
 Width: 790
 VWidth: 999
 Flags: W
@@ -110531,7 +110383,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF56D
-Encoding: 62829 62829 1874
+Encoding: 62829 62829 1871
 Width: 790
 VWidth: 999
 Flags: W
@@ -110606,7 +110458,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF56E
-Encoding: 62830 62830 1875
+Encoding: 62830 62830 1872
 Width: 790
 VWidth: 999
 Flags: W
@@ -110699,7 +110551,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF56F
-Encoding: 62831 62831 1876
+Encoding: 62831 62831 1873
 Width: 790
 VWidth: 999
 Flags: W
@@ -110781,7 +110633,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF576
-Encoding: 62838 62838 1877
+Encoding: 62838 62838 1874
 Width: 810
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.679>
@@ -110882,7 +110734,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF577
-Encoding: 62839 62839 1878
+Encoding: 62839 62839 1875
 Width: 810
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.679>
@@ -110972,7 +110824,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF578
-Encoding: 62840 62840 1879
+Encoding: 62840 62840 1876
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
@@ -111068,7 +110920,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF579
-Encoding: 62841 62841 1880
+Encoding: 62841 62841 1877
 Width: 790
 Flags: W
 HStem: 0 21G<194.951 210.083 442.89 446.5> 450 126<640.126 709.369>
@@ -111153,7 +111005,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF582
-Encoding: 62850 62850 1881
+Encoding: 62850 62850 1878
 Width: 990
 VWidth: 999
 Flags: W
@@ -111250,7 +111102,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF583
-Encoding: 62851 62851 1882
+Encoding: 62851 62851 1879
 Width: 990
 VWidth: 999
 Flags: W
@@ -111336,7 +111188,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF58B
-Encoding: 62859 62859 1883
+Encoding: 62859 62859 1880
 Width: 750
 VWidth: 0
 Flags: W
@@ -111403,7 +111255,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF58C
-Encoding: 62860 62860 1884
+Encoding: 62860 62860 1881
 Width: 750
 VWidth: 999
 Flags: W
@@ -111480,7 +111332,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF58D
-Encoding: 62861 62861 1885
+Encoding: 62861 62861 1882
 Width: 750
 VWidth: 999
 Flags: W
@@ -111552,7 +111404,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF58E
-Encoding: 62862 62862 1886
+Encoding: 62862 62862 1883
 Width: 770
 VWidth: 999
 Flags: W
@@ -111636,7 +111488,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF58F
-Encoding: 62863 62863 1887
+Encoding: 62863 62863 1884
 Width: 770
 VWidth: 999
 Flags: W
@@ -111715,7 +111567,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF590
-Encoding: 62864 62864 1888
+Encoding: 62864 62864 1885
 Width: 750
 VWidth: 999
 Flags: W
@@ -111810,7 +111662,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF591
-Encoding: 62865 62865 1889
+Encoding: 62865 62865 1886
 Width: 750
 VWidth: 999
 Flags: W
@@ -111900,7 +111752,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF599
-Encoding: 62873 62873 1890
+Encoding: 62873 62873 1887
 Width: 750
 VWidth: 999
 Flags: W
@@ -111977,7 +111829,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF59D
-Encoding: 62877 62877 1891
+Encoding: 62877 62877 1888
 Width: 750
 VWidth: 0
 Flags: W
@@ -112057,7 +111909,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF59E
-Encoding: 62878 62878 1892
+Encoding: 62878 62878 1889
 Width: 750
 VWidth: 999
 Flags: W
@@ -112145,7 +111997,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF59F
-Encoding: 62879 62879 1893
+Encoding: 62879 62879 1890
 Width: 750
 VWidth: 999
 Flags: W
@@ -112228,7 +112080,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A0
-Encoding: 62880 62880 1894
+Encoding: 62880 62880 1891
 Width: 790
 VWidth: 999
 Flags: W
@@ -112327,7 +112179,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A1
-Encoding: 62881 62881 1895
+Encoding: 62881 62881 1892
 Width: 790
 VWidth: 999
 Flags: W
@@ -112421,7 +112273,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A2
-Encoding: 62882 62882 1896
+Encoding: 62882 62882 1893
 Width: 750
 VWidth: 999
 Flags: W
@@ -112517,7 +112369,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A3
-Encoding: 62883 62883 1897
+Encoding: 62883 62883 1894
 Width: 750
 VWidth: 999
 Flags: W
@@ -112608,7 +112460,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A4
-Encoding: 62884 62884 1898
+Encoding: 62884 62884 1895
 Width: 750
 VWidth: 999
 Flags: W
@@ -112699,7 +112551,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A5
-Encoding: 62885 62885 1899
+Encoding: 62885 62885 1896
 Width: 750
 VWidth: 999
 Flags: W
@@ -112785,7 +112637,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A6
-Encoding: 62886 62886 1900
+Encoding: 62886 62886 1897
 Width: 750
 VWidth: 999
 Flags: W
@@ -112878,7 +112730,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A7
-Encoding: 62887 62887 1901
+Encoding: 62887 62887 1898
 Width: 750
 VWidth: 999
 Flags: W
@@ -112966,7 +112818,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A8
-Encoding: 62888 62888 1902
+Encoding: 62888 62888 1899
 Width: 790
 VWidth: 999
 Flags: W
@@ -113070,7 +112922,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5A9
-Encoding: 62889 62889 1903
+Encoding: 62889 62889 1900
 Width: 790
 VWidth: 999
 Flags: W
@@ -113169,7 +113021,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5AA
-Encoding: 62890 62890 1904
+Encoding: 62890 62890 1901
 Width: 750
 VWidth: 999
 Flags: W
@@ -113270,7 +113122,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5AB
-Encoding: 62891 62891 1905
+Encoding: 62891 62891 1902
 Width: 750
 VWidth: 999
 Flags: W
@@ -113366,7 +113218,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5AC
-Encoding: 62892 62892 1906
+Encoding: 62892 62892 1903
 Width: 750
 VWidth: 999
 Flags: W
@@ -113463,7 +113315,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5AD
-Encoding: 62893 62893 1907
+Encoding: 62893 62893 1904
 Width: 750
 VWidth: 999
 Flags: W
@@ -113555,7 +113407,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5AE
-Encoding: 62894 62894 1908
+Encoding: 62894 62894 1905
 Width: 750
 VWidth: 999
 Flags: W
@@ -113653,7 +113505,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5AF
-Encoding: 62895 62895 1909
+Encoding: 62895 62895 1906
 Width: 750
 VWidth: 999
 Flags: W
@@ -113746,7 +113598,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5B0
-Encoding: 62896 62896 1910
+Encoding: 62896 62896 1907
 Width: 790
 VWidth: 999
 Flags: W
@@ -113855,7 +113707,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5B1
-Encoding: 62897 62897 1911
+Encoding: 62897 62897 1908
 Width: 790
 VWidth: 999
 Flags: W
@@ -113959,7 +113811,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5B2
-Encoding: 62898 62898 1912
+Encoding: 62898 62898 1909
 Width: 750
 VWidth: 999
 Flags: W
@@ -114065,7 +113917,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5B3
-Encoding: 62899 62899 1913
+Encoding: 62899 62899 1910
 Width: 750
 VWidth: 999
 Flags: W
@@ -114166,7 +114018,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5B7
-Encoding: 62903 62903 1914
+Encoding: 62903 62903 1911
 Width: 750
 VWidth: 0
 Flags: W
@@ -114256,7 +114108,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5BB
-Encoding: 62907 62907 1915
+Encoding: 62907 62907 1912
 Width: 750
 VWidth: 0
 Flags: W
@@ -114351,7 +114203,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5BF
-Encoding: 62911 62911 1916
+Encoding: 62911 62911 1913
 Width: 720
 VWidth: 999
 Flags: W
@@ -114411,7 +114263,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5C0
-Encoding: 62912 62912 1917
+Encoding: 62912 62912 1914
 Width: 720
 VWidth: 999
 Flags: W
@@ -114483,7 +114335,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5C1
-Encoding: 62913 62913 1918
+Encoding: 62913 62913 1915
 Width: 720
 VWidth: 999
 Flags: W
@@ -114547,7 +114399,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5C2
-Encoding: 62914 62914 1919
+Encoding: 62914 62914 1916
 Width: 740
 VWidth: 999
 Flags: W
@@ -114626,7 +114478,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5C3
-Encoding: 62915 62915 1920
+Encoding: 62915 62915 1917
 Width: 740
 VWidth: 999
 Flags: W
@@ -114697,7 +114549,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5C4
-Encoding: 62916 62916 1921
+Encoding: 62916 62916 1918
 Width: 720
 VWidth: 999
 Flags: W
@@ -114788,7 +114640,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5C5
-Encoding: 62917 62917 1922
+Encoding: 62917 62917 1919
 Width: 720
 VWidth: 999
 Flags: W
@@ -114871,7 +114723,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5CD
-Encoding: 62925 62925 1923
+Encoding: 62925 62925 1920
 Width: 720
 VWidth: 999
 Flags: W
@@ -114941,7 +114793,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D1
-Encoding: 62929 62929 1924
+Encoding: 62929 62929 1921
 Width: 720
 VWidth: 999
 Flags: W
@@ -115013,7 +114865,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D2
-Encoding: 62930 62930 1925
+Encoding: 62930 62930 1922
 Width: 720
 VWidth: 999
 Flags: W
@@ -115097,7 +114949,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D3
-Encoding: 62931 62931 1926
+Encoding: 62931 62931 1923
 Width: 720
 VWidth: 999
 Flags: W
@@ -115173,7 +115025,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D4
-Encoding: 62932 62932 1927
+Encoding: 62932 62932 1924
 Width: 760
 VWidth: 999
 Flags: W
@@ -115268,7 +115120,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D5
-Encoding: 62933 62933 1928
+Encoding: 62933 62933 1925
 Width: 760
 VWidth: 999
 Flags: W
@@ -115355,7 +115207,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D6
-Encoding: 62934 62934 1929
+Encoding: 62934 62934 1926
 Width: 730
 VWidth: 999
 Flags: W
@@ -115446,7 +115298,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D7
-Encoding: 62935 62935 1930
+Encoding: 62935 62935 1927
 Width: 730
 VWidth: 999
 Flags: W
@@ -115529,7 +115381,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D8
-Encoding: 62936 62936 1931
+Encoding: 62936 62936 1928
 Width: 720
 VWidth: 999
 Flags: W
@@ -115615,7 +115467,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5D9
-Encoding: 62937 62937 1932
+Encoding: 62937 62937 1929
 Width: 720
 VWidth: 999
 Flags: W
@@ -115693,7 +115545,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5DA
-Encoding: 62938 62938 1933
+Encoding: 62938 62938 1930
 Width: 720
 VWidth: 999
 Flags: W
@@ -115782,7 +115634,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5DB
-Encoding: 62939 62939 1934
+Encoding: 62939 62939 1931
 Width: 720
 VWidth: 999
 Flags: W
@@ -115863,7 +115715,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5DC
-Encoding: 62940 62940 1935
+Encoding: 62940 62940 1932
 Width: 760
 VWidth: 999
 Flags: W
@@ -115963,7 +115815,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5DD
-Encoding: 62941 62941 1936
+Encoding: 62941 62941 1933
 Width: 760
 VWidth: 999
 Flags: W
@@ -116055,7 +115907,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5DE
-Encoding: 62942 62942 1937
+Encoding: 62942 62942 1934
 Width: 730
 VWidth: 999
 Flags: W
@@ -116151,7 +116003,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5DF
-Encoding: 62943 62943 1938
+Encoding: 62943 62943 1935
 Width: 730
 VWidth: 999
 Flags: W
@@ -116239,7 +116091,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E0
-Encoding: 62944 62944 1939
+Encoding: 62944 62944 1936
 Width: 720
 VWidth: 999
 Flags: W
@@ -116331,7 +116183,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E1
-Encoding: 62945 62945 1940
+Encoding: 62945 62945 1937
 Width: 720
 VWidth: 999
 Flags: W
@@ -116415,7 +116267,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E2
-Encoding: 62946 62946 1941
+Encoding: 62946 62946 1938
 Width: 720
 VWidth: 999
 Flags: W
@@ -116509,7 +116361,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E3
-Encoding: 62947 62947 1942
+Encoding: 62947 62947 1939
 Width: 720
 VWidth: 999
 Flags: W
@@ -116595,7 +116447,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E4
-Encoding: 62948 62948 1943
+Encoding: 62948 62948 1940
 Width: 760
 VWidth: 999
 Flags: W
@@ -116700,7 +116552,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E5
-Encoding: 62949 62949 1944
+Encoding: 62949 62949 1941
 Width: 760
 VWidth: 999
 Flags: W
@@ -116797,7 +116649,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E6
-Encoding: 62950 62950 1945
+Encoding: 62950 62950 1942
 Width: 730
 VWidth: 999
 Flags: W
@@ -116898,7 +116750,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5E7
-Encoding: 62951 62951 1946
+Encoding: 62951 62951 1943
 Width: 730
 VWidth: 999
 Flags: W
@@ -116991,7 +116843,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5EB
-Encoding: 62955 62955 1947
+Encoding: 62955 62955 1944
 Width: 720
 VWidth: 999
 Flags: W
@@ -117073,7 +116925,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5EF
-Encoding: 62959 62959 1948
+Encoding: 62959 62959 1945
 Width: 720
 VWidth: 0
 Flags: W
@@ -117160,63 +117012,63 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniEF64
-Encoding: 61284 61284 1949
+Encoding: 61284 61284 1946
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF65
-Encoding: 61285 61285 1950
+Encoding: 61285 61285 1947
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF67
-Encoding: 61287 61287 1951
+Encoding: 61287 61287 1948
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF68
-Encoding: 61288 61288 1952
+Encoding: 61288 61288 1949
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF75
-Encoding: 61301 61301 1953
+Encoding: 61301 61301 1950
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF76
-Encoding: 61302 61302 1954
+Encoding: 61302 61302 1951
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF78
-Encoding: 61304 61304 1955
+Encoding: 61304 61304 1952
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF7A
-Encoding: 61306 61306 1956
+Encoding: 61306 61306 1953
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF7C
-Encoding: 61308 61308 1957
+Encoding: 61308 61308 1954
 Width: 760
 VWidth: 999
 Flags: W
@@ -117298,252 +117150,252 @@ Colour: 2694ff
 EndChar
 
 StartChar: uniEF7E
-Encoding: 61310 61310 1958
+Encoding: 61310 61310 1955
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF7F
-Encoding: 61311 61311 1959
+Encoding: 61311 61311 1956
 Width: 1000
 LayerCount: 2
 Colour: 2694ff
 EndChar
 
 StartChar: uniEF8F
-Encoding: 61327 61327 1960
+Encoding: 61327 61327 1957
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF90
-Encoding: 61328 61328 1961
+Encoding: 61328 61328 1958
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF96
-Encoding: 61334 61334 1962
+Encoding: 61334 61334 1959
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEF97
-Encoding: 61335 61335 1963
+Encoding: 61335 61335 1960
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFD4
-Encoding: 61396 61396 1964
+Encoding: 61396 61396 1961
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFD5
-Encoding: 61397 61397 1965
+Encoding: 61397 61397 1962
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFE0
-Encoding: 61408 61408 1966
+Encoding: 61408 61408 1963
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFE1
-Encoding: 61409 61409 1967
+Encoding: 61409 61409 1964
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFE2
-Encoding: 61410 61410 1968
+Encoding: 61410 61410 1965
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFE3
-Encoding: 61411 61411 1969
+Encoding: 61411 61411 1966
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFEC
-Encoding: 61420 61420 1970
+Encoding: 61420 61420 1967
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFED
-Encoding: 61421 61421 1971
+Encoding: 61421 61421 1968
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFEE
-Encoding: 61422 61422 1972
+Encoding: 61422 61422 1969
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFEF
-Encoding: 61423 61423 1973
+Encoding: 61423 61423 1970
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFF3
-Encoding: 61427 61427 1974
+Encoding: 61427 61427 1971
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFF5
-Encoding: 61429 61429 1975
+Encoding: 61429 61429 1972
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFF6
-Encoding: 61430 61430 1976
+Encoding: 61430 61430 1973
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFF7
-Encoding: 61431 61431 1977
+Encoding: 61431 61431 1974
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFF8
-Encoding: 61432 61432 1978
+Encoding: 61432 61432 1975
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFF9
-Encoding: 61433 61433 1979
+Encoding: 61433 61433 1976
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFFA
-Encoding: 61434 61434 1980
+Encoding: 61434 61434 1977
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFFB
-Encoding: 61435 61435 1981
+Encoding: 61435 61435 1978
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFFC
-Encoding: 61436 61436 1982
+Encoding: 61436 61436 1979
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFFD
-Encoding: 61437 61437 1983
+Encoding: 61437 61437 1980
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFFE
-Encoding: 61438 61438 1984
+Encoding: 61438 61438 1981
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEFFF
-Encoding: 61439 61439 1985
+Encoding: 61439 61439 1982
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniEA09
-Encoding: 59913 59913 1986
+Encoding: 59913 59913 1983
 Width: 1000
 LayerCount: 2
 Colour: ff00ff
 EndChar
 
 StartChar: uniEA0A
-Encoding: 59914 59914 1987
+Encoding: 59914 59914 1984
 Width: 1000
 LayerCount: 2
 Colour: ff00ff
 EndChar
 
 StartChar: uniEA0B
-Encoding: 59915 59915 1988
+Encoding: 59915 59915 1985
 Width: 1000
 LayerCount: 2
 Colour: ff00ff
 EndChar
 
 StartChar: uniEA0C
-Encoding: 59916 59916 1989
+Encoding: 59916 59916 1986
 Width: 1000
 LayerCount: 2
 Colour: ff00ff
 EndChar
 
 StartChar: uniEA0D
-Encoding: 59917 59917 1990
+Encoding: 59917 59917 1987
 Width: 1000
 LayerCount: 2
 Colour: ff00ff
 EndChar
 
 StartChar: uniEA19
-Encoding: 59929 59929 1991
+Encoding: 59929 59929 1988
 Width: 1000
 LayerCount: 2
 Colour: ffff00
 EndChar
 
 StartChar: uniEA1A
-Encoding: 59930 59930 1992
+Encoding: 59930 59930 1989
 Width: 1000
 LayerCount: 2
 Colour: ffff00
 EndChar
 
 StartChar: uniEB35
-Encoding: 60213 60213 1993
+Encoding: 60213 60213 1990
 Width: 750
 VWidth: 999
 Flags: W
@@ -117624,7 +117476,7 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniEB36
-Encoding: 60214 60214 1994
+Encoding: 60214 60214 1991
 Width: 750
 VWidth: 999
 Flags: W
@@ -117713,21 +117565,21 @@ Colour: ff00ff
 EndChar
 
 StartChar: uniEB44
-Encoding: 60228 60228 1995
+Encoding: 60228 60228 1992
 Width: 1000
 LayerCount: 2
 Colour: ff00ff
 EndChar
 
 StartChar: uniEB51
-Encoding: 60241 60241 1996
+Encoding: 60241 60241 1993
 Width: 1000
 LayerCount: 2
 Colour: ffff
 EndChar
 
 StartChar: uniEB49
-Encoding: 60233 60233 1997
+Encoding: 60233 60233 1994
 Width: 1090
 Flags: W
 HStem: 0 21G<34.0417 42.5> 679 125<959.049 1027.67>
@@ -117811,140 +117663,140 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4A
-Encoding: 60234 60234 1998
+Encoding: 60234 60234 1995
 Width: 1000
 LayerCount: 2
 Colour: ffff
 EndChar
 
 StartChar: uniEB4B
-Encoding: 60235 60235 1999
+Encoding: 60235 60235 1996
 Width: 1000
 LayerCount: 2
 Colour: ffff
 EndChar
 
 StartChar: uniF408
-Encoding: 62472 62472 2000
+Encoding: 62472 62472 1997
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF409
-Encoding: 62473 62473 2001
+Encoding: 62473 62473 1998
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF410
-Encoding: 62480 62480 2002
+Encoding: 62480 62480 1999
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF411
-Encoding: 62481 62481 2003
+Encoding: 62481 62481 2000
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF418
-Encoding: 62488 62488 2004
+Encoding: 62488 62488 2001
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF419
-Encoding: 62489 62489 2005
+Encoding: 62489 62489 2002
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF42A
-Encoding: 62506 62506 2006
+Encoding: 62506 62506 2003
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF42B
-Encoding: 62507 62507 2007
+Encoding: 62507 62507 2004
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF42F
-Encoding: 62511 62511 2008
+Encoding: 62511 62511 2005
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF430
-Encoding: 62512 62512 2009
+Encoding: 62512 62512 2006
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF43C
-Encoding: 62524 62524 2010
+Encoding: 62524 62524 2007
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF43D
-Encoding: 62525 62525 2011
+Encoding: 62525 62525 2008
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF440
-Encoding: 62528 62528 2012
+Encoding: 62528 62528 2009
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF441
-Encoding: 62529 62529 2013
+Encoding: 62529 62529 2010
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF44A
-Encoding: 62538 62538 2014
+Encoding: 62538 62538 2011
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF44B
-Encoding: 62539 62539 2015
+Encoding: 62539 62539 2012
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF452
-Encoding: 62546 62546 2016
+Encoding: 62546 62546 2013
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF455
-Encoding: 62549 62549 2017
+Encoding: 62549 62549 2014
 Width: 450
 VWidth: 999
 Flags: W
@@ -118020,7 +117872,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF453
-Encoding: 62547 62547 2018
+Encoding: 62547 62547 2015
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -118028,42 +117880,42 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF458
-Encoding: 62552 62552 2019
+Encoding: 62552 62552 2016
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF45B
-Encoding: 62555 62555 2020
+Encoding: 62555 62555 2017
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF45C
-Encoding: 62556 62556 2021
+Encoding: 62556 62556 2018
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF463
-Encoding: 62563 62563 2022
+Encoding: 62563 62563 2019
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF464
-Encoding: 62564 62564 2023
+Encoding: 62564 62564 2020
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF46B
-Encoding: 62571 62571 2024
+Encoding: 62571 62571 2021
 Width: 474
 VWidth: 999
 Flags: W
@@ -118140,7 +117992,7 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF46C
-Encoding: 62572 62572 2025
+Encoding: 62572 62572 2022
 Width: 474
 VWidth: 999
 Flags: W
@@ -118211,791 +118063,791 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF477
-Encoding: 62583 62583 2026
+Encoding: 62583 62583 2023
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF478
-Encoding: 62584 62584 2027
+Encoding: 62584 62584 2024
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF47F
-Encoding: 62591 62591 2028
+Encoding: 62591 62591 2025
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF480
-Encoding: 62592 62592 2029
+Encoding: 62592 62592 2026
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF481
-Encoding: 62593 62593 2030
+Encoding: 62593 62593 2027
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF482
-Encoding: 62594 62594 2031
+Encoding: 62594 62594 2028
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF483
-Encoding: 62595 62595 2032
+Encoding: 62595 62595 2029
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF484
-Encoding: 62596 62596 2033
+Encoding: 62596 62596 2030
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF485
-Encoding: 62597 62597 2034
+Encoding: 62597 62597 2031
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF486
-Encoding: 62598 62598 2035
+Encoding: 62598 62598 2032
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF48D
-Encoding: 62605 62605 2036
+Encoding: 62605 62605 2033
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF48E
-Encoding: 62606 62606 2037
+Encoding: 62606 62606 2034
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF495
-Encoding: 62613 62613 2038
+Encoding: 62613 62613 2035
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF496
-Encoding: 62614 62614 2039
+Encoding: 62614 62614 2036
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF49D
-Encoding: 62621 62621 2040
+Encoding: 62621 62621 2037
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF49E
-Encoding: 62622 62622 2041
+Encoding: 62622 62622 2038
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4A5
-Encoding: 62629 62629 2042
+Encoding: 62629 62629 2039
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4A6
-Encoding: 62630 62630 2043
+Encoding: 62630 62630 2040
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4AD
-Encoding: 62637 62637 2044
+Encoding: 62637 62637 2041
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4AE
-Encoding: 62638 62638 2045
+Encoding: 62638 62638 2042
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4B5
-Encoding: 62645 62645 2046
+Encoding: 62645 62645 2043
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4B6
-Encoding: 62646 62646 2047
+Encoding: 62646 62646 2044
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4BD
-Encoding: 62653 62653 2048
+Encoding: 62653 62653 2045
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4BE
-Encoding: 62654 62654 2049
+Encoding: 62654 62654 2046
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4C5
-Encoding: 62661 62661 2050
+Encoding: 62661 62661 2047
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4C7
-Encoding: 62663 62663 2051
+Encoding: 62663 62663 2048
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4D0
-Encoding: 62672 62672 2052
+Encoding: 62672 62672 2049
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4D1
-Encoding: 62673 62673 2053
+Encoding: 62673 62673 2050
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4D4
-Encoding: 62676 62676 2054
+Encoding: 62676 62676 2051
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4D5
-Encoding: 62677 62677 2055
+Encoding: 62677 62677 2052
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4DC
-Encoding: 62684 62684 2056
+Encoding: 62684 62684 2053
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4DD
-Encoding: 62685 62685 2057
+Encoding: 62685 62685 2054
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4E0
-Encoding: 62688 62688 2058
+Encoding: 62688 62688 2055
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4E1
-Encoding: 62689 62689 2059
+Encoding: 62689 62689 2056
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4EA
-Encoding: 62698 62698 2060
+Encoding: 62698 62698 2057
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4EB
-Encoding: 62699 62699 2061
+Encoding: 62699 62699 2058
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4F2
-Encoding: 62706 62706 2062
+Encoding: 62706 62706 2059
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4F3
-Encoding: 62707 62707 2063
+Encoding: 62707 62707 2060
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4F6
-Encoding: 62710 62710 2064
+Encoding: 62710 62710 2061
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4F7
-Encoding: 62711 62711 2065
+Encoding: 62711 62711 2062
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4FA
-Encoding: 62714 62714 2066
+Encoding: 62714 62714 2063
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF4FB
-Encoding: 62715 62715 2067
+Encoding: 62715 62715 2064
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF502
-Encoding: 62722 62722 2068
+Encoding: 62722 62722 2065
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF503
-Encoding: 62723 62723 2069
+Encoding: 62723 62723 2066
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF50A
-Encoding: 62730 62730 2070
+Encoding: 62730 62730 2067
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF50B
-Encoding: 62731 62731 2071
+Encoding: 62731 62731 2068
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF50E
-Encoding: 62734 62734 2072
+Encoding: 62734 62734 2069
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF50F
-Encoding: 62735 62735 2073
+Encoding: 62735 62735 2070
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF512
-Encoding: 62738 62738 2074
+Encoding: 62738 62738 2071
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF513
-Encoding: 62739 62739 2075
+Encoding: 62739 62739 2072
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF532
-Encoding: 62770 62770 2076
+Encoding: 62770 62770 2073
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF533
-Encoding: 62771 62771 2077
+Encoding: 62771 62771 2074
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF534
-Encoding: 62772 62772 2078
+Encoding: 62772 62772 2075
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF535
-Encoding: 62773 62773 2079
+Encoding: 62773 62773 2076
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF536
-Encoding: 62774 62774 2080
+Encoding: 62774 62774 2077
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF537
-Encoding: 62775 62775 2081
+Encoding: 62775 62775 2078
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF542
-Encoding: 62786 62786 2082
+Encoding: 62786 62786 2079
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF543
-Encoding: 62787 62787 2083
+Encoding: 62787 62787 2080
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF54A
-Encoding: 62794 62794 2084
+Encoding: 62794 62794 2081
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF54B
-Encoding: 62795 62795 2085
+Encoding: 62795 62795 2082
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF552
-Encoding: 62802 62802 2086
+Encoding: 62802 62802 2083
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF553
-Encoding: 62803 62803 2087
+Encoding: 62803 62803 2084
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF558
-Encoding: 62808 62808 2088
+Encoding: 62808 62808 2085
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF559
-Encoding: 62809 62809 2089
+Encoding: 62809 62809 2086
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF55E
-Encoding: 62814 62814 2090
+Encoding: 62814 62814 2087
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF55F
-Encoding: 62815 62815 2091
+Encoding: 62815 62815 2088
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF562
-Encoding: 62818 62818 2092
+Encoding: 62818 62818 2089
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF563
-Encoding: 62819 62819 2093
+Encoding: 62819 62819 2090
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF572
-Encoding: 62834 62834 2094
+Encoding: 62834 62834 2091
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF573
-Encoding: 62835 62835 2095
+Encoding: 62835 62835 2092
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF57A
-Encoding: 62842 62842 2096
+Encoding: 62842 62842 2093
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF57B
-Encoding: 62843 62843 2097
+Encoding: 62843 62843 2094
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF57E
-Encoding: 62846 62846 2098
+Encoding: 62846 62846 2095
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF57F
-Encoding: 62847 62847 2099
+Encoding: 62847 62847 2096
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF584
-Encoding: 62852 62852 2100
+Encoding: 62852 62852 2097
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF585
-Encoding: 62853 62853 2101
+Encoding: 62853 62853 2098
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF588
-Encoding: 62856 62856 2102
+Encoding: 62856 62856 2099
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF589
-Encoding: 62857 62857 2103
+Encoding: 62857 62857 2100
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF592
-Encoding: 62866 62866 2104
+Encoding: 62866 62866 2101
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF593
-Encoding: 62867 62867 2105
+Encoding: 62867 62867 2102
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF594
-Encoding: 62868 62868 2106
+Encoding: 62868 62868 2103
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF595
-Encoding: 62869 62869 2107
+Encoding: 62869 62869 2104
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF596
-Encoding: 62870 62870 2108
+Encoding: 62870 62870 2105
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF597
-Encoding: 62871 62871 2109
+Encoding: 62871 62871 2106
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF59A
-Encoding: 62874 62874 2110
+Encoding: 62874 62874 2107
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF59B
-Encoding: 62875 62875 2111
+Encoding: 62875 62875 2108
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5B4
-Encoding: 62900 62900 2112
+Encoding: 62900 62900 2109
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5B5
-Encoding: 62901 62901 2113
+Encoding: 62901 62901 2110
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5B8
-Encoding: 62904 62904 2114
+Encoding: 62904 62904 2111
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5B9
-Encoding: 62905 62905 2115
+Encoding: 62905 62905 2112
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5BC
-Encoding: 62908 62908 2116
+Encoding: 62908 62908 2113
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5BD
-Encoding: 62909 62909 2117
+Encoding: 62909 62909 2114
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5C6
-Encoding: 62918 62918 2118
+Encoding: 62918 62918 2115
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5C7
-Encoding: 62919 62919 2119
+Encoding: 62919 62919 2116
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5C8
-Encoding: 62920 62920 2120
+Encoding: 62920 62920 2117
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5C9
-Encoding: 62921 62921 2121
+Encoding: 62921 62921 2118
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5CA
-Encoding: 62922 62922 2122
+Encoding: 62922 62922 2119
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5CB
-Encoding: 62923 62923 2123
+Encoding: 62923 62923 2120
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5CE
-Encoding: 62926 62926 2124
+Encoding: 62926 62926 2121
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5CF
-Encoding: 62927 62927 2125
+Encoding: 62927 62927 2122
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5E8
-Encoding: 62952 62952 2126
+Encoding: 62952 62952 2123
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5E9
-Encoding: 62953 62953 2127
+Encoding: 62953 62953 2124
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5EC
-Encoding: 62956 62956 2128
+Encoding: 62956 62956 2125
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5ED
-Encoding: 62957 62957 2129
+Encoding: 62957 62957 2126
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F0
-Encoding: 62960 62960 2130
+Encoding: 62960 62960 2127
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F1
-Encoding: 62961 62961 2131
+Encoding: 62961 62961 2128
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F2
-Encoding: 62962 62962 2132
+Encoding: 62962 62962 2129
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F3
-Encoding: 62963 62963 2133
+Encoding: 62963 62963 2130
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F4
-Encoding: 62964 62964 2134
+Encoding: 62964 62964 2131
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF6FC
-Encoding: 63228 63228 2135
+Encoding: 63228 63228 2132
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F6
-Encoding: 62966 62966 2136
+Encoding: 62966 62966 2133
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5F7
-Encoding: 62967 62967 2137
+Encoding: 62967 62967 2134
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5FE
-Encoding: 62974 62974 2138
+Encoding: 62974 62974 2135
 Width: 1090
 Flags: W
 HStem: 679 125<959.049 1027.67>
@@ -119094,28 +118946,28 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF5FF
-Encoding: 62975 62975 2139
+Encoding: 62975 62975 2136
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF6FA
-Encoding: 63226 63226 2140
+Encoding: 63226 63226 2137
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5FB
-Encoding: 62971 62971 2141
+Encoding: 62971 62971 2138
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF5FD
-Encoding: 62973 62973 2142
+Encoding: 62973 62973 2139
 Width: 1090
 Flags: W
 HStem: 679 125<958.049 1026.67>
@@ -119206,14 +119058,14 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF604
-Encoding: 62980 62980 2143
+Encoding: 62980 62980 2140
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF603
-Encoding: 62979 62979 2144
+Encoding: 62979 62979 2141
 Width: 990
 VWidth: 0
 Flags: W
@@ -119315,98 +119167,98 @@ Colour: 5effb2
 EndChar
 
 StartChar: uniF605
-Encoding: 62981 62981 2145
+Encoding: 62981 62981 2142
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF609
-Encoding: 62985 62985 2146
+Encoding: 62985 62985 2143
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF60A
-Encoding: 62986 62986 2147
+Encoding: 62986 62986 2144
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF615
-Encoding: 62997 62997 2148
+Encoding: 62997 62997 2145
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF616
-Encoding: 62998 62998 2149
+Encoding: 62998 62998 2146
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF617
-Encoding: 62999 62999 2150
+Encoding: 62999 62999 2147
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF618
-Encoding: 63000 63000 2151
+Encoding: 63000 63000 2148
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF619
-Encoding: 63001 63001 2152
+Encoding: 63001 63001 2149
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF61A
-Encoding: 63002 63002 2153
+Encoding: 63002 63002 2150
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF61B
-Encoding: 63003 63003 2154
+Encoding: 63003 63003 2151
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF61D
-Encoding: 63005 63005 2155
+Encoding: 63005 63005 2152
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF61E
-Encoding: 63006 63006 2156
+Encoding: 63006 63006 2153
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF61F
-Encoding: 63007 63007 2157
+Encoding: 63007 63007 2154
 Width: 1000
 LayerCount: 2
 Colour: 5effb2
 EndChar
 
 StartChar: uniF620
-Encoding: 63008 63008 2158
+Encoding: 63008 63008 2155
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -119454,7 +119306,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF621
-Encoding: 63009 63009 2159
+Encoding: 63009 63009 2156
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -119501,7 +119353,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF622
-Encoding: 63010 63010 2160
+Encoding: 63010 63010 2157
 Width: 720
 Flags: W
 HStem: 0 21G<126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119551,7 +119403,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF623
-Encoding: 63011 63011 2161
+Encoding: 63011 63011 2158
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119601,7 +119453,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF624
-Encoding: 63012 63012 2162
+Encoding: 63012 63012 2159
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119657,17 +119509,20 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF625
-Encoding: 63013 63013 2163
+Encoding: 63013 63013 2160
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0747 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
+DStem2: 30 0 56 28 0.101556 0.99483<30.4957 242.293 341.797 482.495> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119684,7 +119539,7 @@ SplineSet
  65 340 l 1
  79 480 l 1
  104 496 l 1
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 493 l 1
@@ -119703,23 +119558,29 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 EndSplineSet
+Ligature2: "Post-composition Priznakification-1" uniEB33 u1CF42
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBF0 u1CF3E
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF85
 Colour: 1abfff
 EndChar
 
 StartChar: uniF626
-Encoding: 63014 63014 2164
+Encoding: 63014 63014 2161
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0247 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 30 74<457.364 497> 58 46<611.012 713.84> 202 44<615.144 716.693>
+DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xb6
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xb6
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119727,15 +119588,15 @@ SplineSet
  213.445596577 764 246 729.898099997 246 684 c 4
  246 628.445415913 213.411800492 592.728523304 175 575 c 4
  162 569 150 566 137 566 c 4
-104 496 m 1
+104 496 m 1x9a
  94 386 67 133 56 28 c 1
  30 0 l 1
  71 405 l 1
  19 421 l 1
  30 521 l 1
  104 497 l 1
- 104 496 l 1
-614 576 m 0
+ 104 496 l 1x9a
+614 576 m 0xd2
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 493 l 1
@@ -119754,23 +119615,29 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xd2
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBF1 u1CF3E
+Ligature2: "Post-composition Priznakification-1" uniEB33 u1CF43
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF86
 Colour: 1abfff
 EndChar
 
 StartChar: uniF627
-Encoding: 63015 63015 2165
+Encoding: 63015 63015 2162
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
+DStem2: 39 92 53 0 0.102283 0.994755<0 390.056> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119785,7 +119652,7 @@ SplineSet
  39 92 l 1
  79 480 l 1
  104 496 l 1
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 493 l 1
@@ -119804,23 +119671,29 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB33 u1CF44
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF622 u1CF3E
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF87
 Colour: 1abfff
 EndChar
 
 StartChar: uniF628
-Encoding: 63016 63016 2166
+Encoding: 63016 63016 2163
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
+DStem2: 30 0 56 28 0.101309 0.994855<30.49 404.527> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119835,7 +119708,7 @@ SplineSet
  83 277 64 109 56 28 c 1
  30 0 l 1
  80 491 l 1
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 493 l 1
@@ -119854,23 +119727,29 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 EndSplineSet
+Ligature2: "Znamenny Priznakification Round 2-1" uniF625 u1CF44
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF623 u1CF3E
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF88
 Colour: 1abfff
 EndChar
 
 StartChar: uniF629
-Encoding: 63017 63017 2167
+Encoding: 63017 63017 2164
 Width: 720
-Flags: HW
+Flags: W
+HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
+VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
+DStem2: 19 414 32 320 0.106345 0.994329<-92.0845 0> 30 0 56 28 0.101309 0.994855<30.49 210.052 310.551 404.527> 618 53 641 68 0.0995037 0.995037<17.2141 372.87>
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4
- 180.317165837 604 202 630.518900012 202 664 c 4xbc
+148 604 m 4xbc
+ 180.317165837 604 202 630.518900012 202 664 c 4
  202 693.360144382 187.167525691 725 158 725 c 4
  124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4
+ 104 634.38154664 117.482682336 604 148 604 c 4xbc
 137 566 m 4
  91.2047177555 566 58 598.313127807 58 644 c 4
  58 698.615508962 91.1015691632 737.508416537 129 755 c 4
@@ -119891,7 +119770,7 @@ SplineSet
  30 0 l 1
  51 209 l 1
  -1 227 l 1
-614 576 m 0
+614 576 m 0xdc
  627 576 641 566 659 545 c 0
  676 525 683 508 683 494 c 2
  683 493 l 1
@@ -119910,13 +119789,16 @@ SplineSet
  135 107 l 1
  143 122 170 157 215 212 c 0
  313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
+ 564 550 601 576 614 576 c 0xdc
 EndSplineSet
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF624 u1CF3E
+Ligature2: "Znamenny Priznakification Round 2-1" uniF626 u1CF44
+Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF89
 Colour: 1abfff
 EndChar
 
 StartChar: uniF62A
-Encoding: 63018 63018 2168
+Encoding: 63018 63018 2165
 Width: 740
 Flags: HW
 LayerCount: 2
@@ -119974,7 +119856,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF62B
-Encoding: 63019 63019 2169
+Encoding: 63019 63019 2166
 Width: 740
 Flags: HW
 LayerCount: 2
@@ -120031,7 +119913,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF62C
-Encoding: 63020 63020 2170
+Encoding: 63020 63020 2167
 Width: 740
 Flags: HW
 LayerCount: 2
@@ -120087,7 +119969,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF62D
-Encoding: 63021 63021 2171
+Encoding: 63021 63021 2168
 Width: 740
 Flags: HW
 LayerCount: 2
@@ -120143,7 +120025,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF62E
-Encoding: 63022 63022 2172
+Encoding: 63022 63022 2169
 Width: 740
 Flags: HW
 LayerCount: 2
@@ -120205,14 +120087,14 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniEB4C
-Encoding: 60236 60236 2173
+Encoding: 60236 60236 2170
 Width: 1000
 LayerCount: 2
 Colour: ffff
 EndChar
 
 StartChar: uniEB4D
-Encoding: 60237 60237 2174
+Encoding: 60237 60237 2171
 Width: 960
 VWidth: 0
 Flags: W
@@ -120293,7 +120175,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4E
-Encoding: 60238 60238 2175
+Encoding: 60238 60238 2172
 Width: 990
 VWidth: 0
 Flags: W
@@ -120381,21 +120263,21 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB58
-Encoding: 60248 60248 2176
+Encoding: 60248 60248 2173
 Width: 1000
 LayerCount: 2
 Colour: ffff
 EndChar
 
 StartChar: uniEB59
-Encoding: 60249 60249 2177
+Encoding: 60249 60249 2174
 Width: 1000
 LayerCount: 2
 Colour: ffff
 EndChar
 
 StartChar: uniF631
-Encoding: 63025 63025 2178
+Encoding: 63025 63025 2175
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120453,7 +120335,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF632
-Encoding: 63026 63026 2179
+Encoding: 63026 63026 2176
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120510,7 +120392,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF633
-Encoding: 63027 63027 2180
+Encoding: 63027 63027 2177
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120566,7 +120448,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF634
-Encoding: 63028 63028 2181
+Encoding: 63028 63028 2178
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120622,7 +120504,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF635
-Encoding: 63029 63029 2182
+Encoding: 63029 63029 2179
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120684,7 +120566,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF63D
-Encoding: 63037 63037 2183
+Encoding: 63037 63037 2180
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120748,7 +120630,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF63E
-Encoding: 63038 63038 2184
+Encoding: 63038 63038 2181
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120811,7 +120693,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF63F
-Encoding: 63039 63039 2185
+Encoding: 63039 63039 2182
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120873,7 +120755,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF640
-Encoding: 63040 63040 2186
+Encoding: 63040 63040 2183
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -120935,7 +120817,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF641
-Encoding: 63041 63041 2187
+Encoding: 63041 63041 2184
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -121003,7 +120885,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF642
-Encoding: 63042 63042 2188
+Encoding: 63042 63042 2185
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -121077,7 +120959,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF643
-Encoding: 63043 63043 2189
+Encoding: 63043 63043 2186
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -121150,7 +121032,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF644
-Encoding: 63044 63044 2190
+Encoding: 63044 63044 2187
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -121222,7 +121104,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF645
-Encoding: 63045 63045 2191
+Encoding: 63045 63045 2188
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -121294,7 +121176,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF646
-Encoding: 63046 63046 2192
+Encoding: 63046 63046 2189
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -121372,7 +121254,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF647
-Encoding: 63047 63047 2193
+Encoding: 63047 63047 2190
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -121442,7 +121324,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF648
-Encoding: 63048 63048 2194
+Encoding: 63048 63048 2191
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -121511,7 +121393,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF649
-Encoding: 63049 63049 2195
+Encoding: 63049 63049 2192
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -121579,7 +121461,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF64A
-Encoding: 63050 63050 2196
+Encoding: 63050 63050 2193
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -121647,7 +121529,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF64B
-Encoding: 63051 63051 2197
+Encoding: 63051 63051 2194
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -121721,7 +121603,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF64C
-Encoding: 63052 63052 2198
+Encoding: 63052 63052 2195
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -121786,7 +121668,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF64D
-Encoding: 63053 63053 2199
+Encoding: 63053 63053 2196
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -121850,7 +121732,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF64E
-Encoding: 63054 63054 2200
+Encoding: 63054 63054 2197
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -121913,7 +121795,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF64F
-Encoding: 63055 63055 2201
+Encoding: 63055 63055 2198
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -121976,7 +121858,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF650
-Encoding: 63056 63056 2202
+Encoding: 63056 63056 2199
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -122045,7 +121927,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF651
-Encoding: 63057 63057 2203
+Encoding: 63057 63057 2200
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -122114,7 +121996,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF652
-Encoding: 63058 63058 2204
+Encoding: 63058 63058 2201
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -122182,7 +122064,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF653
-Encoding: 63059 63059 2205
+Encoding: 63059 63059 2202
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -122249,7 +122131,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF654
-Encoding: 63060 63060 2206
+Encoding: 63060 63060 2203
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -122316,7 +122198,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF655
-Encoding: 63061 63061 2207
+Encoding: 63061 63061 2204
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -122389,7 +122271,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF656
-Encoding: 63062 63062 2208
+Encoding: 63062 63062 2205
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -122468,7 +122350,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF657
-Encoding: 63063 63063 2209
+Encoding: 63063 63063 2206
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -122546,7 +122428,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF658
-Encoding: 63064 63064 2210
+Encoding: 63064 63064 2207
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -122623,7 +122505,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF659
-Encoding: 63065 63065 2211
+Encoding: 63065 63065 2208
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -122700,7 +122582,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF65A
-Encoding: 63066 63066 2212
+Encoding: 63066 63066 2209
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -122783,7 +122665,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF65B
-Encoding: 63067 63067 2213
+Encoding: 63067 63067 2210
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -122858,7 +122740,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF65C
-Encoding: 63068 63068 2214
+Encoding: 63068 63068 2211
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -122932,7 +122814,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF65D
-Encoding: 63069 63069 2215
+Encoding: 63069 63069 2212
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -123005,7 +122887,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF65E
-Encoding: 63070 63070 2216
+Encoding: 63070 63070 2213
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -123078,7 +122960,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF65F
-Encoding: 63071 63071 2217
+Encoding: 63071 63071 2214
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -123157,7 +123039,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF660
-Encoding: 63072 63072 2218
+Encoding: 63072 63072 2215
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123227,7 +123109,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF661
-Encoding: 63073 63073 2219
+Encoding: 63073 63073 2216
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123296,7 +123178,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF662
-Encoding: 63074 63074 2220
+Encoding: 63074 63074 2217
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123364,7 +123246,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF663
-Encoding: 63075 63075 2221
+Encoding: 63075 63075 2218
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123432,7 +123314,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF664
-Encoding: 63076 63076 2222
+Encoding: 63076 63076 2219
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123506,7 +123388,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF665
-Encoding: 63077 63077 2223
+Encoding: 63077 63077 2220
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123580,7 +123462,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF666
-Encoding: 63078 63078 2224
+Encoding: 63078 63078 2221
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123653,7 +123535,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF667
-Encoding: 63079 63079 2225
+Encoding: 63079 63079 2222
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123725,7 +123607,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF668
-Encoding: 63080 63080 2226
+Encoding: 63080 63080 2223
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123797,7 +123679,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF669
-Encoding: 63081 63081 2227
+Encoding: 63081 63081 2224
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -123875,7 +123757,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF66A
-Encoding: 63082 63082 2228
+Encoding: 63082 63082 2225
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -123959,7 +123841,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF66B
-Encoding: 63083 63083 2229
+Encoding: 63083 63083 2226
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -124042,7 +123924,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF66C
-Encoding: 63084 63084 2230
+Encoding: 63084 63084 2227
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -124124,7 +124006,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF66D
-Encoding: 63085 63085 2231
+Encoding: 63085 63085 2228
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -124206,7 +124088,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF66E
-Encoding: 63086 63086 2232
+Encoding: 63086 63086 2229
 Width: 760
 Flags: HW
 LayerCount: 2
@@ -124294,7 +124176,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF66F
-Encoding: 63087 63087 2233
+Encoding: 63087 63087 2230
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -124374,7 +124256,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF670
-Encoding: 63088 63088 2234
+Encoding: 63088 63088 2231
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -124453,7 +124335,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF671
-Encoding: 63089 63089 2235
+Encoding: 63089 63089 2232
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -124531,7 +124413,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF672
-Encoding: 63090 63090 2236
+Encoding: 63090 63090 2233
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -124609,7 +124491,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF673
-Encoding: 63091 63091 2237
+Encoding: 63091 63091 2234
 Width: 730
 Flags: HW
 LayerCount: 2
@@ -124693,7 +124575,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF676
-Encoding: 63094 63094 2238
+Encoding: 63094 63094 2235
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -124763,7 +124645,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF677
-Encoding: 63095 63095 2239
+Encoding: 63095 63095 2236
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -124832,7 +124714,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF678
-Encoding: 63096 63096 2240
+Encoding: 63096 63096 2237
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -124900,7 +124782,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF679
-Encoding: 63097 63097 2241
+Encoding: 63097 63097 2238
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -124968,7 +124850,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF67A
-Encoding: 63098 63098 2242
+Encoding: 63098 63098 2239
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -125042,7 +124924,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF67B
-Encoding: 63099 63099 2243
+Encoding: 63099 63099 2240
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -125117,7 +124999,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF67C
-Encoding: 63100 63100 2244
+Encoding: 63100 63100 2241
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -125191,7 +125073,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF67D
-Encoding: 63101 63101 2245
+Encoding: 63101 63101 2242
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -125264,7 +125146,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF67E
-Encoding: 63102 63102 2246
+Encoding: 63102 63102 2243
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -125337,7 +125219,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF67F
-Encoding: 63103 63103 2247
+Encoding: 63103 63103 2244
 Width: 720
 Flags: HW
 LayerCount: 2
@@ -125416,7 +125298,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF62F
-Encoding: 63023 63023 2248
+Encoding: 63023 63023 2245
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125424,7 +125306,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF630
-Encoding: 63024 63024 2249
+Encoding: 63024 63024 2246
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125432,7 +125314,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF636
-Encoding: 63030 63030 2250
+Encoding: 63030 63030 2247
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125440,7 +125322,7 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF637
-Encoding: 63031 63031 2251
+Encoding: 63031 63031 2248
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125448,21 +125330,21 @@ Colour: 1abfff
 EndChar
 
 StartChar: uniF674
-Encoding: 63092 63092 2252
+Encoding: 63092 63092 2249
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniF675
-Encoding: 63093 63093 2253
+Encoding: 63093 63093 2250
 Width: 1000
 LayerCount: 2
 Colour: 1abfff
 EndChar
 
 StartChar: uniF602
-Encoding: 62978 62978 2254
+Encoding: 62978 62978 2251
 Width: 960
 VWidth: 0
 Flags: W
