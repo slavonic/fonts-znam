@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1590375756
+ModificationTime: 1590412368
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,10 +1043,10 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
 OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 351 27 9
+WinInfo: 1512 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -1077,7 +1077,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "FinalPitch" "'mark' Cinnabar Mark Positioning-2" "Stacking" "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya" "'mark' Cinnabar Mark Positioning-1" "Zevok" "'mark' Cinnabar Mark Positioning-1" "Kachka" "'mark' Cinnabar Mark Positioning-1" "Lomka" "'mark' Cinnabar Mark Positioning-1" "Podvertka" "'mark' Cinnabar Mark Positioning-1" "Borzaya" "'mark' Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Mark Positioning-1" "Auxiliary" "'mark' Cinnabar Mark Positioning-2" "Podtinka" "'mark' Black Mark Positioning-1" "Flexion" "'mark' Black Mark Positioning-1" "PitchMark" "'mark' Cinnabar Mark Positioning-2" "Podchashie" "'mark' Black Mark Positioning-1" "TonalRange" "'mark' Black Mark Positioning-1" "Omet" "'mark' Black Mark Positioning-1" "Tochka" "'mark' Black Mark Positioning-1" "Zaderzhka" "'mark' Black Mark Positioning-1"
-BeginChars: 1114112 2252
+BeginChars: 1114112 2256
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -23267,8 +23267,8 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF72 u1CF40
 Colour: ffff
 EndChar
 
-StartChar: uniEBF0
-Encoding: 60400 60400 453
+StartChar: uniF620
+Encoding: 63008 63008 453
 Width: 750
 VWidth: 999
 Flags: W
@@ -23327,14 +23327,14 @@ SplineSet
  101 329 103 330 106 330 c 0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF80
-Colour: ffff00
+LCarets2: 1 0
+Colour: 47c2ff
 EndChar
 
-StartChar: uniEBF1
-Encoding: 60401 60401 454
+StartChar: uniF621
+Encoding: 63009 63009 454
 Width: 750
 VWidth: 999
 Flags: W
@@ -23395,7 +23395,7 @@ Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF81
 Comment: "Why is it mapped here?"
-Colour: ffff00
+Colour: 47c2ff
 EndChar
 
 StartChar: uniEAEF
@@ -26985,52 +26985,52 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-642 576 m 0
- 655 576 670 566 688 545 c 0
- 705 525 713 509 713 495 c 0
- 713 494 713 493 713 492 c 2
- 698 374 l 1
- 692 402 676 426 649 447 c 0
- 646 450 642 450 637 450 c 0
- 611 450 560 417 483 350 c 1
- 520 325 l 1
- 510 222 l 1
- 415 285 l 1
- 408 278 l 1
- 399 190 l 1
- 376 180 l 1
- 384 254 l 1
- 341 210 292 159 240 102 c 0
- 188 45 159 11 153 0 c 1
- 163 107 l 1
- 171 122 196 155 236 204 c 0
- 276 253 313 296 346 331 c 1
- 288 370 l 1
- 297 474 l 1
- 399 406 l 1
- 408 494 l 1
- 430 506 l 1
- 420 404 l 1
- 451 433 493 469 545 512 c 0
- 597 555 629 576 642 576 c 0
-172 364 m 1
- 193 425 256 433 256 433 c 1
- 246 309 l 1
- 246 309 191 300 160 237 c 1
- 172 364 l 1
-106 330 m 0
- 117 330 123 306 123 260 c 0
- 123 214 120 177 115 148 c 0
- 110 119 105 101 103 95 c 0
- 101 89 89 70 67 38 c 0
- 45 6 34 -10 33 -10 c 2
- 30 -10 l 1
- 30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
- 40 147 38 178 33 208 c 1
- 29 217 30 226 35 234 c 2
- 100 327 l 2
- 101 329 103 330 106 330 c 0
+642 576 m 4
+ 655 576 670 566 688 545 c 4
+ 705 525 713 509 713 495 c 4
+ 713 494 713 493 713 492 c 6
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+172 364 m 5
+ 193 425 256 433 256 433 c 5
+ 246 309 l 5
+ 246 309 191 300 160 237 c 5
+ 172 364 l 5
+106 330 m 4
+ 117 330 123 306 123 260 c 4
+ 123 214 120 177 115 148 c 4
+ 110 119 105 101 103 95 c 4
+ 101 89 89 70 67 38 c 4
+ 45 6 34 -10 33 -10 c 6
+ 30 -10 l 5
+ 30 -9 32 5 35 30 c 4
+ 38 55 40 83 40 115 c 4
+ 40 147 38 178 33 208 c 5
+ 29 217 30 226 35 234 c 6
+ 100 327 l 6
+ 101 329 103 330 106 330 c 4
 EndSplineSet
 Validated: 3073
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF6D
@@ -27066,61 +27066,61 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-642 576 m 0xf0
- 655 576 670 566 688 545 c 0
- 705 525 713 509 713 495 c 0
- 713 494 713 493 713 492 c 2
- 698 374 l 1
- 692 402 676 426 649 447 c 0
- 646 450 642 450 637 450 c 0
- 611 450 560 417 483 350 c 1
- 520 325 l 1
- 510 222 l 1
- 415 285 l 1
- 408 278 l 1
- 399 190 l 1
- 376 180 l 1
- 384 254 l 1
- 341 210 292 159 240 102 c 0
- 188 45 159 11 153 0 c 1
- 163 107 l 1
- 171 122 196 155 236 204 c 0
- 276 253 313 296 346 331 c 1
- 288 370 l 1
- 297 474 l 1
- 399 406 l 1
- 408 494 l 1
- 430 506 l 1
- 420 404 l 1
- 451 433 493 469 545 512 c 0
- 597 555 629 576 642 576 c 0xf0
-763 208 m 0xf4
- 763 150 753 34 744 -4 c 0
- 743 -9 739 -11 734 -11 c 0
- 730 -11 725 -6 726 -1 c 0xf8
- 733 52 737 99 737 138 c 0
- 737 178 724 199 698 202 c 1
- 692 202 l 2
- 664 202 646 186 638 155 c 0
- 637 150 630 141 628 148 c 0
- 628 150 628 150 628 152 c 0
- 631 207 638 250 648 279 c 0
- 661 317 681 336 707 336 c 0
- 739 336 757 305 762 242 c 0
- 763 232 763 221 763 208 c 0xf4
-106 330 m 0
- 117 330 123 306 123 260 c 0
- 123 214 120 177 115 148 c 0
- 110 119 105 101 103 95 c 0
- 101 89 89 70 67 38 c 0
- 45 6 34 -10 33 -10 c 2
- 30 -10 l 1
- 30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
- 40 147 38 178 33 208 c 1
- 29 217 30 226 35 234 c 2
- 100 327 l 2
- 101 329 103 330 106 330 c 0
+642 576 m 4xf0
+ 655 576 670 566 688 545 c 4
+ 705 525 713 509 713 495 c 4
+ 713 494 713 493 713 492 c 6
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4xf0
+763 208 m 4xf4
+ 763 150 753 34 744 -4 c 4
+ 743 -9 739 -11 734 -11 c 4
+ 730 -11 725 -6 726 -1 c 4xf8
+ 733 52 737 99 737 138 c 4
+ 737 178 724 199 698 202 c 5
+ 692 202 l 6
+ 664 202 646 186 638 155 c 4
+ 637 150 630 141 628 148 c 4
+ 628 150 628 150 628 152 c 4
+ 631 207 638 250 648 279 c 4
+ 661 317 681 336 707 336 c 4
+ 739 336 757 305 762 242 c 4
+ 763 232 763 221 763 208 c 4xf4
+106 330 m 4
+ 117 330 123 306 123 260 c 4
+ 123 214 120 177 115 148 c 4
+ 110 119 105 101 103 95 c 4
+ 101 89 89 70 67 38 c 4
+ 45 6 34 -10 33 -10 c 6
+ 30 -10 l 5
+ 30 -9 32 5 35 30 c 4
+ 38 55 40 83 40 115 c 4
+ 40 147 38 178 33 208 c 5
+ 29 217 30 226 35 234 c 6
+ 100 327 l 6
+ 101 329 103 330 106 330 c 4
 EndSplineSet
 Validated: 3073
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF6B
@@ -27742,7 +27742,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEB1E
@@ -27965,7 +27965,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF40A
@@ -28037,7 +28037,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF43E
@@ -28098,7 +28098,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF442
@@ -28166,7 +28166,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF467
@@ -28246,7 +28246,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF465 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF46F
@@ -28320,7 +28320,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF472
@@ -28402,7 +28402,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF470 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF47A
@@ -28474,7 +28474,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A0
@@ -28562,7 +28562,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A7
@@ -28645,7 +28645,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF515
@@ -28692,7 +28692,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF7D
@@ -28850,7 +28850,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF434 u1CF5C
 Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF610
@@ -28933,7 +28933,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF46
 Ligature2: "Post-composition Priznakification-1" uniF60E u1CF3D
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF54C
@@ -29022,7 +29022,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF541
@@ -29090,7 +29090,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF587
@@ -29179,7 +29179,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF554
@@ -29275,7 +29275,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF45
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF556
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF565
@@ -29341,7 +29341,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF55A
@@ -29442,7 +29442,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF45
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF55C
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEB11
@@ -29610,7 +29610,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFB4 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF57D
@@ -29685,7 +29685,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEB25
@@ -29922,7 +29922,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEE0F
@@ -38425,7 +38425,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF56B
@@ -38498,7 +38498,7 @@ Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEB26 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF34
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF443
@@ -38560,7 +38560,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF58 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: u1CF00
@@ -49673,66 +49673,66 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-172 364 m 1xf0
- 193 425 256 433 256 433 c 1
- 246 309 l 1
- 246 309 191 300 160 237 c 1
- 172 364 l 1xf0
-642 576 m 0
- 655 576 670 566 688 545 c 0
- 705 525 713 509 713 495 c 0
- 713 494 713 493 713 492 c 2
- 698 374 l 1
- 692 402 676 426 649 447 c 0
- 646 450 642 450 637 450 c 0
- 611 450 560 417 483 350 c 1
- 520 325 l 1
- 510 222 l 1
- 415 285 l 1
- 408 278 l 1
- 399 190 l 1
- 376 180 l 1
- 384 254 l 1
- 341 210 292 159 240 102 c 0
- 188 45 159 11 153 0 c 1
- 163 107 l 1
- 171 122 196 155 236 204 c 0
- 276 253 313 296 346 331 c 1
- 288 370 l 1
- 297 474 l 1
- 399 406 l 1
- 408 494 l 1
- 430 506 l 1
- 420 404 l 1
- 451 433 493 469 545 512 c 0
- 597 555 629 576 642 576 c 0
-763 208 m 0xf4
- 763 150 753 34 744 -4 c 0
- 743 -9 739 -11 734 -11 c 0
- 730 -11 725 -6 726 -1 c 0xf8
- 733 52 737 99 737 138 c 0
- 737 178 724 199 698 202 c 1
- 692 202 l 2
- 664 202 646 186 638 155 c 0
- 637 150 630 141 628 148 c 0
- 628 150 628 150 628 152 c 0
- 631 207 638 250 648 279 c 0
- 661 317 681 336 707 336 c 0
- 739 336 757 305 762 242 c 0
- 763 232 763 221 763 208 c 0xf4
-106 330 m 0
- 117 330 123 306 123 260 c 0
- 123 214 120 177 115 148 c 0
- 110 119 105 101 103 95 c 0
- 101 89 89 70 67 38 c 0
- 45 6 34 -10 33 -10 c 2
- 30 -10 l 1
- 30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
- 40 147 38 178 33 208 c 1
- 29 217 30 226 35 234 c 2
- 100 327 l 2
- 101 329 103 330 106 330 c 0
+172 364 m 5xf0
+ 193 425 256 433 256 433 c 5
+ 246 309 l 5
+ 246 309 191 300 160 237 c 5
+ 172 364 l 5xf0
+642 576 m 4
+ 655 576 670 566 688 545 c 4
+ 705 525 713 509 713 495 c 4
+ 713 494 713 493 713 492 c 6
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+763 208 m 4xf4
+ 763 150 753 34 744 -4 c 4
+ 743 -9 739 -11 734 -11 c 4
+ 730 -11 725 -6 726 -1 c 4xf8
+ 733 52 737 99 737 138 c 4
+ 737 178 724 199 698 202 c 5
+ 692 202 l 6
+ 664 202 646 186 638 155 c 4
+ 637 150 630 141 628 148 c 4
+ 628 150 628 150 628 152 c 4
+ 631 207 638 250 648 279 c 4
+ 661 317 681 336 707 336 c 4
+ 739 336 757 305 762 242 c 4
+ 763 232 763 221 763 208 c 4xf4
+106 330 m 4
+ 117 330 123 306 123 260 c 4
+ 123 214 120 177 115 148 c 4
+ 110 119 105 101 103 95 c 4
+ 101 89 89 70 67 38 c 4
+ 45 6 34 -10 33 -10 c 6
+ 30 -10 l 5
+ 30 -9 32 5 35 30 c 4
+ 38 55 40 83 40 115 c 4
+ 40 147 38 178 33 208 c 5
+ 29 217 30 226 35 234 c 6
+ 100 327 l 6
+ 101 329 103 330 106 330 c 4
 EndSplineSet
 Validated: 3073
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF6F
@@ -51367,7 +51367,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF639 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9C
 LCarets2: 1 0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniEADF
@@ -52723,7 +52723,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF50 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF432
@@ -52773,7 +52773,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF433
@@ -52818,7 +52818,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF432 u1CF44
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF434
@@ -52888,7 +52888,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEA7C u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF431 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF43F
@@ -52940,7 +52940,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF450
@@ -53008,7 +53008,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFF2
@@ -53087,7 +53087,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEBEB u1CF41
 Ligature2: "Znamenny Priznakification Round 2-1" uniEFF0 u1CF43
 LCarets2: 1 0
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniF60B
@@ -53155,7 +53155,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF431 u1CF5C
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF60E
@@ -53228,7 +53228,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC17 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF435 u1CF5C
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF611
@@ -53312,7 +53312,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC1A u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF612
@@ -53389,7 +53389,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC1A u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF613
@@ -53397,7 +53397,7 @@ Encoding: 62995 62995 992
 Width: 1000
 Flags: H
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF7B
@@ -53525,7 +53525,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF5C u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF45D
@@ -53583,7 +53583,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF45E
@@ -53633,7 +53633,7 @@ EndSplineSet
 Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF5D u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF465
@@ -53698,7 +53698,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF470
@@ -53765,7 +53765,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF61 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF479
@@ -53843,7 +53843,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF62 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF47B
@@ -53936,7 +53936,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF479 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF487
@@ -54011,7 +54011,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF497
@@ -54098,7 +54098,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF498
@@ -54178,7 +54178,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF65 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4AF
@@ -54266,7 +54266,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B0
@@ -54347,7 +54347,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF68 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B7
@@ -54440,7 +54440,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B8
@@ -54526,7 +54526,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF69 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4BF
@@ -54629,7 +54629,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C0
@@ -54726,7 +54726,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF6A u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF9F
@@ -54867,7 +54867,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D8
@@ -54945,7 +54945,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4DA
@@ -55029,7 +55029,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEACA u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFA6
@@ -55190,7 +55190,7 @@ EndSplineSet
 Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFAC
@@ -55336,7 +55336,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF539
@@ -55399,7 +55399,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF92 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF53E
@@ -55486,7 +55486,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF53F
@@ -55562,7 +55562,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF94 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF54D
@@ -55640,7 +55640,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF97 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF555
@@ -55725,7 +55725,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF98 u1CF46
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF557
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF55B
@@ -55815,7 +55815,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF99 u1CF46
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF55D
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFBC
@@ -55974,7 +55974,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9B u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF56A
@@ -56058,7 +56058,7 @@ Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF564 u1CF34
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF564 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniEB26 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF570
@@ -56145,7 +56145,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF564 u1CF31
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF571
@@ -56221,7 +56221,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF565 u1CF31
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF574
@@ -56310,7 +56310,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF575
@@ -56388,7 +56388,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9C u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF57C
@@ -56474,7 +56474,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9D u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF580
@@ -56564,7 +56564,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9E u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF586
@@ -56664,7 +56664,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF9F u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF598
@@ -56748,7 +56748,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5CC
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF58A
@@ -56822,7 +56822,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5BE
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF59C
@@ -56908,7 +56908,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B6
@@ -57004,7 +57004,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5EA
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5BA
@@ -57105,7 +57105,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5EE
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F5
@@ -57178,7 +57178,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFAF u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F8
@@ -57263,7 +57263,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFB0 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FC
@@ -57354,7 +57354,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFB1 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF60
@@ -57700,7 +57700,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" uniEF60 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEA1C
@@ -58760,7 +58760,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF46F u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA7 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF514
@@ -58818,7 +58818,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF66
@@ -59245,7 +59245,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CFB3 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEBD3
@@ -59937,7 +59937,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF60 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF468
@@ -60010,7 +60010,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF466 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAA3 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF431
@@ -60067,7 +60067,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF56 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFE5
@@ -60128,7 +60128,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF75 u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniF435
@@ -60191,7 +60191,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEA7C u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF432 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF98
@@ -60467,7 +60467,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF47C
@@ -60554,7 +60554,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF47A u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEAAA u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D0
@@ -60633,7 +60633,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEF69 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF6A
@@ -60925,7 +60925,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF63 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF540
@@ -61004,7 +61004,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF95 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF545
@@ -61077,7 +61077,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF96 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF49F
@@ -61171,7 +61171,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF66 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFB7
@@ -61332,7 +61332,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF67 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF81
@@ -61397,7 +61397,7 @@ Encoding: 62996 62996 1107
 Width: 1000
 Flags: H
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5CC
@@ -61474,7 +61474,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" uniEF66 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D2
@@ -61542,7 +61542,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4DE
@@ -61620,7 +61620,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF61
@@ -65552,7 +65552,7 @@ EndSplineSet
 Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF54 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF60C
@@ -65610,7 +65610,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniF432 u1CF5C
 Ligature2: "Post-composition Priznakification-1" uniEC12 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF60F
@@ -65700,7 +65700,7 @@ EndSplineSet
 Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEC18 u1CF45
 Ligature2: "Post-composition Priznakification-1" uniF60D u1CF3D
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEA8F
@@ -84640,7 +84640,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEF77 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF79
@@ -84814,7 +84814,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEF79 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEA6B
@@ -85050,7 +85050,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF638 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9B
 LCarets2: 1 0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniEADE
@@ -85160,59 +85160,60 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-486 652 m 1
- 507 713 570 722 570 722 c 1
- 559 598 l 1
- 559 598 505 589 474 526 c 1
- 486 652 l 1
-642 576 m 0
- 655 576 670 566 688 545 c 0
- 705 525 713 509 713 495 c 0
- 713 494 713 493 713 492 c 2
- 698 374 l 1
- 692 402 676 426 649 447 c 0
- 646 450 642 450 637 450 c 0
- 611 450 560 417 483 350 c 1
- 520 325 l 1
- 510 222 l 1
- 415 285 l 1
- 408 278 l 1
- 399 190 l 1
- 376 180 l 1
- 384 254 l 1
- 341 210 292 159 240 102 c 0
- 188 45 159 11 153 0 c 1
- 163 107 l 1
- 171 122 196 155 236 204 c 0
- 276 253 313 296 346 331 c 1
- 288 370 l 1
- 297 474 l 1
- 399 406 l 1
- 408 494 l 1
- 430 506 l 1
- 420 404 l 1
- 451 433 493 469 545 512 c 0
- 597 555 629 576 642 576 c 0
-172 364 m 1
- 193 425 256 433 256 433 c 1
- 246 309 l 1
- 246 309 191 300 160 237 c 1
- 172 364 l 1
-106 330 m 0
- 117 330 123 306 123 260 c 0
- 123 214 120 177 115 148 c 0
- 110 119 105 101 103 95 c 0
- 101 89 89 70 67 38 c 0
- 45 6 34 -10 33 -10 c 2
- 30 -10 l 1
- 30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
- 40 147 38 178 33 208 c 1
- 29 217 30 226 35 234 c 2
- 100 327 l 2
- 101 329 103 330 106 330 c 0
+486 652 m 5
+ 507 713 570 722 570 722 c 5
+ 559 598 l 5
+ 559 598 505 589 474 526 c 5
+ 486 652 l 5
+642 576 m 4
+ 655 576 670 566 688 545 c 4
+ 705 525 713 509 713 495 c 4
+ 713 494 713 493 713 492 c 6
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+172 364 m 5
+ 193 425 256 433 256 433 c 5
+ 246 309 l 5
+ 246 309 191 300 160 237 c 5
+ 172 364 l 5
+106 330 m 4
+ 117 330 123 306 123 260 c 4
+ 123 214 120 177 115 148 c 4
+ 110 119 105 101 103 95 c 4
+ 101 89 89 70 67 38 c 4
+ 45 6 34 -10 33 -10 c 6
+ 30 -10 l 5
+ 30 -9 32 5 35 30 c 4
+ 38 55 40 83 40 115 c 4
+ 40 147 38 178 33 208 c 5
+ 29 217 30 226 35 234 c 6
+ 100 327 l 6
+ 101 329 103 330 106 330 c 4
 EndSplineSet
 Validated: 3073
+LCarets2: 2 0 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF30 u1CF34
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA9 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF71
@@ -85434,73 +85435,74 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-486 652 m 1xf0
- 507 713 570 722 570 722 c 1
- 559 598 l 1
- 559 598 505 589 474 526 c 1
- 486 652 l 1xf0
-172 364 m 1
- 193 425 256 433 256 433 c 1
- 246 309 l 1
- 246 309 191 300 160 237 c 1
- 172 364 l 1
-642 576 m 0
- 655 576 670 566 688 545 c 0
- 705 525 713 509 713 495 c 0
- 713 494 713 493 713 492 c 2
- 698 374 l 1
- 692 402 676 426 649 447 c 0
- 646 450 642 450 637 450 c 0
- 611 450 560 417 483 350 c 1
- 520 325 l 1
- 510 222 l 1
- 415 285 l 1
- 408 278 l 1
- 399 190 l 1
- 376 180 l 1
- 384 254 l 1
- 341 210 292 159 240 102 c 0
- 188 45 159 11 153 0 c 1
- 163 107 l 1
- 171 122 196 155 236 204 c 0
- 276 253 313 296 346 331 c 1
- 288 370 l 1
- 297 474 l 1
- 399 406 l 1
- 408 494 l 1
- 430 506 l 1
- 420 404 l 1
- 451 433 493 469 545 512 c 0
- 597 555 629 576 642 576 c 0
-763 208 m 0xf4
- 763 150 753 34 744 -4 c 0
- 743 -9 739 -11 734 -11 c 0
- 730 -11 725 -6 726 -1 c 0xf8
- 733 52 737 99 737 138 c 0
- 737 178 724 199 698 202 c 1
- 692 202 l 2
- 664 202 646 186 638 155 c 0
- 637 150 630 141 628 148 c 0
- 628 150 628 150 628 152 c 0
- 631 207 638 250 648 279 c 0
- 661 317 681 336 707 336 c 0
- 739 336 757 305 762 242 c 0
- 763 232 763 221 763 208 c 0xf4
-106 330 m 0
- 117 330 123 306 123 260 c 0
- 123 214 120 177 115 148 c 0
- 110 119 105 101 103 95 c 0
- 101 89 89 70 67 38 c 0
- 45 6 34 -10 33 -10 c 2
- 30 -10 l 1
- 30 -9 32 5 35 30 c 0
- 38 55 40 83 40 115 c 0
- 40 147 38 178 33 208 c 1
- 29 217 30 226 35 234 c 2
- 100 327 l 2
- 101 329 103 330 106 330 c 0
+486 652 m 5xf0
+ 507 713 570 722 570 722 c 5
+ 559 598 l 5
+ 559 598 505 589 474 526 c 5
+ 486 652 l 5xf0
+172 364 m 5
+ 193 425 256 433 256 433 c 5
+ 246 309 l 5
+ 246 309 191 300 160 237 c 5
+ 172 364 l 5
+642 576 m 4
+ 655 576 670 566 688 545 c 4
+ 705 525 713 509 713 495 c 4
+ 713 494 713 493 713 492 c 6
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+763 208 m 4xf4
+ 763 150 753 34 744 -4 c 4
+ 743 -9 739 -11 734 -11 c 4
+ 730 -11 725 -6 726 -1 c 4xf8
+ 733 52 737 99 737 138 c 4
+ 737 178 724 199 698 202 c 5
+ 692 202 l 6
+ 664 202 646 186 638 155 c 4
+ 637 150 630 141 628 148 c 4
+ 628 150 628 150 628 152 c 4
+ 631 207 638 250 648 279 c 4
+ 661 317 681 336 707 336 c 4
+ 739 336 757 305 762 242 c 4
+ 763 232 763 221 763 208 c 4xf4
+106 330 m 4
+ 117 330 123 306 123 260 c 4
+ 123 214 120 177 115 148 c 4
+ 110 119 105 101 103 95 c 4
+ 101 89 89 70 67 38 c 4
+ 45 6 34 -10 33 -10 c 6
+ 30 -10 l 5
+ 30 -9 32 5 35 30 c 4
+ 38 55 40 83 40 115 c 4
+ 40 147 38 178 33 208 c 5
+ 29 217 30 226 35 234 c 6
+ 100 327 l 6
+ 101 329 103 330 106 330 c 4
 EndSplineSet
 Validated: 3073
+LCarets2: 2 0 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF30 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB40 u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB3A u1CF31
@@ -85765,7 +85767,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF98
 LCarets2: 1 0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF639
@@ -85840,7 +85842,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF99
 LCarets2: 1 0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF63A
@@ -85925,7 +85927,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9A
 LCarets2: 1 0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniEB5A
@@ -85998,7 +86000,7 @@ VWidth: 0
 LayerCount: 2
 Fore
 Validated: 1
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniF50C
@@ -86078,7 +86080,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF7B u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF510
@@ -86168,7 +86170,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF7C u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEB37
@@ -86479,7 +86481,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF490
@@ -86552,7 +86554,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF64 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4FC
@@ -86617,7 +86619,7 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEFA9
@@ -87067,54 +87069,54 @@ AnchorPoint: "Podchashie" 483 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-104 496 m 1xf0
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1xf0
-612 576 m 0
- 636.994726753 576 683 521.566899163 683 495 c 0
- 683 494 683 493 683 492 c 2
- 668 374 l 1
- 662 402 646 426 619 447 c 0
- 616 450 612 450 607 450 c 0
- 581 450 530 417 453 350 c 1
- 490 325 l 1
- 480 222 l 1
- 385 285 l 1
- 378 278 l 1
- 369 190 l 1
- 346 180 l 1
- 354 254 l 1
- 311 210 262 159 210 102 c 0
- 158 45 129 11 123 0 c 1
- 133 107 l 1
- 141 122 166 155 206 204 c 0
- 246 253 283 296 316 331 c 1
- 258 370 l 1
- 267 474 l 1
- 369 406 l 1
- 378 494 l 1
- 400 506 l 1
- 390 404 l 1
- 421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0
-598 152 m 1xf8
- 602.358225257 231.900796372 613.635621963 336 677 336 c 0
- 709 336 727 305 732 242 c 0
- 733 232 733 221 733 208 c 0xf8
- 733 150 723 34 714 -4 c 0
- 713 -9 709 -11 704 -11 c 0
- 700 -11 695 -6 696 -1 c 0xf4
- 703 52 707 99 707 138 c 0xf2
- 707 178 694 199 668 202 c 1
- 662 202 l 2
- 634 202 616 186 608 155 c 0
- 607 150 600 141 598 148 c 1
- 598 152 l 1xf8
+104 496 m 5xf0
+ 94 386 67 133 56 28 c 5
+ 30 0 l 5
+ 71 405 l 5
+ 19 421 l 5
+ 30 521 l 5
+ 104 497 l 5
+ 104 496 l 5xf0
+612 576 m 4
+ 636.994726753 576 683 521.566899163 683 495 c 4
+ 683 494 683 493 683 492 c 6
+ 668 374 l 5
+ 662 402 646 426 619 447 c 4
+ 616 450 612 450 607 450 c 4
+ 581 450 530 417 453 350 c 5
+ 490 325 l 5
+ 480 222 l 5
+ 385 285 l 5
+ 378 278 l 5
+ 369 190 l 5
+ 346 180 l 5
+ 354 254 l 5
+ 311 210 262 159 210 102 c 4
+ 158 45 129 11 123 0 c 5
+ 133 107 l 5
+ 141 122 166 155 206 204 c 4
+ 246 253 283 296 316 331 c 5
+ 258 370 l 5
+ 267 474 l 5
+ 369 406 l 5
+ 378 494 l 5
+ 400 506 l 5
+ 390 404 l 5
+ 421 433 463 469 515 512 c 4
+ 567 555 599 576 612 576 c 4
+598 152 m 5xf8
+ 602.358225257 231.900796372 613.635621963 336 677 336 c 4
+ 709 336 727 305 732 242 c 4
+ 733 232 733 221 733 208 c 4xf8
+ 733 150 723 34 714 -4 c 4
+ 713 -9 709 -11 704 -11 c 4
+ 700 -11 695 -6 696 -1 c 4xf4
+ 703 52 707 99 707 138 c 4xf2
+ 707 178 694 199 668 202 c 5
+ 662 202 l 6
+ 634 202 616 186 608 155 c 4
+ 607 150 600 141 598 148 c 5
+ 598 152 l 5xf8
 EndSplineSet
 Colour: 1abfff
 EndChar
@@ -87477,7 +87479,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEA57 u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFE6
@@ -87553,7 +87555,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD2 u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEFE5 u1CF3F
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFE7
@@ -87624,7 +87626,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" u1CF76 u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFE8
@@ -87700,7 +87702,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF77 u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFE9
@@ -87754,7 +87756,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFEA
@@ -87818,7 +87820,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFEB
@@ -87887,7 +87889,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7B u1CF43
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF0
@@ -87965,7 +87967,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFA3 u1CF41
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF1
@@ -88049,7 +88051,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEBEA u1CF41
 Ligature2: "Znamenny Priznakification Round 2-1" uniEFF0 u1CF42
 LCarets2: 1 0
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFCA
@@ -90146,7 +90148,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB46 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5F8 u1CF3E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FA
@@ -90242,7 +90244,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB47 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5F8 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF608
@@ -90351,7 +90353,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB50 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF606 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF607
@@ -90453,7 +90455,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF606 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB4F u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF61C
@@ -90530,7 +90532,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF454 u1CF5C
 Ligature2: "Post-composition Priznakification-1" uniEC27 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF85
@@ -93808,7 +93810,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA60 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF400 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF403
@@ -93867,7 +93869,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA60 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF401 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF404
@@ -93944,7 +93946,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA61 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF400 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF405
@@ -94015,7 +94017,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA61 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF401 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF406
@@ -94088,7 +94090,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA62 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF400 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF407
@@ -94155,7 +94157,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEA62 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF401 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF40B
@@ -94220,7 +94222,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF52 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF40C
@@ -94296,7 +94298,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniF40A u1CF3E
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA65 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF40D
@@ -94365,7 +94367,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA64 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF40B u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF40E
@@ -94448,7 +94450,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA65 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF40A u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF40F
@@ -94524,7 +94526,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA65 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF40B u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF428
@@ -94621,7 +94623,7 @@ Ligature2: "Post-composition Priznakification-1" uniF41E u1CF34 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniF41E u1CF30 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniF41E u1CF31
 Ligature2: "Post-composition Priznakification-1" uniF424 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF429
@@ -94713,7 +94715,7 @@ Ligature2: "Post-composition Priznakification-1" uniF41F u1CF34 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniF41F u1CF30 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniF41F u1CF31
 Ligature2: "Post-composition Priznakification-1" uniF425 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF412
@@ -94782,7 +94784,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF413
@@ -94845,7 +94847,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF53 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF414
@@ -94918,7 +94920,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA67 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF412 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF415
@@ -94985,7 +94987,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA67 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF413 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF416
@@ -95065,7 +95067,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA68 u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF412 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF417
@@ -95139,7 +95141,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA68 u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF413 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF41C
@@ -95217,7 +95219,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA6C u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF41D
@@ -95289,7 +95291,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA6C u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF41E
@@ -95374,7 +95376,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA6D u1CF45
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF41F
@@ -95453,7 +95455,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA6D u1CF46
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF420
@@ -95550,7 +95552,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF41E u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF421
@@ -95641,7 +95643,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF41F u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF422
@@ -95751,7 +95753,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF420 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF423
@@ -95855,7 +95857,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF421 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF424
@@ -95941,7 +95943,7 @@ LCarets2: 2 0 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF34 u1CF30
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF30 u1CF34
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41A u1CF31
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF425
@@ -96022,7 +96024,7 @@ LCarets2: 2 0 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF34 u1CF30
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF30 u1CF34
 Ligature2: "Znamenny Priznakification Round 2-1" uniF41B u1CF31
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF426
@@ -96112,7 +96114,7 @@ Ligature2: "Post-composition Priznakification-1" uniF41C u1CF34 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniF41C u1CF30 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniF41C u1CF31
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF424 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF427
@@ -96197,7 +96199,7 @@ Ligature2: "Post-composition Priznakification-1" uniF41D u1CF34 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniF41D u1CF30 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniF41D u1CF31
 Ligature2: "Post-composition Priznakification-1" uniF425 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF42C
@@ -96271,7 +96273,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF55 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF42D
@@ -96349,7 +96351,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEA7A u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF42C u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF42E
@@ -96434,7 +96436,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEA7B u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF42C u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF436
@@ -96505,7 +96507,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEA7D u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF431 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF437
@@ -96570,7 +96572,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEA7D u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF432 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF438
@@ -96653,7 +96655,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF436 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF439
@@ -96730,7 +96732,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF437 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF43A
@@ -96826,7 +96828,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF438 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF43B
@@ -96916,7 +96918,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF439 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF444
@@ -97002,7 +97004,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEA83 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF442 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF445
@@ -97080,7 +97082,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF443 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF446
@@ -97162,7 +97164,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF442 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF447
@@ -97238,7 +97240,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF443 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF448
@@ -97332,7 +97334,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF446 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF449
@@ -97419,7 +97421,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF447 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF451
@@ -97505,7 +97507,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44C u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF44F
@@ -97585,7 +97587,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF450 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF44D
@@ -97673,7 +97675,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44C u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF44E
@@ -97754,7 +97756,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF450 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF454
@@ -97822,7 +97824,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF5A u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF456
@@ -97902,7 +97904,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF454 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF457
@@ -97995,7 +97997,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF456 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF45A
@@ -98062,7 +98064,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF459 u1CF3D
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF45F
@@ -98133,7 +98135,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF45D u1CF81
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF460
@@ -98197,7 +98199,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF45E u1CF81
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF461
@@ -98270,7 +98272,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF45D u1CF3B
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF462
@@ -98357,7 +98359,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF461 u1CF81
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF469
@@ -98426,7 +98428,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF465 u1CF3C
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF46A
@@ -98488,7 +98490,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF466 u1CF3C
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF46D
@@ -98578,7 +98580,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF46B u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF46E
@@ -98662,7 +98664,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF46C u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF473
@@ -98748,7 +98750,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF46F u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF474
@@ -98828,7 +98830,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF470 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF475
@@ -98927,7 +98929,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF473 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF476
@@ -99020,7 +99022,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF474 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF47D
@@ -99110,7 +99112,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF479 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF47E
@@ -99194,7 +99196,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF47A u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF489
@@ -99273,7 +99275,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAAD u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF487 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF48A
@@ -99345,7 +99347,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAAD u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF488 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF48B
@@ -99432,7 +99434,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAAE u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF487 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF48C
@@ -99513,7 +99515,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAAE u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF488 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF491
@@ -99598,7 +99600,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAAF u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF48F u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF492
@@ -99677,7 +99679,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAAF u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF490 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF493
@@ -99770,7 +99772,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB0 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF48F u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF494
@@ -99857,7 +99859,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB0 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF490 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF499
@@ -99946,7 +99948,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB1 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF497 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF49A
@@ -100029,7 +100031,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB1 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF498 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF49B
@@ -100126,7 +100128,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB2 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF497 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF49C
@@ -100217,7 +100219,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB2 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF498 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A1
@@ -100312,7 +100314,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB3 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF49F u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A2
@@ -100400,7 +100402,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB3 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4A0 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A3
@@ -100505,7 +100507,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB4 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF49F u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A4
@@ -100604,7 +100606,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB4 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4A0 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A9
@@ -100691,7 +100693,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB6 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4A7 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4AA
@@ -100772,7 +100774,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB6 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4A8 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4AB
@@ -100867,7 +100869,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB7 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4A7 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4AC
@@ -100956,7 +100958,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB7 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4A8 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B1
@@ -101048,7 +101050,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB8 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4AF u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B2
@@ -101134,7 +101136,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB8 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4B0 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B3
@@ -101234,7 +101236,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB9 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4AF u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B4
@@ -101328,7 +101330,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAB9 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4B0 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B9
@@ -101424,7 +101426,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABA u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4B7 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4BA
@@ -101514,7 +101516,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABA u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4B8 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4BB
@@ -101619,7 +101621,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABA u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4B7 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4BC
@@ -101718,7 +101720,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABB u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4B8 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C1
@@ -101823,7 +101825,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABC u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4BF u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C2
@@ -101922,7 +101924,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABC u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C0 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C3
@@ -102036,7 +102038,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABC u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4BF u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C4
@@ -102144,7 +102146,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEABD u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C0 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C6
@@ -102234,7 +102236,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF6E u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C8
@@ -102296,7 +102298,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEA57 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C9
@@ -102351,7 +102353,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEA57 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4CA
@@ -102416,7 +102418,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEAC6 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4CB
@@ -102470,7 +102472,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAC6 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C9 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4CC
@@ -102543,7 +102545,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAC7 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4CD
@@ -102605,7 +102607,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAC7 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C9 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4CE
@@ -102690,7 +102692,7 @@ LCarets2: 2 0 0
 Ligature2: "Post-composition Priznakification-1" uniEAC8 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF3B u1CF30
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF30 u1CF3B
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4CF
@@ -102769,7 +102771,7 @@ LCarets2: 2 0 0
 Ligature2: "Post-composition Priznakification-1" uniEAC8 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C9 u1CF3B u1CF30
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C9 u1CF30 u1CF3B
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D3
@@ -102830,7 +102832,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D7
@@ -102896,7 +102898,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D9
@@ -102961,7 +102963,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4D7 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4DB
@@ -103034,7 +103036,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEACA u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4D7 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4DF
@@ -103105,7 +103107,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E2
@@ -103182,7 +103184,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF75 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E3
@@ -103249,7 +103251,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF75 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E4
@@ -103328,7 +103330,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD0 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E2 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E5
@@ -103399,7 +103401,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD0 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E3 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E6
@@ -103491,7 +103493,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD2 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E2 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E7
@@ -103573,7 +103575,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD2 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E3 u1CF3F
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E8
@@ -103663,7 +103665,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD1 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E2 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E9
@@ -103741,7 +103743,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD1 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E3 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4EC
@@ -103830,7 +103832,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF76 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4ED
@@ -103907,7 +103909,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF76 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4EE
@@ -103996,7 +103998,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD8 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4EC u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4EF
@@ -104077,7 +104079,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD8 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4ED u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F0
@@ -104177,7 +104179,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD9 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4EC u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F1
@@ -104265,7 +104267,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD9 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4ED u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F4
@@ -104359,7 +104361,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF77 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F5
@@ -104441,7 +104443,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF77 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F8
@@ -104524,7 +104526,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF78 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F9
@@ -104601,7 +104603,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF78 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4FD
@@ -104661,7 +104663,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4FE
@@ -104732,7 +104734,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADA u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4FC u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4FF
@@ -104796,7 +104798,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADA u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4FD u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF500
@@ -104874,7 +104876,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADB u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4FC u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF501
@@ -104945,7 +104947,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADB u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4FD u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF505
@@ -105015,7 +105017,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF506
@@ -105096,7 +105098,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADC u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF504 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF507
@@ -105170,7 +105172,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADD u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF505 u1CF3E
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF508
@@ -105258,7 +105260,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADD u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF504 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF509
@@ -105339,7 +105341,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADD u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF505 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF50D
@@ -105414,7 +105416,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7B u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF511
@@ -105499,7 +105501,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7C u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF516
@@ -105570,7 +105572,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF517
@@ -105633,7 +105635,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF518
@@ -105705,7 +105707,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF519
@@ -105767,7 +105769,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF51A
@@ -105829,7 +105831,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF51B
@@ -105881,7 +105883,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF51C
@@ -105951,7 +105953,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF51D
@@ -106010,7 +106012,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF51E
@@ -106072,7 +106074,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB0A u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF51F
@@ -106124,7 +106126,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB0A u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF520
@@ -106188,7 +106190,7 @@ Ligature2: "Post-composition Priznakification-1" uniEAFD u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF514 u1CF30
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF51E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF521
@@ -106241,7 +106243,7 @@ Ligature2: "Post-composition Priznakification-1" uniEAFD u1CF46
 Ligature2: "Znamenny Priznakification-1" uniF515 u1CF30
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF51F
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF522
@@ -106318,7 +106320,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF516 u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF523
@@ -106384,7 +106386,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF517 u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF524
@@ -106461,7 +106463,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB06 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF518 u1CF30
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF525
@@ -106527,7 +106529,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB06 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF519 u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF526
@@ -106595,7 +106597,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF51A u1CF30
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF527
@@ -106652,7 +106654,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF51B u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF528
@@ -106733,7 +106735,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF526 u1CF36
 Ligature2: "Post-composition Priznakification-1" uniEB05 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF529
@@ -106803,7 +106805,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB05 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF527 u1CF36
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF52A
@@ -106879,7 +106881,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF51C u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF52B
@@ -106944,7 +106946,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF51D u1CF30
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF52C
@@ -107012,7 +107014,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CF91 u1CF45
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF52E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF52D
@@ -107069,7 +107071,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CF91 u1CF46
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF52F
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF52E
@@ -107136,7 +107138,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB0B u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF52F
@@ -107192,7 +107194,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB0B u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF530
@@ -107260,7 +107262,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF514 u1CF31
 Ligature2: "Post-composition Priznakification-1" uniEB0D u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF531
@@ -107317,7 +107319,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB0D u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF515 u1CF31
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF53A
@@ -107397,7 +107399,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF538 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB11 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF53B
@@ -107466,7 +107468,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF539 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB11 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF53C
@@ -107553,7 +107555,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF538 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB12 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF53D
@@ -107629,7 +107631,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB12 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF539 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF546
@@ -107717,7 +107719,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF544 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB17 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF547
@@ -107794,7 +107796,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF545 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB17 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF548
@@ -107889,7 +107891,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF544 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB18 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF549
@@ -107973,7 +107975,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB18 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF545 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF54E
@@ -108066,7 +108068,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF54C u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB1D u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF54F
@@ -108148,7 +108150,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF54D u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB1D u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF550
@@ -108248,7 +108250,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB1E u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF54C u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF551
@@ -108337,7 +108339,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB1E u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF54D u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF556
@@ -108431,7 +108433,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" uniEB20 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF557
@@ -108514,7 +108516,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB20 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF55C
@@ -108613,7 +108615,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB22 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF55D
@@ -108701,7 +108703,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB22 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF560
@@ -108777,7 +108779,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9A u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF561
@@ -108842,7 +108844,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9A u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF566
@@ -108924,7 +108926,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF564 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB24 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF567
@@ -108995,7 +108997,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB24 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF568
@@ -109084,7 +109086,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF564 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB25 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF569
@@ -109162,7 +109164,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF565 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB25 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF56C
@@ -109248,7 +109250,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56A u1CF3E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF56D
@@ -109323,7 +109325,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56B u1CF3E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF56E
@@ -109416,7 +109418,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56A u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF56F
@@ -109498,7 +109500,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF56B u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF576
@@ -109599,7 +109601,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF574 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB2F u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF577
@@ -109689,7 +109691,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB2F u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF575 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF578
@@ -109785,7 +109787,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF574 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniEB30 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF579
@@ -109870,7 +109872,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB30 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF575 u1CF34
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF582
@@ -109967,7 +109969,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF580 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniEB29 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF583
@@ -110053,7 +110055,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB29 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF581 u1CF34
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF58B
@@ -110120,7 +110122,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5BF
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF58C
@@ -110197,7 +110199,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58A u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB33 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5C0
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF58D
@@ -110269,7 +110271,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB33 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58B u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5C1
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF58E
@@ -110353,7 +110355,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58A u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB34 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5C2
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF58F
@@ -110432,7 +110434,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58B u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB34 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5C3
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF590
@@ -110527,7 +110529,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58A u1CF3B u1CF30
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58A u1CF30 u1CF3B
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5C4
 LCarets2: 2 0 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF591
@@ -110617,7 +110619,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF58B u1CF3B u1CF30
 Ligature2: "Post-composition Priznakification-1" uniEB32 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5C5
 LCarets2: 2 0 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF599
@@ -110694,7 +110696,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5CD
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF59D
@@ -110774,7 +110776,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA9 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D1
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF59E
@@ -110862,7 +110864,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB38 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59C u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D2
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF59F
@@ -110945,7 +110947,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59D u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB38 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D3
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A0
@@ -111044,7 +111046,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3A u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59C u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D4
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A1
@@ -111138,7 +111140,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3A u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59D u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D5
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A2
@@ -111234,7 +111236,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB39 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59C u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D6
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A3
@@ -111325,7 +111327,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59D u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB39 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D7
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A4
@@ -111416,7 +111418,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3C u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59C u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D8
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A5
@@ -111502,7 +111504,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3C u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59D u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5D9
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A6
@@ -111595,7 +111597,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A4 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB3D u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5DA
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A7
@@ -111683,7 +111685,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3D u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A5 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5DB
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A8
@@ -111787,7 +111789,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A4 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEB3F u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5DC
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5A9
@@ -111886,7 +111888,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3F u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A5 u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5DD
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5AA
@@ -111987,7 +111989,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3E u1CF45
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A4 u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5DE
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5AB
@@ -112083,7 +112085,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A5 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB3E u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5DF
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5AC
@@ -112180,7 +112182,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A4 u1CF30
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59C u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E0
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5AD
@@ -112272,7 +112274,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF59D u1CF31
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5A5 u1CF30
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E1
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5AE
@@ -112370,7 +112372,7 @@ Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5AC u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB41 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E2
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5AF
@@ -112463,7 +112465,7 @@ Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5AD u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB41 u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E3
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B0
@@ -112572,7 +112574,7 @@ Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5AC u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEB43 u1CF45
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E4
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B1
@@ -112676,7 +112678,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB43 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5AD u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E5
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B2
@@ -112782,7 +112784,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB42 u1CF45
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5AC u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E6
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B3
@@ -112883,7 +112885,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB42 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5AD u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5E7
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B7
@@ -112973,7 +112975,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5EB
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5BB
@@ -113068,7 +113070,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF46
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniF5EF
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5BF
@@ -113128,7 +113130,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" uniEF60 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C0
@@ -113200,7 +113202,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BE u1CF3E
 Ligature2: "Znamenny Priznakification-1" uniEF61 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C1
@@ -113264,7 +113266,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BF u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEF61 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C2
@@ -113343,7 +113345,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BE u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEF62 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C3
@@ -113414,7 +113416,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEF62 u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BF u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C4
@@ -113505,7 +113507,7 @@ Ligature2: "Post-composition Priznakification-1" uniEF63 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BE u1CF30 u1CF3B
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BE u1CF3B u1CF30
 LCarets2: 2 0 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C5
@@ -113588,7 +113590,7 @@ LCarets2: 2 0 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BF u1CF3B u1CF30
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5BF u1CF30 u1CF3B
 Ligature2: "Post-composition Priznakification-1" uniEF63 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5CD
@@ -113658,7 +113660,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEF66 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D1
@@ -113730,7 +113732,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" uniEF69 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D2
@@ -113814,7 +113816,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D0 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEF6A u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D3
@@ -113890,7 +113892,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEF6A u1CF46
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D1 u1CF3E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D4
@@ -113985,7 +113987,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D0 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEF6B u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D5
@@ -114072,7 +114074,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D1 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEF6B u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D6
@@ -114163,7 +114165,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D0 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEF6C u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D7
@@ -114246,7 +114248,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D1 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEF6C u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D8
@@ -114332,7 +114334,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D0 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniEF6D u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5D9
@@ -114410,7 +114412,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D1 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniEF6D u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5DA
@@ -114499,7 +114501,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D8 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEF6E u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5DB
@@ -114580,7 +114582,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D9 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEF6E u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5DC
@@ -114680,7 +114682,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D8 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEF6F u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5DD
@@ -114772,7 +114774,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D9 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEF6F u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5DE
@@ -114868,7 +114870,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D8 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEF70 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5DF
@@ -114956,7 +114958,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEF70 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D9 u1CF40
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E0
@@ -115048,7 +115050,7 @@ Ligature2: "Post-composition Priznakification-1" uniEF71 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D0 u1CF31
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D8 u1CF30
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E1
@@ -115132,7 +115134,7 @@ Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5D1 u1CF31
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF5D9 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniEF71 u1CF46
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E2
@@ -115226,7 +115228,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5E0 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEF72 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E3
@@ -115312,7 +115314,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEF72 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5E1 u1CF3E
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E4
@@ -115417,7 +115419,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEF73 u1CF45
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5E0 u1CF3F
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E5
@@ -115514,7 +115516,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEF73 u1CF46
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5E1 u1CF3F
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E6
@@ -115615,7 +115617,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5E0 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEF74 u1CF45
 LCarets2: 1 0
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E7
@@ -115708,7 +115710,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniF5E1 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEF74 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5EB
@@ -115790,7 +115792,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEF77 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5EF
@@ -115877,7 +115879,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEF79 u1CF46
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniEF64
@@ -116106,112 +116108,112 @@ StartChar: uniEFEC
 Encoding: 61420 61420 1967
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFED
 Encoding: 61421 61421 1968
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFEE
 Encoding: 61422 61422 1969
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFEF
 Encoding: 61423 61423 1970
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF3
 Encoding: 61427 61427 1971
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF5
 Encoding: 61429 61429 1972
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF6
 Encoding: 61430 61430 1973
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF7
 Encoding: 61431 61431 1974
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF8
 Encoding: 61432 61432 1975
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFF9
 Encoding: 61433 61433 1976
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFFA
 Encoding: 61434 61434 1977
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFFB
 Encoding: 61435 61435 1978
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFFC
 Encoding: 61436 61436 1979
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFFD
 Encoding: 61437 61437 1980
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFFE
 Encoding: 61438 61438 1981
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEFFF
 Encoding: 61439 61439 1982
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniEA09
@@ -116549,119 +116551,119 @@ StartChar: uniF408
 Encoding: 62472 62472 1997
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF409
 Encoding: 62473 62473 1998
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF410
 Encoding: 62480 62480 1999
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF411
 Encoding: 62481 62481 2000
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF418
 Encoding: 62488 62488 2001
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF419
 Encoding: 62489 62489 2002
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF42A
 Encoding: 62506 62506 2003
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF42B
 Encoding: 62507 62507 2004
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF42F
 Encoding: 62511 62511 2005
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF430
 Encoding: 62512 62512 2006
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF43C
 Encoding: 62524 62524 2007
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF43D
 Encoding: 62525 62525 2008
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF440
 Encoding: 62528 62528 2009
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF441
 Encoding: 62529 62529 2010
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF44A
 Encoding: 62538 62538 2011
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF44B
 Encoding: 62539 62539 2012
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF452
 Encoding: 62546 62546 2013
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF455
@@ -116737,7 +116739,7 @@ SplineSet
  311 256 333 285 368 285 c 0
 EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEA88 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF453
@@ -116745,42 +116747,42 @@ Encoding: 62547 62547 2015
 Width: 1000
 Flags: H
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF458
 Encoding: 62552 62552 2016
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF45B
 Encoding: 62555 62555 2017
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF45C
 Encoding: 62556 62556 2018
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF463
 Encoding: 62563 62563 2019
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF464
 Encoding: 62564 62564 2020
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF46B
@@ -116857,7 +116859,7 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF465 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF46C
@@ -116928,770 +116930,770 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF466 u1CF40
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF477
 Encoding: 62583 62583 2023
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF478
 Encoding: 62584 62584 2024
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF47F
 Encoding: 62591 62591 2025
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF480
 Encoding: 62592 62592 2026
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF481
 Encoding: 62593 62593 2027
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF482
 Encoding: 62594 62594 2028
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF483
 Encoding: 62595 62595 2029
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF484
 Encoding: 62596 62596 2030
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF485
 Encoding: 62597 62597 2031
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF486
 Encoding: 62598 62598 2032
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF48D
 Encoding: 62605 62605 2033
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF48E
 Encoding: 62606 62606 2034
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF495
 Encoding: 62613 62613 2035
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF496
 Encoding: 62614 62614 2036
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF49D
 Encoding: 62621 62621 2037
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF49E
 Encoding: 62622 62622 2038
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A5
 Encoding: 62629 62629 2039
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4A6
 Encoding: 62630 62630 2040
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4AD
 Encoding: 62637 62637 2041
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4AE
 Encoding: 62638 62638 2042
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B5
 Encoding: 62645 62645 2043
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4B6
 Encoding: 62646 62646 2044
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4BD
 Encoding: 62653 62653 2045
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4BE
 Encoding: 62654 62654 2046
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C5
 Encoding: 62661 62661 2047
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4C7
 Encoding: 62663 62663 2048
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D0
 Encoding: 62672 62672 2049
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D1
 Encoding: 62673 62673 2050
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D4
 Encoding: 62676 62676 2051
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4D5
 Encoding: 62677 62677 2052
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4DC
 Encoding: 62684 62684 2053
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4DD
 Encoding: 62685 62685 2054
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E0
 Encoding: 62688 62688 2055
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4E1
 Encoding: 62689 62689 2056
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4EA
 Encoding: 62698 62698 2057
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4EB
 Encoding: 62699 62699 2058
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F2
 Encoding: 62706 62706 2059
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F3
 Encoding: 62707 62707 2060
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F6
 Encoding: 62710 62710 2061
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4F7
 Encoding: 62711 62711 2062
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4FA
 Encoding: 62714 62714 2063
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF4FB
 Encoding: 62715 62715 2064
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF502
 Encoding: 62722 62722 2065
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF503
 Encoding: 62723 62723 2066
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF50A
 Encoding: 62730 62730 2067
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF50B
 Encoding: 62731 62731 2068
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF50E
 Encoding: 62734 62734 2069
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF50F
 Encoding: 62735 62735 2070
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF512
 Encoding: 62738 62738 2071
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF513
 Encoding: 62739 62739 2072
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF532
 Encoding: 62770 62770 2073
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF533
 Encoding: 62771 62771 2074
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF534
 Encoding: 62772 62772 2075
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF535
 Encoding: 62773 62773 2076
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF536
 Encoding: 62774 62774 2077
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF537
 Encoding: 62775 62775 2078
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF542
 Encoding: 62786 62786 2079
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF543
 Encoding: 62787 62787 2080
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF54A
 Encoding: 62794 62794 2081
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF54B
 Encoding: 62795 62795 2082
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF552
 Encoding: 62802 62802 2083
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF553
 Encoding: 62803 62803 2084
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF558
 Encoding: 62808 62808 2085
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF559
 Encoding: 62809 62809 2086
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF55E
 Encoding: 62814 62814 2087
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF55F
 Encoding: 62815 62815 2088
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF562
 Encoding: 62818 62818 2089
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF563
 Encoding: 62819 62819 2090
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF572
 Encoding: 62834 62834 2091
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF573
 Encoding: 62835 62835 2092
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF57A
 Encoding: 62842 62842 2093
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF57B
 Encoding: 62843 62843 2094
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF57E
 Encoding: 62846 62846 2095
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF57F
 Encoding: 62847 62847 2096
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF584
 Encoding: 62852 62852 2097
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF585
 Encoding: 62853 62853 2098
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF588
 Encoding: 62856 62856 2099
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF589
 Encoding: 62857 62857 2100
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF592
 Encoding: 62866 62866 2101
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF593
 Encoding: 62867 62867 2102
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF594
 Encoding: 62868 62868 2103
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF595
 Encoding: 62869 62869 2104
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF596
 Encoding: 62870 62870 2105
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF597
 Encoding: 62871 62871 2106
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF59A
 Encoding: 62874 62874 2107
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF59B
 Encoding: 62875 62875 2108
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B4
 Encoding: 62900 62900 2109
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B5
 Encoding: 62901 62901 2110
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B8
 Encoding: 62904 62904 2111
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5B9
 Encoding: 62905 62905 2112
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5BC
 Encoding: 62908 62908 2113
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5BD
 Encoding: 62909 62909 2114
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C6
 Encoding: 62918 62918 2115
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C7
 Encoding: 62919 62919 2116
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C8
 Encoding: 62920 62920 2117
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5C9
 Encoding: 62921 62921 2118
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5CA
 Encoding: 62922 62922 2119
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5CB
 Encoding: 62923 62923 2120
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5CE
 Encoding: 62926 62926 2121
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5CF
 Encoding: 62927 62927 2122
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E8
 Encoding: 62952 62952 2123
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5E9
 Encoding: 62953 62953 2124
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5EC
 Encoding: 62956 62956 2125
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5ED
 Encoding: 62957 62957 2126
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F0
 Encoding: 62960 62960 2127
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F1
 Encoding: 62961 62961 2128
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F2
 Encoding: 62962 62962 2129
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F3
 Encoding: 62963 62963 2130
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F4
 Encoding: 62964 62964 2131
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF6FC
@@ -117705,14 +117707,14 @@ StartChar: uniF5F6
 Encoding: 62966 62966 2133
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F7
 Encoding: 62967 62967 2134
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FE
@@ -117811,14 +117813,14 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5FC u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB49 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FF
 Encoding: 62975 62975 2136
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF6FA
@@ -117832,7 +117834,7 @@ StartChar: uniF5FB
 Encoding: 62971 62971 2138
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FD
@@ -117923,14 +117925,14 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF5FC u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB48 u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF604
 Encoding: 62980 62980 2140
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF603
@@ -118032,213 +118034,114 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF601 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB4E u1CF45
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF605
 Encoding: 62981 62981 2142
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF609
 Encoding: 62985 62985 2143
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF60A
 Encoding: 62986 62986 2144
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF615
 Encoding: 62997 62997 2145
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF616
 Encoding: 62998 62998 2146
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF617
 Encoding: 62999 62999 2147
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF618
 Encoding: 63000 63000 2148
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF619
 Encoding: 63001 63001 2149
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF61A
 Encoding: 63002 63002 2150
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF61B
 Encoding: 63003 63003 2151
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF61D
 Encoding: 63005 63005 2152
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF61E
 Encoding: 63006 63006 2153
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
 StartChar: uniF61F
 Encoding: 63007 63007 2154
 Width: 1000
 LayerCount: 2
-Colour: 5effb2
+Colour: 1fffa1
 EndChar
 
-StartChar: uniF620
-Encoding: 63008 63008 2155
-Width: 720
-Flags: HW
+StartChar: uniEBF0
+Encoding: 60400 60400 2155
+Width: 1000
+Flags: H
 LayerCount: 2
-Fore
-SplineSet
-642 -139 m 5
- 639 -138 635 -137 630 -135 c 4
- 625 -133 622 -132 617 -130 c 4
- 612 -128 608 -126 604 -124 c 4
- 600 -122 596 -120 594 -118 c 5
- 303 657 l 5
- 318 666 l 5
- 334 662 351 656 366 646 c 5
- 657 -129 l 5
- 642 -139 l 5
-148 604 m 0
- 180.317382812 604 202 630.518554688 202 664 c 0xbc
- 202 693.360351562 187.16796875 725 158 725 c 0
- 124.508789062 725 104 699.315429688 104 665 c 0
- 104 634.381835938 117.482421875 604 148 604 c 0
-137 566 m 0
- 91.205078125 566 58 598.313476562 58 644 c 0
- 58 698.615234375 91.1015625 737.508789062 129 755 c 0
- 142 761 155 764 168 764 c 0
- 213.4453125 764 246 729.8984375 246 684 c 0
- 246 628.4453125 213.412109375 592.728515625 175 575 c 0
- 162 569 150 566 137 566 c 0
-104 496 m 1
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 55 241 l 1
- 2 257 l 1
- 13 357 l 1
- 65 340 l 1
- 79 480 l 1
- 104 496 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 492 l 1
- 670 374 l 1
- 664 402 648 426 621 447 c 0
- 618 450 613 451 608 451 c 2
- 607 451 l 2
- 590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
- 165 50 131 11 125 0 c 1
- 135 107 l 1
- 143 122 170 157 215 212 c 0
- 313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
-EndSplineSet
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
-StartChar: uniF621
-Encoding: 63009 63009 2156
-Width: 720
-Flags: HW
+StartChar: uniEBF1
+Encoding: 60401 60401 2156
+Width: 1000
+Flags: H
 LayerCount: 2
-Fore
-SplineSet
-642 -139 m 5
- 639 -138 635 -137 630 -135 c 4
- 625 -133 622 -132 617 -130 c 4
- 612 -128 608 -126 604 -124 c 4
- 600 -122 596 -120 594 -118 c 5
- 303 657 l 5
- 318 666 l 5
- 334 662 351 656 366 646 c 5
- 657 -129 l 5
- 642 -139 l 5
-148 604 m 0
- 180.317165837 604 202 630.518900012 202 664 c 0xbc
- 202 693.360144382 187.167525691 725 158 725 c 0
- 124.508824719 725 104 699.315405724 104 665 c 0
- 104 634.38154664 117.482682336 604 148 604 c 0
-137 566 m 0
- 91.2047177555 566 58 598.313127807 58 644 c 0
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 0
- 142 761 155 764 168 764 c 0
- 213.445596577 764 246 729.898099997 246 684 c 0
- 246 628.445415913 213.411800492 592.728523304 175 575 c 0
- 162 569 150 566 137 566 c 0
-104 496 m 1
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1
-614 576 m 0
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 492 l 1
- 670 374 l 1
- 664 402 648 426 621 447 c 0
- 618 450 613 451 608 451 c 2
- 607 451 l 2
- 590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
- 165 50 131 11 125 0 c 1
- 135 107 l 1
- 143 122 170 157 215 212 c 0
- 313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0
-EndSplineSet
-Colour: 1abfff
+Colour: ffff00
 EndChar
 
 StartChar: uniF622
@@ -118288,7 +118191,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF82
 Ligature2: "Znamenny Priznakification-1" u1CFA7 u1CF44
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF623
@@ -118337,8 +118240,8 @@ SplineSet
  564 550 601 576 614 576 c 0xdc
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF83
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBF0 u1CF44
-Colour: 1abfff
+Ligature2: "Znamenny Priznakification Round 2-1" uniF620 u1CF44
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF624
@@ -118393,8 +118296,8 @@ SplineSet
  -1 227 l 1
 EndSplineSet
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF84
-Ligature2: "Znamenny Priznakification Round 2-1" uniEBF1 u1CF44
-Colour: 1abfff
+Ligature2: "Znamenny Priznakification Round 2-1" uniF621 u1CF44
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF625
@@ -118450,9 +118353,9 @@ SplineSet
  564 550 601 576 614 576 c 0xdc
 EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB33 u1CF42
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBF0 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF620 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF85
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF626
@@ -118506,10 +118409,10 @@ SplineSet
  313 332 377 396 501 498 c 0
  564 550 601 576 614 576 c 0xd2
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBF1 u1CF3E
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF621 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB33 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF86
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF627
@@ -118565,7 +118468,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB33 u1CF44
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF622 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF87
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF628
@@ -118621,7 +118524,7 @@ EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF625 u1CF44
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF623 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF88
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF629
@@ -118683,7 +118586,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF624 u1CF3E
 Ligature2: "Znamenny Priznakification Round 2-1" uniF626 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF89
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF62A
@@ -118744,10 +118647,10 @@ SplineSet
  706 208 l 1
  706 208 681 203 653 190 c 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBF0 u1CF40
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF620 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB34 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF8A
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF62B
@@ -118807,10 +118710,10 @@ SplineSet
  706 208 l 1
  706 208 681 203 653 190 c 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBF1 u1CF40
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF621 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB34 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF8B
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF62C
@@ -118872,7 +118775,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF622 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEB34 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF8C
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF62D
@@ -118934,7 +118837,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF623 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF62B u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF8D
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF62E
@@ -119002,7 +118905,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF624 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF62C u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF8E
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniEB4C
@@ -119256,7 +119159,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF91
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF632
@@ -119329,7 +119232,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF92
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF633
@@ -119390,7 +119293,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF93
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF634
@@ -119451,7 +119354,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF631 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF94
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF635
@@ -119518,7 +119421,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF632 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF95
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF63D
@@ -119588,7 +119491,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB38 u1CF42
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF638 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9D
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF63E
@@ -119657,7 +119560,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB38 u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF639 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9E
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF63F
@@ -119724,7 +119627,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63A u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF9F
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF640
@@ -119791,7 +119694,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63B u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF641
@@ -119864,7 +119767,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63C u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA1
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF642
@@ -119944,86 +119847,98 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB3A u1CF42
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF638 u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF643
 Encoding: 63043 63043 2186
-Width: 760
-Flags: W
+Width: 790
+VWidth: 999
+Flags: HW
 HStem: 0 21G<32.0247 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
 VStem: 30 74<457.364 497> 58 46<611.012 713.84> 202 44<615.144 716.693> 696 18<-10.9629 53.7231> 707 26<33.3604 214.5>
 DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 346 180 369 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
+AnchorPoint: "Podchashie" 513 245 basechar 0
+AnchorPoint: "Omet" 615 300 basechar 0
+AnchorPoint: "Zaderzhka" 760 460 basechar 0
+AnchorPoint: "Tochka" 800 325 basechar 0
+AnchorPoint: "TonalRange" 535 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 515 640 basechar 0
+AnchorPoint: "Podvertka" 760 380 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Zevok" 760 350 basechar 0
+AnchorPoint: "Tikhaya" 0 100 basechar 0
+AnchorPoint: "Lomka" 665 150 basechar 0
+AnchorPoint: "Borzaya" 570 70 basechar 0
+AnchorPoint: "PitchMark" 210 580 basechar 0
+AnchorPoint: "Kachka" 465 660 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
+AnchorPoint: "FinalPitch" 965 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4xdb
- 180.317165837 604 202 630.518900012 202 664 c 4
- 202 693.360144382 187.167525691 725 158 725 c 4
- 124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4xdb
-137 566 m 4
- 91.2047177555 566 58 598.313127807 58 644 c 4
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 4
- 142 761 155 764 168 764 c 4
- 213.445596577 764 246 729.898099997 246 684 c 4
- 246 628.445415913 213.411800492 592.728523304 175 575 c 4
- 162 569 150 566 137 566 c 4
-104 496 m 1xcd
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1xcd
-612 576 m 0xe9
- 625 576 640 566 658 545 c 0
- 675 525 683 509 683 495 c 2
- 683 492 l 1
- 668 374 l 1
- 662 402 646 426 619 447 c 0
- 616 450 612 450 607 450 c 0
- 581 450 530 417 453 350 c 1
- 490 325 l 1
- 480 222 l 1
- 385 285 l 1
- 378 278 l 1
- 369 190 l 1
- 346 180 l 1
- 354 254 l 1
- 311 210 262 159 210 102 c 0
- 158 45 129 11 123 0 c 1
- 133 107 l 1
- 141 122 166 155 206 204 c 0
- 246 253 283 296 316 331 c 1
- 258 370 l 1
- 267 474 l 1
- 369 406 l 1
- 378 494 l 1
- 400 506 l 1
- 390 404 l 1
- 421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0xe9
-733 208 m 0xc940
- 733 150 723 34 714 -4 c 0
- 713 -9 709 -11 704 -11 c 0
- 700 -11 695 -6 696 -1 c 0xc980
- 703 52 707 99 707 138 c 0
- 707 178 694 199 668 202 c 2
- 662 202 l 2
- 634 202 616 186 608 155 c 0
- 607 150 600 141 598 148 c 2
- 598 152 l 2
- 601 207 608 250 618 279 c 0
- 631 317 651 336 677 336 c 0
- 709 336 727 305 732 242 c 0
- 733 232 733 221 733 208 c 0xc940
+642 576 m 4
+ 656.537109375 576 678.084960938 558.206054688 694.154296875 537.426757812 c 5
+ 705 638 l 5
+ 727 646 l 5
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+763 208 m 0xf4
+ 763 150 753 34 744 -4 c 0
+ 743 -9 739 -11 734 -11 c 0
+ 730 -11 725 -6 726 -1 c 0xf8
+ 733 52 737 99 737 138 c 0
+ 737 178 724 199 698 202 c 1
+ 692 202 l 2
+ 664 202 646 186 638 155 c 0
+ 637 150 630 141 628 148 c 0
+ 628 150 628 150 628 152 c 0
+ 631 207 638 250 648 279 c 0
+ 661 317 681 336 707 336 c 0
+ 739 336 757 305 762 242 c 0
+ 763 232 763 221 763 208 c 0xf4
+106 330 m 0
+ 117 330 123 306 123 260 c 0
+ 123 214 120 177 115 148 c 0
+ 110 119 105 101 103 95 c 0
+ 101 89 89 70 67 38 c 0
+ 45 6 34 -10 33 -10 c 2
+ 30 -10 l 1
+ 30 -9 32 5 35 30 c 0
+ 38 55 40 83 40 115 c 0
+ 40 147 38 178 33 208 c 1
+ 29 217 30 226 35 234 c 2
+ 100 327 l 2
+ 101 329 103 330 106 330 c 0
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF639 u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEB3A u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA3
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF644
@@ -120100,7 +120015,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63A u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA4
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF645
@@ -120177,7 +120092,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63B u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA5
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF646
@@ -120260,7 +120175,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63C u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA6
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF647
@@ -120336,7 +120251,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF638 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEB39 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA7
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF648
@@ -120411,7 +120326,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB39 u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF639 u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA8
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF649
@@ -120484,7 +120399,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63A u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFA9
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF64A
@@ -120557,7 +120472,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63B u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFAA
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF64B
@@ -120636,7 +120551,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63C u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFAB
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF64C
@@ -120707,77 +120622,89 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB3C u1CF42
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF638 u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFAC
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF64D
 Encoding: 63053 63053 2196
-Width: 720
-Flags: W
+Width: 750
+VWidth: 999
+Flags: HW
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
 VStem: 30 74<457.364 497> 58 46<611.012 713.84> 202 44<615.144 716.693>
 DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 346 180 369 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
+AnchorPoint: "Podchashie" 513 245 basechar 0
+AnchorPoint: "Tochka" 615 325 basechar 0
+AnchorPoint: "Omet" 615 300 basechar 0
+AnchorPoint: "Zaderzhka" 760 460 basechar 0
+AnchorPoint: "TonalRange" 535 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 515 640 basechar 0
+AnchorPoint: "Podvertka" 760 380 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Zevok" 760 350 basechar 0
+AnchorPoint: "Tikhaya" 0 100 basechar 0
+AnchorPoint: "Lomka" 665 150 basechar 0
+AnchorPoint: "Borzaya" 570 70 basechar 0
+AnchorPoint: "PitchMark" 210 580 basechar 0
+AnchorPoint: "Kachka" 465 660 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
+AnchorPoint: "FinalPitch" 965 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4xb6
- 180.317165837 604 202 630.518900012 202 664 c 4
- 202 693.360144382 187.167525691 725 158 725 c 4
- 124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4xb6
-137 566 m 4
- 91.2047177555 566 58 598.313127807 58 644 c 4
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 4
- 142 761 155 764 168 764 c 4
- 213.445596577 764 246 729.898099997 246 684 c 4
- 246 628.445415913 213.411800492 592.728523304 175 575 c 4
- 162 569 150 566 137 566 c 4
-104 496 m 1x9a
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1x9a
-612 576 m 0xd2
- 625 576 640 566 658 545 c 0
- 675 525 683 509 683 495 c 2
- 683 492 l 1
- 668 374 l 1
- 662 402 646 426 619 447 c 0
- 616 450 612 450 607 450 c 0
- 581 450 530 417 453 350 c 1
- 490 325 l 1
- 480 222 l 1
- 385 285 l 1
- 378 278 l 1
- 369 190 l 1
- 346 180 l 1
- 354 254 l 1
- 311 210 262 159 210 102 c 0
- 158 45 129 11 123 0 c 1
- 133 107 l 1
- 141 122 166 155 206 204 c 0
- 246 253 283 296 316 331 c 1
- 258 370 l 1
- 267 474 l 1
- 369 406 l 1
- 378 494 l 1
- 400 506 l 1
- 390 404 l 1
- 421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0xd2
-142 364 m 1
- 163 425 226 433 226 433 c 1
- 216 309 l 1
- 216 309 161 300 130 237 c 1
- 142 364 l 1
+642 576 m 4
+ 656.537109375 576 678.084960938 558.206054688 694.154296875 537.426757812 c 5
+ 705 638 l 5
+ 727 646 l 5
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+172 364 m 1
+ 193 425 256 433 256 433 c 1
+ 246 309 l 1
+ 246 309 191 300 160 237 c 1
+ 172 364 l 1
+106 330 m 0
+ 117 330 123 306 123 260 c 0
+ 123 214 120 177 115 148 c 0
+ 110 119 105 101 103 95 c 0
+ 101 89 89 70 67 38 c 0
+ 45 6 34 -10 33 -10 c 2
+ 30 -10 l 1
+ 30 -9 32 5 35 30 c 0
+ 38 55 40 83 40 115 c 0
+ 40 147 38 178 33 208 c 1
+ 29 217 30 226 35 234 c 2
+ 100 327 l 2
+ 101 329 103 330 106 330 c 0
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB3C u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF639 u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFAD
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF64E
@@ -120846,7 +120773,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB3C u1CF44
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63A u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFAE
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF64F
@@ -120914,7 +120841,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63B u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFAF
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF650
@@ -120988,7 +120915,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63C u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF651
@@ -121064,7 +120991,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF63D u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64C u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB3D u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB1
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF652
@@ -121139,7 +121066,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF63E u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64D u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB3D u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF653
@@ -121213,7 +121140,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF63F u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64E u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB3D u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB3
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF654
@@ -121286,7 +121213,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF640 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64F u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB4
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF655
@@ -121365,7 +121292,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF641 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF650 u1CF3E
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB5
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF656
@@ -121451,92 +121378,104 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF642 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniEB3F u1CF42
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64C u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB6
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF657
 Encoding: 63063 63063 2206
-Width: 760
-Flags: W
+Width: 790
+VWidth: 999
+Flags: HW
 HStem: 0 21G<32.0247 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
 VStem: 30 74<457.364 497> 58 46<611.012 713.84> 202 44<615.144 716.693> 696 18<-10.9629 53.7231> 707 26<33.3604 214.5>
 DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 346 180 369 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
+AnchorPoint: "Podchashie" 513 245 basechar 0
+AnchorPoint: "Omet" 615 300 basechar 0
+AnchorPoint: "Zaderzhka" 760 460 basechar 0
+AnchorPoint: "Tochka" 800 325 basechar 0
+AnchorPoint: "TonalRange" 535 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 515 640 basechar 0
+AnchorPoint: "Podvertka" 760 380 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Zevok" 760 350 basechar 0
+AnchorPoint: "Tikhaya" 0 100 basechar 0
+AnchorPoint: "Lomka" 665 150 basechar 0
+AnchorPoint: "Borzaya" 570 70 basechar 0
+AnchorPoint: "PitchMark" 210 580 basechar 0
+AnchorPoint: "Kachka" 465 660 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
+AnchorPoint: "FinalPitch" 965 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4xdb
- 180.317165837 604 202 630.518900012 202 664 c 4
- 202 693.360144382 187.167525691 725 158 725 c 4
- 124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4xdb
-137 566 m 4
- 91.2047177555 566 58 598.313127807 58 644 c 4
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 4
- 142 761 155 764 168 764 c 4
- 213.445596577 764 246 729.898099997 246 684 c 4
- 246 628.445415913 213.411800492 592.728523304 175 575 c 4
- 162 569 150 566 137 566 c 4
-104 496 m 1xcd
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1xcd
-142 364 m 1
- 163 425 226 433 226 433 c 1
- 216 309 l 1
- 216 309 161 300 130 237 c 1
- 142 364 l 1
-612 576 m 0xe9
- 625 576 640 566 658 545 c 0
- 675 525 683 509 683 495 c 2
- 683 492 l 1
- 668 374 l 1
- 662 402 646 426 619 447 c 0
- 616 450 612 450 607 450 c 0
- 581 450 530 417 453 350 c 1
- 490 325 l 1
- 480 222 l 1
- 385 285 l 1
- 378 278 l 1
- 369 190 l 1
- 346 180 l 1
- 354 254 l 1
- 311 210 262 159 210 102 c 0
- 158 45 129 11 123 0 c 1
- 133 107 l 1
- 141 122 166 155 206 204 c 0
- 246 253 283 296 316 331 c 1
- 258 370 l 1
- 267 474 l 1
- 369 406 l 1
- 378 494 l 1
- 400 506 l 1
- 390 404 l 1
- 421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0xe9
-733 208 m 0xc940
- 733 150 723 34 714 -4 c 0
- 713 -9 709 -11 704 -11 c 0
- 700 -11 695 -6 696 -1 c 0xc980
- 703 52 707 99 707 138 c 0
- 707 178 694 199 668 202 c 2
- 662 202 l 2
- 634 202 616 186 608 155 c 0
- 607 150 600 141 598 148 c 2
- 598 152 l 2
- 601 207 608 250 618 279 c 0
- 631 317 651 336 677 336 c 0
- 709 336 727 305 732 242 c 0
- 733 232 733 221 733 208 c 0xc940
+642 576 m 4
+ 656.537109375 576 678.084960938 558.206054688 694.154296875 537.426757812 c 5
+ 705 638 l 5
+ 727 646 l 5
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+172 364 m 1xf0
+ 193 425 256 433 256 433 c 1
+ 246 309 l 1
+ 246 309 191 300 160 237 c 1
+ 172 364 l 1xf0
+763 208 m 0xf4
+ 763 150 753 34 744 -4 c 0
+ 743 -9 739 -11 734 -11 c 0
+ 730 -11 725 -6 726 -1 c 0xf8
+ 733 52 737 99 737 138 c 0
+ 737 178 724 199 698 202 c 1
+ 692 202 l 2
+ 664 202 646 186 638 155 c 0
+ 637 150 630 141 628 148 c 0
+ 628 150 628 150 628 152 c 0
+ 631 207 638 250 648 279 c 0
+ 661 317 681 336 707 336 c 0
+ 739 336 757 305 762 242 c 0
+ 763 232 763 221 763 208 c 0xf4
+106 330 m 0
+ 117 330 123 306 123 260 c 0
+ 123 214 120 177 115 148 c 0
+ 110 119 105 101 103 95 c 0
+ 101 89 89 70 67 38 c 0
+ 45 6 34 -10 33 -10 c 2
+ 30 -10 l 1
+ 30 -9 32 5 35 30 c 0
+ 38 55 40 83 40 115 c 0
+ 40 147 38 178 33 208 c 1
+ 29 217 30 226 35 234 c 2
+ 100 327 l 2
+ 101 329 103 330 106 330 c 0
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF643 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64D u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEB3F u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB7
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF658
@@ -121620,7 +121559,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF644 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64E u1CF3F
 Ligature2: "Post-composition Priznakification-1" uniEB3F u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB8
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF659
@@ -121703,7 +121642,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF645 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64F u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFB9
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF65A
@@ -121792,7 +121731,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF646 u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF650 u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFBA
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF65B
@@ -121874,7 +121813,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64C u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF647 u1CF34
 Ligature2: "Post-composition Priznakification-1" uniEB3E u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFBB
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF65C
@@ -121955,7 +121894,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3E u1CF43
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64D u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF648 u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFBC
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF65D
@@ -122035,7 +121974,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB3E u1CF44
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64E u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF649 u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFBD
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF65E
@@ -122114,7 +122053,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64A u1CF34
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64F u1CF40
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFBE
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF65F
@@ -122199,7 +122138,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF650 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64B u1CF34
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFBF
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF660
@@ -122275,82 +122214,94 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB40 u1CF42
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF638 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF661
 Encoding: 63073 63073 2216
-Width: 720
-Flags: W
+Width: 750
+VWidth: 999
+Flags: HW
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
 VStem: 30 74<457.364 497> 58 46<611.012 713.84> 202 44<615.144 716.693>
 DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 346 180 369 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
+AnchorPoint: "Podchashie" 513 245 basechar 0
+AnchorPoint: "Tochka" 615 325 basechar 0
+AnchorPoint: "Omet" 615 300 basechar 0
+AnchorPoint: "Zaderzhka" 760 460 basechar 0
+AnchorPoint: "TonalRange" 535 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 515 640 basechar 0
+AnchorPoint: "Podvertka" 760 380 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Zevok" 760 350 basechar 0
+AnchorPoint: "Tikhaya" 0 100 basechar 0
+AnchorPoint: "Lomka" 665 150 basechar 0
+AnchorPoint: "Borzaya" 570 70 basechar 0
+AnchorPoint: "PitchMark" 210 580 basechar 0
+AnchorPoint: "Kachka" 465 660 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
+AnchorPoint: "FinalPitch" 965 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4xb6
- 180.317165837 604 202 630.518900012 202 664 c 4
- 202 693.360144382 187.167525691 725 158 725 c 4
- 124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4xb6
-137 566 m 4
- 91.2047177555 566 58 598.313127807 58 644 c 4
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 4
- 142 761 155 764 168 764 c 4
- 213.445596577 764 246 729.898099997 246 684 c 4
- 246 628.445415913 213.411800492 592.728523304 175 575 c 4
- 162 569 150 566 137 566 c 4
-104 496 m 1x9a
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1x9a
-456 652 m 1
- 477 713 540 722 540 722 c 1
- 529 598 l 1
- 529 598 475 589 444 526 c 1
- 456 652 l 1
-612 576 m 0xd2
- 625 576 640 566 658 545 c 0
- 675 525 683 509 683 495 c 2
- 683 492 l 1
- 668 374 l 1
- 662 402 646 426 619 447 c 0
- 616 450 612 450 607 450 c 0
- 581 450 530 417 453 350 c 1
- 490 325 l 1
- 480 222 l 1
- 385 285 l 1
- 378 278 l 1
- 369 190 l 1
- 346 180 l 1
- 354 254 l 1
- 311 210 262 159 210 102 c 0
- 158 45 129 11 123 0 c 1
- 133 107 l 1
- 141 122 166 155 206 204 c 0
- 246 253 283 296 316 331 c 1
- 258 370 l 1
- 267 474 l 1
- 369 406 l 1
- 378 494 l 1
- 400 506 l 1
- 390 404 l 1
- 421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0xd2
-142 364 m 1
- 163 425 226 433 226 433 c 1
- 216 309 l 1
- 216 309 161 300 130 237 c 1
- 142 364 l 1
+642 576 m 4
+ 656.537109375 576 678.084960938 558.206054688 694.154296875 537.426757812 c 5
+ 705 638 l 5
+ 727 646 l 5
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+486 652 m 1
+ 507 713 570 722 570 722 c 1
+ 559 598 l 1
+ 559 598 505 589 474 526 c 1
+ 486 652 l 1
+172 364 m 1
+ 193 425 256 433 256 433 c 1
+ 246 309 l 1
+ 246 309 191 300 160 237 c 1
+ 172 364 l 1
+106 330 m 0
+ 117 330 123 306 123 260 c 0
+ 123 214 120 177 115 148 c 0
+ 110 119 105 101 103 95 c 0
+ 101 89 89 70 67 38 c 0
+ 45 6 34 -10 33 -10 c 2
+ 30 -10 l 1
+ 30 -9 32 5 35 30 c 0
+ 38 55 40 83 40 115 c 0
+ 40 147 38 178 33 208 c 1
+ 29 217 30 226 35 234 c 2
+ 100 327 l 2
+ 101 329 103 330 106 330 c 0
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF639 u1CF31
 Ligature2: "Post-composition Priznakification-1" uniEB40 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC1
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF662
@@ -122424,7 +122375,7 @@ EndSplineSet
 Ligature2: "Post-composition Priznakification-1" uniEB40 u1CF44
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63A u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF663
@@ -122497,7 +122448,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63B u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC3
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF664
@@ -122576,7 +122527,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF63C u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC4
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF665
@@ -122657,7 +122608,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF660 u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF63D u1CF31
 Ligature2: "Post-composition Priznakification-1" uniEB41 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC5
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF666
@@ -122737,7 +122688,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF661 u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF63E u1CF31
 Ligature2: "Post-composition Priznakification-1" uniEB41 u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC6
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF667
@@ -122816,7 +122767,7 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF662 u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF63F u1CF31
 Ligature2: "Post-composition Priznakification-1" uniEB41 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC7
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF668
@@ -122894,7 +122845,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF663 u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF640 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC8
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF669
@@ -122978,7 +122929,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF664 u1CF3E
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF641 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFC9
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF66A
@@ -123069,97 +123020,109 @@ Ligature2: "Post-composition Priznakification-1" uniEB43 u1CF42
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF642 u1CF31
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF660 u1CF3F
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFCA
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF66B
 Encoding: 63083 63083 2226
-Width: 760
-Flags: W
+Width: 790
+VWidth: 999
+Flags: HW
 HStem: 0 21G<32.0247 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
 VStem: 30 74<457.364 497> 58 46<611.012 713.84> 202 44<615.144 716.693> 696 18<-10.9629 53.7231> 707 26<33.3604 214.5>
 DStem2: 30 0 56 28 0.10072 0.994915<30.4763 407.07> 346 180 369 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
+AnchorPoint: "Podchashie" 513 245 basechar 0
+AnchorPoint: "Omet" 615 300 basechar 0
+AnchorPoint: "Zaderzhka" 760 460 basechar 0
+AnchorPoint: "Tochka" 800 325 basechar 0
+AnchorPoint: "TonalRange" 535 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 515 640 basechar 0
+AnchorPoint: "Podvertka" 760 380 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Zevok" 760 350 basechar 0
+AnchorPoint: "Tikhaya" 0 100 basechar 0
+AnchorPoint: "Lomka" 665 150 basechar 0
+AnchorPoint: "Borzaya" 570 70 basechar 0
+AnchorPoint: "PitchMark" 210 580 basechar 0
+AnchorPoint: "Kachka" 465 660 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
+AnchorPoint: "FinalPitch" 965 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4xdb
- 180.317165837 604 202 630.518900012 202 664 c 4
- 202 693.360144382 187.167525691 725 158 725 c 4
- 124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4xdb
-137 566 m 4
- 91.2047177555 566 58 598.313127807 58 644 c 4
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 4
- 142 761 155 764 168 764 c 4
- 213.445596577 764 246 729.898099997 246 684 c 4
- 246 628.445415913 213.411800492 592.728523304 175 575 c 4
- 162 569 150 566 137 566 c 4
-104 496 m 1xcd
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 71 405 l 1
- 19 421 l 1
- 30 521 l 1
- 104 497 l 1
- 104 496 l 1xcd
-456 652 m 1
- 477 713 540 722 540 722 c 1
- 529 598 l 1
- 529 598 475 589 444 526 c 1
- 456 652 l 1
-142 364 m 1
- 163 425 226 433 226 433 c 1
- 216 309 l 1
- 216 309 161 300 130 237 c 1
- 142 364 l 1
-612 576 m 0xe9
- 625 576 640 566 658 545 c 0
- 675 525 683 509 683 495 c 2
- 683 492 l 1
- 668 374 l 1
- 662 402 646 426 619 447 c 0
- 616 450 612 450 607 450 c 0
- 581 450 530 417 453 350 c 1
- 490 325 l 1
- 480 222 l 1
- 385 285 l 1
- 378 278 l 1
- 369 190 l 1
- 346 180 l 1
- 354 254 l 1
- 311 210 262 159 210 102 c 0
- 158 45 129 11 123 0 c 1
- 133 107 l 1
- 141 122 166 155 206 204 c 0
- 246 253 283 296 316 331 c 1
- 258 370 l 1
- 267 474 l 1
- 369 406 l 1
- 378 494 l 1
- 400 506 l 1
- 390 404 l 1
- 421 433 463 469 515 512 c 0
- 567 555 599 576 612 576 c 0xe9
-733 208 m 0xc940
- 733 150 723 34 714 -4 c 0
- 713 -9 709 -11 704 -11 c 0
- 700 -11 695 -6 696 -1 c 0xc980
- 703 52 707 99 707 138 c 0
- 707 178 694 199 668 202 c 2
- 662 202 l 2
- 634 202 616 186 608 155 c 0
- 607 150 600 141 598 148 c 2
- 598 152 l 2
- 601 207 608 250 618 279 c 0
- 631 317 651 336 677 336 c 0
- 709 336 727 305 732 242 c 0
- 733 232 733 221 733 208 c 0xc940
+642 576 m 4
+ 656.537109375 576 678.084960938 558.206054688 694.154296875 537.426757812 c 5
+ 705 638 l 5
+ 727 646 l 5
+ 698 374 l 5
+ 692 402 676 426 649 447 c 4
+ 646 450 642 450 637 450 c 4
+ 611 450 560 417 483 350 c 5
+ 520 325 l 5
+ 510 222 l 5
+ 415 285 l 5
+ 408 278 l 5
+ 399 190 l 5
+ 376 180 l 5
+ 384 254 l 5
+ 341 210 292 159 240 102 c 4
+ 188 45 159 11 153 0 c 5
+ 163 107 l 5
+ 171 122 196 155 236 204 c 4
+ 276 253 313 296 346 331 c 5
+ 288 370 l 5
+ 297 474 l 5
+ 399 406 l 5
+ 408 494 l 5
+ 430 506 l 5
+ 420 404 l 5
+ 451 433 493 469 545 512 c 4
+ 597 555 629 576 642 576 c 4
+486 652 m 1xf0
+ 507 713 570 722 570 722 c 1
+ 559 598 l 1
+ 559 598 505 589 474 526 c 1
+ 486 652 l 1xf0
+172 364 m 1
+ 193 425 256 433 256 433 c 1
+ 246 309 l 1
+ 246 309 191 300 160 237 c 1
+ 172 364 l 1
+763 208 m 0xf4
+ 763 150 753 34 744 -4 c 0
+ 743 -9 739 -11 734 -11 c 0
+ 730 -11 725 -6 726 -1 c 0xf8
+ 733 52 737 99 737 138 c 0
+ 737 178 724 199 698 202 c 1
+ 692 202 l 2
+ 664 202 646 186 638 155 c 0
+ 637 150 630 141 628 148 c 0
+ 628 150 628 150 628 152 c 0
+ 631 207 638 250 648 279 c 0
+ 661 317 681 336 707 336 c 0
+ 739 336 757 305 762 242 c 0
+ 763 232 763 221 763 208 c 0xf4
+106 330 m 0
+ 117 330 123 306 123 260 c 0
+ 123 214 120 177 115 148 c 0
+ 110 119 105 101 103 95 c 0
+ 101 89 89 70 67 38 c 0
+ 45 6 34 -10 33 -10 c 2
+ 30 -10 l 1
+ 30 -9 32 5 35 30 c 0
+ 38 55 40 83 40 115 c 0
+ 40 147 38 178 33 208 c 1
+ 29 217 30 226 35 234 c 2
+ 100 327 l 2
+ 101 329 103 330 106 330 c 0
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB43 u1CF43
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF661 u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF643 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFCB
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF66C
@@ -123248,7 +123211,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB43 u1CF43
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF662 u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF644 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFCC
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF66D
@@ -123336,7 +123299,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF663 u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF645 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFCD
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF66E
@@ -123430,7 +123393,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF664 u1CF3F
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF646 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFCE
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF66F
@@ -123517,7 +123480,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB42 u1CF42
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF660 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF647 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFCF
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF670
@@ -123603,7 +123566,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB42 u1CF43
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF661 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF648 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD0
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF671
@@ -123688,7 +123651,7 @@ Ligature2: "Post-composition Priznakification-1" uniEB42 u1CF44
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF662 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF649 u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD1
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF672
@@ -123772,7 +123735,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF663 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64A u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF673
@@ -123862,7 +123825,7 @@ EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF664 u1CF40
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF64B u1CF31
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD3
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF676
@@ -123937,7 +123900,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD6
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF677
@@ -124023,7 +123986,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD7
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF678
@@ -124096,7 +124059,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFAA u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD8
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF679
@@ -124169,7 +124132,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF676 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFD9
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF67A
@@ -124248,7 +124211,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF677 u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDA
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF67B
@@ -124328,7 +124291,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDB
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF67C
@@ -124419,7 +124382,7 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF43
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDC
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF67D
@@ -124497,7 +124460,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification-1" u1CFAB u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDD
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF67E
@@ -124575,7 +124538,7 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF67B u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDE
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF67F
@@ -124659,14 +124622,14 @@ SplineSet
 EndSplineSet
 Ligature2: "Znamenny Priznakification Round 2-1" uniF67C u1CF44
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEFDF
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF62F
 Encoding: 63023 63023 2245
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF630
@@ -124674,7 +124637,7 @@ Encoding: 63024 63024 2246
 Width: 1000
 Flags: H
 LayerCount: 2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF636
@@ -124682,7 +124645,7 @@ Encoding: 63030 63030 2247
 Width: 1000
 Flags: H
 LayerCount: 2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF637
@@ -124690,21 +124653,21 @@ Encoding: 63031 63031 2248
 Width: 1000
 Flags: H
 LayerCount: 2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF674
 Encoding: 63092 63092 2249
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF675
 Encoding: 63093 63093 2250
 Width: 1000
 LayerCount: 2
-Colour: 1abfff
+Colour: 47c2ff
 EndChar
 
 StartChar: uniF602
@@ -124799,7 +124762,35 @@ SplineSet
 EndSplineSet
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF601 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEB4D u1CF45
-Colour: 5effb2
+Colour: 1fffa1
+EndChar
+
+StartChar: uniF600
+Encoding: 62976 62976 2252
+Width: 1000
+LayerCount: 2
+Colour: 1fffa1
+EndChar
+
+StartChar: uniEBF7
+Encoding: 60407 60407 2253
+Width: 1000
+LayerCount: 2
+Colour: ffff00
+EndChar
+
+StartChar: uniEBF8
+Encoding: 60408 60408 2254
+Width: 1000
+LayerCount: 2
+Colour: ffff00
+EndChar
+
+StartChar: uniEBF9
+Encoding: 60409 60409 2255
+Width: 1000
+LayerCount: 2
+Colour: ffff00
 EndChar
 EndChars
 EndSplineFont
