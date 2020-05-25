@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1590330250
+ModificationTime: 1590375756
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,10 +1043,10 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -20928,8 +20928,9 @@ EndChar
 StartChar: uniEA5F
 Encoding: 59999 59999 398
 Width: 145
-Flags: HW
+Flags: W
 HStem: 0 21G<43.0469 59.5714>
+DStem2: 41 0 67 28 0.101814 0.994803<30.5017 456.778>
 AnchorPoint: "Tochka" 145 325 basechar 0
 AnchorPoint: "Podchashie" 70 -30 basechar 0
 AnchorPoint: "TonalRange" 305 660 basechar 0
@@ -20964,6 +20965,7 @@ SplineSet
  117 448 114 450 111 452 c 2
  67 28 l 1
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA58 u1CF46
 Colour: ff00
 EndChar
@@ -21259,9 +21261,10 @@ EndChar
 StartChar: uniEA59
 Encoding: 59993 59993 413
 Width: 162
-Flags: HW
+Flags: W
 HStem: 0 21G<60.0747 76.5714>
 VStem: 30 102
+DStem2: 58 0 84 28 0.101556 0.99483<30.4957 242.293 341.797 482.495>
 AnchorPoint: "Zaderzhka" 144 357 basechar 0
 AnchorPoint: "Omet" 179 146 basechar 0
 AnchorPoint: "FinalPitch" 325 300 basechar 0
@@ -21292,7 +21295,7 @@ SplineSet
  107 480 l 1
  132 496 l 1
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA58 u1CF42
+Ligature2: "Znamenny Priznakification-1" uniEA58 u1CF42
 Colour: ff00
 EndChar
 
@@ -21331,7 +21334,7 @@ SplineSet
  115 497 l 2
  115 496 l 2xc0
 EndSplineSet
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniEA58 u1CF43
+Ligature2: "Znamenny Priznakification-1" uniEA58 u1CF43
 Colour: ff00
 EndChar
 
@@ -21340,6 +21343,7 @@ Encoding: 59995 59995 415
 Width: 186
 Flags: W
 VStem: 30 126
+DStem2: 91 92 105 0 0.102283 0.994755<0 390.056>
 AnchorPoint: "Zaderzhka" 164 357 basechar 0
 AnchorPoint: "Omet" 248 149 basechar 0
 AnchorPoint: "FinalPitch" 253 304 basechar 0
@@ -21378,6 +21382,7 @@ Width: 184
 Flags: W
 HStem: 0 21G<32.0367 48.5714>
 VStem: 30 124
+DStem2: 30 0 56 28 0.101309 0.994855<30.49 404.527>
 AnchorPoint: "Zaderzhka" 144 357 basechar 0
 AnchorPoint: "Omet" 236 151 basechar 0
 AnchorPoint: "FinalPitch" 325 300 basechar 0
@@ -21413,9 +21418,10 @@ EndChar
 StartChar: uniEA5D
 Encoding: 59997 59997 417
 Width: 214
-Flags: HW
+Flags: W
 HStem: 0 21G<63.0096 79.5714>
 VStem: 30 155
+DStem2: 50 414 63 320 0.106345 0.994329<-92.0845 0> 61 0 87 28 0.101309 0.994855<30.49 210.052 310.551 404.527>
 AnchorPoint: "Zaderzhka" 174 357 basechar 0
 AnchorPoint: "Omet" 214 145 basechar 0
 AnchorPoint: "FinalPitch" 355 300 basechar 0
@@ -21459,6 +21465,7 @@ Encoding: 59998 59998 418
 Width: 259
 Flags: W
 VStem: 30 199
+DStem2: 93 -3 73 -10 0.615644 -0.788024<-9.26459 26.0541> 158 34 181 28 0.102595 0.994723<-3.60866 448.366>
 AnchorPoint: "Zaderzhka" 244 357 basechar 0
 AnchorPoint: "Omet" 366 149 basechar 0
 AnchorPoint: "FinalPitch" 435 300 basechar 0
