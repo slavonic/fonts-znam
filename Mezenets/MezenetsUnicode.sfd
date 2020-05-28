@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1590466108
+ModificationTime: 1590673868
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,17 +1043,17 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60291 27 9
+WinInfo: 60318 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -13299,7 +13299,7 @@ SplineSet
  330 83 319 13 311 -19 c 0
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF42
 LCarets2: 1 0
 Colour: ffff00
@@ -13359,7 +13359,7 @@ SplineSet
  330 83 319 13 311 -19 c 0
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF43
 LCarets2: 1 0
 Colour: ffff00
@@ -13426,7 +13426,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF42
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBBD u1CF30
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBC0
@@ -13492,7 +13492,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEBBD u1CF44 u1CF30
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEBBF u1CF44
 Colour: ffff00
@@ -16890,7 +16890,7 @@ SplineSet
  42 87 l 1
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBBE u1CF30
 Colour: ffff00
@@ -17322,7 +17322,7 @@ SplineSet
  244 226 l 1
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF42
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBC6 u1CF30
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBC9
@@ -17379,7 +17379,7 @@ SplineSet
  244 226 l 1
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEBC6 u1CF44 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniEBC8 u1CF44
 Colour: ffff00
@@ -17434,7 +17434,7 @@ SplineSet
  244 226 l 1
 EndSplineSet
 Validated: 3073
-Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBC7 u1CF30
 Colour: ffff00
@@ -22228,21 +22228,21 @@ AnchorPoint: "Podchashie" 183 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-208 334 m 1
- 219 454 l 1
- 241 462 l 1
- 236 410 206 87 206 87 c 1
- 203 60 199 33 194 6 c 0
- 193 -2 189 -6 182 -6 c 0
- 175 -6 170 -1 171 6 c 0
- 175 38 182 108 182 177 c 0
- 182 181 182 186 182 190 c 0
- 181 297 136 362 44 370 c 1
- 35 289 l 1
- 12 274 l 1
- 20 348 28 421 35 496 c 1
- 83 496 125 474 162 430 c 0
- 184 404 199 372 208 334 c 1
+208 334 m 5
+ 219 454 l 5
+ 241 462 l 5
+ 236 410 206 87 206 87 c 5
+ 203 60 199 33 194 6 c 4
+ 193 -2 189 -6 182 -6 c 4
+ 175 -6 170 -1 171 6 c 4
+ 175 38 182 108 182 177 c 4
+ 182 181 182 186 182 190 c 4
+ 181 297 136 362 44 370 c 5
+ 35 289 l 5
+ 12 274 l 5
+ 20 348 28 421 35 496 c 5
+ 83 496 125 474 162 430 c 4
+ 184 404 199 372 208 334 c 5
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniEB87 u1CF44
@@ -23352,24 +23352,24 @@ AnchorPoint: "Podchashie" 513 245 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-644 576 m 0
- 657 576 671 566 689 545 c 0
- 706 525 713 508 713 494 c 0
- 713 493 713 493 713 492 c 2
- 700 374 l 1
- 694 402 678 426 651 447 c 0
- 648 450 643 451 638 451 c 2
- 637 451 l 2
- 620 451 595 439 563 414 c 0
- 519 381 472 340 421 290 c 0
- 370 240 315 182 255 116 c 0
- 195 50 161 11 155 0 c 1
- 163 92 174 181 183 271 c 1
- 205 279 l 1
- 191 144 l 1
- 204 162 222 184 245 212 c 0
- 343 332 407 396 531 498 c 0
- 594 550 631 576 644 576 c 0
+644 576 m 4
+ 657 576 671 566 689 545 c 4
+ 706 525 713 508 713 494 c 4
+ 713 493 713 493 713 492 c 6
+ 700 374 l 5
+ 694 402 678 426 651 447 c 4
+ 648 450 643 451 638 451 c 6
+ 637 451 l 6
+ 620 451 595 439 563 414 c 4
+ 519 381 472 340 421 290 c 4
+ 370 240 315 182 255 116 c 4
+ 195 50 161 11 155 0 c 5
+ 163 92 174 181 183 271 c 5
+ 205 279 l 5
+ 191 144 l 5
+ 204 162 222 184 245 212 c 4
+ 343 332 407 396 531 498 c 4
+ 594 550 631 576 644 576 c 4
 106 330 m 0
  117 330 123 306 123 260 c 0
  123 214 120 177 115 148 c 0
@@ -43622,21 +43622,21 @@ AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-28 271 m 2
- 32 304 71 338 98 355 c 1
- 111 488 l 1
- 133 496 l 1
- 120 366 l 1
- 142 375 162 381 179 382 c 2
- 193 383 l 1
- 183 259 l 1
- 177 260 168 263 156 261 c 0
- 136 258 129 255 108 244 c 1
- 84 5 l 1
- 62 0 l 1
- 85 229 l 1
- 65 214 28 169 16 145 c 1
- 28 271 l 2
+28 271 m 6
+ 32 304 71 338 98 355 c 5
+ 111 488 l 5
+ 133 496 l 5
+ 120 366 l 5
+ 142 375 162 381 179 382 c 6
+ 193 383 l 5
+ 183 259 l 5
+ 177 260 168 263 156 261 c 4
+ 136 258 129 255 108 244 c 5
+ 84 5 l 5
+ 62 0 l 5
+ 85 229 l 5
+ 65 214 28 169 16 145 c 5
+ 28 271 l 6
 EndSplineSet
 Validated: 3073
 EndChar
@@ -52663,7 +52663,7 @@ Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41 u1CF43
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBA9 u1CF41
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEBAC
-LCarets2: 1 0
+LCarets2: 2 0 0
 Colour: ffff00
 EndChar
 
@@ -118567,17 +118567,8 @@ Validated: 1
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF6FC
-Encoding: 63228 63228 2132
-Width: 1000
-LayerCount: 2
-Fore
-Validated: 1
-Colour: 5effb2
-EndChar
-
 StartChar: uniF5F6
-Encoding: 62966 62966 2133
+Encoding: 62966 62966 2132
 Width: 1000
 LayerCount: 2
 Fore
@@ -118586,7 +118577,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF5F7
-Encoding: 62967 62967 2134
+Encoding: 62967 62967 2133
 Width: 1000
 LayerCount: 2
 Fore
@@ -118595,7 +118586,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FE
-Encoding: 62974 62974 2135
+Encoding: 62974 62974 2134
 Width: 1090
 Flags: W
 HStem: 679 125<959.049 1027.67>
@@ -118695,7 +118686,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FF
-Encoding: 62975 62975 2136
+Encoding: 62975 62975 2135
 Width: 1000
 LayerCount: 2
 Fore
@@ -118703,17 +118694,8 @@ Validated: 1
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF6FA
-Encoding: 63226 63226 2137
-Width: 1000
-LayerCount: 2
-Fore
-Validated: 1
-Colour: 5effb2
-EndChar
-
 StartChar: uniF5FB
-Encoding: 62971 62971 2138
+Encoding: 62971 62971 2136
 Width: 1000
 LayerCount: 2
 Fore
@@ -118722,7 +118704,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF5FD
-Encoding: 62973 62973 2139
+Encoding: 62973 62973 2137
 Width: 1090
 Flags: W
 HStem: 679 125<958.049 1026.67>
@@ -118814,7 +118796,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF604
-Encoding: 62980 62980 2140
+Encoding: 62980 62980 2138
 Width: 1000
 LayerCount: 2
 Fore
@@ -118823,7 +118805,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF603
-Encoding: 62979 62979 2141
+Encoding: 62979 62979 2139
 Width: 990
 VWidth: 0
 Flags: W
@@ -118926,7 +118908,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF605
-Encoding: 62981 62981 2142
+Encoding: 62981 62981 2140
 Width: 1000
 LayerCount: 2
 Fore
@@ -118935,7 +118917,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF609
-Encoding: 62985 62985 2143
+Encoding: 62985 62985 2141
 Width: 1000
 LayerCount: 2
 Fore
@@ -118944,7 +118926,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF60A
-Encoding: 62986 62986 2144
+Encoding: 62986 62986 2142
 Width: 1000
 LayerCount: 2
 Fore
@@ -118953,7 +118935,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF615
-Encoding: 62997 62997 2145
+Encoding: 62997 62997 2143
 Width: 1000
 LayerCount: 2
 Fore
@@ -118962,7 +118944,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF616
-Encoding: 62998 62998 2146
+Encoding: 62998 62998 2144
 Width: 1000
 LayerCount: 2
 Fore
@@ -118971,7 +118953,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF617
-Encoding: 62999 62999 2147
+Encoding: 62999 62999 2145
 Width: 1000
 LayerCount: 2
 Fore
@@ -118980,7 +118962,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF618
-Encoding: 63000 63000 2148
+Encoding: 63000 63000 2146
 Width: 1000
 LayerCount: 2
 Fore
@@ -118989,7 +118971,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF619
-Encoding: 63001 63001 2149
+Encoding: 63001 63001 2147
 Width: 1000
 LayerCount: 2
 Fore
@@ -118998,7 +118980,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF61A
-Encoding: 63002 63002 2150
+Encoding: 63002 63002 2148
 Width: 1000
 LayerCount: 2
 Fore
@@ -119007,7 +118989,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF61B
-Encoding: 63003 63003 2151
+Encoding: 63003 63003 2149
 Width: 1000
 LayerCount: 2
 Fore
@@ -119016,7 +118998,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF61D
-Encoding: 63005 63005 2152
+Encoding: 63005 63005 2150
 Width: 1000
 LayerCount: 2
 Fore
@@ -119025,7 +119007,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF61E
-Encoding: 63006 63006 2153
+Encoding: 63006 63006 2151
 Width: 1000
 LayerCount: 2
 Fore
@@ -119034,7 +119016,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF61F
-Encoding: 63007 63007 2154
+Encoding: 63007 63007 2152
 Width: 1000
 LayerCount: 2
 Fore
@@ -119043,7 +119025,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF622
-Encoding: 63010 63010 2155
+Encoding: 63010 63010 2153
 Width: 720
 Flags: W
 HStem: 0 21G<126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119094,7 +119076,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF623
-Encoding: 63011 63011 2156
+Encoding: 63011 63011 2154
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119145,7 +119127,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF624
-Encoding: 63012 63012 2157
+Encoding: 63012 63012 2155
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119202,7 +119184,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF625
-Encoding: 63013 63013 2158
+Encoding: 63013 63013 2156
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119261,7 +119243,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF626
-Encoding: 63014 63014 2159
+Encoding: 63014 63014 2157
 Width: 720
 Flags: W
 HStem: 0 21G<32.0247 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119319,7 +119301,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF627
-Encoding: 63015 63015 2160
+Encoding: 63015 63015 2158
 Width: 720
 Flags: W
 HStem: 0 21G<126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119376,7 +119358,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF628
-Encoding: 63016 63016 2161
+Encoding: 63016 63016 2159
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119433,7 +119415,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF629
-Encoding: 63017 63017 2162
+Encoding: 63017 63017 2160
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.772> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119496,7 +119478,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF62A
-Encoding: 63018 63018 2163
+Encoding: 63018 63018 2161
 Width: 740
 Flags: W
 HStem: 0 21G<32.0747 48.5714 126.869 128> 451 125<574.474 640.263> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119561,7 +119543,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF62B
-Encoding: 63019 63019 2164
+Encoding: 63019 63019 2162
 Width: 740
 Flags: W
 HStem: 0 21G<32.0247 48.5714 126.869 128> 451 125<574.474 640.263> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119625,7 +119607,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF62C
-Encoding: 63020 63020 2165
+Encoding: 63020 63020 2163
 Width: 740
 Flags: W
 HStem: 0 21G<126.869 128> 451 125<574.474 640.263> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119688,7 +119670,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF62D
-Encoding: 63021 63021 2166
+Encoding: 63021 63021 2164
 Width: 740
 Flags: W
 HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.263> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119751,7 +119733,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF62E
-Encoding: 63022 63022 2167
+Encoding: 63022 63022 2165
 Width: 740
 Flags: W
 HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.263> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -119820,7 +119802,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniEB4C
-Encoding: 60236 60236 2168
+Encoding: 60236 60236 2166
 Width: 1000
 LayerCount: 2
 Fore
@@ -119829,7 +119811,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4D
-Encoding: 60237 60237 2169
+Encoding: 60237 60237 2167
 Width: 960
 VWidth: 0
 Flags: W
@@ -119911,7 +119893,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB4E
-Encoding: 60238 60238 2170
+Encoding: 60238 60238 2168
 Width: 990
 VWidth: 0
 Flags: W
@@ -120000,7 +119982,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB58
-Encoding: 60248 60248 2171
+Encoding: 60248 60248 2169
 Width: 1000
 LayerCount: 2
 Fore
@@ -120009,7 +119991,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniEB59
-Encoding: 60249 60249 2172
+Encoding: 60249 60249 2170
 Width: 1000
 LayerCount: 2
 Fore
@@ -120018,64 +120000,73 @@ Colour: ffff
 EndChar
 
 StartChar: uniF631
-Encoding: 63025 63025 2173
-Width: 720
-Flags: W
-HStem: 0 21G<32.0747 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
-VStem: 58 46<611.012 713.84> 202 44<615.144 716.693>
-DStem2: 30 0 56 28 0.101556 0.99483<30.4957 242.293 341.797 482.495>
+Encoding: 63025 63025 2171
+Width: 750
+VWidth: 999
+Flags: HW
+HStem: -10 31G<30 33.5 156.869 158> 451 125<604.474 670.206>
+VStem: 40 83<91.2443 272.069>
+AnchorPoint: "Podchashie" 491 49 basechar 0
+AnchorPoint: "Tochka" 615 325 basechar 0
+AnchorPoint: "Omet" 615 300 basechar 0
+AnchorPoint: "Zaderzhka" 760 460 basechar 0
+AnchorPoint: "TonalRange" 535 660 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "Flexion" 515 640 basechar 0
+AnchorPoint: "Podvertka" 760 380 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Zevok" 760 350 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Tikhaya" 0 100 basechar 0
+AnchorPoint: "Lomka" 665 150 basechar 0
+AnchorPoint: "PitchMark" 210 580 basechar 0
+AnchorPoint: "Kachka" 465 660 basechar 0
+AnchorPoint: "Auxiliary" 380 800 basechar 0
+AnchorPoint: "FinalPitch" 865 300 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 604 m 4xbc
- 180.317165837 604 202 630.518900012 202 664 c 4
- 202 693.360144382 187.167525691 725 158 725 c 4
- 124.508824719 725 104 699.315405724 104 665 c 4
- 104 634.38154664 117.482682336 604 148 604 c 4xbc
-137 566 m 4
- 91.2047177555 566 58 598.313127807 58 644 c 4
- 58 698.615508962 91.1015691632 737.508416537 129 755 c 4
- 142 761 155 764 168 764 c 4
- 213.445596577 764 246 729.898099997 246 684 c 4
- 246 628.445415913 213.411800492 592.728523304 175 575 c 4
- 162 569 150 566 137 566 c 4
-104 496 m 1
- 94 386 67 133 56 28 c 1
- 30 0 l 1
- 55 241 l 1
- 2 257 l 1
- 13 357 l 1
- 65 340 l 1
- 79 480 l 1
- 104 496 l 1
-446 218 m 1
- 467 279 530 287 530 287 c 1
- 520 163 l 1
- 520 163 465 154 434 91 c 1
- 446 218 l 1
-316 99 m 1
- 337 160 400 168 400 168 c 1
- 390 44 l 1
- 390 44 335 35 304 -28 c 1
- 316 99 l 1
-614 576 m 0xdc
- 627 576 641 566 659 545 c 0
- 676 525 683 508 683 494 c 2
- 683 492 l 1
- 670 374 l 1
- 664 402 648 426 621 447 c 0
- 618 450 613 451 608 451 c 2
- 607 451 l 2
- 590 451 565 439 533 414 c 0
- 489 381 442 340 391 290 c 0
- 340 240 285 182 225 116 c 0
- 165 50 131 11 125 0 c 1
- 135 107 l 1
- 143 122 170 157 215 212 c 0
- 313 332 377 396 501 498 c 0
- 564 550 601 576 614 576 c 0xdc
+644 576 m 4
+ 657 576 671 566 689 545 c 4
+ 706 525 713 508 713 494 c 4
+ 713 493 713 493 713 492 c 6
+ 700 374 l 5
+ 694 402 678 426 651 447 c 4
+ 648 450 643 451 638 451 c 6
+ 637 451 l 6
+ 620 451 595 439 563 414 c 4
+ 519 381 472 340 421 290 c 4
+ 370 240 315 182 255 116 c 4
+ 195 50 161 11 155 0 c 5
+ 163 92 174 181 183 271 c 5
+ 205 279 l 5
+ 191 144 l 5
+ 204 162 222 184 245 212 c 4
+ 343 332 407 396 531 498 c 4
+ 594 550 631 576 644 576 c 4
+346 99 m 1
+ 367 160 430 168 430 168 c 1
+ 420 44 l 1
+ 420 44 365 35 334 -28 c 1
+ 346 99 l 1
+476 218 m 1
+ 497 279 560 287 560 287 c 1
+ 550 163 l 1
+ 550 163 495 154 464 91 c 1
+ 476 218 l 1
+106 330 m 0
+ 117 330 123 306 123 260 c 0
+ 123 195.288207974 115.7427649 133.228294701 103 95 c 0
+ 101 89 89 70 67 38 c 0
+ 45 6 34 -10 33 -10 c 2
+ 30 -10 l 1
+ 30 -9 32 5 35 30 c 0
+ 38 55 40 83 40 115 c 0
+ 40 147 38 178 33 208 c 1
+ 29 217 30 226 35 234 c 2
+ 100 327 l 2
+ 101 329 103 330 106 330 c 0
 EndSplineSet
-Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF91
@@ -120083,7 +120074,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF632
-Encoding: 63026 63026 2174
+Encoding: 63026 63026 2172
 Width: 750
 VWidth: 999
 Flags: W
@@ -120155,7 +120146,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF633
-Encoding: 63027 63027 2175
+Encoding: 63027 63027 2173
 Width: 720
 Flags: W
 HStem: 0 21G<126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120217,7 +120208,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF634
-Encoding: 63028 63028 2176
+Encoding: 63028 63028 2174
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120279,7 +120270,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF635
-Encoding: 63029 63029 2177
+Encoding: 63029 63029 2175
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 126.869 128> 451 125<574.474 640.206> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120347,7 +120338,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF63D
-Encoding: 63037 63037 2178
+Encoding: 63037 63037 2176
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120418,7 +120409,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF63E
-Encoding: 63038 63038 2179
+Encoding: 63038 63038 2177
 Width: 720
 Flags: W
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120488,7 +120479,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF63F
-Encoding: 63039 63039 2180
+Encoding: 63039 63039 2178
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120556,7 +120547,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF640
-Encoding: 63040 63040 2181
+Encoding: 63040 63040 2179
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120624,7 +120615,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF641
-Encoding: 63041 63041 2182
+Encoding: 63041 63041 2180
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120698,7 +120689,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF642
-Encoding: 63042 63042 2183
+Encoding: 63042 63042 2181
 Width: 760
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120779,7 +120770,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF643
-Encoding: 63043 63043 2184
+Encoding: 63043 63043 2182
 Width: 790
 VWidth: 999
 Flags: W
@@ -120869,7 +120860,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF644
-Encoding: 63044 63044 2185
+Encoding: 63044 63044 2183
 Width: 760
 Flags: W
 HStem: -11 32G<124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -120947,7 +120938,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF645
-Encoding: 63045 63045 2186
+Encoding: 63045 63045 2184
 Width: 760
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121025,7 +121016,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF646
-Encoding: 63046 63046 2187
+Encoding: 63046 63046 2185
 Width: 760
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121109,7 +121100,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF647
-Encoding: 63047 63047 2188
+Encoding: 63047 63047 2186
 Width: 730
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121186,7 +121177,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF648
-Encoding: 63048 63048 2189
+Encoding: 63048 63048 2187
 Width: 730
 Flags: W
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121262,7 +121253,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF649
-Encoding: 63049 63049 2190
+Encoding: 63049 63049 2188
 Width: 730
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121336,7 +121327,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF64A
-Encoding: 63050 63050 2191
+Encoding: 63050 63050 2189
 Width: 730
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121410,7 +121401,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF64B
-Encoding: 63051 63051 2192
+Encoding: 63051 63051 2190
 Width: 730
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121490,7 +121481,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF64C
-Encoding: 63052 63052 2193
+Encoding: 63052 63052 2191
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121562,7 +121553,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF64D
-Encoding: 63053 63053 2194
+Encoding: 63053 63053 2192
 Width: 750
 VWidth: 999
 Flags: W
@@ -121644,7 +121635,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF64E
-Encoding: 63054 63054 2195
+Encoding: 63054 63054 2193
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121714,7 +121705,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF64F
-Encoding: 63055 63055 2196
+Encoding: 63055 63055 2194
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121783,7 +121774,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF650
-Encoding: 63056 63056 2197
+Encoding: 63056 63056 2195
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121858,7 +121849,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF651
-Encoding: 63057 63057 2198
+Encoding: 63057 63057 2196
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -121935,7 +121926,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF652
-Encoding: 63058 63058 2199
+Encoding: 63058 63058 2197
 Width: 720
 Flags: W
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122011,7 +122002,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF653
-Encoding: 63059 63059 2200
+Encoding: 63059 63059 2198
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122086,7 +122077,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF654
-Encoding: 63060 63060 2201
+Encoding: 63060 63060 2199
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122160,7 +122151,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF655
-Encoding: 63061 63061 2202
+Encoding: 63061 63061 2200
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122240,7 +122231,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF656
-Encoding: 63062 63062 2203
+Encoding: 63062 63062 2201
 Width: 760
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122327,7 +122318,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF657
-Encoding: 63063 63063 2204
+Encoding: 63063 63063 2202
 Width: 790
 VWidth: 999
 Flags: W
@@ -122423,7 +122414,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF658
-Encoding: 63064 63064 2205
+Encoding: 63064 63064 2203
 Width: 760
 Flags: W
 HStem: -11 32G<124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122508,7 +122499,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF659
-Encoding: 63065 63065 2206
+Encoding: 63065 63065 2204
 Width: 760
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122592,7 +122583,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF65A
-Encoding: 63066 63066 2207
+Encoding: 63066 63066 2205
 Width: 760
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122682,7 +122673,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF65B
-Encoding: 63067 63067 2208
+Encoding: 63067 63067 2206
 Width: 730
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122765,7 +122756,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF65C
-Encoding: 63068 63068 2209
+Encoding: 63068 63068 2207
 Width: 730
 Flags: W
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122847,7 +122838,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF65D
-Encoding: 63069 63069 2210
+Encoding: 63069 63069 2208
 Width: 730
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -122928,7 +122919,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF65E
-Encoding: 63070 63070 2211
+Encoding: 63070 63070 2209
 Width: 730
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123008,7 +122999,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF65F
-Encoding: 63071 63071 2212
+Encoding: 63071 63071 2210
 Width: 730
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123094,7 +123085,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF660
-Encoding: 63072 63072 2213
+Encoding: 63072 63072 2211
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123171,7 +123162,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF661
-Encoding: 63073 63073 2214
+Encoding: 63073 63073 2212
 Width: 750
 VWidth: 999
 Flags: HW
@@ -123258,7 +123249,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF662
-Encoding: 63074 63074 2215
+Encoding: 63074 63074 2213
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123333,7 +123324,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF663
-Encoding: 63075 63075 2216
+Encoding: 63075 63075 2214
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123407,7 +123398,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF664
-Encoding: 63076 63076 2217
+Encoding: 63076 63076 2215
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123487,7 +123478,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF665
-Encoding: 63077 63077 2218
+Encoding: 63077 63077 2216
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123569,7 +123560,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF666
-Encoding: 63078 63078 2219
+Encoding: 63078 63078 2217
 Width: 720
 Flags: W
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123650,7 +123641,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF667
-Encoding: 63079 63079 2220
+Encoding: 63079 63079 2218
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123730,7 +123721,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF668
-Encoding: 63080 63080 2221
+Encoding: 63080 63080 2219
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123809,7 +123800,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF669
-Encoding: 63081 63081 2222
+Encoding: 63081 63081 2220
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123894,7 +123885,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF66A
-Encoding: 63082 63082 2223
+Encoding: 63082 63082 2221
 Width: 760
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -123986,7 +123977,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF66B
-Encoding: 63083 63083 2224
+Encoding: 63083 63083 2222
 Width: 790
 VWidth: 999
 Flags: W
@@ -124087,7 +124078,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF66C
-Encoding: 63084 63084 2225
+Encoding: 63084 63084 2223
 Width: 760
 Flags: W
 HStem: -11 32G<124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124177,7 +124168,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF66D
-Encoding: 63085 63085 2226
+Encoding: 63085 63085 2224
 Width: 760
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124266,7 +124257,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF66E
-Encoding: 63086 63086 2227
+Encoding: 63086 63086 2225
 Width: 760
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126 702 706.5> 202 134<636.67 698.391> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124361,7 +124352,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF66F
-Encoding: 63087 63087 2228
+Encoding: 63087 63087 2226
 Width: 730
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124449,7 +124440,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF670
-Encoding: 63088 63088 2229
+Encoding: 63088 63088 2227
 Width: 730
 Flags: W
 HStem: 0 21G<32.0247 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124536,7 +124527,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF671
-Encoding: 63089 63089 2230
+Encoding: 63089 63089 2228
 Width: 730
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124622,7 +124613,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF672
-Encoding: 63090 63090 2231
+Encoding: 63090 63090 2229
 Width: 730
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124707,7 +124698,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF673
-Encoding: 63091 63091 2232
+Encoding: 63091 63091 2230
 Width: 730
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.963> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124798,7 +124789,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF676
-Encoding: 63094 63094 2233
+Encoding: 63094 63094 2231
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -124874,7 +124865,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF677
-Encoding: 63095 63095 2234
+Encoding: 63095 63095 2232
 Width: 750
 VWidth: 0
 Flags: W
@@ -124960,7 +124951,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF678
-Encoding: 63096 63096 2235
+Encoding: 63096 63096 2233
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125034,7 +125025,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF679
-Encoding: 63097 63097 2236
+Encoding: 63097 63097 2234
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125108,7 +125099,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF67A
-Encoding: 63098 63098 2237
+Encoding: 63098 63098 2235
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125188,7 +125179,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF67B
-Encoding: 63099 63099 2238
+Encoding: 63099 63099 2236
 Width: 720
 Flags: W
 HStem: 0 21G<32.0747 48.5714 124.869 126 350.89 364.5> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125269,7 +125260,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF67C
-Encoding: 63100 63100 2239
+Encoding: 63100 63100 2237
 Width: 750
 VWidth: 0
 Flags: W
@@ -125360,7 +125351,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF67D
-Encoding: 63101 63101 2240
+Encoding: 63101 63101 2238
 Width: 720
 Flags: W
 HStem: 0 21G<124.869 126 350.89 364.5> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125439,7 +125430,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF67E
-Encoding: 63102 63102 2241
+Encoding: 63102 63102 2239
 Width: 720
 Flags: W
 HStem: 0 21G<32.0367 48.5714 124.869 126 350.89 364.5> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125518,7 +125509,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF67F
-Encoding: 63103 63103 2242
+Encoding: 63103 63103 2240
 Width: 720
 Flags: W
 HStem: 0 21G<32.0096 48.5714 124.869 126 350.89 364.5> 450 126<569.722 639.078> 566 38<114.924 187.677> 725 39<116.759 190.564>
@@ -125603,7 +125594,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF62F
-Encoding: 63023 63023 2243
+Encoding: 63023 63023 2241
 Width: 1000
 LayerCount: 2
 Fore
@@ -125612,7 +125603,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF630
-Encoding: 63024 63024 2244
+Encoding: 63024 63024 2242
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125622,7 +125613,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF636
-Encoding: 63030 63030 2245
+Encoding: 63030 63030 2243
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125632,7 +125623,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF637
-Encoding: 63031 63031 2246
+Encoding: 63031 63031 2244
 Width: 1000
 Flags: H
 LayerCount: 2
@@ -125642,7 +125633,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF674
-Encoding: 63092 63092 2247
+Encoding: 63092 63092 2245
 Width: 1000
 LayerCount: 2
 Fore
@@ -125651,7 +125642,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF675
-Encoding: 63093 63093 2248
+Encoding: 63093 63093 2246
 Width: 1000
 LayerCount: 2
 Fore
@@ -125660,7 +125651,7 @@ Colour: 47c2ff
 EndChar
 
 StartChar: uniF602
-Encoding: 62978 62978 2249
+Encoding: 62978 62978 2247
 Width: 960
 VWidth: 0
 Flags: W
@@ -125756,7 +125747,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniF600
-Encoding: 62976 62976 2250
+Encoding: 62976 62976 2248
 Width: 1000
 LayerCount: 2
 Fore
@@ -125765,7 +125756,7 @@ Colour: 1fffa1
 EndChar
 
 StartChar: uniEBF7
-Encoding: 60407 60407 2251
+Encoding: 60407 60407 2249
 Width: 1000
 LayerCount: 2
 Fore
@@ -125774,20 +125765,131 @@ Colour: ffff00
 EndChar
 
 StartChar: uniEBF8
-Encoding: 60408 60408 2252
-Width: 1000
+Encoding: 60408 60408 2250
+Width: 215
+VWidth: 999
+Flags: HW
+HStem: 0 21G<64.0087 111.231>
+AnchorPoint: "FinalPitch" 415 220 basechar 0
+AnchorPoint: "Lomka" 540 150 basechar 0
+AnchorPoint: "Tikhaya" 0 -30 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Zevok" 50 0 basechar 0
+AnchorPoint: "Kachka" 50 660 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Auxiliary" 265 660 basechar 0
+AnchorPoint: "Podvertka" 140 0 basechar 0
+AnchorPoint: "Flexion" 395 640 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "TonalRange" 415 660 basechar 0
+AnchorPoint: "Tochka" 225 325 basechar 0
+AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Omet" 205 500 basechar 0
+AnchorPoint: "Podchashie" 73 0 basechar 0
+AnchorPoint: "PitchMark" -40 500 basechar 0
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+28 271 m 2
+ 32 304 71 338 98 355 c 1
+ 111 488 l 1
+ 133 496 l 1
+ 120 366 l 1
+ 142 375 162 381 179 382 c 2
+ 193 383 l 1
+ 183 259 l 1
+ 179.833333333 260.833353678 168 263 156 261 c 0
+ 136 258 129 255 108 244 c 1
+ 92 87 l 1
+ 132 102 l 1
+ 126 26 l 1
+ 62 0 l 1
+ 85 229 l 1
+ 65 214 28 169 16 145 c 1
+ 28 271 l 2
+EndSplineSet
 Colour: ffff00
 EndChar
 
 StartChar: uniEBF9
-Encoding: 60409 60409 2253
-Width: 1000
+Encoding: 60409 60409 2251
+Width: 410
+VWidth: 999
+Flags: HW
+HStem: 0 15G<176.5 179.5 343.5 350.5> 84 94<48.6637 109.37> 108 94<208.664 269.37> 371 125<200 274.791>
+VStem: 112 9<2.02298 16.4071> 113 31<19.5513 135> 272 9<26.023 40.4071> 273 31<43.5513 159>
+AnchorPoint: "FinalPitch" 565 290 basechar 0
+AnchorPoint: "PitchMark" 60 580 basechar 0
+AnchorPoint: "Lomka" 540 150 basechar 0
+AnchorPoint: "Tikhaya" 0 -30 basechar 0
+AnchorPoint: "Borzaya" 0 150 basechar 0
+AnchorPoint: "Zevok" 50 0 basechar 0
+AnchorPoint: "Kachka" 50 660 basechar 0
+AnchorPoint: "Kupnaya" 50 -50 basechar 0
+AnchorPoint: "Auxiliary" 265 660 basechar 0
+AnchorPoint: "Podvertka" 400 0 basechar 0
+AnchorPoint: "Flexion" 395 640 basechar 0
+AnchorPoint: "Podtinka" 0 -50 basechar 0
+AnchorPoint: "TonalRange" 415 660 basechar 0
+AnchorPoint: "Tochka" 420 325 basechar 0
+AnchorPoint: "Zaderzhka" 30 -120 basechar 0
+AnchorPoint: "Omet" 205 500 basechar 0
+AnchorPoint: "Podchashie" 350 0 basechar 0
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+373 334 m 1
+ 384 454 l 1
+ 406 462 l 1
+ 401 410 371 87 371 87 c 1
+ 368 60 364 33 359 6 c 0
+ 358 -2 354 -6 347 -6 c 0
+ 340 -6 335 -1 336 6 c 0
+ 340 38 347 108 347 177 c 0
+ 347 181 347 186 347 190 c 0
+ 346 297 301 362 209 370 c 1
+ 200 289 l 1
+ 177 274 l 1
+ 185 348 193 421 200 496 c 1
+ 248 496 290 474 327 430 c 0
+ 349 404 364 372 373 334 c 1
+248 202 m 0xb1
+ 283 202 304 176 304 142 c 0xb1
+ 304 104 296 67 281 30 c 0
+ 276 18 271 25 272 36 c 0xb2
+ 272 42 273 51 273 65 c 0
+ 273 94 261 108 238 108 c 0
+ 213 108 195 75 184 8 c 0
+ 183 2 181 0 178 0 c 0
+ 175 0 174 10 174 32 c 0
+ 174 54 178 83 185 118 c 0
+ 196 174 217 202 248 202 c 0xb1
+88 178 m 0xd4
+ 123 178 144 152 144 118 c 0xd4
+ 144 80 136 43 121 6 c 0
+ 116 -6 111 1 112 12 c 0xd8
+ 112 18 113 27 113 41 c 0
+ 113 70 101 84 78 84 c 0
+ 53 84 35 51 24 -16 c 0
+ 23 -22 21 -25 18 -25 c 0
+ 15 -25 14 -14 14 8 c 0
+ 14 30 18 59 25 94 c 0
+ 36 150 57 178 88 178 c 0xd4
+EndSplineSet
+Colour: ffff00
+EndChar
+
+StartChar: uniEBF0
+Encoding: 60400 60400 2252
+Width: 1000
+LayerCount: 2
+Colour: ffff00
+EndChar
+
+StartChar: uniEBF1
+Encoding: 60401 60401 2253
+Width: 1000
+LayerCount: 2
 Colour: ffff00
 EndChar
 EndChars
