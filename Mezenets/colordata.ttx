@@ -154,27 +154,38 @@
     <ColorGlyph name="uniEA43">
       <layer colorID="1" name="uniEA43"/>
     </ColorGlyph>
-    <!-- KAZAN NOTATION PRIZNAKI
-    <ColorGlyph name="uniEF60">
+    <ColorGlyph name="uniF400">
       <layer colorID="1" name="uniEA46"/>
       <layer colorID="0" name="u1CF50"/>
     </ColorGlyph>
-    <ColorGlyph name="uniEF61">
+    <ColorGlyph name="uniF401">
       <layer colorID="1" name="uniEA47"/>
       <layer colorID="0" name="u1CF50"/>
     </ColorGlyph>
-    <ColorGlyph name="uniEF62">
+    <ColorGlyph name="uniF402">
       <layer colorID="1" name="uniEA46"/>
-      <layer colorID="0" name="u1CF52"/>
+      <layer colorID="0" name="uniEA60"/>
     </ColorGlyph>
-    <ColorGlyph name="uniEF63">
-      <layer colorID="1" name="uniEA46"/>
-      <layer colorID="0" name="u1CF54"/>
-    </ColorGlyph>
-    <ColorGlyph name="uniEF64">
+    <ColorGlyph name="uniF403">
       <layer colorID="1" name="uniEA47"/>
-      <layer colorID="0" name="u1CF54"/>
-    </ColorGlyph>  -->
+      <layer colorID="0" name="uniEA60"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF404">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="uniEA61"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF405">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="uniEA61"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF406">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="uniEA62"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF407">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="uniEA62"/>
+    </ColorGlyph>
     <!-- GLYPHS ENCODED IN UNICODE -->
     <ColorGlyph name="u1CF00">
       <layer colorID="1" name="u1CF00"/>
