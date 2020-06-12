@@ -210,6 +210,31 @@
       <layer colorID="1" name="uniEA48"/>
       <layer colorID="0" name="uniEA65"/>
     </ColorGlyph>
+    <ColorGlyph name="uniF412">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="u1CF53"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF413">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="u1CF53"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF414">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="uniEA67"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF415">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="uniEA67"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF416">
+      <layer colorID="1" name="uniEA46"/>
+      <layer colorID="0" name="uniEA68"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF417">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="uniEA68"/>
+    </ColorGlyph>
+
     <!-- GLYPHS ENCODED IN UNICODE -->
     <ColorGlyph name="u1CF00">
       <layer colorID="1" name="u1CF00"/>
