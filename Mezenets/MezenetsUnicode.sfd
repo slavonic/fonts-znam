@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1592289864
+ModificationTime: 1592311387
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,10 +1043,10 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
 OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1054,7 +1054,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1134 27 9
+WinInfo: 1620 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -48679,17 +48679,17 @@ EndChar
 
 StartChar: u1CF5D
 Encoding: 118621 118621 889
-Width: 323
-VWidth: 0
-Flags: W
+Width: 255
+VWidth: 999
+Flags: HW
 HStem: 259 104<110.444 210.011>
 VStem: 22 26<-52.9475 129.723> 212 23<4.13019 78.034> 229 37<87.0116 292.5>
+AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "FinalPitch" 455 290 basechar 0
-AnchorPoint: "PitchMark" 315 575 basechar 0
-AnchorPoint: "Kachka" 265 820 basechar 0
+AnchorPoint: "PitchMark" 185 615 basechar 0
 AnchorPoint: "Lomka" 540 150 basechar 0
 AnchorPoint: "Tikhaya" -0 80 basechar 0
-AnchorPoint: "Zaderzhka" 295 180 basechar 0
+AnchorPoint: "Zaderzhka" 255 180 basechar 0
 AnchorPoint: "Borzaya" -0 150 basechar 0
 AnchorPoint: "Zevok" 50 0 basechar 0
 AnchorPoint: "Kupnaya" 50 -50 basechar 0
@@ -48704,21 +48704,20 @@ AnchorPoint: "Podchashie" 100 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-212 18 m 5xe0
- 217 51 229 118 229 157 c 4
- 229 225 208 259 164 259 c 4
- 101 259 67 207 56 103 c 4
- 52 54 49 18 48 -6 c 4
- 47 -35 48 -53 34 -53 c 4
- 28 -53 24 -48 22 -41 c 4
- 20 -32 20 -7 20 -7 c 4
- 20 244 74 363 175 363 c 4
- 235 363 266 328 266 257 c 4xd0
- 266 193 250 95 235 17 c 4
- 234 9 228 4 222 4 c 4
- 217 4 210 8 212 18 c 5xe0
+202 17 m 0
+ 201 9 196 4 191 4 c 0
+ 187 4 181 8 183 18 c 0
+ 186.780292453 59.5832169849 192.929707394 112.373594981 197 157 c 0
+ 203.430175781 227.5 179 259 142 259 c 0
+ 89 259 59 207 50 103 c 1
+ 47 54 45 18 44 -6 c 0
+ 43 -35 44 -53 32 -53 c 0
+ 27 -53 23 -48 22 -41 c 0
+ 20 -32 20 -8 20 -8 c 1
+ 20 243 65 363 151 363 c 0
+ 202 363 228 328 228 257 c 0
+ 228 188.633777113 216.047299834 87.2364991708 202 17 c 0
 EndSplineSet
-Validated: 3073
 EndChar
 
 StartChar: u1CF5E
@@ -53480,22 +53479,6 @@ AnchorPoint: "Tochka" 265 325 basechar 0
 AnchorPoint: "Omet" 205 500 basechar 0
 AnchorPoint: "Podchashie" 100 -30 basechar 0
 LayerCount: 2
-Back
-SplineSet
-212 18 m 5xe0
- 217 51 229 118 229 157 c 4
- 229 225 208 259 164 259 c 4
- 101 259 67 207 56 103 c 4
- 52 54 49 18 48 -6 c 4
- 47 -35 48 -53 34 -53 c 4
- 28 -53 24 -48 22 -41 c 4
- 20 -32 20 -7 20 -7 c 4
- 20 244 74 363 175 363 c 4
- 235 363 266 328 266 257 c 4xd0
- 266 193 250 95 235 17 c 4
- 234 9 228 4 222 4 c 4
- 217 4 210 8 212 18 c 5xe0
-EndSplineSet
 Fore
 SplineSet
 263 61 m 0
