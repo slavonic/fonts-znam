@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1397905996
-ModificationTime: 1592311387
+ModificationTime: 1592333631
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -1043,18 +1043,17 @@ ShortTable: cvt  41
 EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
 OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
+OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
+OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
+OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1620 27 9
+WinInfo: 59859 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -20941,37 +20940,58 @@ HStem: 37 83<191.5 218.1>
 LayerCount: 2
 Fore
 SplineSet
-178 69 m 2
- 161 81 147 89 137 94 c 0
- 124.193359375 100.403320312 138 107 141 108 c 0
- 147 111 169 120 177 120 c 2
- 179 120 l 1
- 209 111 249 75 263 61 c 0
- 269 55 259 51 254 48 c 0
- 251 46 233 37 223 37 c 0
- 219.715820312 37 213.77734375 42.1669921875 210 45 c 2
- 178 69 l 2
+178 69 m 6
+ 161 81 147 89 137 94 c 4
+ 124.193359375 100.403320312 138 107 141 108 c 4
+ 147 111 169 120 177 120 c 6
+ 179 120 l 5
+ 209 111 249 75 263 61 c 4
+ 269 55 259 51 254 48 c 4
+ 251 46 233 37 223 37 c 4
+ 219.715820312 37 213.77734375 42.1669921875 210 45 c 6
+ 178 69 l 6
 EndSplineSet
 Colour: 9eb5ff
 EndChar
 
 StartChar: uniEA4B
 Encoding: 59979 59979 402
-Width: 1000
-VWidth: 0
+Width: 193
+VWidth: 999
+Flags: W
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+175 360 m 1
+ 170 376 153.999047597 417.250714302 133 433 c 0
+ 129 436 106 437 100 437 c 0
+ 97 437 84 438 92 429 c 0
+ 108.08254569 410.907136099 123 381 133 361 c 1
+ 140.946651934 358.854749725 148.387001489 357.987310176 155.483648582 357.987310176 c 0
+ 162.254926007 357.987310176 168.713294875 358.777031775 175 360 c 1
+EndSplineSet
 Colour: 9eb5ff
 EndChar
 
 StartChar: uniEA4C
 Encoding: 59980 59980 403
-Width: 1000
-VWidth: 0
+Width: 240
+Flags: W
+HStem: 27 83<164.5 191.1>
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+151 59 m 2
+ 134 71 120 79 110 84 c 0
+ 97.193359375 90.4033203125 111 97 114 98 c 0
+ 120 101 142 110 150 110 c 2
+ 152 110 l 1
+ 182 101 222 65 236 51 c 0
+ 242 45 232 41 227 38 c 0
+ 224 36 206 27 196 27 c 0
+ 192.715820312 27 186.77734375 32.1669921875 183 35 c 2
+ 151 59 l 2
+EndSplineSet
 Colour: 9eb5ff
 EndChar
 
@@ -48681,9 +48701,9 @@ StartChar: u1CF5D
 Encoding: 118621 118621 889
 Width: 255
 VWidth: 999
-Flags: HW
-HStem: 259 104<110.444 210.011>
-VStem: 22 26<-52.9475 129.723> 212 23<4.13019 78.034> 229 37<87.0116 292.5>
+Flags: W
+HStem: 259 104<96.3776 183.018>
+VStem: 20 24<-52.9731 147.038> 198.027 29.9734<82.0487 292.5>
 AnchorPoint: "Kachka" 50 660 basechar 0
 AnchorPoint: "FinalPitch" 455 290 basechar 0
 AnchorPoint: "PitchMark" 185 615 basechar 0
@@ -48704,19 +48724,19 @@ AnchorPoint: "Podchashie" 100 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-202 17 m 0
- 201 9 196 4 191 4 c 0
- 187 4 181 8 183 18 c 0
- 186.780292453 59.5832169849 192.929707394 112.373594981 197 157 c 0
- 203.430175781 227.5 179 259 142 259 c 0
- 89 259 59 207 50 103 c 1
- 47 54 45 18 44 -6 c 0
- 43 -35 44 -53 32 -53 c 0
- 27 -53 23 -48 22 -41 c 0
- 20 -32 20 -8 20 -8 c 1
- 20 243 65 363 151 363 c 0
- 202 363 228 328 228 257 c 0
- 228 188.633777113 216.047299834 87.2364991708 202 17 c 0
+32 -53 m 4
+ 17.4919227623 -53 21.1291956656 -15.8991785982 20 -8 c 5
+ 20 243 65 363 151 363 c 4
+ 202 363 228 328 228 257 c 4
+ 228 188.633777113 216.047299834 87.2364991708 202 17 c 4
+ 201 9 196 4 191 4 c 4
+ 187 4 181 8 183 18 c 4
+ 186.780292453 59.5832169849 192.929707394 112.373594981 197 157 c 4
+ 197.691974987 164.586765625 198.026565262 171.721883648 198.026565262 178.414700889 c 4
+ 198.026565262 233.914870605 175.018293218 259 142 259 c 4
+ 89 259 59 207 50 103 c 5
+ 47 54 45 18 44 -6 c 4
+ 43 -35 44 -53 32 -53 c 4
 EndSplineSet
 EndChar
 
@@ -50437,6 +50457,7 @@ SplineSet
  271 257 l 1
 EndSplineSet
 Validated: 3073
+LCarets2: 1 0
 Ligature2: "'ccmp' Znamenny Ligatures-1" u1CF5D u1CF81
 Colour: ffff
 EndChar
@@ -53539,23 +53560,23 @@ AnchorPoint: "Podchashie" 100 -30 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-183 18 m 4xc0
- 187 51 197 118 197 157 c 4
- 197 225 179 259 142 259 c 4
- 89 259 59 207 50 103 c 5
- 47 54 45 18 44 -6 c 4
- 43 -35 44 -53 32 -53 c 4
- 27 -53 23 -48 22 -41 c 4
- 20 -32 20 -8 20 -8 c 5
+183 18 m 0xc0
+ 187 51 197 118 197 157 c 0
+ 197 225 179 259 142 259 c 0
+ 89 259 59 207 50 103 c 1
+ 47 54 45 18 44 -6 c 0
+ 43 -35 44 -53 32 -53 c 0
+ 27 -53 23 -48 22 -41 c 0
+ 20 -32 20 -8 20 -8 c 1
  20 224 59 345 133 361 c 5
  123 381 107 410 92 429 c 4
  84 438 97 437 100 437 c 4
  106 437 129 436 133 433 c 4
  153 416 170 376 175 360 c 4
- 210 350 228 316 228 257 c 4xa0
- 228 193 215 95 202 17 c 4
- 201 9 196 4 191 4 c 4
- 187 4 181 8 183 18 c 4xc0
+ 210 350 228 316 228 257 c 0xa0
+ 228 193 215 95 202 17 c 0
+ 201 9 196 4 191 4 c 0
+ 187 4 181 8 183 18 c 0xc0
 EndSplineSet
 Validated: 3073
 LCarets2: 1 0
@@ -98268,31 +98289,31 @@ AnchorPoint: "PitchMark" 10 590 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-179 38 m 1
- 177.358901095 24.871208758 175.895207149 0 162 0 c 0
- 156 0 152 4 151 10 c 0
- 153 27 154 42 156 55 c 1
- 141 66 125 76 110 84 c 0
- 97 90 111 97 114 98 c 0
- 120 101 142 110 150 110 c 2
- 152 110 l 1
- 155 109 159 108 162 107 c 1
- 164 124 164 134 164 138 c 0
- 164 182 151 204 126 204 c 0
- 89 204 68 163 61 80 c 0
- 60 43 58 6 57 -30 c 0
- 57 -36 49 -46 42 -46 c 0
- 34 -46 30 -41 30 -32 c 0
- 30 -23.3333333333 30 -14.6666666667 30 -6 c 0
- 30 135 46 230 79 278 c 0
- 94 301 112 312 134 312 c 0
- 175 312 196 283 196 225 c 0
- 196 187 193 142 187 92 c 1
- 208 78 227 60 236 51 c 0
- 242 45 232 41 227 38 c 0
- 224 36 206 27 196 27 c 0
- 194 27 192 28 191 29 c 2
- 179 38 l 1
+179 38 m 5
+ 177.358901095 24.871208758 175.895207149 0 162 0 c 4
+ 156 0 152 4 151 10 c 4
+ 153 27 154 42 156 55 c 5
+ 141 66 125 76 110 84 c 4
+ 97 90 111 97 114 98 c 4
+ 120 101 142 110 150 110 c 6
+ 152 110 l 5
+ 155 109 159 108 162 107 c 5
+ 164 124 164 134 164 138 c 4
+ 164 182 151 204 126 204 c 4
+ 89 204 68 163 61 80 c 4
+ 60 43 58 6 57 -30 c 4
+ 57 -36 49 -46 42 -46 c 4
+ 34 -46 30 -41 30 -32 c 4
+ 30 -23.3333333333 30 -14.6666666667 30 -6 c 4
+ 30 135 46 230 79 278 c 4
+ 94 301 112 312 134 312 c 4
+ 175 312 196 283 196 225 c 4
+ 196 187 193 142 187 92 c 5
+ 208 78 227 60 236 51 c 4
+ 242 45 232 41 227 38 c 4
+ 224 36 206 27 196 27 c 4
+ 194 27 192 28 191 29 c 6
+ 179 38 l 5
 144 366 m 0
  109 366 88 392 88 426 c 0
  88 460 101 543 116 579 c 0
