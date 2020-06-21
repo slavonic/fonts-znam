@@ -466,6 +466,294 @@
       <layer colorID="1" name="uniEA4C"/>
       <layer colorID="0" name="u1CF60"/>
     </ColorGlyph>
+    <ColorGlyph name="uniF466">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="u1CF60"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF467">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA3"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF468">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA3"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF469">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA6"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF46A">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA6"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF46B">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA4"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF46C">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA4"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF46D">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA5"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF46E">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA5"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF46F">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF61"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF470">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="u1CF61"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF471">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA7"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF472">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA7"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF473">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA8"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF474">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA8"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF475">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAA9"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF476">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAA9"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF479">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF62"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF47A">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="u1CF62"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF47B">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAAA"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF47C">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAAA"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF47D">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAAB"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF47E">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEAAB"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF487">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF63"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF488">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF63"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF489">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAAD"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF48A">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAAD"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF48B">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAAE"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF48C">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAAE"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF48F">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF64"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF490">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF64"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF491">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAAF"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF492">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAAF"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF493">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB0"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF494">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB0"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF497">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF65"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF498">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF65"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF499">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB1"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF49A">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB1"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF49B">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB2"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF49C">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB2"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF49F">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF66"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A0">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF66"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A1">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB3"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A2">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB3"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A3">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB4"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A4">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB4"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A7">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF67"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A8">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF67"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4A9">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB6"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4AA">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB6"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4AB">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB7"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4AC">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB7"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4AF">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF68"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B0">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF68"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B1">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB8"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B2">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB8"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B3">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEAB9"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B4">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEAB9"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B7">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF69"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B8">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF69"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4B9">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEABA"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4BA">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEABA"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4BB">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEABB"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4BC">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEABB"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4BF">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="u1CF6A"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4C0">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="u1CF6A"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4C1">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEABC"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4C2">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEABC"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4C3">
+      <layer colorID="1" name="uniEA4C"/>
+      <layer colorID="0" name="uniEABD"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4C4">
+      <layer colorID="1" name="uniEA4D"/>
+      <layer colorID="0" name="uniEABD"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniF4C6">
+      <layer colorID="1" name="uniEA4B"/>
+      <layer colorID="0" name="uniEABD"/>
+    </ColorGlyph>
 
     <!-- GLYPHS ENCODED IN UNICODE -->
     <ColorGlyph name="u1CF00">
