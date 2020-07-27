@@ -1718,6 +1718,14 @@
       <layer colorID="1" name="uniF61C"/>
       <layer colorID="0" name="uniEC27"/>
     </ColorGlyph>
+    <ColorGlyph name="uniEA5E">
+      <layer colorID="1" name="uniF619"/>
+      <layer colorID="0" name="uniEA58"/>
+    </ColorGlyph>
+    <ColorGlyph name="uniEA5F">
+      <layer colorID="1" name="uniEA47"/>
+      <layer colorID="0" name="uniEA58"/>
+    </ColorGlyph>
 
     <!-- GLYPHS ENCODED IN UNICODE -->
     <ColorGlyph name="u1CF00">
