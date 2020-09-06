@@ -18,13 +18,7 @@ font = fontforge.open(base_name + ".sfd")
 ## Evidently, this can break Evince, so it may need to be commented out. Not sure about that, though
 font.head_optimized_for_cleartype = True
 
-ttnames = list( font.sfnt_names )
-for ttname in ttnames:
-	if ttname[1] == 'SubFamil':
-		ttnames.append( ( ttname[0],'Fullname',"%s %s" % ( full_name,ttname[2] ) ) )
-font.sfnt_names = tuple( ttnames )
-
-font.generate( base_name + ".otf", flags=( "opentype", "PfEd-colors", "PfEd-lookups"), layer="Fore" )
+font.generate( base_name + ".otf", flags=( "opentype", "PfEd-colors", "PfEd-lookups", "dummy-dsig"), layer="Fore" )
 
 # Append the TT suffix
 #for i in range( 0, len( ttnames )):

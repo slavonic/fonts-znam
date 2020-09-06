@@ -2,10 +2,10 @@ SplineFontDB: 3.2
 FontName: MezenetsUnicode
 FullName: Mezenets Unicode
 FamilyName: Mezenets Unicode
-Weight: Medium
-Copyright: Copyright 2013-2019 Aleksandr Andreev and Nikita Simmons.\n\nThis font is part of the Ponomar Project Slavonic Computing Initiative. See http://sci.ponomar.net/ for more information.\n\nOriginal glyph design by Nikita Simmons. Reencoding for Unicode, OpenType and Graphite feature creation and some tweaking by Aleksandr Andreev.
+Weight: Regular
+Copyright: Copyright 2013-2020 Aleksandr Andreev and Nikita Simmons (https://github.com/slavonic/fonts-znam)
 UComments: "2014-4-19: Created.+AAoA-See README for more information."
-Version: 0.875
+Version: 1.000
 ItalicAngle: 0
 UnderlinePosition: -80
 UnderlineWidth: 50
@@ -18,30 +18,30 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 1004 1038049950 1172439]
-FSType: 8
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1397905996
-ModificationTime: 1596305385
+ModificationTime: 1599402727
 PfmFamily: 17
-TTFWeight: 500
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 50
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 986
+OS2TypoAOffset: 0
+OS2TypoDescent: -402
+OS2TypoDOffset: 0
 OS2TypoLinegap: 50
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 986
+OS2WinAOffset: 0
+OS2WinDescent: 402
+OS2WinDOffset: 0
+HheadAscent: 986
+HheadAOffset: 0
+HheadDescent: -402
+HheadDOffset: 0
 OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "Support for deprecated mappings (ccmp)" { "Support for deprecated mappings (ccmp)-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "Znamenny Priznakification" { "Znamenny Priznakification-1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
@@ -1041,12 +1041,8 @@ ShortTable: cvt  41
   24
   71
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2016-2018 Aleksandr Andreev and Nikita Simmons, (<http://sci.ponomar.net/|aleksandr.andreev@gmail.com>),+AAoA-without Reserved Font Name.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
-OtfFeatName: 'ss04' 1033 "Render Cinnabar Marks in Red"
-OtfFeatName: 'ss03' 1033 "Newstyle Demestvenny Contractions"
-OtfFeatName: 'ss02' 1033 "Newstyle Demestvenny Kerning"
-OtfFeatName: 'ss01' 1033 "Oldstyle Demestvenny Kerning"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1054,7 +1050,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 594 27 9
+WinInfo: 0 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -1077,7 +1073,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "FinalPitch" "'mark' Cinnabar Mark Positioning-2" "Stacking" "'mkmk' Stacking of Cinnabar Marks-1" "Kupnaya" "'mark' Cinnabar Mark Positioning-1" "Zevok" "'mark' Cinnabar Mark Positioning-1" "Kachka" "'mark' Cinnabar Mark Positioning-1" "Lomka" "'mark' Cinnabar Mark Positioning-1" "Podvertka" "'mark' Cinnabar Mark Positioning-1" "Borzaya" "'mark' Cinnabar Mark Positioning-1" "Tikhaya" "'mark' Cinnabar Mark Positioning-1" "Auxiliary" "'mark' Cinnabar Mark Positioning-2" "Podtinka" "'mark' Black Mark Positioning-1" "Flexion" "'mark' Black Mark Positioning-2" "PitchMark" "'mark' Cinnabar Mark Positioning-2" "Podchashie" "'mark' Black Mark Positioning-1" "TonalRange" "'mark' Black Mark Positioning-1" "Omet" "'mark' Black Mark Positioning-2" "Tochka" "'mark' Black Mark Positioning-1" "Zaderzhka" "'mark' Black Mark Positioning-1"
-BeginChars: 1114112 2250
+BeginChars: 1114112 2261
 
 StartChar: uni0002
 Encoding: 2 2 0
@@ -1360,69 +1356,17 @@ EndChar
 StartChar: uni000B
 Encoding: 11 11 11
 Width: 500
+VWidth: 0
 Flags: W
-HStem: 0 19<66 435> 748 22<66 435>
-VStem: 37 22<34 733> 442 22<34 733>
 LayerCount: 2
-Fore
-SplineSet
-37 770 m 5
- 464 770 l 5
- 464 0 l 5
- 37 0 l 5
- 37 770 l 5
-66 748 m 5
- 250 398 l 5
- 435 748 l 5
- 66 748 l 5
-258 383 m 5
- 442 34 l 5
- 442 733 l 5
- 258 383 l 5
-435 19 m 5
- 250 369 l 5
- 66 19 l 5
- 435 19 l 5
-59 733 m 5
- 59 34 l 5
- 243 383 l 5
- 59 733 l 5
-EndSplineSet
-Validated: 3073
 EndChar
 
 StartChar: uni000C
 Encoding: 12 12 12
 Width: 500
+VWidth: 0
 Flags: W
-HStem: 0 19<66 435> 748 22<66 435>
-VStem: 37 22<34 733> 442 22<34 733>
 LayerCount: 2
-Fore
-SplineSet
-37 770 m 5
- 464 770 l 5
- 464 0 l 5
- 37 0 l 5
- 37 770 l 5
-66 748 m 5
- 250 398 l 5
- 435 748 l 5
- 66 748 l 5
-258 383 m 5
- 442 34 l 5
- 442 733 l 5
- 258 383 l 5
-435 19 m 5
- 250 369 l 5
- 66 19 l 5
- 435 19 l 5
-59 733 m 5
- 59 34 l 5
- 243 383 l 5
- 59 733 l 5
-EndSplineSet
-Validated: 3073
 EndChar
 
 StartChar: uni000D
@@ -2143,6 +2087,7 @@ SplineSet
  421 221 422 221 432 232 c 0
  442 243 442 243 455 243 c 0
 EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: uni034F
@@ -2656,24 +2601,11 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 63
-Width: 286
+Width: 0
 Flags: W
-HStem: 190 47<36 251>
-VStem: 26 236
 LayerCount: 2
 Fore
-SplineSet
-262 227 m 1
- 260 221 258 214 256 207 c 0
- 254 200 251 195 249 190 c 1
- 36 190 l 1
- 26 199 l 1
- 28 205 29 212 31 218 c 0
- 33 224 36 231 38 237 c 1
- 251 237 l 1
- 262 227 l 1
-EndSplineSet
-Validated: 3073
+Validated: 1
 EndChar
 
 StartChar: macron
@@ -12650,6 +12582,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFA u1CF43
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBB2 u1CF85
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
@@ -12725,6 +12658,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEBAD u1CF44
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBB1 u1CF44 u1CF85
@@ -12856,6 +12790,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBB2 u1CF44 u1CF85
 Ligature2: "Precomposed forms for Znamenny Round 3-1" uniEBAE u1CF44
@@ -16199,6 +16134,7 @@ SplineSet
  88 26 53 7 30 -39 c 1
  42 87 l 1
 EndSplineSet
+Validated: 3073
 Position2: "Advance neume with cinnabar mark-1" dx=200 dy=0 dh=0 dv=0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniEBB1 u1CF85
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniEAFA u1CF42
@@ -20803,6 +20739,7 @@ SplineSet
  158 462 148 458 143 455 c 0
  140 453 122 444 112 444 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEA58 u1CF46
 Colour: ff00
@@ -20835,6 +20772,7 @@ SplineSet
  133 -40 156 -17 164 -1 c 5
  191 -2 l 5
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20865,6 +20803,7 @@ SplineSet
  5.99996 1.70000000015e-05 28.99996 23.000017 36.99996 39.000017 c 5
  64 38 l 5
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20887,6 +20826,7 @@ SplineSet
  109.71593 444 103.77778 449.16667 100 452 c 6
  68 476 l 6
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20909,6 +20849,7 @@ SplineSet
  119.715820312 524 113.77734375 529.166992188 110 532 c 6
  78 556 l 6
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20928,6 +20869,7 @@ SplineSet
  151 433 l 1
  123.759861365 416.573471969 96.9233495233 399.743317143 69 384 c 1
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20950,6 +20892,7 @@ SplineSet
  219.715820312 37 213.77734375 42.1669921875 210 45 c 6
  178 69 l 6
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20957,18 +20900,19 @@ StartChar: uniEA4B
 Encoding: 59979 59979 402
 Width: 193
 VWidth: 999
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-175 360 m 5
- 170 376 153.999047597 417.250714302 133 433 c 4
- 129 436 106 437 100 437 c 4
- 97 437 84 438 92 429 c 4
- 108.08254569 410.907136099 123 381 133 361 c 5
- 140.946651934 358.854749725 148.387001489 357.987310176 155.483648582 357.987310176 c 4
- 162.254926007 357.987310176 168.713294875 358.777031775 175 360 c 5
+175 360 m 1
+ 169 359 162 358 155 358 c 0
+ 148 358 141 359 133 361 c 1
+ 123 381 108 411 92 429 c 0
+ 84 438 97 437 100 437 c 0
+ 106 437 129 436 133 433 c 0
+ 154 417 170 376 175 360 c 1
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20991,6 +20935,7 @@ SplineSet
  192.715820312 27 186.77734375 32.1669921875 183 35 c 2
  151 59 l 2
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -20998,18 +20943,19 @@ StartChar: uniEA4D
 Encoding: 59981 59981 404
 Width: 193
 VWidth: 999
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 158 308 m 1
- 153 326 135.999023438 367.250976562 115 383 c 0
- 111 386 88 387 82 387 c 0
- 79 387 66 388 74 379 c 0
- 90.08203125 360.907226562 106 329 116 309 c 1
- 123.946289062 306.854492188 131.38671875 305.987304688 138.483398438 305.987304688 c 0
- 145.254882812 305.987304688 151.712890625 306.77734375 158 308 c 1
+ 152 307 145 306 138 306 c 0
+ 131 306 124 307 116 309 c 1
+ 106 329 90 361 74 379 c 0
+ 66 388 79 387 82 387 c 0
+ 88 387 111 386 115 383 c 0
+ 136 367 153 326 158 308 c 1
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -21040,6 +20986,7 @@ SplineSet
  -23 -38 -4 -15 4 1 c 5
  29 1 l 5
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -21062,6 +21009,7 @@ SplineSet
  149.715820312 254 143.77734375 259.166992188 140 262 c 6
  108 286 l 6
 EndSplineSet
+Validated: 3073
 Colour: 9eb5ff
 EndChar
 
@@ -21468,6 +21416,7 @@ SplineSet
  -39 -42 -49 -32 -54 -27 c 4
  -63 -19 -54 -19 -51 -19 c 4
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEA58 u1CF45
 Colour: ff00
@@ -39953,6 +39902,7 @@ SplineSet
  177 151 169 109 152 67 c 0
  135 23 108 0 71 0 c 0xd0
 EndSplineSet
+Validated: 3073
 Substitution2: "'ss04' Style Set 4 Black Marks-1" u1CF26.ss04
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" u1CF26.ss04
 EndChar
@@ -48200,6 +48150,7 @@ SplineSet
  -286 5 -281 -2 -282 -13 c 0
  -282 -19 -283 -28 -283 -41 c 0
 EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: u1CF38
@@ -48779,6 +48730,7 @@ SplineSet
  47 54 45 18 44 -6 c 4
  43 -35 44 -53 32 -53 c 4
 EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: u1CF5E
@@ -53404,6 +53356,7 @@ SplineSet
  63 10 68 16 86 41 c 5
  111 35 l 5
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -54874,6 +54827,7 @@ SplineSet
  443 192 388 183 357 120 c 1
  369 247 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF72 u1CF45
 Colour: 1fffa1
@@ -54948,6 +54902,7 @@ SplineSet
  443 192 388 183 357 120 c 1
  369 247 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEAC9 u1CF45
@@ -55032,6 +54987,7 @@ SplineSet
  443 192 388 183 357 120 c 1
  369 247 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniF4D6 u1CF40
 Ligature2: "Post-composition Priznakification-1" uniEACA u1CF45
@@ -55195,6 +55151,7 @@ SplineSet
  441 186 386 177 355 114 c 1
  367 241 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7A u1CF45
 Colour: 1fffa1
@@ -58828,6 +58785,7 @@ SplineSet
  205 299 125 280 94 217 c 1
  106 343 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF86 u1CF45
 Colour: 1fffa1
@@ -61416,6 +61374,7 @@ SplineSet
  313 73 258 64 227 1 c 1
  239 128 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF71 u1CF45
 Colour: 1fffa1
@@ -61492,6 +61451,7 @@ SplineSet
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF73 u1CF45
 Colour: 1fffa1
@@ -73075,18 +73035,18 @@ VStem: -346 264
 LayerCount: 2
 Fore
 SplineSet
--82 454 m 1
- -85 448 -88 444 -90 442 c 0
- -92 440 -95 437 -100 435 c 1
- -214 547 l 1
- -327 435 l 1
- -329 436 -331 438 -333 439 c 0
- -335 440 -335 440 -337 442 c 0
- -339 444 -339 446 -341 448 c 0
- -343 450 -344 452 -346 454 c 1
- -236 612 l 1
- -191 612 l 1
- -82 454 l 1
+-82 454 m 5
+ -85 448 -88 444 -90 442 c 4
+ -92 440 -95 437 -100 435 c 5
+ -214 547 l 5
+ -327 435 l 5
+ -329 436 -331 438 -333 439 c 4
+ -335 440 -335 440 -337 442 c 4
+ -339 444 -339 446 -341 448 c 4
+ -343 450 -344 452 -346 454 c 5
+ -236 612 l 5
+ -191 612 l 5
+ -82 454 l 5
 EndSplineSet
 Validated: 3073
 EndChar
@@ -73100,29 +73060,29 @@ VStem: -356 284
 LayerCount: 2
 Fore
 SplineSet
--72 560 m 1xa0
- -77 549 -83 537 -90 526 c 0
- -97 515 -105 505 -114 496 c 0
- -123 487 -131 480 -141 474 c 0
- -151 468 -161 466 -172 466 c 0xa0
- -182 466 -191 469 -200 474 c 0
- -209 479 -218 484 -226 490 c 0
- -234 496 -242 501 -250 506 c 0
- -258 511 -266 514 -274 514 c 0
- -285 514 -296 509 -305 500 c 0
- -314 491 -324 478 -334 463 c 1
- -356 471 l 1
- -351 482 -344 495 -338 506 c 0
- -332 517 -324 526 -315 535 c 0
- -306 544 -298 551 -288 557 c 0
- -278 563 -268 566 -257 566 c 0x60
- -247 566 -236 563 -226 558 c 0
- -216 553 -208 548 -200 542 c 0
- -192 536 -183 531 -176 526 c 0
- -169 521 -161 518 -155 518 c 0
- -145 518 -134 523 -124 532 c 0
- -114 541 -105 554 -95 570 c 1
- -72 560 l 1xa0
+-72 560 m 5xa0
+ -77 549 -83 537 -90 526 c 4
+ -97 515 -105 505 -114 496 c 4
+ -123 487 -131 480 -141 474 c 4
+ -151 468 -161 466 -172 466 c 4xa0
+ -182 466 -191 469 -200 474 c 4
+ -209 479 -218 484 -226 490 c 4
+ -234 496 -242 501 -250 506 c 4
+ -258 511 -266 514 -274 514 c 4
+ -285 514 -296 509 -305 500 c 4
+ -314 491 -324 478 -334 463 c 5
+ -356 471 l 5
+ -351 482 -344 495 -338 506 c 4
+ -332 517 -324 526 -315 535 c 4
+ -306 544 -298 551 -288 557 c 4
+ -278 563 -268 566 -257 566 c 4x60
+ -247 566 -236 563 -226 558 c 4
+ -216 553 -208 548 -200 542 c 4
+ -192 536 -183 531 -176 526 c 4
+ -169 521 -161 518 -155 518 c 4
+ -145 518 -134 523 -124 532 c 4
+ -114 541 -105 554 -95 570 c 5
+ -72 560 l 5xa0
 EndSplineSet
 Validated: 3073
 EndChar
@@ -85948,6 +85908,7 @@ SplineSet
  445 246 447 249 451 249 c 0
  453 249 454 243 454 232 c 0
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEB92 u1CF31
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF70 uniEB62
 LCarets2: 1 0
@@ -86030,6 +85991,7 @@ SplineSet
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7B u1CF45
 Colour: 1fffa1
@@ -86121,6 +86083,7 @@ SplineSet
  311 67 256 58 225 -5 c 1
  237 122 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF7C u1CF45
 Colour: 1fffa1
@@ -86572,6 +86535,7 @@ SplineSet
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF79 u1CF45
 Colour: 1fffa1
@@ -90533,6 +90497,7 @@ SplineSet
  397 38 404 108 404 177 c 2
  404 190 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEC27 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF454 u1CF5C
@@ -96196,6 +96161,7 @@ SplineSet
  367 471 l 1
  468 559 501 576 519 576 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 2 0 0
 Ligature2: "Post-composition Priznakification-1" uniF41C u1CF34 u1CF30
 Ligature2: "Post-composition Priznakification-1" uniF41C u1CF30 u1CF34
@@ -97929,6 +97895,7 @@ SplineSet
  158 496 l 1
  123 162 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF5A u1CF45
 Colour: 1fffa1
@@ -98009,6 +97976,7 @@ SplineSet
  418 228 l 1
  418 228 393 222 364 209 c 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF454 u1CF40
 LCarets2: 1 0
 Colour: 1fffa1
@@ -98102,6 +98070,7 @@ SplineSet
  530 116 l 1
  530 116 505 110 476 97 c 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF456 u1CF40
 LCarets2: 1 0
 Colour: 1fffa1
@@ -102450,6 +102419,7 @@ SplineSet
  -26 -13 -36 -3 -41 2 c 0
  -50 10 -41 10 -38 10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEA57 u1CF45
 Colour: 1fffa1
@@ -102570,6 +102540,7 @@ SplineSet
  -28 -13 -38 -3 -43 2 c 0
  -52 10 -43 10 -40 10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF3E
 Ligature2: "Post-composition Priznakification-1" uniEAC6 u1CF45
@@ -102697,6 +102668,7 @@ SplineSet
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAC7 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF40
@@ -102844,6 +102816,7 @@ SplineSet
  355 667 351 599 345 568 c 0
  336 524 316 484 282 484 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 2 0 0
 Ligature2: "Post-composition Priznakification-1" uniEAC8 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4C8 u1CF3B u1CF30
@@ -103276,7 +103249,7 @@ StartChar: uniF4E2
 Encoding: 62690 62690 1781
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<34 34.5> 450 126<476.722 546.368>
 DStem2: 253 180 276 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
 AnchorPoint: "Borzaya" 410 60 basechar 0
@@ -103300,7 +103273,7 @@ LayerCount: 2
 Fore
 SplineSet
 519 576 m 0
- 543.994726753 576 590 521.566899163 590 495 c 2
+ 544 576 590 522 590 495 c 2
  590 492 l 1
  575 374 l 1
  569 402 553 426 526 447 c 0
@@ -103313,7 +103286,7 @@ SplineSet
  276 190 l 1
  253 180 l 1
  261 254 l 1
- 205.321121504 197.026263864 122.3984375 104.741210938 64 38 c 0
+ 205 197 122 105 64 38 c 0
  52 25 46 15 37 5 c 0
  36 3 35 1 34 0 c 1
  34 2 l 1
@@ -103329,9 +103302,10 @@ SplineSet
  -68 -65 -38 -44 -18 -23 c 1
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
- -36.580078125 10.36328125 -34.37890625 10.5361328125 -32.3623046875 10.5361328125 c 0
- -17.716796875 10.5361328125 -12.7900390625 1.4267578125 -4 -10 c 1
- -1.15409739453 -9.11971880782 39.1582352628 37.466847366 38 39 c 1
+ -37 10 -34 11 -32 11 c 0
+ -18 11 -13 1 -4 -10 c 1
+ -1.03701990622 -9.01233996874 38.0184366695 35.8715752433 38.0184366695 38.9060271471 c 0
+ 38.0184366695 38.9439400326 38.0123399687 38.9753200625 38 39 c 1
  40 107 l 1
  48 122 73 155 113 204 c 0
  153 253 190 296 223 331 c 1
@@ -103344,6 +103318,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF75 u1CF45
 Colour: 1fffa1
@@ -103490,6 +103465,7 @@ SplineSet
  328 432.999023438 370 468.999023438 422 511.999023438 c 0
  474 554.999023438 506 575.999023438 519 576 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD0 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E2 u1CF3E
@@ -103572,7 +103548,7 @@ StartChar: uniF4E6
 Encoding: 62694 62694 1785
 Width: 665
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: -11 32G<34 34.5 609 613.5> 202 134<542.687 605.391> 450 126<476.722 546.368>
 VStem: 505 135<202.397 285.448> 603 18<-10.9629 53.7231> 614 26<33.3604 214.5>
 DStem2: 253 180 276 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
@@ -103597,7 +103573,7 @@ LayerCount: 2
 Fore
 SplineSet
 519 576 m 0xe0
- 543.994726753 576 590 521.566899163 590 495 c 2
+ 544 576 590 522 590 495 c 2
  590 492 l 1
  575 374 l 1
  569 402 553 426 526 447 c 0
@@ -103610,7 +103586,7 @@ SplineSet
  276 190 l 1
  253 180 l 1
  261 254 l 1
- 205.321121504 197.026263864 122.3984375 104.741210938 64 38 c 0
+ 205 197 122 105 64 38 c 0
  52 25 46 15 37 5 c 0
  36 3 35 1 34 0 c 1
  34 2 l 1
@@ -103626,9 +103602,10 @@ SplineSet
  -68 -65 -38 -44 -18 -23 c 1
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
- -36.580078125 10.36328125 -34.37890625 10.5361328125 -32.3623046875 10.5361328125 c 0
- -17.716796875 10.5361328125 -12.7900390625 1.4267578125 -4 -10 c 1
- -0.000450898357422 -8.00068273339 40.2866577266 38.9992192352 38 39 c 1
+ -37 10 -34 11 -32 11 c 0
+ -18 11 -13 1 -4 -10 c 1
+ -0.0974422917166 -8.04872114586 38.0725179162 36.7368108328 38.0725179162 38.9176553066 c 0
+ 38.0725179162 38.9721084369 38.0487211459 39 38 39 c 1
  40 107 l 1
  48 122 73 155 113 204 c 0
  153 253 190 296 223 331 c 1
@@ -103641,7 +103618,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0xe0
 505 152 m 1xf0
- 509.358225257 231.900796372 520.635621963 336 584 336 c 0
+ 509 232 521 336 584 336 c 0
  616 336 634 305 639 242 c 0
  640 232 640 221 640 208 c 0xf0
  640 150 630 34 621 -4 c 0
@@ -103654,6 +103631,7 @@ SplineSet
  514 150 507 141 505 148 c 1
  505 152 l 1xf0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD2 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E2 u1CF3F
@@ -103747,7 +103725,7 @@ StartChar: uniF4E8
 Encoding: 62696 62696 1787
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<34.1426 34.3882> 450 126<476.722 545.67>
 VStem: 34 0.142578<0 0.340526>
 DStem2: 253 180 276 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624> 523 52 546 67 0.0995037 0.995037<17.2141 126.569 268.461 373.142>
@@ -103772,7 +103750,7 @@ LayerCount: 2
 Fore
 SplineSet
 519 576 m 0
- 543.995117188 576 590 521.567382812 590 495 c 2
+ 544 576 590 522 590 495 c 2
  590 492 l 1
  571 317 l 1
  598 328 621 332 621 332 c 1
@@ -103795,12 +103773,11 @@ SplineSet
  276 190 l 1
  253 180 l 1
  261 254 l 1
- 205.291992188 196.997070312 121.810546875 105.30078125 63.89453125 38.00390625 c 1
- 63.9296875 38.00390625 63.96484375 38 64 38 c 1
- 52.49609375 24.5791015625 45.908203125 15.4228515625 37.482421875 5.421875 c 0
- 35.9365234375 3.23046875 34.7763671875 1.4228515625 34 0 c 1
- 34.142578125 1.53125 l 1
- 27.849609375 -5.6669921875 20.236328125 -13.595703125 9 -24 c 1
+ 205 197 122 105 64 38 c 0
+ 52 25 46 15 37 5 c 0
+ 36 3 35 1 34 0 c 1
+ 34 2 l 1
+ 28 -6 20 -14 9 -24 c 1
  19 -37 27 -54 29 -58 c 0
  32 -64 24 -66 19 -66 c 0
  15 -67 11 -68 8 -62 c 0
@@ -103812,9 +103789,10 @@ SplineSet
  -68 -65 -38 -44 -18 -23 c 1
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
- -36.3095703125 10.4482421875 -33.900390625 10.6611328125 -31.7197265625 10.6611328125 c 0
- -17.4599609375 10.6611328125 -13.0029296875 1.576171875 -4 -10 c 1
- -1.14627480312 -9.35888913813 38.7711138724 37.5487041365 37.642578125 38.9765625 c 1
+ -36 10 -34 11 -32 11 c 0
+ -17 11 -13 2 -4 -10 c 0
+ -1.03701990622 -9.01233996874 38.0184366695 36.8470475806 38.0184366695 38.9421390416 c 0
+ 38.0184366695 38.9683154204 38.0123399687 38.9876600313 38 39 c 2
  40 107 l 1
  48 122 73 155 113 204 c 0
  153 253 190 296 223 331 c 1
@@ -103827,6 +103805,7 @@ SplineSet
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD1 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4E2 u1CF40
@@ -103916,7 +103895,7 @@ StartChar: uniF4EC
 Encoding: 62700 62700 1789
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<34.1426 34.3882> 450 126<476.722 546.368>
 VStem: 34 0.142578<0 0.340526>
 DStem2: 253 180 276 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
@@ -103940,8 +103919,19 @@ AnchorPoint: "Podchashie" 390 75 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--3.56108143159 -10.183862395 m 0
- -1.30235645092 -12.6208517836 36.1286913784 34.6787540655 37.642578125 38.9765625 c 1
+437 272 m 1
+ 458 333 521 341 521 341 c 1
+ 511 217 l 1
+ 511 217 456 208 425 145 c 1
+ 437 272 l 1
+221 80 m 1
+ 242 141 305 149 305 149 c 1
+ 295 25 l 1
+ 295 25 240 16 209 -47 c 1
+ 221 80 l 1
+-4 -10 m 0
+ -3.90920539985 -10.0907946001 -3.78726808636 -10.1348751303 -3.63610084113 -10.1348751303 c 0
+ 1.20754146141 -10.1348751303 36.0605297334 35.1210594669 38 39 c 2
  40 107 l 1
  48 122 73 155 113 204 c 0
  153 253 190 296 223 331 c 1
@@ -103953,7 +103943,7 @@ SplineSet
  297 404 l 1
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
- 543.995117188 576 590 521.567382812 590 495 c 2
+ 544 576 590 522 590 495 c 2
  590 492 l 1
  575 374 l 1
  569 402 553 426 526 447 c 0
@@ -103966,12 +103956,11 @@ SplineSet
  276 190 l 1
  253 180 l 1
  261 254 l 1
- 205.291992188 196.997070312 121.810546875 105.30078125 63.89453125 38.00390625 c 1
- 63.9296875 38.00390625 63.96484375 38 64 38 c 1
- 52.49609375 24.5791015625 45.908203125 15.4228515625 37.482421875 5.421875 c 0
- 35.9365234375 3.23046875 34.7763671875 1.4228515625 34 0 c 1
- 34.142578125 1.53125 l 1
- 27.849609375 -5.6669921875 20.236328125 -13.595703125 9 -24 c 1
+ 205 197 122 105 64 38 c 0
+ 52 25 46 15 37 5 c 0
+ 36 3 35 1 34 0 c 1
+ 34 2 l 1
+ 28 -6 20 -14 9 -24 c 1
  19 -37 27 -54 29 -58 c 0
  32 -64 24 -66 19 -66 c 0
  15 -67 11 -68 8 -62 c 0
@@ -103983,19 +103972,10 @@ SplineSet
  -68 -65 -38 -44 -18 -23 c 1
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
- -36.3095703125 10.4482421875 -33.900390625 10.6611328125 -31.7197265625 10.6611328125 c 0
- -17.2429031812 10.6611328125 -13 0 -3.56108143159 -10.183862395 c 0
-221 80 m 1
- 242 141 305 149 305 149 c 1
- 295 25 l 1
- 295 25 240 16 209 -47 c 1
- 221 80 l 1
-437 272 m 1
- 458 333 521 341 521 341 c 1
- 511 217 l 1
- 511 217 456 208 425 145 c 1
- 437 272 l 1
+ -36 10 -34 11 -32 11 c 0
+ -17 11 -13 0 -4 -10 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF76 u1CF45
 Colour: 1fffa1
@@ -104162,6 +104142,7 @@ SplineSet
  311 -23 256 -32 225 -95 c 1
  237 32 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD8 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4EC u1CF3E
@@ -104254,7 +104235,7 @@ StartChar: uniF4F0
 Encoding: 62704 62704 1793
 Width: 625
 VWidth: 999
-Flags: W
+Flags: HW
 HStem: 0 21G<34.1426 34.3882> 450 126<476.722 545.67>
 VStem: 34 0.142578<0 0.340526>
 DStem2: 253 180 276 190 0.101343 0.994852<12.2794 74.4298 227.306 315.626> 523 52 546 67 0.0995037 0.995037<17.2141 126.569 268.461 373.142>
@@ -104279,7 +104260,7 @@ LayerCount: 2
 Fore
 SplineSet
 519 576 m 0
- 543.995117188 576 590 521.567382812 590 495 c 2
+ 544 576 590 522 590 495 c 2
  590 492 l 1
  571 317 l 1
  598 328 621 332 621 332 c 1
@@ -104302,12 +104283,11 @@ SplineSet
  276 190 l 1
  253 180 l 1
  261 254 l 1
- 205.291992188 196.997070312 121.810546875 105.30078125 63.89453125 38.00390625 c 1
- 63.9296875 38.00390625 63.96484375 38 64 38 c 1
- 52.49609375 24.5791015625 45.908203125 15.4228515625 37.482421875 5.421875 c 0
- 35.9365234375 3.23046875 34.7763671875 1.4228515625 34 0 c 1
- 34.142578125 1.53125 l 1
- 27.849609375 -5.6669921875 20.236328125 -13.595703125 9 -24 c 1
+ 205 197 122 105 64 38 c 0
+ 52 25 46 15 37 5 c 0
+ 36 3 35 1 34 0 c 1
+ 34 2 l 1
+ 28 -6 20 -14 9 -24 c 1
  19 -37 27 -54 29 -58 c 0
  32 -64 24 -66 19 -66 c 0
  15 -67 11 -68 8 -62 c 0
@@ -104319,9 +104299,11 @@ SplineSet
  -68 -65 -38 -44 -18 -23 c 1
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
- -36.3095703125 10.4482421875 -33.900390625 10.6611328125 -31.7197265625 10.6611328125 c 0
- -17.4599609375 10.6611328125 -13.0029296875 1.576171875 -4 -10 c 1
- -1.1469377163 -10.5947314801 38.7703479606 36.120845682 37.642578125 38.9765625 c 1
+ -36 10 -34 11 -32 11 c 0
+ -17 11 -13 2 -4 -10 c 0
+ -3.9684316543 -10.0105227819 -3.93276633786 -10.0157305747 -3.89309493445 -10.0157305747 c 0
+ -0.209239621359 -10.0157305747 38.0184366695 34.8901999297 38.0184366695 38.8690128781 c 0
+ 38.0184366695 38.9192600951 38.0123399687 38.9629800938 38 39 c 2
  40 107 l 1
  48 122 73 155 113 204 c 0
  153 253 190 296 223 331 c 1
@@ -104344,6 +104326,7 @@ SplineSet
  441 96 386 87 355 24 c 1
  367 151 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEAD9 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4EC u1CF40
@@ -104443,7 +104426,7 @@ StartChar: uniF4F4
 Encoding: 62708 62708 1795
 Width: 625
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<34.1426 34.3882 257.89 271.5> 450 126<476.722 546.368>
 VStem: 34 0.142578<0 0.340526>
 DStem2: 253 180 276 190 0.0976326 0.995223<12.1978 74.4275 227.226 315.624>
@@ -104467,8 +104450,23 @@ AnchorPoint: "Podchashie" 390 75 basechar 0
 LayerCount: 2
 Fore
 SplineSet
+437 272 m 1
+ 458 333 521 341 521 341 c 1
+ 511 217 l 1
+ 511 217 456 208 425 145 c 1
+ 437 272 l 1
+268 121 m 1
+ 289 182 352 190 352 190 c 1
+ 342 66 l 1
+ 342 66 287 57 256 -6 c 1
+ 268 121 l 1
+138 2 m 1
+ 159 63 222 71 222 71 c 1
+ 212 -53 l 1
+ 212 -53 157 -62 126 -125 c 1
+ 138 2 l 1
 519 576 m 0
- 543.995117188 576 590 521.567382812 590 495 c 2
+ 544 576 590 522 590 495 c 2
  590 492 l 1
  575 374 l 1
  569 402 553 426 526 447 c 0
@@ -104481,12 +104479,11 @@ SplineSet
  276 190 l 1
  253 180 l 1
  261 254 l 1
- 205.291992188 196.997070312 121.810546875 105.30078125 63.89453125 38.00390625 c 1
- 63.9296875 38.00390625 63.96484375 38 64 38 c 1
- 52.49609375 24.5791015625 45.908203125 15.4228515625 37.482421875 5.421875 c 0
- 35.9365234375 3.23046875 34.7763671875 1.4228515625 34 0 c 1
- 34.142578125 1.53125 l 1
- 27.849609375 -5.6669921875 20.236328125 -13.595703125 9 -24 c 1
+ 205 197 122 105 64 38 c 0
+ 52 25 46 15 37 5 c 0
+ 36 3 35 1 34 0 c 1
+ 34 2 l 1
+ 28 -6 20 -14 9 -24 c 1
  19 -37 27 -54 29 -58 c 0
  32 -64 24 -66 19 -66 c 0
  15 -67 11 -68 8 -62 c 0
@@ -104498,9 +104495,11 @@ SplineSet
  -68 -65 -38 -44 -18 -23 c 1
  -27 -13 -37 -3 -42 2 c 0
  -51 10 -42 10 -39 10 c 0
- -36.3095703125 10.4482421875 -33.900390625 10.6611328125 -31.7197265625 10.6611328125 c 0
- -17.4599609375 10.6611328125 -13.0029296875 1.576171875 -4 -10 c 1
- -4.5091385371 -13.3280569521 32.8643675543 28.5533945363 37.642578125 38.9765625 c 1
+ -36 10 -34 11 -32 11 c 0
+ -17 11 -13 2 -4 -10 c 0
+ -4.01297593581 -10.0389278074 -4.01938525013 -10.0702787439 -4.01938525013 -10.0942210407 c 0
+ -4.01938525013 -10.1336449114 -4.002007303 -10.1529813059 -3.96795371885 -10.1529813059 c 0
+ -2.42889970001 -10.1529813059 33.1717118721 29.3434237443 38 39 c 1
  40 107 l 1
  48 122 73 155 113 204 c 0
  153 253 190 296 223 331 c 1
@@ -104512,22 +104511,8 @@ SplineSet
  297 404 l 1
  328 433 370 469 422 512 c 0
  474 555 506 576 519 576 c 0
-138 2 m 1
- 159 63 222 71 222 71 c 1
- 212 -53 l 1
- 212 -53 157 -62 126 -125 c 1
- 138 2 l 1
-268 121 m 1
- 289 182 352 190 352 190 c 1
- 342 66 l 1
- 342 66 287 57 256 -6 c 1
- 268 121 l 1
-437 272 m 1
- 458 333 521 341 521 341 c 1
- 511 217 l 1
- 511 217 456 208 425 145 c 1
- 437 272 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF77 u1CF45
 Colour: 1fffa1
@@ -104694,6 +104679,7 @@ SplineSet
  295 25 240 16 209 -47 c 1
  221 80 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF78 u1CF45
 Colour: 1fffa1
@@ -104903,6 +104889,7 @@ SplineSet
  525 52 l 1
  561 410 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADA u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4FC u1CF3E
@@ -105046,6 +105033,7 @@ SplineSet
  442 532 501 576 519 576 c 0
  544 576 588 523 590 496 c 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADB u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF4FC u1CF40
@@ -105270,6 +105258,7 @@ SplineSet
  342 445 l 1
  442 532 501 576 519 576 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADC u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF504 u1CF3E
@@ -105433,6 +105422,7 @@ SplineSet
  311 67 256 58 225 -5 c 1
  237 122 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEADD u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF504 u1CF40
@@ -105748,6 +105738,7 @@ SplineSet
  205 116 207 151 211 183 c 0
  217 231 231 271 274 271 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF87 u1CF45
 Colour: 1fffa1
@@ -105883,6 +105874,7 @@ SplineSet
  328 162 l 1
  328 162 303 156 274 143 c 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF88 u1CF45
 Colour: 1fffa1
@@ -106007,6 +105999,7 @@ SplineSet
  205 299 125 280 94 217 c 1
  106 343 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF8B u1CF45
 Colour: 1fffa1
@@ -106129,6 +106122,7 @@ SplineSet
  337 200 338 198 338 194 c 2
  338 184 l 2
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF90 u1CF45
 Colour: 1fffa1
@@ -106250,6 +106244,7 @@ SplineSet
  333 147 253 128 222 65 c 1
  234 191 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB0A u1CF45
 Colour: 1fffa1
@@ -106364,6 +106359,7 @@ SplineSet
  205 299 125 280 94 217 c 1
  106 343 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEAFD u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF514 u1CF30
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF51E
@@ -106495,6 +106491,7 @@ SplineSet
  221 100 223 135 227 167 c 0
  233 215 247 255 290 255 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB00 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF516 u1CF30
@@ -106638,6 +106635,7 @@ SplineSet
  392 106 l 1
  392 106 367 100 338 87 c 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEB06 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF518 u1CF30
 LCarets2: 1 0
@@ -106772,6 +106770,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEB01 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF51A u1CF30
 LCarets2: 1 0
@@ -106910,6 +106909,7 @@ SplineSet
  232 99 l 1
  244 226 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF526 u1CF36
 Ligature2: "Post-composition Priznakification-1" uniEB05 u1CF45
 LCarets2: 1 0
@@ -107056,6 +107056,7 @@ SplineSet
  376 197 378 200 382 200 c 0
  384 200 385 194 385 183 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB08 u1CF45
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF51C u1CF30
@@ -107189,6 +107190,7 @@ SplineSet
  397 403 317 384 286 321 c 1
  298 447 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF91 u1CF45
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniF52E
 LCarets2: 1 0
@@ -107314,6 +107316,7 @@ SplineSet
  333 147 253 128 222 65 c 1
  234 191 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" uniEB0B u1CF45
 Colour: 1fffa1
@@ -107437,6 +107440,7 @@ SplineSet
  205 299 125 280 94 217 c 1
  106 343 l 1
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF514 u1CF31
 Ligature2: "Post-composition Priznakification-1" uniEB0D u1CF45
 LCarets2: 1 0
@@ -109038,6 +109042,7 @@ SplineSet
  141 -53 61 -72 30 -135 c 1
  42 -9 l 1
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF9A u1CF46
 Colour: 1fffa1
@@ -116519,6 +116524,7 @@ SplineSet
  445 246 447 249 451 249 c 0
  453 249 454 243 454 232 c 0
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF70 uniEB60
 Ligature2: "Post-composition Priznakification-1" uniEB92 u1CF30
 LCarets2: 1 0
@@ -116599,6 +116605,7 @@ SplineSet
  445 246 447 249 451 249 c 0
  453 249 454 243 454 232 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEB92 u1CF32
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CF70 uniEB64
@@ -116680,6 +116687,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0xdf
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA2 uniEB60
 Ligature2: "Post-composition Priznakification-1" uniEBE6 u1CF30
 LCarets2: 1 0
@@ -116767,6 +116775,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0xdf
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEBE6 u1CF31
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA2 uniEB62
 LCarets2: 1 0
@@ -116860,6 +116869,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0xdf
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEBE6 u1CF32
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA2 uniEB64
 LCarets2: 1 0
@@ -116942,6 +116952,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0
 EndSplineSet
+Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA5 uniEB60
 Ligature2: "Post-composition Priznakification-1" uniEBEC u1CF30
 LCarets2: 1 0
@@ -117030,6 +117041,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0
 EndSplineSet
+Validated: 3073
 Ligature2: "Post-composition Priznakification-1" uniEBEC u1CF31
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA5 uniEB62
 LCarets2: 1 0
@@ -117124,6 +117136,7 @@ SplineSet
  30 8 29 10 30 15 c 0
  36 102 37 199 101 199 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEBEC u1CF32
 Ligature2: "Precomposed forms for Znamenny Notation-1" u1CFA5 uniEB64
@@ -117749,6 +117762,7 @@ SplineSet
  300 102 307 196 307 197 c 0
  314 256 336 285 371 285 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Post-composition Priznakification-1" uniEA88 u1CF45
 Colour: 1fffa1
@@ -119334,6 +119348,7 @@ SplineSet
  4 -42 27 -16 35 0 c 5
  67 0 l 5
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -119341,18 +119356,19 @@ StartChar: uniF616
 Encoding: 62998 62998 2135
 Width: 193
 VWidth: 999
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-197 400 m 5
- 192 416 175.999023438 457.250976562 155 473 c 4
- 151 476 128 477 122 477 c 4
- 119 477 106 478 114 469 c 4
- 130.083007812 450.907226562 145 421 155 401 c 5
- 162.946289062 398.854492188 170.38671875 397.987304688 177.483398438 397.987304688 c 4
- 184.254882812 397.987304688 190.712890625 398.77734375 197 400 c 5
+197 400 m 1
+ 190.712890625 398.77734375 184.254882812 397.987304688 177.483398438 397.987304688 c 0
+ 170.38671875 397.987304688 162.946289062 398.854492188 155 401 c 1
+ 145 421 130.083007812 450.907226562 114 469 c 0
+ 106 478 119 477 122 477 c 0
+ 128 477 151 476 155 473 c 0
+ 175.999023438 457.250976562 192 416 197 400 c 1
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -119383,6 +119399,7 @@ SplineSet
  3 -138 26 -112 34 -96 c 5
  67 -96 l 5
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -119390,18 +119407,19 @@ StartChar: uniF618
 Encoding: 63000 63000 2137
 Width: 193
 VWidth: 999
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 197 300 m 1
- 192 316 175.999023438 357.250976562 155 373 c 0
- 151 376 128 377 122 377 c 0
- 119 377 106 378 114 369 c 0
- 130.083007812 350.907226562 145 321 155 301 c 1
- 162.946289062 298.854492188 170.38671875 297.987304688 177.483398438 297.987304688 c 0
- 184.254882812 297.987304688 190.712890625 298.77734375 197 300 c 1
+ 190.712890625 298.77734375 184.254882812 297.987304688 177.483398438 297.987304688 c 0
+ 170.38671875 297.987304688 162.946289062 298.854492188 155 301 c 1
+ 145 321 130.083007812 350.907226562 114 369 c 0
+ 106 378 119 377 122 377 c 0
+ 128 377 151 376 155 373 c 0
+ 175.999023438 357.250976562 192 316 197 300 c 1
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -119432,6 +119450,7 @@ SplineSet
  3 -18 26 8 34 24 c 5
  62 24 l 5
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -119455,6 +119474,7 @@ SplineSet
  26 387 l 1
  56 378 104.63166908 337.46041365 117 322 c 0
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -119485,6 +119505,7 @@ SplineSet
  6 -2 15 9 33 34 c 5
  56 28 l 5xa0
 EndSplineSet
+Validated: 3073
 Colour: 1fffa1
 EndChar
 
@@ -120559,6 +120580,7 @@ SplineSet
  100 327 l 2
  101 329 103 330 106 330 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CFA8 u1CF42
 Substitution2: "'ss02' Kalashnikov Mechik Variants-1" uniEF91
@@ -126305,6 +126327,7 @@ SplineSet
  246 628.445415913 213.411800492 592.728523304 175 575 c 0
  162 569 150 566 137 566 c 0
 EndSplineSet
+Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBC6 u1CF44
 LCarets2: 1 0
 Colour: ffff00
@@ -126355,6 +126378,7 @@ SplineSet
  65 214 28 169 16 145 c 1
  28 271 l 2
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification-1" u1CF81 u1CF41
 Colour: ffff00
@@ -126426,6 +126450,7 @@ SplineSet
  14 30 18 59 25 94 c 0
  36 150 57 178 88 178 c 0xc9
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEB91 u1CF44
 Colour: ffff00
@@ -126494,6 +126519,7 @@ SplineSet
  337 200 338 198 338 194 c 2
  338 184 l 2
 EndSplineSet
+Validated: 3073
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBCB u1CF44
 LCarets2: 1 0
 Colour: ffff00
@@ -126564,6 +126590,7 @@ SplineSet
  205 116 207 151 211 183 c 0
  217 231 231 271 274 271 c 0
 EndSplineSet
+Validated: 3073
 LCarets2: 1 0
 Ligature2: "Znamenny Priznakification Round 2-1" uniEBBD u1CF44
 Colour: ffff00
@@ -126573,6 +126600,8 @@ StartChar: uniEBD1
 Encoding: 60369 60369 2245
 Width: 1000
 LayerCount: 2
+Fore
+Validated: 1
 Colour: ffff00
 EndChar
 
@@ -126580,6 +126609,8 @@ StartChar: uniEBD2
 Encoding: 60370 60370 2246
 Width: 1000
 LayerCount: 2
+Fore
+Validated: 1
 Colour: ffff00
 EndChar
 
@@ -126587,6 +126618,8 @@ StartChar: uniEBF0
 Encoding: 60400 60400 2247
 Width: 1000
 LayerCount: 2
+Fore
+Validated: 1
 Colour: ffff00
 EndChar
 
@@ -126594,6 +126627,8 @@ StartChar: uniEBFE
 Encoding: 60414 60414 2248
 Width: 1000
 LayerCount: 2
+Fore
+Validated: 1
 Colour: ffff00
 EndChar
 
@@ -126601,7 +126636,387 @@ StartChar: uniEBFF
 Encoding: 60415 60415 2249
 Width: 1000
 LayerCount: 2
+Fore
+Validated: 1
 Colour: ffff00
+EndChar
+
+StartChar: dotlessi
+Encoding: 305 305 2250
+Width: 230
+Flags: W
+HStem: 0 18<29 64.8528 173.431 208> 350 16<29 64.2447>
+VStem: 87 63<27.6363 333.764>
+LayerCount: 2
+Fore
+SplineSet
+29 0 m 1
+ 29 18 l 1
+ 48 22 62 25 72 30 c 0
+ 82 35 87 39 87 43 c 2
+ 87 278 l 2
+ 87 292 87 304 86 313 c 0
+ 85 322 84 329 80 334 c 0
+ 76 339 71 342 63 344 c 0
+ 55 346 43 348 29 350 c 1
+ 29 366 l 1
+ 38 368 46 370 56 372 c 0
+ 66 374 75 377 85 380 c 0
+ 95 383 103 387 112 390 c 0
+ 121 393 129 396 136 399 c 1
+ 150 399 l 1
+ 150 43 l 2
+ 150 40 154 36 164 31 c 0
+ 174 26 188 22 208 18 c 1
+ 208 0 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: OE
+Encoding: 338 338 2251
+Width: 976
+Flags: W
+HStem: -11 36<315.583 505.045> 0 36<644.375 858.307> 315 42<626 797.004> 613 37<631.16 835.267> 625 36<316.113 510.726>
+VStem: 45 111<193.631 440.856> 533 93<62.9572 315 357 606.589> 823 31<238 289.905 380.859 430> 875 31<506.097 553.15>
+LayerCount: 2
+Fore
+SplineSet
+925 164 m 1x7780
+ 956 159 l 1
+ 945.333 101.667 933.667 48.667 921 0 c 1
+ 612 0 l 2x7780
+ 573.333 0 539 -1.33333 509 -4 c 0
+ 460.333 -8.66666 426.666 -11 408 -11 c 0
+ 290.667 -11 200.833 20.6667 138.5 84 c 0
+ 76.1667 147.333 45 225 45 317 c 0
+ 45 419.667 81.1667 502.5 153.5 565.5 c 0
+ 225.833 628.5 317.333 660.333 428 661 c 0xaf80
+ 438.667 661 449.5 660.667 460.5 660 c 0
+ 471.5 659.333 483.167 658.5 495.5 657.5 c 0
+ 507.833 656.5 517.667 655.667 525 655 c 0
+ 561.668 651.667 592.334 650 617 650 c 2
+ 897 650 l 1
+ 897 631.333 900 583.667 906 507 c 1
+ 875 503 l 1
+ 865.667 542.333 854.667 570.333 842 587 c 0
+ 835.333 597 824 603.833 808 607.5 c 0
+ 792 611.167 766.333 613 731 613 c 2
+ 659 613 l 2
+ 643.662 613 634.328 611.5 631 608.5 c 0
+ 627.667 605.5 626 596.667 626 582 c 2
+ 626 357 l 1
+ 720 357 l 2
+ 761.333 357 787.333 361 798 369 c 0
+ 808.667 377 817 397.333 823 430 c 1
+ 854 430 l 1
+ 854 238 l 1
+ 823 238 l 1
+ 816.333 273.333 807.833 295 797.5 303 c 0
+ 787.164 311 761.33 315 720 315 c 2
+ 626 315 l 1
+ 626 135 l 2
+ 626 87.6666 634 59 650 49 c 0
+ 662.668 40.3333 696.335 36 751 36 c 0
+ 787 36 813.833 38.1667 831.5 42.5 c 0
+ 849.167 46.8333 863.667 55.3333 875 68 c 0
+ 892.333 88 909 120 925 164 c 1x7780
+533 108 m 2
+ 533 548 l 2
+ 533 578.667 526.333 598 513 606 c 0
+ 489.667 618.667 458 625 418 625 c 0
+ 336.667 625 272.667 598.5 226 545.5 c 0
+ 179.333 492.5 156 420.333 156 329 c 0
+ 156 288.333 161 250.333 171 215 c 0
+ 181 179.667 196.167 147.5 216.5 118.5 c 0
+ 236.833 89.5 264.333 66.6667 299 50 c 0
+ 333.667 33.3333 373.667 25 419 25 c 0xaf80
+ 453.667 25 480 29.6667 498 39 c 0
+ 511.333 45 520.5 52.8333 525.5 62.5 c 0
+ 530.5 72.1667 533 87.3333 533 108 c 2
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: oe
+Encoding: 339 339 2252
+Width: 770
+Flags: W
+HStem: -12 71<532.686 652.736> -12 35<211.027 316.873> 246 40<462 651.756> 415 35<195.26 302.602 520.362 612.638>
+VStem: 35 103<112.986 315.792> 372 84.978<138.147 246> 653 92<289.082 373.703>
+LayerCount: 2
+Fore
+SplineSet
+255 450 m 0x7e
+ 290.334 450 322.667 441.333 352 424 c 0
+ 381.334 406.667 404.667 383 422 353 c 1
+ 440.667 381 465.333 404.167 496 422.5 c 0
+ 526.667 440.833 557.667 450 589 450 c 0
+ 632.333 450 669.167 434.667 699.5 404 c 0
+ 729.833 373.333 745 337.666 745 297 c 0
+ 745 285 743.5 276.833 740.5 272.5 c 0
+ 737.5 268.167 731.667 265 723 263 c 0
+ 690.333 256.333 601.667 250.667 457 246 c 1
+ 456.985 244.652 456.978 243.311 456.978 241.978 c 0
+ 456.978 182.63 471.485 137.471 500.5 106.5 c 0
+ 530.167 74.8333 567 59 611 59 c 0
+ 647.667 59 684.667 75.3333 722 108 c 1
+ 738 86 l 1
+ 712.665 50.6667 684.832 25.5 654.5 10.5 c 0
+ 624.167 -4.5 597.667 -12 575 -12 c 0xbe
+ 503 -12 449 16.3333 413 73 c 1
+ 393 45 368.5 23.8333 339.5 9.5 c 0
+ 310.5 -4.8333 281.333 -12 252 -12 c 0
+ 186.667 -12 134.167 10.5 94.5 55.5 c 0
+ 54.8333 100.5 35 152 35 210 c 0
+ 35 248.667 42.1667 284 56.5 316 c 0
+ 70.8334 348 89.1667 373.333 111.5 392 c 0
+ 133.833 410.667 157.5 425 182.5 435 c 0
+ 207.5 445 231.667 450 255 450 c 0x7e
+564 412 m 0
+ 540.667 412 519 400.833 499 378.5 c 0
+ 479 356.167 466.667 325.333 462 286 c 1
+ 474.667 286 492.333 286.167 515 286.5 c 0
+ 537.667 286.838 558.5 287.171 577.5 287.5 c 0
+ 596.5 287.833 614.667 288.333 632 289 c 0
+ 646 289 653 296.667 653 312 c 0
+ 653 340 644.833 363.667 628.5 383 c 0
+ 612.167 402.333 590.667 412 564 412 c 0
+244 415 m 0
+ 214.667 415 189.667 399.5 169 368.5 c 0
+ 148.333 337.5 138 295.333 138 242 c 0
+ 138 177.333 149.667 124.667 173 84 c 0
+ 196.333 43.3333 227.667 23 267 23 c 0x7e
+ 297 23 322 37.8333 342 67.5 c 0
+ 362 97.1667 372 143.667 372 207 c 0
+ 372 269.667 360.833 320 338.5 358 c 0
+ 316.167 396 284.667 415 244 415 c 0
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 2253
+Width: 300
+Flags: W
+HStem: 435 177
+VStem: 18 264
+LayerCount: 2
+Fore
+SplineSet
+282 454 m 1
+ 276.696637174 443.393274347 274.310623647 439.124249459 264 435 c 1
+ 150 547 l 1
+ 37 435 l 1
+ 33.500847282 436.749576359 29.7825773086 439.217422691 27 442 c 0
+ 23.4868063901 445.51319361 21.5320935998 450.4679064 18 454 c 1
+ 128 612 l 1
+ 173 612 l 1
+ 282 454 l 1
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: ring
+Encoding: 730 730 2254
+Width: 300
+Flags: W
+HStem: 460 38<112.924 185.677> 619 39<114.759 188.564>
+VStem: 56 46<505.012 607.84> 200 44<509.144 610.693>
+LayerCount: 2
+Fore
+SplineSet
+146 498 m 0
+ 178.317165837 498 200 524.518900012 200 558 c 0
+ 200 587.360144382 185.167525691 619 156 619 c 0
+ 122.508824719 619 102 593.315405724 102 559 c 0
+ 102 528.38154664 115.482682336 498 146 498 c 0
+135 460 m 0
+ 89.2047177555 460 56 492.313127807 56 538 c 0
+ 56 592.615508962 89.1015691632 631.508416537 127 649 c 0
+ 140 655 153 658 166 658 c 0
+ 211.445596577 658 244 623.898099997 244 578 c 0
+ 244 522.445415913 211.411800492 486.728523304 173 469 c 0
+ 160 463 148 460 135 460 c 0
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 2255
+Width: 350
+Flags: W
+HStem: 576 52<192.238 266.315> 624 52<83.977 160.006>
+VStem: 33 284
+LayerCount: 2
+Fore
+SplineSet
+234 628 m 0xa0
+ 262.720320882 628 280.06269215 657.70030744 294 680 c 1
+ 317 670 l 1
+ 301.447564979 635.784642954 279.02535417 602.615212502 248 584 c 0
+ 238 578 228 576 217 576 c 0xa0
+ 196.194470102 576 176.161573802 590.128819648 163 600 c 0
+ 150.885125392 609.086155956 133.103417706 624 115 624 c 0
+ 104 624 93 619 84 610 c 0
+ 75 601 65 588 55 573 c 1
+ 33 581 l 1
+ 48.7637278147 615.680201192 69.4956456019 648.097387361 101 667 c 0
+ 111 673 121 676 132 676 c 0x60
+ 153.927096308 676 175.569847311 662.072614517 189 652 c 0
+ 197 646 206 641 213 636 c 0
+ 220 631 228 628 234 628 c 0xa0
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: fraction
+Encoding: 8260 8260 2256
+Width: 399
+Flags: W
+HStem: 646 20G<358 378>
+LayerCount: 2
+Fore
+SplineSet
+88 -118 m 1
+ 86 -120 82 -122 77 -124 c 0
+ 72 -126 68 -128 63 -130 c 0
+ 58 -132 53 -133 48 -135 c 0
+ 43 -137 39 -138 36 -139 c 1
+ 20 -129 l 1
+ 312 646 l 1
+ 319 651 328 655 337 658 c 0
+ 346 661 354 664 362 666 c 1
+ 378 657 l 1
+ 88 -118 l 1
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 2257
+Width: 399
+Flags: W
+HStem: 646 20G<358 378>
+LayerCount: 2
+Fore
+SplineSet
+88 -118 m 1
+ 86 -120 82 -122 77 -124 c 0
+ 72 -126 68 -128 63 -130 c 0
+ 58 -132 53 -133 48 -135 c 0
+ 43 -137 39 -138 36 -139 c 1
+ 20 -129 l 1
+ 312 646 l 1
+ 319 651 328 655 337 658 c 0
+ 346 661 354 664 362 666 c 1
+ 378 657 l 1
+ 88 -118 l 1
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: uni2074
+Encoding: 8308 8308 2258
+Width: 367
+Flags: W
+HStem: 393 23<138 190.133 278.318 322> 492 39<94 202 268 326>
+VStem: 202 66<427.771 492 531 675>
+DStem2: 41 516 94 531 0.60378 0.797151<43.9576 222.144>
+LayerCount: 2
+Fore
+SplineSet
+326 492 m 1
+ 268 492 l 1
+ 268 465 l 2
+ 268 445.666992188 271.333007812 433.166992188 278 427.5 c 0
+ 284.668945312 421.833007812 299.3359375 418 322 416 c 1
+ 322 393 l 1
+ 138 393 l 1
+ 138 416 l 1
+ 165.333007812 418 182.833007812 421.833007812 190.5 427.5 c 0
+ 198.166992188 433.166992188 202 445.666992188 202 465 c 2
+ 202 492 l 1
+ 41 492 l 1
+ 41 516 l 1
+ 113.666992188 612.666992188 175.333007812 691.333007812 226 752 c 1
+ 268 752 l 1
+ 268 530 l 1
+ 326 531 l 1
+ 326 492 l 1
+202 531 m 1
+ 202 675 l 1
+ 199 675 l 1
+ 167.666015625 635 132.666015625 587 94 531 c 1
+ 202 531 l 1
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 2259
+Width: 741
+Flags: W
+HStem: -14 44<357.212 559.098> 253 46<54 102 224 568> 369 46<54 102 224 618> 636 40<361.665 556.297>
+VStem: 102.5 115.5<299 369>
+LayerCount: 2
+Fore
+SplineSet
+224 253 m 1xf2
+ 245 129 321 30 463 30 c 0
+ 545 30 620 64 689 131 c 1
+ 707 113 l 1
+ 680 74 641 43 590 20 c 0
+ 539 -3 487 -14 436 -14 c 0
+ 253 -14 139 95 111 253 c 1
+ 34 253 l 1
+ 54 299 l 1
+ 102 299 l 1xf4
+ 102 300 102 302 102 303 c 0
+ 102 310 103 319 103 331 c 0xf8
+ 103 340 102 353 102 369 c 1
+ 34 369 l 1
+ 54 415 l 1
+ 111 415 l 1
+ 144 562 267 676 442 676 c 0
+ 548 676 652 622 700 559 c 1
+ 688 532 l 1
+ 616 601 537 636 451 636 c 0
+ 392 636 340 610 304 580 c 0
+ 266 546 235 482 224 415 c 1xf2
+ 638 415 l 1
+ 618 369 l 1
+ 219 369 l 1xf4
+ 218 360 218 347 218 329 c 0xf8
+ 218 316 218 306 219 299 c 1xf4
+ 588 299 l 1
+ 568 253 l 1
+ 224 253 l 1xf2
+EndSplineSet
+Validated: 3073
+EndChar
+
+StartChar: minus
+Encoding: 8722 8722 2260
+Width: 286
+Flags: W
+HStem: 190 47<36 251>
+VStem: 26 236
+LayerCount: 2
+Fore
+SplineSet
+262 227 m 1
+ 260 221 258 214 256 207 c 0
+ 254 200 251 195 249 190 c 1
+ 36 190 l 1
+ 26 199 l 1
+ 28 205 29 212 31 218 c 0
+ 33 224 36 231 38 237 c 1
+ 251 237 l 1
+ 262 227 l 1
+EndSplineSet
+Validated: 3073
 EndChar
 EndChars
 EndSplineFont

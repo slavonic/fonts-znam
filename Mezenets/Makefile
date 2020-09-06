@@ -8,6 +8,7 @@ MezenetsUnicode.zip:
 	rm MezenetsUnicode.otf
 	mv colordata.otf MezenetsUnicode.otf
 	addsvg -s SVGs/ MezenetsUnicode.otf
+	gftools-fix-unwanted-tables.py MezenetsUnicode.otf 
 	cp README.md README
 	zip -j $@ MezenetsUnicode.otf README
 	rm -f README
