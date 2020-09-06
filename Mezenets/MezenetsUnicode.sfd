@@ -5,7 +5,7 @@ FamilyName: Mezenets Unicode
 Weight: Regular
 Copyright: Copyright 2013-2020 Aleksandr Andreev and Nikita Simmons (https://github.com/slavonic/fonts-znam)
 UComments: "2014-4-19: Created.+AAoA-See README for more information."
-Version: 1.000
+Version: 1.100
 ItalicAngle: 0
 UnderlinePosition: -80
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397905996
-ModificationTime: 1599402727
+ModificationTime: 1599403668
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1050,7 +1050,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 9
+WinInfo: 54 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
