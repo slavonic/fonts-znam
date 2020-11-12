@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397905996
-ModificationTime: 1599403668
+ModificationTime: 1605205026
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1044,13 +1044,12 @@ EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 54 27 9
+WinInfo: 61371 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -117172,10 +117171,9 @@ EndChar
 
 StartChar: uniEFFF
 Encoding: 61439 61439 1973
-Width: 1000
+Width: 0
+Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 Colour: ffff00
 EndChar
 
