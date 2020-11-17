@@ -9,17 +9,19 @@ OpenType шрифты для знаменной нотации
 This repository provides fonts for typesetting Znamenny and other related
 Slavic neumatic music notations systems (Demestvenny, Put, Kondakarian).
 
-All fonts provide necessary OpenType features and come
-both with PostScript (.otf) outlines. Note that support for SIL Graphite
+All fonts provide necessary OpenType features and supply
+PostScript (.otf) outlines for glyphs. Note that support for SIL Graphite
 features has been discontinued.
 
 ## Encoding
 
-Znamenny and related notation systems are not yet available in Unicode.
+Znamenny and related notation systems have been accepted for encoding
+in version 14 of Unicode.
 The proposed codepoints are specified in the
 [proposal](https://www.ponomar.net/files/palaeoslavic.pdf). These codepoints
-have not yet been approved by the 
-[UTC](http://www.unicode.org/consortium/utc.html) and may be subject to change.
+have been approved by the 
+[UTC](http://www.unicode.org/consortium/utc.html), but may still change
+before the release of Unicode 14.0.
 
 ## Building
 
@@ -37,12 +39,14 @@ Building the fonts requires:
 * [FontForge](https://github.com/fontforge/fontforge)
 * [FontTools 3.1.0 or later](https://github.com/fonttools/fonttools)
 * [opentype-svg](https://github.com/adobe-type-tools/opentype-svg)
+* [gftools](https://github.com/googlefonts/gftools)
 
-The latter two packages can be installed via `pip`:
+The latter three packages can be installed via `pip`:
 
 ```
 pip3 install fonttools
 pip3 install opentypesvg
+pip3 install gftools
 ```
 
 ## License
@@ -50,8 +54,13 @@ pip3 install opentypesvg
 Fonts are licensed under the SIL Open Font License v. 1.1
 without reserved font names.
 
+
+## Documentation
+
+Font documentation is available on [the website](https://www.ponomar.net/files/fonts-znam.pdf).
+
 ## Disclaimer
 
-This package is alpha-phase software and is intended for
-software testing purposes only.
+This package is beta-stage software and is intended primarily for
+software testing purposes.
 
