@@ -30,6 +30,13 @@ To build fonts:
 ```
 make fonts
 ```
+
+To build the web version:
+
+```
+make web
+```
+
 ## Requirements
 
 The fonts include color data in both COLR / CPAL format and OpenType-SVG format.
@@ -48,6 +55,12 @@ pip3 install fonttools
 pip3 install opentypesvg
 pip3 install gftools
 ```
+
+Building the web version additionally requires:
+
+* [ttf2eot](https://github.com/wget/ttf2eot)
+* [sfnt2woff](https://github.com/wget/sfnt2woff/)
+* [woff2_compress](https://github.com/google/woff2)
 
 ## License
 
