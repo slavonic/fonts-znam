@@ -1044,12 +1044,13 @@ EndShort
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 10 16 9 65535 15 1
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60210 27 9
+WinInfo: 1161 27 9
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -52096,8 +52097,8 @@ Ligature2: "Znamenny Priznakification-1" u1CF57 u1CF46
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF450
-Encoding: 62544 62544 980
+StartChar: uniF44D
+Encoding: 62541 62541 980
 Width: 650
 VWidth: 999
 Flags: W
@@ -52161,7 +52162,6 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Znamenny Priznakification-1" u1CF59 u1CF46
-LCarets2: 1 0
 Colour: 1fffa1
 EndChar
 
@@ -96712,8 +96712,8 @@ Ligature2: "Precomposed forms for Znamenny Round 2-1" uniF447 u1CF40
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF451
-Encoding: 62545 62545 1713
+StartChar: uniF450
+Encoding: 62544 62544 1713
 Width: 750
 VWidth: 0
 Flags: W
@@ -96795,12 +96795,11 @@ SplineSet
 EndSplineSet
 Validated: 3073
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44C u1CF40
-LCarets2: 1 0
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF44F
-Encoding: 62543 62543 1714
+StartChar: uniF451
+Encoding: 62545 62545 1714
 Width: 750
 VWidth: 0
 Flags: W
@@ -96875,13 +96874,12 @@ SplineSet
  716 260 691 254 662 241 c 1
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniF450 u1CF40
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44D u1CF40
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF44D
-Encoding: 62541 62541 1715
+StartChar: uniF44E
+Encoding: 62542 62542 1715
 Width: 790
 VWidth: 999
 Flags: W
@@ -96964,13 +96962,12 @@ SplineSet
  637 409 l 1xc0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
 Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44C u1CF3F
 Colour: 1fffa1
 EndChar
 
-StartChar: uniF44E
-Encoding: 62542 62542 1716
+StartChar: uniF44F
+Encoding: 62543 62543 1716
 Width: 790
 VWidth: 999
 Flags: W
@@ -97046,8 +97043,7 @@ SplineSet
  637 409 l 1xe0
 EndSplineSet
 Validated: 3073
-LCarets2: 1 0
-Ligature2: "Precomposed forms for Znamenny Notation-1" uniF450 u1CF3F
+Ligature2: "Precomposed forms for Znamenny Notation-1" uniF44D u1CF3F
 Colour: 1fffa1
 EndChar
 
