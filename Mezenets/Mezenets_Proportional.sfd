@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397905996
-ModificationTime: 1726673807
+ModificationTime: 1727365226
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2230,11 +2230,13 @@ EndChar
 
 StartChar: zerojoin
 Encoding: 8205 8205 49
-Width: 0
-VWidth: 599
+Width: 817
+VWidth: 2048
 GlyphClass: 2
 Flags: HW
 LayerCount: 2
+Fore
+Refer: 659 60486 S 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -74196,19 +74198,19 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 1421
-Width: 250
+Width: 226
 VWidth: 874
 Flags: HW
-HStem: 402.8 55.2<22.8 204.6 22.8 204.6>
-VStem: 19.8 187.8<424.7 434>
+HStem: 402.8 55.2<22.5998 204.4 22.5998 204.4>
+VStem: 19.5998 187.8<424.7 434>
 LayerCount: 2
 Fore
 SplineSet
-49.2001953125 428 m 5
- 231 428 l 5
- 209.700195312 417.200195312 201.356445312 397.293945312 201 396.799804688 c 6
- 19.2001953125 396.799804688 l 5
- 19.2001953125 396.799804688 27.900390625 417.799804688 49.2001953125 428 c 5
+49 428 m 1
+ 207.399414062 428 l 1
+ 186.099609375 417.200195312 177.755859375 397.293945312 177.399414062 396.799804688 c 2
+ 19 396.799804688 l 1
+ 19 396.799804688 27.7001953125 417.799804688 49 428 c 1
 EndSplineSet
 AlternateSubs2: "Stylistic Alternatives for Znamenny (salt)-1" uniEA1D
 EndChar
