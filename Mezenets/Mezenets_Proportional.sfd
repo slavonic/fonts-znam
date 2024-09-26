@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: Mezenets-NWC-Unicode
-FullName: Mezenets NWC Unicode
-FamilyName: Mezenets NWC Unicode
+FontName: MezenetsProportional
+FullName: Mezenets Proportional
+FamilyName: Mezenets Proportional
 Weight: Regular
 Copyright: Copyright 2013-2020 Aleksandr Andreev and Nikita Simmons (https://github.com/slavonic/fonts-znam)
 UComments: "2014-4-19: Created.+AAoA-See README for more information."
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397905996
-ModificationTime: 1727365226
+ModificationTime: 1727368479
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1053,7 +1053,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 7
+WinInfo: 54 27 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
