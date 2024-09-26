@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397905996
-ModificationTime: 1727272073
+ModificationTime: 1727364457
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1053,7 +1053,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 648 27 7
+WinInfo: 60453 27 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 OtherBlues 11 [-218 -218]
@@ -2216,10 +2216,13 @@ EndChar
 
 StartChar: zerojoin
 Encoding: 8205 8205 49
-Width: 0
+Width: 817
+VWidth: 2048
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+Fore
+Refer: 659 60486 S 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -74004,7 +74007,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 1420
-Width: 417
+Width: 378
 GlyphClass: 2
 Flags: HMW
 HStem: 213 92<38 341 38 341>
@@ -74012,11 +74015,11 @@ VStem: 33 313<249.5 265>
 LayerCount: 2
 Fore
 SplineSet
-82 255 m 5
- 385 255 l 5
- 349.5 237 335.59375 203.823242188 335 203 c 6
- 32 203 l 5
- 32 203 46.5 238 82 255 c 5
+82 255 m 1
+ 346 255 l 5
+ 310.5 237 296.59375 203.823242188 296 203 c 6
+ 32 203 l 1
+ 32 203 46.5 238 82 255 c 1
 EndSplineSet
 EndChar
 
