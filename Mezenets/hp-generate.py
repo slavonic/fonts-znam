@@ -7,6 +7,7 @@ import fontforge
 
 base_name = "MezenetsUnicode"
 full_name  = "Mezenets Unicode"
+base_name2 = "Mezenets_Proportional"
 
 fontforge.setPrefs ("AutoHint", False)
 fontforge.setPrefs ("ClearInstrsBigChanges",False )
@@ -38,3 +39,10 @@ font.generate( base_name + ".otf", flags=( "opentype", "PfEd-colors", "PfEd-look
 
 font.close()
 
+font = fontforge.open(base_name2 + ".sfd")
+
+## Evidently, this can break Evince, so it may need to be commented out. Not sure about that, though
+font.head_optimized_for_cleartype = True
+
+font.generate( base_name2 + ".otf", flags=( "opentype", "PfEd-colors", "PfEd-lookups", "dummy-dsig"), layer="Fore" )
+font.close()

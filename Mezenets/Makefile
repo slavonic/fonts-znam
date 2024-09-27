@@ -7,10 +7,15 @@ MezenetsUnicode.zip:
 	ttx -m MezenetsUnicode.otf colordata.ttx
 	rm MezenetsUnicode.otf
 	mv colordata.otf MezenetsUnicode.otf
+	ttx -m Mezenets_Proportional.otf colordata.ttx
+	rm Mezenets_Proportional.otf
+	mv colordata.otf Mezenets_Proportional.otf
 	addsvg -s SVGs/ MezenetsUnicode.otf
+	addsvg -s SVGs/ Mezenets_Proportional.otf
 	gftools-fix-unwanted-tables.py MezenetsUnicode.otf 
+	gftools-fix-unwanted-tables.py Mezenets_Proportional.otf
 	cp README.md README
-	zip -j $@ MezenetsUnicode.otf README
+	zip -j $@ MezenetsUnicode.otf Mezenets_Proportional.otf README
 	rm -f README
 
 web: MezenetsUnicode-web.zip
