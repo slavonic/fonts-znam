@@ -1,79 +1,76 @@
 # fonts-znam
 
-OpenType fonts for Znamenny Notation
+This a meta package for Unicode-encoded OpenType fonts for Znamenny Notation.
+Individual fonts now reside in their own repositories and any bugs should be filed as issues against those repositories.
 
-OpenType шрифты для знаменной нотации
+## The fonts available
 
-## Description
+* [Mezenets](https://github.com/slavonic/Mezenets) - a font for modern Znamenny Notation with or without priznaki
+* [Shaidur](https://github.com/slavonic/Shaidur) - a font for early-seventeenth-century Znamenny Notation without priznaki (Type B Notation)
+* [Voskresensky](https://github.com/slavonic/Voskresensky) - a font for early (archaic) Znamenny Notation and Ustav-era Cyrillic
 
-This repository provides fonts for typesetting Znamenny and other related
-Slavic neumatic music notations systems (Demestvenny, Put, Kondakarian).
+The source code of the fonts is found in the repositories above. The fonts can be installed from those repositories or from the [project website](https://sci.ponomar.net/music.html).
 
-All fonts provide necessary OpenType features and supply
-PostScript (.otf) outlines for glyphs. Note that support for SIL Graphite
-features has been discontinued.
+## This package
 
-## Encoding
+This package provides:
 
-Znamenny and related notation systems have been accepted for encoding
-in version 14 of Unicode.
-The proposed codepoints are specified in the
-[proposal](https://www.ponomar.net/files/palaeoslavic.pdf). These codepoints
-have been approved by the 
-[UTC](http://www.unicode.org/consortium/utc.html), but may still change
-before the release of Unicode 14.0.
+* An archive of all of the fonts, including web fonts.
+* The documentation
 
-## Building
+## Legacy fonts
 
-To build fonts:
+Mezenets was previously distributed with the word *Unicode* in its name as *Mezenets Unicode*. With the nearly universal adoption of Unicode this feature seems no longer necessary, so the term Unicode has been removed. You may still need Mezenets Unicode for processing of older documents and it is also supplied in this package. As well, the Smolensky font has been discontinued since it has been merged with the Voskresensky font. These fonts are no longer maintained and are provided here only for use with legacy documents:
+
+* [Mezenets Unicode](Mezenets/MezenetsUnicode.otf)
+* [Smolensky](Smolensky/Smolensky-Regular.otf)
+
+## Installation
+
+### Font Binaries
+
+All fonts can be downloaded and installed from the
+[Slavonic Computing Initiative website](https://sci.ponomar.net/music.html).
+
+### Building this respository
+
+Building requires:
+
+* [ttf2eot](https://github.com/fontello/ttf2eot) - to build web fonts
+* LuaLaTeX with [churchslavonic](https://www.ctan.org/pkg/churchslavonic) package - to build PDF documentation
+
+To build the Mezenets Unicode and Smolensky fonts:
 
 ```
-make fonts
+make unicode
 ```
 
-To build the web version:
+To build documentation:
+
+```
+make doc
+```
+To build the package for the [website](https://sci.ponomar.net/):
+
+```
+make site
+```
+
+To build the fonts for embedding into webpages, also distributed on the site:
 
 ```
 make web
 ```
 
-## Requirements
-
-The fonts include color data in both COLR / CPAL format and OpenType-SVG format.
-Building the fonts requires:
-
-* Python 3.6 or later
-* [FontForge](https://github.com/fontforge/fontforge)
-* [FontTools 3.1.0 or later](https://github.com/fonttools/fonttools)
-* [opentype-svg](https://github.com/adobe-type-tools/opentype-svg)
-* [gftools](https://github.com/googlefonts/gftools)
-
-The latter three packages can be installed via `pip`:
+Clean up after building:
 
 ```
-pip3 install fonttools
-pip3 install opentypesvg
-pip3 install gftools
+make clean
 ```
-
-Building the web version additionally requires:
-
-* [ttf2eot](https://github.com/wget/ttf2eot)
-* [sfnt2woff](https://github.com/wget/sfnt2woff/)
-* [woff2_compress](https://github.com/google/woff2)
 
 ## License
 
-Fonts are licensed under the SIL Open Font License v. 1.1
-without reserved font names.
-
-
-## Documentation
-
-Font documentation is available on [the website](https://www.ponomar.net/files/fonts-znam.pdf).
-
-## Disclaimer
-
-This package is beta-stage software and is intended primarily for
-software testing purposes.
-
+Copyright 2013-2025 Aleksandr Andreev, Nikita Simmons, and others
+([Slavonic Computing Initiative](https://sci.ponomar.net/)).
+The fonts are licensed under the SIL Open Font License, Version 1.1.
+This license is available [with a FAQ](https://scripts.sil.org/OFL).
