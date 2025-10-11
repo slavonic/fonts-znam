@@ -10,29 +10,29 @@ MezenetsUnicode.otf:
 	addsvg SVGs/ MezenetsUnicode.otf
 	gftools-fix-unwanted-tables.py MezenetsUnicode.otf 
 
-web: MezenetsUnicode-web.zip
-
-MezenetsUnicode-web.zip:
-	rm -f *.otf *.ttf *.woff *.zip *.eot *.woff2
-	fontforge -script web-generate.py
-	ttx -m MezenetsUnicode.otf colordata.ttx
-	rm MezenetsUnicode.otf
-	mv colordata.otf MezenetsUnicode.otf
-	addsvg -s SVGs/ MezenetsUnicode.otf
-	gftools-fix-unwanted-tables.py MezenetsUnicode.otf 
-	rm -f colordata2.ttx
-	sed 's/"OTTO"/"\\x00\\x01\\x00\\x00"/' < colordata.ttx > colordata2.ttx
-	ttx -m MezenetsUnicode.ttf colordata2.ttx
-	rm MezenetsUnicode.ttf
-	mv colordata2.ttf MezenetsUnicode.ttf
-	rm colordata2.ttx
-	gftools-fix-unwanted-tables.py MezenetsUnicode.ttf
-	ttf2eot < MezenetsUnicode.ttf > MezenetsUnicode.eot
-	sfnt2woff -m MezenetsUnicode-WOFF-metadata.xml MezenetsUnicode.otf
-	woff2_compress MezenetsUnicode.otf
-	cp README.md README
-	zip -j $@ MezenetsUnicode.otf MezenetsUnicode.eot MezenetsUnicode.woff MezenetsUnicode.woff2 README ../css/fonts.css
-	rm -f README
+# web: MezenetsUnicode-web.zip
+#
+# MezenetsUnicode-web.zip:
+#	rm -f *.otf *.ttf *.woff *.zip *.eot *.woff2
+#	fontforge -script web-generate.py
+#	ttx -m MezenetsUnicode.otf colordata.ttx
+#	rm MezenetsUnicode.otf
+#	mv colordata.otf MezenetsUnicode.otf
+#	addsvg -s SVGs/ MezenetsUnicode.otf
+#	gftools-fix-unwanted-tables.py MezenetsUnicode.otf 
+#	rm -f colordata2.ttx
+#	sed 's/"OTTO"/"\\x00\\x01\\x00\\x00"/' < colordata.ttx > colordata2.ttx
+#	ttx -m MezenetsUnicode.ttf colordata2.ttx
+#	rm MezenetsUnicode.ttf
+#	mv colordata2.ttf MezenetsUnicode.ttf
+#	rm colordata2.ttx
+#	gftools-fix-unwanted-tables.py MezenetsUnicode.ttf
+#	ttf2eot < MezenetsUnicode.ttf > MezenetsUnicode.eot
+#	sfnt2woff -m MezenetsUnicode-WOFF-metadata.xml MezenetsUnicode.otf
+#	woff2_compress MezenetsUnicode.otf
+#	cp README.md README
+#	zip -j $@ MezenetsUnicode.otf MezenetsUnicode.eot MezenetsUnicode.woff MezenetsUnicode.woff2 README ../css/fonts.css
+#	rm -f README
 
 baseline:
 	rm -fr tests/baseline

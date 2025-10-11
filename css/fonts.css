@@ -2,13 +2,21 @@
 /* Slavonic Computing Initiative (http://sci.ponomar.net/) */
 
 @font-face {
-    font-family: 'Mezenets Unicode';
-    src: url('../fonts/MezenetsUnicode.eot');
-    src: url('../fonts/MezenetsUnicode.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/MezenetsUnicode.woff2') format('woff2'),
-	url('../fonts/MezenetsUnicode.woff') format('woff'),
-	url('../fonts/MezenetsUnicode.ttf') format('truetype');
+    font-family: 'Mezenets';
+    src: url('../fonts/Mezenets-Regular.eot');
+    src: url('../fonts/Mezenets-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Mezenets-Regular.woff2') format('woff2'),
+	url('../fonts/Mezenets-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
+@font-face {
+  font-family: 'Voskresensky';
+  src: url('../fonts/Voskresensky-Regular.eot');
+  src: url('../fonts/Voskresensky-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Voskresensky-Regular.woff2') format('woff2'),
+url('../fonts/Voskresensky-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
