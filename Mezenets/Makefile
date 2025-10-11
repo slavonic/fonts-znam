@@ -1,6 +1,6 @@
-all: MezenetsUnicode.zip
+all: MezenetsUnicode.otf
 
-MezenetsUnicode.zip:
+MezenetsUnicode.otf:
 	# THIS GENERATES THE INSTALLABLE VERSIONS OF THE FONT
 	rm -f *.otf *.ttf *.zip
 	fontforge -script hp-generate.py
@@ -9,9 +9,6 @@ MezenetsUnicode.zip:
 	mv colordata.otf MezenetsUnicode.otf
 	addsvg SVGs/ MezenetsUnicode.otf
 	gftools-fix-unwanted-tables.py MezenetsUnicode.otf 
-	cp README.md README
-	zip -j $@ MezenetsUnicode.otf README
-	rm -f README
 
 web: MezenetsUnicode-web.zip
 

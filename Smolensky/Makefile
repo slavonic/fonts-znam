@@ -1,12 +1,9 @@
-all: Smolensky.zip
+all: Smolensky-Regular.otf
 
-Smolensky.zip:
+Smolensky-Regular.otf:
 	# THIS GENERATES THE INSTALLABLE VERSIONS OF THE FONT
 	rm -f *.otf *.ttf *.zip
 	fontforge -script hp-generate.py
-	cp README.md README
-	zip -j $@ Smolensky-Regular.otf README
-	rm -f README
 
 web: Smolensky-web.zip
 

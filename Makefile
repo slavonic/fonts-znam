@@ -1,8 +1,8 @@
-all: fonts
+all: unicode
 
 FONTS = Smolensky Mezenets
 
-fonts:
+unicode:
 	$(foreach font, $(FONTS), cd $(font)/ && $(MAKE); cd ..;)
 
 web:
